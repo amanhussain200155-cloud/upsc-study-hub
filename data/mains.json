@@ -1,0 +1,150 @@
+{
+  "section": "mains",
+  "description": "GS Papers I-IV Practice with Model Answers",
+  "questions": [
+    {
+      "id": "m1",
+      "subject": "GS-I: History",
+      "question": "Discuss the contribution of Mahatma Gandhi in transforming the Indian National Movement into a mass movement. How did his methods differ from the earlier moderate and extremist approaches?",
+      "keyPoints": [
+        "Gandhi introduced mass participation through Satyagraha and non-violence",
+        "Non-Cooperation Movement (1920) - first mass movement involving all sections",
+        "Difference from Moderates: Direct action vs petitions and prayers",
+        "Difference from Extremists: Non-violence vs aggressive nationalism",
+        "Used symbols like spinning wheel, salt to connect with common people",
+        "Constructive programme - Khadi, village upliftment, untouchability removal"
+      ],
+      "model_answer": "Gandhi transformed the freedom struggle from an elite movement to a mass phenomenon. His predecessor Moderates (Gokhale, Naoroji) relied on constitutional methods - petitions and appeals. The Extremists (Tilak, Aurobindo) believed in passive resistance but couldn't sustain mass mobilization.\n\nGandhi's genius lay in connecting political freedom with everyday grievances. The Champaran (1917) and Kheda (1918) Satyagrahas demonstrated his methods locally. His tools - non-violence, civil disobedience, and constructive work - were accessible to all.\n\nThe Non-Cooperation Movement (1920-22) saw students leave colleges, lawyers leave courts, people boycott British goods. The Civil Disobedience Movement (1930) through Dandi March made tax resistance a national cause. Quit India (1942) demonstrated India's readiness for independence.\n\nGandhi's constructive programme of Khadi, village self-sufficiency, and communal harmony gave the movement a positive dimension beyond opposition to British rule."
+    },
+    {
+      "id": "m2",
+      "subject": "GS-I: Society",
+      "question": "Examine the challenges of urbanization in India. How can smart city initiatives address urban governance and sustainable development?",
+      "keyPoints": [
+        "India's urban population ~35% and growing",
+        "Challenges: housing, slums, water/sanitation, transport, pollution",
+        "Smart City Mission - 100 cities selected",
+        "Technology-driven solutions: IoT, data analytics",
+        "Digital divide and implementation challenges",
+        "Need for inclusive urbanization"
+      ],
+      "model_answer": "India's urbanization presents opportunities and challenges. With 35% urban population, cities contribute 60%+ of GDP but face severe infrastructure deficits.\n\nChallenges: housing shortage (10 million units), slum proliferation (65 million people), inadequate water/sanitation, congested transport, air pollution, and strained governance.\n\nThe Smart Cities Mission (2015) addresses these through intelligent transport, smart grids, waste management, e-governance, and sustainable development. However, the digital divide excludes marginalized communities, multiple agencies create coordination gaps, and financial sustainability post-central funding is uncertain.\n\nThe way forward: balanced urbanization through satellite towns, strengthening urban local bodies (74th Amendment), building climate-resilient infrastructure, and ensuring participatory governance."
+    },
+    {
+      "id": "m3",
+      "subject": "GS-II: Governance",
+      "question": "Discuss the significance of RTI Act, 2005 in promoting transparency and accountability. What are the challenges in its implementation?",
+      "keyPoints": [
+        "RTI enacted 2005 - replaced Freedom of Information Act 2002",
+        "Covers all public authorities",
+        "30-day response time, penalties for non-compliance",
+        "Exposed corruption: 2G scam, Adarsh Society",
+        "Challenges: backlog, threats to activists",
+        "RTI Amendment 2019 concerns about CIC independence"
+      ],
+      "model_answer": "The RTI Act, 2005 is a landmark legislation that fundamentally altered citizen-state relationship. It operationalizes Article 19(1)(a) - the right to know.\n\nSignificance: Empowered citizens to hold government accountable, exposed corruption, improved service delivery through proactive disclosure (Section 4), and created institutional mechanisms (CIC, SICs).\n\nChallenges: mounting pendency (3+ lakh cases), threats to activists (80+ killed), frivolous applications, Section 8 exemptions being liberally invoked, and RTI Amendment Act 2019 giving Centre control over CIC/SIC tenure.\n\nReforms needed: strengthening protection for activists, time-bound Commissioner appointments, leveraging technology for proactive disclosure, and balancing transparency with privacy."
+    },
+    {
+      "id": "m4",
+      "subject": "GS-II: International Relations",
+      "question": "Analyze India's Act East Policy and its strategic significance in the Indo-Pacific context.",
+      "keyPoints": [
+        "Look East (1991) → Act East (2014) upgrade",
+        "Economic to strategic-security dimension",
+        "QUAD, Indo-Pacific, ASEAN centrality",
+        "Northeast India as gateway",
+        "Countering China's BRI",
+        "Defense cooperation with ASEAN nations"
+      ],
+      "model_answer": "India's Act East Policy (2014) upgrades the Look East Policy (1991) in scope and strategic depth. While Look East was primarily economic (ASEAN trade), Act East encompasses security cooperation, strategic partnerships, and connectivity.\n\nKey differences: Look East was ASEAN-centric; Act East extends to Japan, Australia, South Korea. Look East focused on trade; Act East includes defense cooperation, maritime security, and infrastructure development.\n\nStrategic significance: China's South China Sea assertiveness, BRI expansion, and QUAD framework make Act East central to India's geopolitical positioning. India's engagement includes Malabar exercises, BrahMos missile supply, and infrastructure projects in ASEAN.\n\nConnectivity initiatives (India-Myanmar-Thailand Highway, Kaladan Transit) and Northeast development strengthen implementation. Challenges: slow execution, Chinese economic dominance in ASEAN."
+    },
+    {
+      "id": "m5",
+      "subject": "GS-III: Economy",
+      "question": "Critically analyze the impact of GST on the Indian economy. Has it achieved 'One Nation, One Market'?",
+      "keyPoints": [
+        "GST introduced July 2017, subsumed 17 taxes",
+        "Reduced logistics cost, wider tax base, formalization",
+        "Multiple rate structure contradicts 'one rate' ideal",
+        "MSMEs face compliance burden",
+        "Petroleum/alcohol exclusion = incomplete integration",
+        "GST Council as model of cooperative federalism"
+      ],
+      "model_answer": "GST, implemented July 1, 2017 (101st Amendment), is India's most significant indirect tax reform, subsuming 17 taxes to create a seamless market.\n\nAchievements: Eliminated inter-state check posts (20% logistics time reduction), expanded tax base (65 lakh to 1.4 crore taxpayers), improved formalization through e-invoicing, record collections (Rs 1.87 lakh crore, April 2023). ITC mechanism reduced cascading.\n\nShortcomings: Multiple rates (0%, 5%, 12%, 18%, 28% plus cess) contradict 'one rate' ideal. MSMEs face compliance burden. Compensation cess disputes strained federalism. Petroleum, electricity, alcohol exclusion means incomplete integration.\n\nPartially achieved 'One Nation, One Market'. Further rationalization - 3 rates, including petroleum, simplifying compliance - is needed. The GST Council remains a positive model of fiscal federalism."
+    },
+    {
+      "id": "m6",
+      "subject": "GS-III: Security",
+      "question": "Examine cyber security challenges to India's national security. What measures has India taken?",
+      "keyPoints": [
+        "800+ million internet users - expanded attack surface",
+        "State-sponsored attacks, ransomware, data breaches",
+        "Critical infrastructure vulnerability",
+        "CERT-In, NCIIPC, Defence Cyber Agency",
+        "National Cyber Security Policy 2013",
+        "3 lakh skilled professional deficit"
+      ],
+      "model_answer": "India faces escalating cyber threats with 800+ million internet users and growing digital infrastructure dependency.\n\nChallenges: state-sponsored attacks (targeting defense, power systems), ransomware on healthcare/banking, data breaches affecting privacy, supply chain vulnerabilities in imported hardware.\n\nMeasures: CERT-In for incident response, NCIIPC for critical infrastructure, Defence Cyber Agency for military cyberspace, I4C for cybercrime coordination. Policy framework includes National Cyber Security Policy 2013, IT Act 2000 (amended 2008), and sector-specific regulations.\n\nGaps: shortage of 3 lakh cyber professionals, dependence on foreign hardware, need for dedicated cyber command. International cooperation through QUAD cyber initiatives and bilateral agreements is being strengthened."
+    },
+    {
+      "id": "m7",
+      "subject": "GS-IV: Ethics",
+      "question": "What is 'ethical governance'? How can ethical values strengthen democratic institutions?",
+      "keyPoints": [
+        "Application of moral principles in public administration",
+        "Core values: integrity, transparency, accountability",
+        "Trust-building and institutional legitimacy",
+        "Gandhian trusteeship and Kautilya's Rajadharma",
+        "Second ARC recommendations",
+        "Lokpal, RTI, Citizens' Charter as mechanisms"
+      ],
+      "model_answer": "Ethical governance refers to applying moral principles - integrity, transparency, accountability, fairness - in public administration. It goes beyond legality to embrace serving public interest.\n\nEthical values strengthen institutions by: building citizen trust, ensuring legitimacy, reducing governance costs, and creating virtuous cycles. Indian ethical governance draws from Gandhi's trusteeship, Kautilya's Rajadharma, and constitutional values.\n\nMechanisms: Code of Conduct, Lokpal/Lokayuktas, RTI, Citizens' Charters. Second ARC's 4th Report recommended ethical frameworks.\n\nChallenges: systemic corruption, political interference, erosion of ethical culture. Strengthening requires both institutional reforms (whistleblower protection, effective Lokpal) and cultural change (ethical leadership, values-based education)."
+    },
+    {
+      "id": "m8",
+      "subject": "GS-IV: Ethics Case Study",
+      "question": "A young IAS officer discovers a major project will displace 500 tribal families without adequate rehabilitation. The project has strong political backing. What are the ethical dilemmas and how should the officer act?",
+      "keyPoints": [
+        "Duty conflict: implement vs protect vulnerable",
+        "Constitutional provisions: Article 46, Fifth Schedule",
+        "Options: comply, resist, negotiate, escalate",
+        "Values: empathy, integrity, courage, justice",
+        "Forest Rights Act, PESA, RFCTLARR Act 2013",
+        "Rawlsian justice - least advantaged shouldn't be further marginalized"
+      ],
+      "model_answer": "Ethical dilemmas: 1) Administrative loyalty vs constitutional protection of tribals (Articles 46, 244) 2) Development benefits vs displacement of vulnerable communities 3) Career risks vs moral obligation.\n\nAnalysis: Rawlsian justice demands the least advantaged not be further marginalized. Constitutional morality requires upholding tribal rights regardless of political pressure.\n\nRecommended action:\n- Document concerns through proper channels (file noting)\n- Engage tribal communities, document their concerns\n- Propose comprehensive rehabilitation per RFCTLARR Act 2013\n- Seek mandatory Social Impact Assessment\n- Use legal provisions (PESA, FRA) to establish due process\n- Maintain detailed documentation\n\nRather than confrontation, negotiate for development WITH proper rehabilitation - demonstrating integrity while being administratively pragmatic."
+    },
+    {
+      "subject": "GS-II: E-governance initiatives",
+      "question": "Critically examine the role of Digital Public Infrastructure (DPI) in transforming governance architecture in India. Discuss how the 'India Stack' approach has influenced service delivery, financial inclusion, and citizen-state relations, while highlighting the challenges of digital divide, data privacy, and institutional capacity.",
+      "keyPoints": [
+        "Evolution of DPI from Aadhaar to UPI, DigiLocker, ONDC, and Ayushman Bharat Digital Mission",
+        "Impact on financial inclusion through JAM trinity and UPI's role in formalizing economy",
+        "Transformation of citizen-state relations via direct benefit transfer, faceless assessment, and grievance redressal",
+        "Digital divide across rural-urban, gender, age, and socioeconomic dimensions",
+        "Data privacy concerns post-DPDP Act 2023, consent architecture, and surveillance risks",
+        "Institutional capacity gaps in state governments, legacy systems, and interoperability challenges",
+        "Global recognition (G20 DPI repository) and export potential vs. domestic inclusion imperatives"
+      ],
+      "model_answer": "Digital Public Infrastructure (DPI) represents a paradigm shift from siloed e-governance projects to interoperable, open-access platforms that form the 'rails' of digital governance. India Stack—Aadhaar, UPI, DigiLocker, e-KYC, and now ONDC, ABDM, and OCEN—has created a modular architecture enabling presence-less, paperless, and cashless service delivery.\n\nThe JAM trinity (Jan Dhan-Aadhaar-Mobile) plugged leakages worth ₹2.7 lakh crore in DBT, while UPI's 10 billion monthly transactions formalized the informal economy. Faceless tax assessment and CPGRAMS redefined citizen-state engagement from discretionary to rule-based. Globally, India's DPI model was institutionalized in the G20 Digital Public Infrastructure Repository.\n\nHowever, critical gaps persist. The digital divide remains stark: only 38% rural households have internet access (NFHS-5), women are 30% less likely to own smartphones, and elderly exclusion in digital-only services violates constitutional equity. The DPDP Act 2023, while a milestone, grants wide exemptions to state instrumentalities, raising surveillance concerns. Institutional capacity is uneven—many states lack Chief Data Officers, legacy systems impede interoperability, and grievance redressal remains weak.\n\nThe way forward requires a rights-based DPI framework: mandatory offline alternatives, disaggregated digital literacy missions, independent data protection oversight, and federal capacity-building grants. DPI must deepen democratic accountability, not merely optimize administrative efficiency.",
+      "id": "mains-1785934617181-0",
+      "generatedAt": "2026-08-05T12:56:57.181Z"
+    },
+    {
+      "subject": "GS-II: E-governance initiatives",
+      "question": "Evaluate the effectiveness of the National e-Governance Plan (NeGP) 2.0 and the subsequent 'Digital India' programme in achieving the objectives of 'minimum government, maximum governance.' Analyze the structural, financial, and behavioural barriers that impede last-mile delivery of e-services, particularly for marginalized communities.",
+      "keyPoints": [
+        "NeGP 1.0 (2006) to NeGP 2.0 (2015) to Digital India: evolution from MMPs to integrated platforms",
+        "Progress in core pillars: broadband highways (BharatNet), universal phone access, public internet access (CSCs), e-Kranti",
+        "Success metrics: 5.5 lakh CSCs, 1.3 lakh Gram Panchayats on BharatNet, UMANG app integrating 1,700+ services",
+        "Structural barriers: federal asymmetry in IT cadre, vendor lock-in, lack of enterprise architecture standards",
+        "Financial barriers: sustainability of CSCs, state fiscal constraints, PPP model failures in BharatNet Phase II",
+        "Behavioural barriers: digital literacy gaps, trust deficit in digital payments, language exclusion (English-dominant interfaces)",
+        "Marginalized community exclusions: SC/ST/transgender access to caste certificates, pension, scholarship portals"
+      ],
+      "model_answer": "NeGP 2.0 and Digital India shifted the e-governance paradigm from project-mode (27 MMPs under NeGP 1.0) to platform-mode—integrated, interoperable, and citizen-centric. The nine pillars of Digital India, particularly BharatNet, Common Service Centres (CSCs), and e-Kranti, created unprecedented digital reach: 5.5 lakh CSCs serve as last-mile access points, UMANG integrates 1,700+ services, and BharatNet connects 1.3 lakh Gram Panchayats.\n\nYet, 'minimum government, maximum governance' remains aspirational. Structural barriers include the absence of a unified Indian Enterprise Architecture, leading to vendor lock-in and non-interoperable state portals. IT cadres remain fragmented across ministries and states, with no all-India service for digital governance. Financially, BharatNet Phase II's PPP model stalled due to viability gaps, while CSC sustainability depends on transaction fees that exclude the poorest. States' fiscal constraints limit co-funding for central schemes.\n\nBehaviourally, digital literacy remains low—only 24% rural adults can use internet (NSSO 78th round). Interfaces remain predominantly English/Hindi, excluding linguistic minorities. Trust deficits persist in digital payments among elderly and women. For marginalized communities, caste certificate portals, pension disbursement, and scholarship platforms (NSP) suffer from Aadhaar-seeding errors, biometric failures, and lack of assisted access.\n\nRemediation requires: (1) Indian Enterprise Architecture Framework with mandatory open APIs; (2) All-India Digital Governance Service; (3) Viability gap funding for BharatNet; (4) Multilingual, voice-first interfaces; (5) Offline-first design with human-assisted fallback; (6) Social audits of e-service delivery for SC/ST/transgender beneficiaries. Governance reform must precede digitization.",
+      "id": "mains-1785934617181-1",
+      "generatedAt": "2026-08-05T12:56:57.181Z"
+    }
+  ]
+}

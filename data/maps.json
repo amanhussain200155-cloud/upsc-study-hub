@@ -1,0 +1,122 @@
+{
+  "description": "Map-based and Location questions - UPSC Style",
+  "questions": [
+    {
+      "id": "map1",
+      "subject": "Geography (Maps)",
+      "question": "Consider the following places frequently in news:\n1. Pangong Tso\n2. Doklam\n3. Galwan Valley\n4. Chumar\nWhich of the above are located on/near the Line of Actual Control (LAC)?",
+      "options": [
+        "1, 3 and 4 only",
+        "1, 2, 3 and 4",
+        "1 and 3 only",
+        "2 and 4 only"
+      ],
+      "answer": 0,
+      "explanation": "Pangong Tso (Ladakh), Galwan Valley (Ladakh), and Chumar (Ladakh) are on/near the LAC. Doklam is at the India-China-Bhutan tri-junction, near the India-Bhutan-China border but NOT on the LAC (it's related to the Bhutan-China border dispute where India intervened in 2017)."
+    },
+    {
+      "id": "map2",
+      "subject": "Geography (Maps)",
+      "question": "Arrange the following from north to south:\n1. Bhopal\n2. Hyderabad\n3. Bangalore\n4. Tropic of Cancer",
+      "options": [
+        "4-1-2-3",
+        "1-4-2-3",
+        "1-2-4-3",
+        "4-1-3-2"
+      ],
+      "answer": 0,
+      "explanation": "North to South: Tropic of Cancer (23.5\u00b0N) \u2192 Bhopal (23.26\u00b0N, just south of Tropic) \u2192 Hyderabad (17.4\u00b0N) \u2192 Bangalore (12.97\u00b0N). Note: Bhopal is almost exactly on the Tropic of Cancer."
+    },
+    {
+      "id": "map3",
+      "subject": "Geography (Maps)",
+      "question": "Which of the following states share a border with Bangladesh?\n1. West Bengal\n2. Assam\n3. Tripura\n4. Mizoram\n5. Nagaland",
+      "options": [
+        "1, 2, 3 and 4 only",
+        "1, 3 and 4 only",
+        "1, 2, 3, 4 and 5",
+        "1, 2 and 3 only"
+      ],
+      "answer": 0,
+      "explanation": "West Bengal, Assam, Meghalaya, Tripura, and Mizoram share border with Bangladesh (5 states). Nagaland does NOT share a border with Bangladesh. Note the question includes Meghalaya's absence as a trap - but among the given options, 1,2,3,4 are correct."
+    },
+    {
+      "id": "map5",
+      "subject": "Geography (Maps)",
+      "question": "Consider the following water bodies:\n1. Gulf of Khambhat - Gujarat\n2. Gulf of Mannar - Tamil Nadu\n3. Gulf of Kutch - Rajasthan\n4. Chilika Lake - Odisha\nWhich pairs are correctly matched?",
+      "options": [
+        "1, 2 and 4 only",
+        "1, 2, 3 and 4",
+        "1 and 4 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2 and 4 are correct. Gulf of Kutch is in Gujarat (not Rajasthan). Both Gulf of Khambhat and Gulf of Kutch are in Gujarat. Rajasthan is a landlocked state with no gulfs."
+    },
+    {
+      "id": "map7",
+      "subject": "Geography (Maps)",
+      "question": "Consider the following National Parks and their locations:\n1. Kaziranga - Assam\n2. Bandipur - Karnataka\n3. Jim Corbett - Uttarakhand\n4. Periyar - Tamil Nadu\nWhich is/are correctly matched?",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "1 and 3 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 are correct. Periyar National Park is in KERALA (not Tamil Nadu). It is located in the Cardamom Hills of the Western Ghats in Idukki and Pathanamthitta districts of Kerala."
+    },
+    {
+      "id": "map8",
+      "subject": "Geography (Maps)",
+      "question": "The 'Nine Degree Channel' separates:",
+      "options": [
+        "Lakshadweep from Maldives",
+        "Minicoy from the main Lakshadweep group",
+        "Andaman from Nicobar",
+        "India from Sri Lanka"
+      ],
+      "answer": 1,
+      "explanation": "Nine Degree Channel (at 9\u00b0N latitude) separates Minicoy Island from the main Lakshadweep archipelago. Eight Degree Channel separates Minicoy from Maldives. Ten Degree Channel separates Andaman from Nicobar."
+    },
+    {
+      "id": "map9",
+      "subject": "Geography (Maps)",
+      "question": "Which of the following volcanoes/volcanic islands is/are in Indian territory?\n1. Barren Island\n2. Narcondam Island\n3. Deccan Traps\nSelect the correct answer:",
+      "options": [
+        "1 and 2 only",
+        "1 only",
+        "1, 2 and 3",
+        "3 only"
+      ],
+      "answer": 2,
+      "explanation": "All three are related to volcanic activity in Indian territory. Barren Island (Andaman) is India's only active volcano. Narcondam is a dormant volcano. Deccan Traps are remnants of massive volcanic eruptions (66 million years ago) that formed the basalt plateau."
+    },
+    {
+      "id": "map11",
+      "subject": "Geography (Maps)",
+      "question": "Consider the following rivers and the cities situated on them:\n1. Hooghly - Kolkata\n2. Musi - Hyderabad\n3. Sabarmati - Ahmedabad\n4. Gomti - Varanasi\nWhich are correctly matched?",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "1 and 3 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 are correct. Varanasi is on the river Ganga (not Gomti). Lucknow is on Gomti. This is a common UPSC trick - testing if candidates confuse UP cities and their rivers."
+    },
+    {
+      "id": "map12",
+      "subject": "Geography (Maps)",
+      "question": "The Siachen Glacier is located in the:",
+      "options": [
+        "Karakoram Range",
+        "Pir Panjal Range",
+        "Zanskar Range",
+        "Greater Himalayan Range"
+      ],
+      "answer": 0,
+      "explanation": "Siachen Glacier (76 km long, world's longest non-polar glacier) is in the eastern Karakoram Range. It is strategically important as it's near the India-Pakistan-China tri-junction. India has controlled it since Operation Meghdoot (1984)."
+    }
+  ]
+}
