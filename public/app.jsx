@@ -604,6 +604,7 @@ function EssayMode() {
     const [selectedCategory, setSelectedCategory] = useState(null);
     const [currentTopic, setCurrentTopic] = useState(null);
     const [showFramework, setShowFramework] = useState(false);
+    const [bookmarkedEssays, setBookmarkedEssays] = useState(new Set());
 
     if (loading) return <p className="empty-msg">Loading...</p>;
     if (!data?.categories) return <p className="empty-msg">No essay data.</p>;
@@ -638,7 +639,7 @@ function EssayMode() {
                     <div style={{background:'#0f172a',padding:'20px',borderRadius:'8px',marginTop:'12px'}}>
                         <p style={{color:'#f1f5f9',fontSize:'1.2rem',lineHeight:'1.6',fontStyle:'italic'}}>"{currentTopic}"</p>
                         <p style={{color:'#64748b',fontSize:'0.8rem',marginTop:'8px'}}>Category: {categoryLabels[selectedCategory]||'Mixed'}</p>
-                        <span style={{color:'#f97316',fontSize:'0.85rem',cursor:'pointer',marginTop:'8px',display:'inline-block'}} onClick={() => {bookmarkAPI({id:'essay-'+currentTopic.substring(0,30),type:'essay',subject:'Essay - '+(categoryLabels[selectedCategory]||'Mixed'),title:currentTopic,content:''});}}>🔖 Bookmark this topic</span>
+                        <span style={{color:bookmarkedEssays.has(currentTopic)?'#22c55e':'#f97316',fontSize:'0.85rem',cursor:'pointer',marginTop:'8px',display:'inline-block'}} onClick={() => {bookmarkAPI({id:'essay-'+currentTopic.substring(0,30),type:'essay',subject:'Essay - '+(categoryLabels[selectedCategory]||'Mixed'),title:currentTopic,content:''});setBookmarkedEssays(prev=>new Set([...prev,currentTopic]));}}>{bookmarkedEssays.has(currentTopic)?'✅ Bookmarked':'🔖 Bookmark this topic'}</span>
                     </div>
                 )}
             </div>
@@ -675,7 +676,7 @@ function EssayMode() {
                             <li key={i} style={{color:'#cbd5e1',fontSize:'0.9rem',marginBottom:'12px',lineHeight:'1.5'}}>
                                 <div style={{display:'flex',justifyContent:'space-between',alignItems:'flex-start',gap:'8px'}}>
                                     <span>{topic}</span>
-                                    <span style={{color:'#f97316',cursor:'pointer',fontSize:'0.8rem',flexShrink:0}} onClick={() => {bookmarkAPI({id:'essay-'+topic.substring(0,30),type:'essay',subject:'Essay - '+(categoryLabels[cat]||cat),title:topic,content:data.modelEssays?.[topic]?.substring(0,500)||data.outlines?.[topic]?.substring(0,300)||''});}} title="Bookmark this topic">🔖</span>
+                                    <span style={{color:bookmarkedEssays.has(topic)?'#22c55e':'#f97316',cursor:'pointer',fontSize:'0.8rem',flexShrink:0}} onClick={() => {bookmarkAPI({id:'essay-'+topic.substring(0,30),type:'essay',subject:'Essay - '+(categoryLabels[cat]||cat),title:topic,content:data.modelEssays?.[topic]?.substring(0,500)||data.outlines?.[topic]?.substring(0,300)||''});setBookmarkedEssays(prev=>new Set([...prev,topic]));}} title="Bookmark this topic">{bookmarkedEssays.has(topic)?'✅':'🔖'}</span>
                                 </div>
                                 {data.modelEssays && data.modelEssays[topic] && (
                                     <details style={{marginTop:'6px'}}>
