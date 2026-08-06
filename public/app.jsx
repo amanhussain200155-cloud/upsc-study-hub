@@ -187,7 +187,7 @@ function MainsMode({ questions }) {
     if (!questions?.length) return <p className="empty-msg">No questions available.</p>;
     const q = questions[idx];
     const handleBookmark = () => {
-        bookmarkAPI({id:q.id||('mains-'+idx),type:'mains',subject:q.subject,title:q.question,content:q.model_answer?.substring(0,300),question:q.question});
+        bookmarkAPI({id:q.id||('mains-'+idx),type:'mains',subject:q.subject,title:q.question,content:q.model_answer||'',question:q.question,keyPoints:q.keyPoints});
         setBookmarked(prev => new Set([...prev, idx]));
     };
     return (
@@ -231,7 +231,7 @@ function InterviewMode({ questions }) {
     if (!questions?.length) return <p className="empty-msg">No questions available.</p>;
     const q = questions[idx];
     const handleBookmark = () => {
-        bookmarkAPI({id:q.id||('interview-'+idx),type:'interview',subject:q.category,title:q.question,content:q.model_answer?.substring(0,300),question:q.question});
+        bookmarkAPI({id:q.id||('interview-'+idx),type:'interview',subject:q.category,title:q.question,content:q.model_answer||'',question:q.question,tips:q.tips,followUps:q.followUps});
         setBookmarked(prev => new Set([...prev, idx]));
     };
     return (
@@ -429,14 +429,32 @@ function BookmarkCard({ bookmark: b, onRemove }) {
                     {/* Mains */}
                     {b.type === 'mains' && (
                         <div>
-                            {b.content && <div style={{background:'#0f172a',padding:'14px',borderRadius:'8px',borderLeft:'3px solid #22c55e'}}><strong style={{color:'#22c55e',fontSize:'0.85rem'}}>Model Answer (excerpt):</strong><p style={{color:'#cbd5e1',fontSize:'0.9rem',lineHeight:'1.7',marginTop:'8px',whiteSpace:'pre-wrap'}}>{b.content}</p></div>}
+                            {b.keyPoints && b.keyPoints.length > 0 && (
+                                <div style={{marginBottom:'12px'}}>
+                                    <strong style={{color:'#eab308',fontSize:'0.85rem'}}>Key Points:</strong>
+                                    <ul style={{paddingLeft:'20px',marginTop:'6px'}}>{b.keyPoints.map((p,i) => <li key={i} style={{color:'#cbd5e1',fontSize:'0.85rem',marginBottom:'4px'}}>{p}</li>)}</ul>
+                                </div>
+                            )}
+                            {b.content && <div style={{background:'#0f172a',padding:'14px',borderRadius:'8px',borderLeft:'3px solid #22c55e'}}><strong style={{color:'#22c55e',fontSize:'0.85rem'}}>Model Answer:</strong><p style={{color:'#cbd5e1',fontSize:'0.9rem',lineHeight:'1.7',marginTop:'8px',whiteSpace:'pre-wrap'}}>{b.content}</p></div>}
                         </div>
                     )}
                     
                     {/* Interview */}
                     {b.type === 'interview' && (
                         <div>
-                            {b.content && <div style={{background:'#0f172a',padding:'14px',borderRadius:'8px',borderLeft:'3px solid #60a5fa'}}><strong style={{color:'#60a5fa',fontSize:'0.85rem'}}>Model Answer (excerpt):</strong><p style={{color:'#cbd5e1',fontSize:'0.9rem',lineHeight:'1.7',marginTop:'8px',whiteSpace:'pre-wrap'}}>{b.content}</p></div>}
+                            {b.tips && b.tips.length > 0 && (
+                                <div style={{marginBottom:'12px'}}>
+                                    <strong style={{color:'#eab308',fontSize:'0.85rem'}}>Tips:</strong>
+                                    <ul style={{paddingLeft:'20px',marginTop:'6px'}}>{b.tips.map((t,i) => <li key={i} style={{color:'#cbd5e1',fontSize:'0.85rem',marginBottom:'4px'}}>{t}</li>)}</ul>
+                                </div>
+                            )}
+                            {b.content && <div style={{background:'#0f172a',padding:'14px',borderRadius:'8px',borderLeft:'3px solid #60a5fa'}}><strong style={{color:'#60a5fa',fontSize:'0.85rem'}}>Model Answer:</strong><p style={{color:'#cbd5e1',fontSize:'0.9rem',lineHeight:'1.7',marginTop:'8px',whiteSpace:'pre-wrap'}}>{b.content}</p></div>}
+                            {b.followUps && b.followUps.length > 0 && (
+                                <div style={{marginTop:'12px'}}>
+                                    <strong style={{color:'#f97316',fontSize:'0.85rem'}}>Follow-up Questions:</strong>
+                                    <ul style={{paddingLeft:'20px',marginTop:'6px'}}>{b.followUps.map((f,i) => <li key={i} style={{color:'#f97316',fontSize:'0.85rem',marginBottom:'4px'}}>{f}</li>)}</ul>
+                                </div>
+                            )}
                         </div>
                     )}
                     
@@ -761,7 +779,7 @@ function EssayMode() {
                             <li key={i} style={{color:'#cbd5e1',fontSize:'0.9rem',marginBottom:'12px',lineHeight:'1.5'}}>
                                 <div style={{display:'flex',justifyContent:'space-between',alignItems:'flex-start',gap:'8px'}}>
                                     <span>{topic}</span>
-                                    <span style={{color:bookmarkedEssays.has(topic)?'#22c55e':'#f97316',cursor:'pointer',fontSize:'0.8rem',flexShrink:0}} onClick={() => {bookmarkAPI({id:'essay-'+topic.substring(0,30),type:'essay',subject:'Essay - '+(categoryLabels[cat]||cat),title:topic,content:data.modelEssays?.[topic]?.substring(0,500)||data.outlines?.[topic]?.substring(0,300)||''});setBookmarkedEssays(prev=>new Set([...prev,topic]));}} title="Bookmark this topic">{bookmarkedEssays.has(topic)?'✅':'🔖'}</span>
+                                    <span style={{color:bookmarkedEssays.has(topic)?'#22c55e':'#f97316',cursor:'pointer',fontSize:'0.8rem',flexShrink:0}} onClick={() => {bookmarkAPI({id:'essay-'+topic.substring(0,30),type:'essay',subject:'Essay - '+(categoryLabels[cat]||cat),title:topic,content:data.modelEssays?.[topic]||data.outlines?.[topic]||''});setBookmarkedEssays(prev=>new Set([...prev,topic]));}} title="Bookmark this topic">{bookmarkedEssays.has(topic)?'✅':'🔖'}</span>
                                 </div>
                                 {data.modelEssays && data.modelEssays[topic] && (
                                     <details style={{marginTop:'6px'}}>
