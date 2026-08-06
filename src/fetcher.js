@@ -22,7 +22,7 @@ const FEEDS = [
     // Tier 2 - Economy & Business
     { url: 'https://www.livemint.com/rss/economy', source: 'LiveMint (Economy)', tier: 2 },
     // Tier 3 - General
-    { url: 'https://feeds.feedburner.com/ndtvnews-top-stories', source: 'NDTV', tier: 3 },
+    // NDTV removed - brings irrelevant crime/accident news not useful for UPSC
 ];
 
 // Note: Yojana and Kurukshetra don't have standard RSS feeds
@@ -147,8 +147,8 @@ function categorizeArticle(title, content) {
         if (score > 0) scores[subject] = score;
     }
     // Prevent state/domestic news from being classified as International Relations
-    const stateKeywords = ['tamil nadu', 'kerala', 'karnataka', 'andhra pradesh', 'telangana', 'maharashtra', 'rajasthan', 'bihar', 'uttar pradesh', 'madhya pradesh', 'gujarat', 'punjab', 'haryana', 'jharkhand', 'chhattisgarh', 'odisha', 'assam', 'west bengal', 'state budget', 'assembly', 'cm ', 'chief minister', 'panchayat', 'municipality', 'district'];
-    const isStateDomestic = stateKeywords.some(kw => text.includes(kw)) && !text.includes('bilateral') && !text.includes('treaty') && !text.includes('summit') && !text.includes('foreign');
+    const stateKeywords = ['tamil nadu', 'kerala', 'karnataka', 'andhra pradesh', 'telangana', 'maharashtra', 'rajasthan', 'bihar', 'uttar pradesh', 'madhya pradesh', 'gujarat', 'punjab', 'haryana', 'jharkhand', 'chhattisgarh', 'odisha', 'assam', 'west bengal', 'nagaland', 'manipur', 'mizoram', 'meghalaya', 'tripura', 'sikkim', 'arunachal', 'goa', 'himachal', 'uttarakhand', 'state budget', 'assembly', 'cm ', 'chief minister', 'panchayat', 'municipality', 'district', 'killed', 'murder', 'accident', 'crash', 'fire', 'flood', 'rain', 'bridge washed', 'landslide', 'blast', 'man killed', 'woman killed', 'body found', 'arrested'];
+    const isStateDomestic = stateKeywords.some(kw => text.includes(kw)) && !text.includes('bilateral') && !text.includes('treaty') && !text.includes('summit') && !text.includes('foreign policy') && !text.includes('diplomatic');
     if (isStateDomestic && scores['International Relations']) {
         delete scores['International Relations'];
     }
