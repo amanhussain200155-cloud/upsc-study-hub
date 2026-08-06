@@ -107,17 +107,32 @@ app.get('/api/stats/detailed', (req, res) => {
             const d = JSON.parse(fs.readFileSync(essayPath, 'utf8'));
             stats.essays = Object.values(d.categories || {}).flat().length;
             stats.modelEssays = Object.keys(d.modelEssays || {}).length;
-            // Count essays generated today by checking if any were added since midnight
-            // Model essays don't have timestamps, so estimate from total vs yesterday
+            // Track today's essays using a separate counter file
+            const essayCounterPath = path.join(__dirname, 'data', '.essay-counter.json');
+            let counter = {};
+            if (fs.existsSync(essayCounterPath)) counter = JSON.parse(fs.readFileSync(essayCounterPath, 'utf8'));
+            const prevCount = counter.lastCount || 0;
+            const prevDate = counter.date || '';
+            if (prevDate === today) {
+                modelEssaysToday = Math.max(0, stats.modelEssays - (counter.baseCount || 0));
+            } else {
+                // New day — save baseline
+                counter = { date: today, baseCount: stats.modelEssays, lastCount: stats.modelEssays };
+                fs.writeFileSync(essayCounterPath, JSON.stringify(counter));
+            }
         }
         stats.modelEssaysToday = modelEssaysToday;
 
         // Current affairs
         const caPath = path.join(__dirname, 'data', 'auto-current-affairs.json');
+        let caToday = 0;
         if (fs.existsSync(caPath)) {
             const d = JSON.parse(fs.readFileSync(caPath, 'utf8'));
             stats.currentAffairs = { articles: d.totalArticles || 0, lastUpdated: d.lastUpdated };
+            // Count today's articles
+            caToday = (d.articles || []).filter(a => a.date && a.date.startsWith(today)).length;
         }
+        stats.caToday = caToday;
 
         res.json(stats);
     } catch(e) {

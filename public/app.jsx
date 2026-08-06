@@ -483,7 +483,7 @@ function StatsBadge() {
                         <div>Interview: {data.interview} {data.interviewToday > 0 && <span style={{color:'#22c55e'}}>+{data.interviewToday}</span>}</div>
                         <div>Flashcards: {data.flashcards} {data.flashcardsToday > 0 && <span style={{color:'#22c55e'}}>+{data.flashcardsToday}</span>}</div>
                         <div>Essay Topics: {data.essays} | Model Essays: {data.modelEssays} {data.modelEssaysToday > 0 && <span style={{color:'#22c55e'}}>+{data.modelEssaysToday}</span>}</div>
-                        <div>Current Affairs Articles: {data.currentAffairs?.articles || 0}</div>
+                        <div>Current Affairs Articles: {data.currentAffairs?.articles || 0} {data.caToday > 0 && <span style={{color:'#22c55e'}}>+{data.caToday}</span>}</div>
                     </div>
                     {todayTotal > 0 && (
                         <div style={{marginTop:'8px',padding:'8px',background:'#052e16',borderRadius:'4px',fontSize:'0.8rem',color:'#86efac'}}>
