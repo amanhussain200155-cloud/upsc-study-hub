@@ -85,7 +85,18 @@ app.get('/api/stats/detailed', (req, res) => {
         if (fs.existsSync(fcPath)) {
             const d = JSON.parse(fs.readFileSync(fcPath, 'utf8'));
             stats.flashcards = (d.prelims?.length || 0) + (d.mains?.length || 0) + (d.interview?.length || 0);
-            flashcardsToday = (d.prelims || []).filter(c => c.id && c.id.startsWith('fc-') && c.id.includes(today.replace(/-/g,'').substring(2))).length;
+            flashcardsToday = (d.prelims || []).filter(c => {
+                if (!c.id || !c.id.startsWith('fc-')) return false;
+                const parts = c.id.split('-');
+                if (parts.length >= 2) {
+                    const ts = parseInt(parts[1]);
+                    if (ts > 0) {
+                        const cardDate = new Date(ts).toISOString().split('T')[0];
+                        return cardDate === today;
+                    }
+                }
+                return false;
+            }).length;
         }
         stats.flashcardsToday = flashcardsToday;
 
