@@ -149,9 +149,14 @@ function FlashcardMode({ cards }) {
     const [idx, setIdx] = useState(0);
     const [flipped, setFlipped] = useState(false);
     const [shuffled, setShuffled] = useState([]);
+    const [bookmarked, setBookmarked] = useState(new Set());
     useEffect(() => { setShuffled(shuffle(cards)); setIdx(0); setFlipped(false); }, [cards]);
     if (shuffled.length === 0) return <p className="empty-msg">No flashcards available.</p>;
     const card = shuffled[idx];
+    const handleBookmark = () => {
+        bookmarkAPI({id:card.id||('flash-'+card.front?.substring(0,20)),type:'flashcard',subject:card.subject,title:card.front,content:card.back,question:card.front});
+        setBookmarked(prev => new Set([...prev, idx]));
+    };
     return (
         <div>
             <div className="progress-bar"><div className="progress-fill" style={{width:`${((idx+1)/shuffled.length)*100}%`}}></div></div>
@@ -165,6 +170,7 @@ function FlashcardMode({ cards }) {
             </div>
             <div className="controls">
                 <button className="btn btn-secondary" onClick={() => {setFlipped(false);setIdx((idx-1+shuffled.length)%shuffled.length);}}>← Prev</button>
+                <button className="btn btn-primary" onClick={handleBookmark}>{bookmarked.has(idx)?'✅ Saved':'🔖 Bookmark'}</button>
                 <button className="btn btn-primary" onClick={() => {setShuffled(shuffle(cards));setIdx(0);setFlipped(false);}}>🔀 Shuffle</button>
                 <button className="btn btn-secondary" onClick={() => {setFlipped(false);setIdx((idx+1)%shuffled.length);}}>Next →</button>
             </div>
@@ -176,14 +182,25 @@ function FlashcardMode({ cards }) {
 function MainsMode({ questions }) {
     const [idx, setIdx] = useState(0);
     const [showAnswer, setShowAnswer] = useState(false);
+    const [bookmarked, setBookmarked] = useState(new Set());
     useEffect(() => { setIdx(0); setShowAnswer(false); }, [questions]);
     if (!questions?.length) return <p className="empty-msg">No questions available.</p>;
     const q = questions[idx];
+    const handleBookmark = () => {
+        bookmarkAPI({id:q.id||('mains-'+idx),type:'mains',subject:q.subject,title:q.question,content:q.model_answer?.substring(0,300),question:q.question});
+        setBookmarked(prev => new Set([...prev, idx]));
+    };
     return (
         <div>
             <div className="progress-bar"><div className="progress-fill" style={{width:`${((idx+1)/questions.length)*100}%`}}></div></div>
             <div className="quiz-card">
-                <div className="quiz-meta"><span className="quiz-subject">{q.subject}</span><span className="quiz-number">Q{idx+1}/{questions.length}</span></div>
+                <div className="quiz-meta">
+                    <span className="quiz-subject">{q.subject}</span>
+                    <div>
+                        <span style={{cursor:'pointer',marginRight:'10px'}} onClick={handleBookmark} title="Bookmark">{bookmarked.has(idx)?'✅':'🔖'}</span>
+                        <span className="quiz-number">Q{idx+1}/{questions.length}</span>
+                    </div>
+                </div>
                 <p className="quiz-question">{q.question}</p>
                 {!showAnswer ? (
                     <div>
@@ -210,13 +227,21 @@ function InterviewMode({ questions }) {
     const [showTips, setShowTips] = useState(false);
     const [showFU, setShowFU] = useState(false);
     const [showModel, setShowModel] = useState(false);
+    const [bookmarked, setBookmarked] = useState(new Set());
     if (!questions?.length) return <p className="empty-msg">No questions available.</p>;
     const q = questions[idx];
+    const handleBookmark = () => {
+        bookmarkAPI({id:q.id||('interview-'+idx),type:'interview',subject:q.category,title:q.question,content:q.model_answer?.substring(0,300),question:q.question});
+        setBookmarked(prev => new Set([...prev, idx]));
+    };
     return (
         <div>
             <div className="progress-bar"><div className="progress-fill" style={{width:`${((idx+1)/questions.length)*100}%`}}></div></div>
             <div className="interview-card">
-                <span className="interview-category">{q.category}</span>
+                <div style={{display:'flex',justifyContent:'space-between',alignItems:'center',marginBottom:'8px'}}>
+                    <span className="interview-category">{q.category}</span>
+                    <span style={{cursor:'pointer'}} onClick={handleBookmark} title="Bookmark">{bookmarked.has(idx)?'✅':'🔖'}</span>
+                </div>
                 <p className="interview-question">{q.question}</p>
                 <p style={{color:'#64748b',fontSize:'0.85rem',marginBottom:'16px'}}>🎯 Think for 1-2 minutes, then respond as in a real interview.</p>
                 {!showTips ? <button className="btn btn-primary" onClick={() => setShowTips(true)}>Show Guidance</button> : (
@@ -287,6 +312,29 @@ function CurrentAffairsMode() {
 }
 
 // ========== MONTHLY COMPILATION ==========
+function MonthlyArticleCard({ article: a }) {
+    const [expanded, setExpanded] = useState(false);
+    const [bookmarked, setBookmarked] = useState(false);
+    return (
+        <div className="quiz-card" style={{padding:'16px',cursor:'pointer'}} onClick={() => setExpanded(!expanded)}>
+            <div className="quiz-meta"><span className="quiz-subject">{a.subject}</span><span className="quiz-number">{new Date(a.date).toLocaleDateString()}</span></div>
+            <p style={{color:'#f1f5f9',fontSize:'0.9rem'}}>{a.title}</p>
+            {expanded ? (
+                <div style={{marginTop:'10px'}}>
+                    {a.content && <p style={{color:'#cbd5e1',fontSize:'0.85rem',lineHeight:'1.6',marginBottom:'10px'}}>{a.content}</p>}
+                    <p style={{color:'#64748b',fontSize:'0.75rem'}}>Source: {a.source}</p>
+                    <div style={{marginTop:'8px',display:'flex',gap:'12px',flexWrap:'wrap'}}>
+                        {a.link && <a href={a.link} target="_blank" rel="noopener" style={{color:'#60a5fa',fontSize:'0.8rem'}} onClick={e=>e.stopPropagation()}>Read full article →</a>}
+                        <span style={{color:bookmarked?'#22c55e':'#f97316',fontSize:'0.8rem',cursor:'pointer'}} onClick={(e) => {e.stopPropagation();bookmarkAPI({id:a.id||('monthly-'+a.title?.substring(0,30)),type:'article',subject:a.subject,title:a.title,content:a.content,source:a.source,link:a.link});setBookmarked(true);}}>{bookmarked?'✅ Bookmarked':'🔖 Bookmark'}</span>
+                    </div>
+                </div>
+            ) : (
+                <p style={{color:'#94a3b8',fontSize:'0.8rem',marginTop:'4px'}}>{a.source} • Click to expand</p>
+            )}
+        </div>
+    );
+}
+
 function MonthlyMode() {
     const { data } = useData('/api/monthly');
     const [selectedMonth, setSelectedMonth] = useState(null);
@@ -310,11 +358,8 @@ function MonthlyMode() {
                 {Object.entries(grouped).map(([subj, arts]) => (
                     <div key={subj}>
                         <h4 style={{color:'#f97316',margin:'16px 0 8px',fontSize:'0.9rem'}}>{subj} ({arts.length})</h4>
-                        {arts.slice(0,10).map((a,i) => (
-                            <div key={i} className="quiz-card" style={{padding:'16px'}}>
-                                <p style={{color:'#f1f5f9',fontSize:'0.9rem'}}>{a.title}</p>
-                                <p style={{color:'#94a3b8',fontSize:'0.8rem',marginTop:'4px'}}>{a.source} • {new Date(a.date).toLocaleDateString()}</p>
-                            </div>
+                        {arts.map((a,i) => (
+                            <MonthlyArticleCard key={i} article={a} />
                         ))}
                     </div>
                 ))}
