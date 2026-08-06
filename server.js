@@ -19,7 +19,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 // ============ API ROUTES ============
 
 // API: Get detailed stats with daily additions
-app.get('/api/stats/detailed', (req, res) => {
+app.get('/api/stats/detailed', async (req, res) => {
     try {
         const stats = { prelims: {}, mains: 0, interview: 0, flashcards: 0, essays: 0, modelEssays: 0 };
         const today = new Date().toISOString().split('T')[0];
@@ -133,6 +133,41 @@ app.get('/api/stats/detailed', (req, res) => {
             caToday = (d.articles || []).filter(a => a.date && a.date.startsWith(today)).length;
         }
         stats.caToday = caToday;
+
+        // Add MongoDB counts (persistent AI-generated content)
+        try {
+            const { getGeneratedQuestions, getGeneratedFlashcards, getGeneratedMains, getGeneratedInterview, Article, GeneratedEssay } = require('./src/db-storage');
+            const mongoose = require('mongoose');
+            if (mongoose.connection.readyState === 1) {
+                const dbQCount = await require('./src/db-storage').GeneratedQuestion.countDocuments();
+                const dbFCount = await require('./src/db-storage').GeneratedFlashcard.countDocuments();
+                const dbMCount = await require('./src/db-storage').GeneratedMains.countDocuments();
+                const dbICount = await require('./src/db-storage').GeneratedInterview.countDocuments();
+                const dbECount = await GeneratedEssay.countDocuments();
+                const dbACount = await Article.countDocuments();
+                
+                // Add DB counts (dedup handled at API level, but show total available)
+                stats.dbCounts = { questions: dbQCount, flashcards: dbFCount, mains: dbMCount, interview: dbICount, essays: dbECount, articles: dbACount };
+                
+                // Today's DB additions
+                const todayStart = new Date(today + 'T00:00:00.000Z');
+                const dbQToday = await require('./src/db-storage').GeneratedQuestion.countDocuments({ createdAt: { $gte: todayStart } });
+                const dbFToday = await require('./src/db-storage').GeneratedFlashcard.countDocuments({ createdAt: { $gte: todayStart } });
+                const dbMToday = await require('./src/db-storage').GeneratedMains.countDocuments({ createdAt: { $gte: todayStart } });
+                const dbIToday = await require('./src/db-storage').GeneratedInterview.countDocuments({ createdAt: { $gte: todayStart } });
+                const dbEToday = await GeneratedEssay.countDocuments({ createdAt: { $gte: todayStart } });
+                const dbAToday = await Article.countDocuments({ createdAt: { $gte: todayStart } });
+                
+                // Merge today counts
+                stats.prelims.addedToday = Math.max(addedToday, dbQToday);
+                stats.mainsToday = Math.max(mainsToday, dbMToday);
+                stats.interviewToday = Math.max(interviewToday, dbIToday);
+                stats.flashcardsToday = Math.max(flashcardsToday, dbFToday);
+                stats.modelEssaysToday = Math.max(modelEssaysToday, dbEToday);
+                stats.caToday = Math.max(caToday, dbAToday);
+                stats.essayTopicsToday = 0; // Topics added weekly, not daily
+            }
+        } catch(e) {}
 
         res.json(stats);
     } catch(e) {

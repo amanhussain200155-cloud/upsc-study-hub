@@ -628,7 +628,7 @@ function StatsBadge() {
     const { data } = useData('/api/stats/detailed');
     const [showDetails, setShowDetails] = useState(false);
     if (!data) return null;
-    const todayTotal = (data.prelims?.addedToday || 0) + (data.mainsToday || 0) + (data.interviewToday || 0);
+    const todayTotal = (data.prelims?.addedToday || 0) + (data.mainsToday || 0) + (data.interviewToday || 0) + (data.flashcardsToday || 0) + (data.modelEssaysToday || 0);
     return (
         <div style={{marginTop:'12px'}}>
             <div style={{color:'#64748b',fontSize:'0.8rem',cursor:'pointer',textAlign:'center'}} onClick={() => setShowDetails(!showDetails)}>
@@ -659,20 +659,9 @@ function StatsBadge() {
                     </div>
                     {todayTotal > 0 && (
                         <div style={{marginTop:'8px',padding:'8px',background:'#052e16',borderRadius:'4px',fontSize:'0.8rem',color:'#86efac'}}>
-                            ✨ Today's additions: {data.prelims?.addedToday > 0 ? `${data.prelims.addedToday} Prelims MCQs` : ''}{data.mainsToday > 0 ? ` • ${data.mainsToday} Mains Qs` : ''}{data.interviewToday > 0 ? ` • ${data.interviewToday} Interview Qs` : ''}
+                            ✨ Today's additions: {data.prelims?.addedToday > 0 ? `${data.prelims.addedToday} Prelims MCQs` : ''}{data.mainsToday > 0 ? ` • ${data.mainsToday} Mains` : ''}{data.interviewToday > 0 ? ` • ${data.interviewToday} Interview` : ''}{data.flashcardsToday > 0 ? ` • ${data.flashcardsToday} Flashcards` : ''}{data.modelEssaysToday > 0 ? ` • ${data.modelEssaysToday} Essays` : ''}{data.caToday > 0 ? ` • ${data.caToday} Articles` : ''}
                         </div>
                     )}
-                    <div style={{marginTop:'10px',borderTop:'1px solid #334155',paddingTop:'8px',fontSize:'0.75rem',color:'#64748b'}}>
-                        <div style={{color:'#94a3b8',fontWeight:'bold',marginBottom:'4px'}}>⏰ Daily Growth (all free, AI-powered):</div>
-                        <div>• Prelims MCQs: ~20-25/day (syllabus + current affairs)</div>
-                        <div>• Static Bank (verified): ~7-8/day (added to permanent bank)</div>
-                        <div>• Mains Questions: ~2/day (with model answers)</div>
-                        <div>• Interview Questions: ~2/day (with model answers)</div>
-                        <div>• Model Essays: ~3-5/day (~1200 words each)</div>
-                        <div>• Flashcards: ~15-20/day</div>
-                        <div>• Current Affairs: ~30-40 articles/day (AI-classified)</div>
-                        <div style={{marginTop:'4px',color:'#60a5fa'}}>Sources: The Hindu, Indian Express, PIB, LiveMint</div>
-                    </div>
                 </div>
             )}
         </div>
