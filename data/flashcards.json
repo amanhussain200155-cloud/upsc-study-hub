@@ -1091,6 +1091,36 @@
       "front": "What is the Fund of Funds for Startups (FFS) and the Government e-Marketplace (GeM)? Explain their structure, operation, and impact.",
       "back": "Fund of Funds for Startups (FFS): Established 2016 under Startup India; corpus ₹10,000 Cr (contributed over 14th/15th Finance Commission cycles). Operated by SIDBI. Structure: FFS → invests in SEBI-registered Alternative Investment Funds (AIFs) → AIFs invest in DPIIT-recognized startups. Government does not invest directly. Focus: Early-stage, risk capital. Impact: As of 2024, ~₹8,000+ Cr committed to 100+ AIFs, supporting 1,000+ startups. Government e-Marketplace (GeM): Launched 2016; 100% government-owned SPV under Ministry of Commerce. Online platform for public procurement (goods/services) by Central/State govts, PSUs, autonomous bodies. Features: Transparent, cashless, contactless; reverse auction, e-bidding; mandatory for common-use goods/services (GFR 2017). Impact: >₹4 lakh crore GMV; 1.5 lakh+ sellers (60%+ MSMEs); estimated savings 15–20%; integrated with PPP (Public Procurement Portal) for vendor assessment.",
       "id": "fc-1786011535954-qq92"
+    },
+    {
+      "subject": "Government Schemes",
+      "front": "What are the key features, eligibility criteria, and funding pattern of PM-KISAN (Pradhan Mantri Kisan Samman Nidhi) scheme?",
+      "back": "PM-KISAN: Central Sector Scheme (100% GoI funded) launched Feb 2019. Provides ₹6,000/year in three equal installments of ₹2,000 directly to bank accounts of eligible farmer families. Eligibility: All landholding farmer families (husband, wife, minor children) with cultivable land. Exclusions: Institutional landholders, former/present constitutional post holders, ministers, MPs/MLAs, serving/retired government employees (except Group D/Multi-tasking), professionals (doctors, engineers, lawyers, CAs), income tax payees. Implemented via PM-KISAN portal with Aadhaar-seeded database. As of 2024, over 11 crore beneficiaries covered.",
+      "id": "fc-1786014952667-1lsa"
+    },
+    {
+      "subject": "Government Schemes",
+      "front": "Explain the structure, premium rates, and claim settlement mechanism of Pradhan Mantri Fasal Bima Yojana (PMFBY).",
+      "back": "PMFBY (launched 2016): Crop insurance scheme replacing NAIS/MNAIS. Premium rates: Kharif crops 2%, Rabi crops 1.5%, Annual commercial/horticultural crops 5%. Farmer share capped; balance shared 50:50 by Centre and State (90:10 for NE/hilly states). Covers yield losses (prevented sowing, mid-season adversity, post-harvest losses up to 14 days). Implemented by empanelled insurance companies via bidding. Claim settlement: Based on Crop Cutting Experiments (CCEs) at Gram Panchayat level. Technology-driven: Smartphones for CCEs, remote sensing, drones for area estimation. Revamped 2020: Voluntary for farmers, States can choose risk coverage, central subsidy capped at 30% for unirrigated/25% for irrigated areas.",
+      "id": "fc-1786014952667-1ibc"
+    },
+    {
+      "subject": "Government Schemes",
+      "front": "What are e-NAM and Soil Health Card Scheme? How do they address agricultural marketing and soil fertility issues?",
+      "back": "e-NAM (National Agriculture Market, launched 2016): Pan-India electronic trading platform networking existing APMC mandis. Objectives: Unified national market, price discovery via transparent auction, reduce intermediaries, ensure better prices. Features: Single license for traders, single point market fee, electronic weighing/assaying, online payment. As of 2024: 1,389 mandis across 23 States/4 UTs integrated. Soil Health Card Scheme (launched 2015): Provides farmers crop-wise nutrient/fertilizer recommendations based on soil testing. Tests 12 parameters: pH, EC, OC, N, P, K, S, Zn, Fe, Cu, Mn, B. Cards issued every 2 years. Implemented via GPS-enabled soil sampling. Helps balanced fertilizer use, reduces input cost, improves soil health. Both schemes promote digital agriculture and sustainable farming.",
+      "id": "fc-1786014952667-d62z"
+    },
+    {
+      "subject": "Art & Culture",
+      "front": "Compare Warli (Maharashtra) and Madhubani/Mithila (Bihar) paintings - themes, techniques, colors, and social context.",
+      "back": "Warli (Maharashtra, Warli tribe): Monochromatic - white pigment (rice paste + gum) on red ochre/mud walls. Geometric shapes: circle (sun/moon), triangle (mountains/trees), square (sacred enclosure). Themes: Daily life - farming, hunting, fishing, festivals, dances (tarpa), marriage rituals. No mythological/religious figures. Ritualistic: Painted by married women (suvasinis) during weddings/harvest. Madhubani/Mithila (Bihar, Mithila region): Traditionally on walls/floors (aripana), now paper/cloth. Bright natural colors: red (kusum flower), yellow (turmeric), blue (indigo), green (leaves), black (soot), white (rice powder). Double line border, no empty space (filled with flora/fauna). Themes: Hindu deities (Krishna, Rama, Durga), celestial bodies, royal court, social events. Styles: Bharni (filled), Kachni (line), Tantrik, Godna, Kohbar. Originally by Brahmin/Kayastha women; now widespread. Both GI-tagged.",
+      "id": "fc-1786014952667-xm3n"
+    },
+    {
+      "subject": "Art & Culture",
+      "front": "Describe Gond painting (Madhya Pradesh) and Pattachitra (Odisha/West Bengal) - distinctive features, materials, themes, and cultural significance.",
+      "back": "Gond (Madhya Pradesh, Gond tribe): 'Gond' from 'Kond' (green mountains). Traditionally on walls/floors during festivals; now canvas/paper. Signature: Fine dots, dashes, lines creating texture/movement. Bright colors (earlier natural: charcoal, plant sap, cow dung; now acrylic). Themes: Nature worship - trees, animals, birds; folk tales; deities (Phulvari Devi, Bada Dev); daily life. 'Signature patterns' unique to each artist (e.g., Jangarh Singh Shyam pioneered modern Gond). Pattachitra (Odisha: Raghurajpur; West Bengal: Medinipur): 'Patta' (cloth) + 'Chitra' (picture). Canvas: Old cotton cloth coated with tamarind seed paste + chalk powder. Natural colors: Hingula (red), Haritala (yellow), Ramaraja (blue), Kala (black from lamp soot), Sankha (white from conch). Themes: Jagannath cult (Badhia, Krishnalila, Dasavatar), Ramayana, Mahabharata, folk tales. Distinctive: Floral borders, no perspective, profile faces with elongated eyes. Hereditary chitrakar families. Both GI-tagged; Gond also has state recognition.",
+      "id": "fc-1786014952667-xw8l"
     }
   ],
   "mains": [

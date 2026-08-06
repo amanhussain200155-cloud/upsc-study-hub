@@ -146,6 +146,12 @@ function categorizeArticle(title, content) {
         }
         if (score > 0) scores[subject] = score;
     }
+    // Prevent state/domestic news from being classified as International Relations
+    const stateKeywords = ['tamil nadu', 'kerala', 'karnataka', 'andhra pradesh', 'telangana', 'maharashtra', 'rajasthan', 'bihar', 'uttar pradesh', 'madhya pradesh', 'gujarat', 'punjab', 'haryana', 'jharkhand', 'chhattisgarh', 'odisha', 'assam', 'west bengal', 'state budget', 'assembly', 'cm ', 'chief minister', 'panchayat', 'municipality', 'district'];
+    const isStateDomestic = stateKeywords.some(kw => text.includes(kw)) && !text.includes('bilateral') && !text.includes('treaty') && !text.includes('summit') && !text.includes('foreign');
+    if (isStateDomestic && scores['International Relations']) {
+        delete scores['International Relations'];
+    }
     const sorted = Object.entries(scores).sort((a, b) => b[1] - a[1]);
     if (sorted.length === 0) return null;
     return {
@@ -236,7 +242,27 @@ async function fetchCurrentAffairs() {
     };
 
     const dataDir = path.join(__dirname, '..', 'data');
-    fs.writeFileSync(path.join(dataDir, 'auto-current-affairs.json'), JSON.stringify(output, null, 2));
+    // ACCUMULATE: load existing articles, append new unique ones
+    const caPath = path.join(dataDir, 'auto-current-affairs.json');
+    let accumulated = { articles: [], bySubject: {} };
+    if (fs.existsSync(caPath)) {
+        try { accumulated = JSON.parse(fs.readFileSync(caPath, 'utf8')); } catch(e) {}
+    }
+    const existingCA = new Set((accumulated.articles || []).map(a => a.title?.toLowerCase().substring(0, 60)));
+    const newArticles = topArticles.filter(a => !existingCA.has(a.title?.toLowerCase().substring(0, 60)));
+    accumulated.articles = [...(accumulated.articles || []), ...newArticles];
+    // Rebuild bySubject from all accumulated articles
+    const allGrouped = {};
+    for (const article of accumulated.articles) {
+        if (!allGrouped[article.subject]) allGrouped[article.subject] = [];
+        allGrouped[article.subject].push(article);
+    }
+    accumulated.bySubject = allGrouped;
+    accumulated.lastUpdated = now.toISOString();
+    accumulated.totalArticles = accumulated.articles.length;
+    accumulated.sources = FEEDS.map(f => f.source);
+    accumulated.errors = errors;
+    fs.writeFileSync(caPath, JSON.stringify(accumulated, null, 2));
 
     console.log(`[${now.toISOString()}] Fetch complete: ${topArticles.length} articles | Monthly total: ${monthlyData.totalArticles}`);
     return output;
