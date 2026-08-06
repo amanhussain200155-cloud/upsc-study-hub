@@ -1,0 +1,199 @@
+{
+  "questions": [
+    {
+      "id": "saraansh-new-1",
+      "subject": "Polity & Governance",
+      "question": "With reference to the Citizenship Amendment Act (CAA), 2019:\n1. It provides fast-tracked citizenship to persecuted minorities from Pakistan, Bangladesh and Afghanistan\n2. It covers Hindus, Sikhs, Buddhists, Jains, Parsis and Christians\n3. It reduces the naturalisation requirement from 11 years to 5 years for eligible persons\n4. It amends the definition of \"illegal migrant\" under the Citizenship Act, 1955",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "2 and 3 only",
+        "All are correct"
+      ],
+      "answer": 3,
+      "explanation": "All correct. CAA 2019 exempts Hindus, Sikhs, Buddhists, Jains, Parsis and Christians from Pakistan, Bangladesh and Afghanistan from being treated as illegal migrants under the Citizenship Act, 1955. It reduces their naturalisation period from 11 years to 5 years. It amends Section 2(1)(b) of Citizenship Act to exclude these communities from the definition of illegal migrant. Source: Drishti IAS Saraansh July 2026."
+    },
+    {
+      "id": "saraansh-new-2",
+      "subject": "Polity & Governance",
+      "question": "Consider the following about Citizenship by Birth in India:\n1. Anyone born in India between 26 Jan 1950 and 1 July 1987 is a citizen regardless of parents' nationality\n2. For births between 1 July 1987 and 3 Dec 2004, at least one parent must be an Indian citizen\n3. For births on or after 3 Dec 2004, one parent must be a citizen AND the other must not be an illegal migrant\n4. A passport is conclusive proof of Indian citizenship",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "3 and 4 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — a passport is NOT conclusive proof of citizenship. As per Supreme Court and various High Court rulings, a passport is only a travel document and not proof of citizenship. Citizenship is determined by the Citizenship Act provisions (by birth, descent, registration, or naturalisation). Source: Drishti IAS Saraansh July 2026 — \"Passport is Not Proof of Citizenship\"."
+    },
+    {
+      "id": "saraansh-new-3",
+      "subject": "International Relations",
+      "question": "With reference to India-UK Comprehensive Economic and Trade Agreement (CETA) which came into effect in July 2026:\n1. The UK provides zero-duty access to nearly 99% of Indian exports\n2. India offers concessions on 89.5% of tariff lines covering 91% of UK exports\n3. India has excluded dairy, agriculture, millets and apples from concessions\n4. All UK exports get immediate duty-free access to India",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "1 and 2 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — NOT all UK exports get immediate duty-free access. Only 24.5% of UK exports get immediate duty-free access; the rest will be phased in. India protected sensitive sectors: no concessions on dairy, agriculture, millets, apples, edible oils. India-UK CETA came into effect on 15th July 2026. Source: Drishti IAS Saraansh July 2026."
+    },
+    {
+      "id": "saraansh-new-4",
+      "subject": "Economics",
+      "question": "Consider the following about Polymer Currency Notes announced by RBI:\n1. They are made from biaxially-oriented polypropylene (BOPP) substrate\n2. They are more durable than paper notes and difficult to counterfeit\n3. RBI announced polymer notes will be issued from the beginning of the next fiscal year\n4. India will be the first country to introduce polymer currency notes",
+      "options": [
+        "1, 2 and 3 only",
+        "2, 3 and 4 only",
+        "1 and 3 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — India is NOT the first country to introduce polymer notes. Australia pioneered polymer banknotes in 1988. Over 50 countries including UK, Canada, New Zealand, Singapore already use polymer notes. India's RBI Governor Sanjay Malhotra announced that polymer currency notes will be issued from beginning of the next fiscal year. Benefits: 2-4x longer life, harder to counterfeit, environmentally recyclable. Source: Drishti IAS Saraansh July 2026."
+    },
+    {
+      "id": "saraansh-new-5",
+      "subject": "Science & Technology",
+      "question": "With reference to India's Semicon 2.0 programme approved by the Cabinet:\n1. It aims to strengthen India's semiconductor ecosystem\n2. India has launched semiconductor fab units under the first phase of India Semiconductor Mission\n3. Gujarat's Semiconductor Policy is a model for state-level semiconductor incentives\n4. Semiconductors are critical only for consumer electronics",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "1 and 4 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — semiconductors are critical not just for consumer electronics but for defence, space, telecom, automotive (EVs), AI, healthcare equipment, and national security. India's near-total import dependence on semiconductors is a strategic vulnerability. Gujarat's Semiconductor Policy offers additional state incentives on top of central schemes. Cabinet approved Semicon 2.0 to expand domestic fab capacity. Source: Drishti IAS Saraansh July 2026."
+    },
+    {
+      "id": "saraansh-new-6",
+      "subject": "Science & Technology",
+      "question": "Consider the following about India's 1,000 km Quantum Communication Breakthrough:\n1. It was achieved under the National Quantum Mission (NQM)\n2. Quantum communication uses quantum key distribution (QKD) for unhackable encryption\n3. It makes eavesdropping detectable due to quantum mechanics principles\n4. India is the first country in the world to achieve 1,000 km quantum communication",
+      "options": [
+        "1, 2 and 3 only",
+        "1 and 2 only",
+        "1, 2, 3 and 4",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — China achieved a 4,600 km integrated quantum communication network earlier (combining fibre and satellite-based links). However, India's achievement under NQM (₹6,003 crore, 2023-2031) is significant for developing indigenous secure communication infrastructure. QKD exploits Heisenberg's Uncertainty Principle — any eavesdropping attempt disturbs quantum states and becomes detectable. Source: Drishti IAS Saraansh April 2026."
+    },
+    {
+      "id": "saraansh-new-7",
+      "subject": "Science & Technology",
+      "question": "With reference to Gaganyaan Mission's Environmental Control and Life Support System (ECLSS):\n1. It recreates Earth-like conditions by regulating air, water, pressure and temperature\n2. It operates in microgravity environment at 400 km Low Earth Orbit\n3. Gaganyaan carries oxygen and water supplies from Earth for the short-duration mission\n4. ECLSS uses regenerative systems that completely recycle all air and water on board",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "1 and 2 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — Gaganyaan is a short-duration mission, so supplies like oxygen and water are CARRIED from Earth rather than fully regenerated. Unlike the ISS which uses regenerative life support (recycling urine to water, CO2 scrubbing), Gaganyaan uses a simpler carry-along system adequate for its mission duration. ECLSS manages: O2/N2 atmosphere, CO2 removal, temperature (15-25°C), humidity, and waste. Source: Drishti IAS Saraansh May 2027."
+    },
+    {
+      "id": "saraansh-new-8",
+      "subject": "International Relations",
+      "question": "Consider the following about the World AI Cooperation Organization (WAICO):\n1. It was launched by China to set global AI governance norms\n2. It emphasizes state-centric governance with traceable data and \"secure and controllable\" AI\n3. It offers AI training to countries associated with ASEAN, African Union, SCO and BRICS\n4. India is a founding member of WAICO",
+      "options": [
+        "1, 2 and 3 only",
+        "2 and 3 only",
+        "1, 2, 3 and 4",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 requires verification — India's approach to AI governance is \"pro-innovation\" with sectoral regulation, which differs from WAICO's state-centric model. WAICO raises concerns about digital authoritarianism and spreading China's state-led AI model. It offers 100,000 AI training places over 5 years for countries in ASEAN, AU, SCO, BRICS. India has NOT joined WAICO and maintains strategic autonomy in AI governance. Source: Drishti IAS Saraansh July 2026."
+    },
+    {
+      "id": "saraansh-new-9",
+      "subject": "Economics",
+      "question": "With reference to the Index of Services Production (ISP) launched by MoSPI in July 2026:\n1. It tracks growth in India's services sector\n2. It is similar to the existing Index of Industrial Production (IIP)\n3. It was developed by a Technical Advisory Committee\n4. Services sector contributes over 50% to India's GDP",
+      "options": [
+        "1 and 2 only",
+        "1, 2, 3 and 4",
+        "3 and 4 only",
+        "All are correct"
+      ],
+      "answer": 3,
+      "explanation": "All correct. MoSPI launched the Index of Services Production (ISP) in July 2026. It fills a long-standing gap — while IIP has tracked industrial output since 1937, there was no equivalent index for services. TAC was chaired by Debjani Ghosh. Services sector contributes ~55% to India's GDP and employs ~30% of workforce. ISP will initially be released on trial basis. Source: Drishti IAS Saraansh July 2026."
+    },
+    {
+      "id": "saraansh-new-10",
+      "subject": "Polity & Governance",
+      "question": "Consider the following about Immigration and Foreigners Tribunals under the Immigration and Foreigners Order, 2025:\n1. They deal with citizenship disputes related to NRC and references by competent authorities\n2. They are headed by members drawn from judicial officers, advocates or civil servants with judicial experience\n3. They possess civil court powers including summoning witnesses and examining on oath\n4. Their decisions are final and cannot be challenged in any court of law",
+      "options": [
+        "1, 2 and 3 only",
+        "2, 3 and 4 only",
+        "1, 2, 3 and 4",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — Foreigners Tribunal decisions CAN be challenged in High Courts under Article 226 (writ jurisdiction) and Supreme Court under Article 32. While tribunals have quasi-judicial powers (summoning witnesses, examining on oath, requiring documents), they are not above judicial review. Source: Drishti IAS Saraansh July 2026."
+    },
+    {
+      "id": "saraansh-new-11",
+      "subject": "Economics",
+      "question": "Consider the following about India's Unified Payments Interface (UPI) on its 10th anniversary (2016-2026):\n1. UPI has become the world's largest real-time digital payment system by volume\n2. It has been linked with payment systems of several countries\n3. UPI transactions involve zero charges for end users currently\n4. UPI was developed by the Reserve Bank of India independently",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "1 and 2 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — UPI was developed by NPCI (National Payments Corporation of India), not RBI independently. NPCI is an umbrella organization for operating retail payments in India, set up by RBI and IBA. UPI was launched in 2016 and has become global digital payments leader. It has been linked with Singapore (PayNow), France, UAE, Sri Lanka, Mauritius, Nepal and others. Note: Lok Sabha in 2026 passed a Bill to authorize banks to levy charges on UPI — meaning zero-charge model may change. Source: Drishti IAS Saraansh April 2026."
+    },
+    {
+      "id": "saraansh-new-12",
+      "subject": "Economics",
+      "question": "With reference to NITI Aayog's Investment Friendliness Index 2026:\n1. It ranks Indian states on ease and attractiveness for investment\n2. It covers parameters like infrastructure, business climate, and governance\n3. It aims to promote competitive federalism among states\n4. All states that rank in the top 5 are southern states",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 3 and 4 only",
+        "2 and 3 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — the top-ranked states include states from various regions, not exclusively southern states. The index promotes competitive federalism by benchmarking states on investment ecosystem parameters including: infrastructure quality, regulatory environment, workforce availability, fiscal management, and governance efficiency. It follows models like the Ease of Doing Business state rankings. Source: Drishti IAS Saraansh July 2026."
+    },
+    {
+      "id": "saraansh-new-13",
+      "subject": "Science & Technology",
+      "question": "Consider the following about Vikram-1 rocket:\n1. It is India's first privately developed space launch vehicle\n2. It is developed by Skyroot Aerospace\n3. It uses solid-fuel propulsion technology\n4. India's space sector was opened to private players under the Space Activities Bill",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "1 and 2 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 needs nuance — while the government opened the space sector to private players (IN-SPACe was set up in 2020 as regulatory body), a comprehensive Space Activities Bill has been in draft form and not yet enacted as an Act of Parliament. Skyroot Aerospace developed Vikram-1 (named after Vikram Sarabhai). It uses solid propulsion. Skyroot earlier launched Vikram-S (India's first private suborbital rocket, Nov 2022). Source: Drishti IAS Saraansh July 2026."
+    },
+    {
+      "id": "saraansh-new-14",
+      "subject": "Environment & Ecology",
+      "question": "With reference to India's first geothermal wells commissioned at Puga Valley:\n1. Puga Valley is located in Ladakh\n2. Geothermal energy is a renewable energy source that harnesses heat from Earth's interior\n3. India has significant geothermal potential in the Himalayan region and western coast\n4. Geothermal energy provides baseload power unlike solar and wind",
+      "options": [
+        "1, 2, 3 and 4",
+        "1 and 2 only",
+        "1, 2 and 4 only",
+        "All are correct"
+      ],
+      "answer": 3,
+      "explanation": "All correct. India commissioned its first geothermal wells at Puga Valley, Ladakh — a region with hot springs indicating subsurface heat. Geothermal energy is renewable (heat from radioactive decay and residual formation heat). India's geothermal provinces: Himalayan (Puga, Chumathang, Manikaran), West Coast (Konkan), Cambay basin, Son-Narmada lineament, Godavari basin. Key advantage: provides 24/7 baseload power (unlike intermittent solar/wind), with very small land footprint. Source: Drishti IAS Saraansh July 2026."
+    },
+    {
+      "id": "saraansh-new-15",
+      "subject": "International Relations",
+      "question": "Consider the following about India's bid for UNSC Non-Permanent Seat for 2028-29:\n1. India has been a non-permanent member of UNSC for 8 terms so far\n2. Non-permanent members serve a 2-year term\n3. There are 10 non-permanent seats elected by the UN General Assembly\n4. India supports expansion of both permanent and non-permanent categories of UNSC",
+      "options": [
+        "1, 2 and 3 only",
+        "2, 3 and 4 only",
+        "1, 2, 3 and 4",
+        "All are correct"
+      ],
+      "answer": 3,
+      "explanation": "All correct. India has served 8 terms as non-permanent UNSC member (most recent: 2021-22). Non-permanent seats: 10 members, 2-year terms, elected by UNGA (2/3 majority needed). India seeks permanent membership and supports G4 (India, Brazil, Germany, Japan) proposal for UNSC reform expanding both categories. India is bidding for 2028-29 non-permanent seat from Asia-Pacific group. Source: Drishti IAS Saraansh July 2026."
+    }
+  ]
+}
