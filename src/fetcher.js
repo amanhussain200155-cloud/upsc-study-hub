@@ -167,6 +167,46 @@ async function fetchCurrentAffairs() {
     const articles = [];
     const errors = [];
 
+    // LLM reclassification helper
+    async function reclassifyWithAI(articlesList) {
+        try {
+            const { callLLM, isLLMAvailable } = require('./mcq-generator');
+            if (!isLLMAvailable() || articlesList.length === 0) return articlesList;
+            
+            // Batch classify 10 articles at a time
+            const batch = articlesList.slice(0, 10);
+            const prompt = `Classify these news articles into EXACTLY ONE UPSC category each. Categories: Polity & Governance, Economics, International Relations, Environment & Ecology, Science & Technology, Social Issues, Art & Culture, Internal Security, Geography.
+
+RULES:
+- State budgets/local governance = "Polity & Governance" (NOT International Relations)
+- Crime/accident/disaster = SKIP (write "IRRELEVANT")
+- Only foreign policy/treaties/bilateral = "International Relations"
+
+Articles:
+${batch.map((a, i) => `${i+1}. ${a.title}`).join('\n')}
+
+Return ONLY a JSON array of categories (same order): ["category1","category2",...]`;
+
+            const response = await callLLM(prompt, 500);
+            if (!response) return articlesList;
+            
+            const match = response.match(/\[[\s\S]*?\]/);
+            if (match) {
+                const categories = JSON.parse(match[0]);
+                for (let i = 0; i < Math.min(categories.length, batch.length); i++) {
+                    if (categories[i] === 'IRRELEVANT') {
+                        batch[i]._irrelevant = true;
+                    } else if (categories[i] && categories[i].length > 3) {
+                        batch[i].subject = categories[i];
+                    }
+                }
+            }
+        } catch(e) {
+            console.log('[CA-CLASSIFY] AI classification error:', e.message);
+        }
+        return articlesList.filter(a => !a._irrelevant);
+    }
+
     for (const feed of FEEDS) {
         try {
             const result = await parser.parseURL(feed.url);
@@ -209,7 +249,11 @@ async function fetchCurrentAffairs() {
         return new Date(b.date) - new Date(a.date);
     });
 
-    const topArticles = unique.slice(0, 80);
+    let topArticles = unique.slice(0, 80);
+    
+    // AI reclassification - correct any misclassified articles
+    topArticles = await reclassifyWithAI(topArticles);
+    
     const grouped = {};
     for (const article of topArticles) {
         if (!grouped[article.subject]) grouped[article.subject] = [];
