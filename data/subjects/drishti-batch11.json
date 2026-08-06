@@ -2,6 +2,19 @@
   "subject": "Current Affairs - Drishti Batch 11",
   "questions": [
     {
+      "id": "d11-1",
+      "subject": "International Relations",
+      "question": "Consider the following about India's BRICS Presidency 2026:\n1. India assumed BRICS Presidency in 2026 with theme focusing on 'Sustainability'\n2. BRICS+ expansion (2024) doubled the membership\n3. BRICS STI cooperation was formalized in the Sanya Declaration (2011)\n4. India led the BRICS Innovation Action Plan (2021-24)",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "1 and 4 only",
+        "All are correct"
+      ],
+      "answer": 3,
+      "explanation": "All correct. India's BRICS Presidency 2026: theme \"Building for Resilience, Innovation, Cooperation and Sustainability\", prioritizes Science, Technology, Innovation (STI). BRICS expanded (Johannesburg 2023, effective Jan 2024): added Egypt, Ethiopia, Iran, Saudi Arabia, UAE. Sanya Declaration (3rd Summit, 2011) formalized STI cooperation. India led Innovation Action Plan 2021-24 through CSIR coordination. Confirmed in Drishti IAS Saraansh March 2026."
+    },
+    {
       "id": "d11-2",
       "subject": "International Relations",
       "question": "With reference to India-Finland Relations:\n1. Finland is a Nordic country that recently joined NATO (2023)\n2. India-Finland cooperation focuses on clean technology and digital solutions\n3. Finland is a leader in education technology (PISA rankings)\n4. India has a Comprehensive Economic Partnership Agreement with Finland",

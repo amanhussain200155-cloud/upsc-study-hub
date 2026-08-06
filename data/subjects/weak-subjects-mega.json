@@ -182,6 +182,19 @@
       ],
       "answer": 1,
       "explanation": "All correct. Digital divide: Urban internet penetration ~80%+ vs Rural ~40-50%. Gender gap: GSMA reports Indian women 40% less likely to use mobile internet (affordability, social norms, digital literacy). Post-Jio (2016): data cost crashed from ₹250/GB to ₹10/GB — massively increased access but quality/usage gaps persist. BharatNet: fiber to gram panchayats. PM-WANI (2020): Wi-Fi Access Network Interface — allows anyone to set up public Wi-Fi hotspots without license (PDOs - Public Data Offices). Remaining challenges: vernacular content, digital literacy for older population, device affordability."
+    },
+    {
+      "id": "wb7",
+      "subject": "Government Schemes",
+      "question": "With reference to MGNREGA/VB-GRAMG and rural employment:\n1. It guarantees 100 days of wage employment per household per year\n2. Wages must be paid within 15 days of work, else unemployment allowance applies\n3. 60:40 ratio between labour and material cost must be maintained\n4. It was India's first legally guaranteed employment programme",
+      "options": [
+        "1, 2, 3 and 4",
+        "All are correct",
+        "1, 2 and 3 only",
+        "2 and 3 only"
+      ],
+      "answer": 2,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — Maharashtra's Employment Guarantee Act (1977) was India's FIRST legally guaranteed employment programme (MGNREGA was inspired by it). MGNREGA (2005, now VB-GRAMG 2025): 100 days guarantee, demand-driven (worker requests → work provided within 15 days or unemployment allowance). 60:40 labour-to-material ratio ensures job intensity. Wages: notified state-wise under Rural Labour Index. Confirmed in Drishti IAS Saraansh."
     }
   ]
 }
