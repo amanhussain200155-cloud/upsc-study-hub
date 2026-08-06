@@ -639,7 +639,7 @@ function StatsBadge() {
             {showDetails && data.prelims?.bySubject && (
                 <div style={{marginTop:'12px',padding:'16px',background:'#1e293b',borderRadius:'8px',border:'1px solid #334155'}}>
                     <h4 style={{color:'#eab308',marginBottom:'10px',fontSize:'0.85rem'}}>Questions by Subject (Prelims):</h4>
-                    <div style={{display:'grid',gridTemplateColumns:'1fr 1fr',gap:'4px'}}>
+                    <div className="dashboard-grid">
                         {Object.entries(data.prelims.bySubject).sort((a,b) => b[1]-a[1]).map(([s,c]) => (
                             <div key={s} style={{display:'flex',justifyContent:'space-between',padding:'3px 8px',fontSize:'0.8rem'}}>
                                 <span style={{color:'#cbd5e1'}}>{s}</span>

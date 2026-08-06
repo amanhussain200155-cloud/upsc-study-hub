@@ -83,6 +83,8 @@ body {
     font-size: 0.85rem;
     border: 1px solid #334155;
     transition: all 0.2s;
+    text-align: center;
+    flex: 1;
 }
 
 .section-tab:hover {
@@ -484,31 +486,31 @@ body {
     .flashcard-front { font-size: 1rem; }
     .flashcard-back { font-size: 0.9rem; }
     
-    /* Tabs & Filters */
+    /* Tabs & Filters - center align text */
     .section-tabs { gap: 4px; margin-bottom: 14px; }
-    .section-tab { padding: 7px 10px; font-size: 0.75rem; }
-    .subject-filter { gap: 4px; margin-bottom: 14px; }
-    .subject-btn { padding: 5px 9px; font-size: 0.7rem; }
+    .section-tab { padding: 8px 12px; font-size: 0.78rem; text-align: center; }
+    .subject-filter { gap: 5px; margin-bottom: 14px; }
+    .subject-btn { padding: 5px 10px; font-size: 0.72rem; text-align: center; }
     .mode-toggle { gap: 4px; margin-bottom: 14px; }
-    .mode-btn { padding: 6px 10px; font-size: 0.75rem; }
-    .nav-tab { padding: 8px 12px; font-size: 0.8rem; }
+    .mode-btn { padding: 7px 12px; font-size: 0.78rem; text-align: center; }
+    .nav-tab { padding: 8px 12px; font-size: 0.8rem; text-align: center; }
     
     /* Controls / Buttons */
-    .controls { gap: 8px; flex-wrap: wrap; }
+    .controls { gap: 8px; flex-wrap: wrap; justify-content: center; }
     .btn { padding: 9px 16px; font-size: 0.8rem; }
     
     /* Stats bar */
-    .stats-bar { gap: 6px; flex-wrap: wrap; }
-    .stat-item { padding: 8px 10px; min-width: 65px; }
-    .stat-value { font-size: 1rem; }
-    .stat-label { font-size: 0.65rem; }
+    .stats-bar { gap: 8px; flex-wrap: wrap; justify-content: center; }
+    .stat-item { padding: 10px 12px; min-width: 70px; text-align: center; }
+    .stat-value { font-size: 1.1rem; }
+    .stat-label { font-size: 0.7rem; }
     
     /* Progress bar */
     .progress-bar { height: 4px; margin-bottom: 12px; }
     
     /* Quiz meta */
     .quiz-meta { flex-wrap: wrap; gap: 6px; margin-bottom: 12px; }
-    .quiz-subject { font-size: 0.65rem; padding: 3px 8px; }
+    .quiz-subject { font-size: 0.68rem; padding: 3px 8px; }
     .quiz-number { font-size: 0.75rem; }
     
     /* Interview card */
@@ -543,6 +545,8 @@ body {
     cursor: pointer;
     font-size: 0.85rem;
     transition: all 0.2s;
+    text-align: center;
+    flex: 1;
 }
 
 .mode-btn.active {
@@ -552,6 +556,12 @@ body {
 }
 
 .hidden { display: none; }
+
+.dashboard-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 4px;
+}
 
 .empty-msg {
     text-align: center;
