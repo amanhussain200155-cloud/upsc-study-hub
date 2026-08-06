@@ -4,14 +4,15 @@
   "description": "UPSC Study App - Auto-updating, LLM-powered MCQ generation, unlimited practice",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "fetch": "node src/fetcher.js",
-    "generate": "node src/mcq-generator.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "express": "4.18.2",
     "rss-parser": "3.13.0",
     "node-cron": "3.0.3",
     "uuid": "9.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
   }
 }
