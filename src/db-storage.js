@@ -177,8 +177,67 @@ async function getGeneratedInterview() {
     } catch(e) { return []; }
 }
 
+// ========== CURRENT AFFAIRS ARTICLES ==========
+const articleSchema = new mongoose.Schema({
+    articleId: { type: String, unique: true, index: true },
+    title: String,
+    content: String,
+    source: String,
+    subject: String,
+    secondarySubject: String,
+    link: String,
+    date: Date,
+    month: String,
+    tags: [String],
+    classifiedBy: String,
+    savedAt: { type: Date, default: Date.now }
+}, { timestamps: true });
+
+let Article;
+try { Article = mongoose.model('Article', articleSchema); } catch(e) { Article = mongoose.model('Article'); }
+
+async function saveArticles(articles) {
+    if (!isMongoConnected() || !articles.length) return;
+    try {
+        const docs = articles.map(a => ({
+            articleId: a.id || ('art-' + Date.now() + Math.random().toString(36).substr(2,4)),
+            title: a.title,
+            content: a.content,
+            source: a.source,
+            subject: a.subject,
+            secondarySubject: a.secondarySubject,
+            link: a.link,
+            date: a.date ? new Date(a.date) : new Date(),
+            month: new Date(a.date || Date.now()).toISOString().substring(0,7),
+            tags: a.tags || [],
+            classifiedBy: a.classifiedBy || 'unknown'
+        }));
+        await Article.insertMany(docs, { ordered: false }).catch(() => {});
+    } catch(e) {}
+}
+
+async function getArticles(month) {
+    if (!isMongoConnected()) return [];
+    try {
+        const query = month ? { month } : {};
+        return await Article.find(query).sort({ date: -1 }).lean();
+    } catch(e) { return []; }
+}
+
+async function getAllMonths() {
+    if (!isMongoConnected()) return [];
+    try {
+        const result = await Article.aggregate([
+            { $group: { _id: '$month', totalArticles: { $sum: 1 }, lastUpdated: { $max: '$date' } } },
+            { $sort: { _id: -1 } }
+        ]);
+        return result.map(r => ({ month: r._id, totalArticles: r.totalArticles, lastUpdated: r.lastUpdated }));
+    } catch(e) { return []; }
+}
+
 module.exports = {
     saveGeneratedQuestions, saveGeneratedFlashcards, saveGeneratedMains, saveGeneratedInterview,
     getGeneratedQuestions, getGeneratedFlashcards, getGeneratedMains, getGeneratedInterview,
-    GeneratedQuestion, GeneratedFlashcard, GeneratedMains, GeneratedInterview, GeneratedEssay
+    GeneratedQuestion, GeneratedFlashcard, GeneratedMains, GeneratedInterview, GeneratedEssay,
+    saveArticles, getArticles, getAllMonths, Article
 };

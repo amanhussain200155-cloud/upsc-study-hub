@@ -273,36 +273,82 @@ app.get('/api/flashcards', async (req, res) => {
 });
 
 // Current affairs (auto-fetched)
-app.get('/api/current-affairs', (req, res) => {
+app.get('/api/current-affairs', async (req, res) => {
     const filePath = path.join(__dirname, 'data', 'auto-current-affairs.json');
+    let data = { articles: [], lastUpdated: null };
     if (fs.existsSync(filePath)) {
-        res.json(JSON.parse(fs.readFileSync(filePath, 'utf8')));
-    } else {
-        res.json({ articles: [], lastUpdated: null });
+        data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
     }
+    // Merge with MongoDB articles (permanent storage)
+    try {
+        const { getArticles } = require('./src/db-storage');
+        const dbArticles = await getArticles();
+        const existingTitles = new Set((data.articles||[]).map(a => a.title?.toLowerCase().substring(0,60)));
+        for (const a of dbArticles) {
+            if (!existingTitles.has(a.title?.toLowerCase().substring(0,60))) {
+                data.articles.push({ id: a.articleId, title: a.title, content: a.content, source: a.source, subject: a.subject, secondarySubject: a.secondarySubject, link: a.link, date: a.date, tags: a.tags });
+            }
+        }
+        // Rebuild bySubject
+        const grouped = {};
+        data.articles.forEach(a => { if(!grouped[a.subject]) grouped[a.subject]=[]; grouped[a.subject].push(a); });
+        data.bySubject = grouped;
+        data.totalArticles = data.articles.length;
+    } catch(e) {}
+    res.json(data);
 });
 
 // Monthly compilations
-app.get('/api/monthly', (req, res) => {
+app.get('/api/monthly', async (req, res) => {
     const monthlyDir = path.join(__dirname, 'data', 'monthly');
-    if (!fs.existsSync(monthlyDir)) {
-        return res.json({ months: [] });
+    let months = [];
+    if (fs.existsSync(monthlyDir)) {
+        const files = fs.readdirSync(monthlyDir).filter(f => f.endsWith('.json')).sort().reverse();
+        months = files.map(f => {
+            const data = JSON.parse(fs.readFileSync(path.join(monthlyDir, f), 'utf8'));
+            return { month: data.month, totalArticles: data.totalArticles, lastUpdated: data.lastUpdated };
+        });
     }
-    const files = fs.readdirSync(monthlyDir).filter(f => f.endsWith('.json')).sort().reverse();
-    const months = files.map(f => {
-        const data = JSON.parse(fs.readFileSync(path.join(monthlyDir, f), 'utf8'));
-        return { month: data.month, totalArticles: data.totalArticles, lastUpdated: data.lastUpdated };
-    });
+    // Merge with MongoDB months
+    try {
+        const { getAllMonths } = require('./src/db-storage');
+        const dbMonths = await getAllMonths();
+        const existingMonths = new Set(months.map(m => m.month));
+        for (const m of dbMonths) {
+            if (!existingMonths.has(m.month)) {
+                months.push(m);
+            } else {
+                // Update count if DB has more
+                const existing = months.find(x => x.month === m.month);
+                if (existing && m.totalArticles > existing.totalArticles) {
+                    existing.totalArticles = m.totalArticles;
+                }
+            }
+        }
+        months.sort((a,b) => b.month.localeCompare(a.month));
+    } catch(e) {}
     res.json({ months });
 });
 
-app.get('/api/monthly/:month', (req, res) => {
+app.get('/api/monthly/:month', async (req, res) => {
     const filePath = path.join(__dirname, 'data', 'monthly', `${req.params.month}.json`);
+    let data = { month: req.params.month, articles: [], totalArticles: 0 };
     if (fs.existsSync(filePath)) {
-        res.json(JSON.parse(fs.readFileSync(filePath, 'utf8')));
-    } else {
-        res.status(404).json({ error: 'Month not found' });
+        data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
     }
+    // Merge with MongoDB articles for this month
+    try {
+        const { getArticles } = require('./src/db-storage');
+        const dbArticles = await getArticles(req.params.month);
+        const existingTitles = new Set((data.articles||[]).map(a => a.title?.toLowerCase().substring(0,60)));
+        for (const a of dbArticles) {
+            if (!existingTitles.has(a.title?.toLowerCase().substring(0,60))) {
+                data.articles.push({ id: a.articleId, title: a.title, content: a.content, source: a.source, subject: a.subject, link: a.link, date: a.date, tags: a.tags });
+            }
+        }
+        data.totalArticles = data.articles.length;
+    } catch(e) {}
+    res.json(data);
 });
 
 // ============ REVISION & BOOKMARK APIs ============

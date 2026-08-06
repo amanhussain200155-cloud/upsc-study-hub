@@ -411,6 +411,9 @@ async function fetchCurrentAffairs() {
     accumulated.errors = errors;
     fs.writeFileSync(caPath, JSON.stringify(accumulated, null, 2));
 
+    // Save articles to MongoDB for permanent persistence
+    try { const { saveArticles } = require('./db-storage'); await saveArticles(newArticles); } catch(e) {}
+
     console.log(`[${now.toISOString()}] Fetch complete: ${topArticles.length} articles | Monthly total: ${monthlyData.totalArticles}`);
     return output;
 }
