@@ -489,109 +489,215 @@ app.listen(PORT, () => {
     console.log(`   └── Revision system: spaced repetition + bookmarks\n`);
 });
 
-// ============ USER PROFILES ============
-// Simple name-based profiles (no password) - separate progress per user
+// ============ USER PROFILES (MongoDB) ============
+const mongoose = require('mongoose');
 
-app.get('/api/profiles', (req, res) => {
-    const profilesDir = path.join(__dirname, 'data', 'profiles');
-    if (!fs.existsSync(profilesDir)) fs.mkdirSync(profilesDir, { recursive: true });
-    const profiles = fs.readdirSync(profilesDir).filter(f => f.endsWith('.json')).map(f => f.replace('.json',''));
-    res.json({ profiles });
+// Connect to MongoDB
+const MONGODB_URI = process.env.MONGODB_URI || '';
+if (MONGODB_URI) {
+    mongoose.connect(MONGODB_URI).then(() => {
+        console.log('[MongoDB] Connected successfully - profiles will persist!');
+    }).catch(err => {
+        console.log('[MongoDB] Connection failed:', err.message);
+        console.log('[MongoDB] Falling back to file-based profiles (will not persist across deploys)');
+    });
+}
+
+// Profile Schema
+const profileSchema = new mongoose.Schema({
+    safeName: { type: String, unique: true, index: true },
+    name: String,
+    created: { type: Date, default: Date.now },
+    bookmarks: { type: Array, default: [] },
+    attempted: { type: Array, default: [] },
+    wrongAnswers: { type: Array, default: [] },
+    revisionQueue: { type: Array, default: [] },
+    stats: {
+        type: Object,
+        default: { totalAttempted: 0, totalCorrect: 0, subjectWise: {}, streakDays: 0, lastActiveDate: null }
+    }
+}, { timestamps: true });
+
+const Profile = mongoose.model('Profile', profileSchema);
+
+// Helper: check if MongoDB is connected
+function isMongoConnected() {
+    return mongoose.connection.readyState === 1;
+}
+
+app.get('/api/profiles', async (req, res) => {
+    try {
+        if (isMongoConnected()) {
+            const profiles = await Profile.find({}, 'safeName name').lean();
+            res.json({ profiles: profiles.map(p => p.safeName) });
+        } else {
+            const profilesDir = path.join(__dirname, 'data', 'profiles');
+            if (!fs.existsSync(profilesDir)) fs.mkdirSync(profilesDir, { recursive: true });
+            const profiles = fs.readdirSync(profilesDir).filter(f => f.endsWith('.json')).map(f => f.replace('.json',''));
+            res.json({ profiles });
+        }
+    } catch(e) { res.json({ profiles: [] }); }
 });
 
-app.post('/api/profiles/create', (req, res) => {
+app.post('/api/profiles/create', async (req, res) => {
     const { name } = req.body;
     if (!name || name.length < 2) return res.status(400).json({ error: 'Name must be at least 2 characters' });
     const safeName = name.toLowerCase().replace(/[^a-z0-9]/g, '-');
-    const profilesDir = path.join(__dirname, 'data', 'profiles');
-    if (!fs.existsSync(profilesDir)) fs.mkdirSync(profilesDir, { recursive: true });
-    const profilePath = path.join(profilesDir, `${safeName}.json`);
-    if (!fs.existsSync(profilePath)) {
-        fs.writeFileSync(profilePath, JSON.stringify({
-            name, created: new Date().toISOString(),
-            bookmarks: [], attempted: [], wrongAnswers: [], revisionQueue: [],
-            stats: { totalAttempted: 0, totalCorrect: 0, subjectWise: {}, streakDays: 0, lastActiveDate: null }
-        }, null, 2));
-    }
-    res.json({ success: true, profile: safeName });
+    try {
+        if (isMongoConnected()) {
+            await Profile.findOneAndUpdate(
+                { safeName },
+                { $setOnInsert: { safeName, name, created: new Date(), bookmarks: [], attempted: [], wrongAnswers: [], revisionQueue: [], stats: { totalAttempted: 0, totalCorrect: 0, subjectWise: {}, streakDays: 0, lastActiveDate: null } } },
+                { upsert: true, new: true }
+            );
+        } else {
+            const profilesDir = path.join(__dirname, 'data', 'profiles');
+            if (!fs.existsSync(profilesDir)) fs.mkdirSync(profilesDir, { recursive: true });
+            const profilePath = path.join(profilesDir, `${safeName}.json`);
+            if (!fs.existsSync(profilePath)) {
+                fs.writeFileSync(profilePath, JSON.stringify({ name, created: new Date().toISOString(), bookmarks: [], attempted: [], wrongAnswers: [], revisionQueue: [], stats: { totalAttempted: 0, totalCorrect: 0, subjectWise: {}, streakDays: 0, lastActiveDate: null } }, null, 2));
+            }
+        }
+        res.json({ success: true, profile: safeName });
+    } catch(e) { res.status(500).json({ error: e.message }); }
 });
 
-app.get('/api/profiles/:name', (req, res) => {
+app.get('/api/profiles/:name', async (req, res) => {
     const safeName = req.params.name.toLowerCase().replace(/[^a-z0-9]/g, '-');
-    const profilePath = path.join(__dirname, 'data', 'profiles', `${safeName}.json`);
-    if (fs.existsSync(profilePath)) {
-        res.json(JSON.parse(fs.readFileSync(profilePath, 'utf8')));
-    } else {
-        res.status(404).json({ error: 'Profile not found' });
-    }
+    try {
+        if (isMongoConnected()) {
+            const profile = await Profile.findOne({ safeName }).lean();
+            if (profile) { res.json(profile); } else { res.status(404).json({ error: 'Profile not found' }); }
+        } else {
+            const profilePath = path.join(__dirname, 'data', 'profiles', `${safeName}.json`);
+            if (fs.existsSync(profilePath)) { res.json(JSON.parse(fs.readFileSync(profilePath, 'utf8'))); }
+            else { res.status(404).json({ error: 'Profile not found' }); }
+        }
+    } catch(e) { res.status(500).json({ error: e.message }); }
 });
 
-app.post('/api/profiles/:name/attempt', (req, res) => {
+app.post('/api/profiles/:name/attempt', async (req, res) => {
     const safeName = req.params.name.toLowerCase().replace(/[^a-z0-9]/g, '-');
-    const profilePath = path.join(__dirname, 'data', 'profiles', `${safeName}.json`);
-    if (!fs.existsSync(profilePath)) return res.status(404).json({ error: 'Profile not found' });
-    const data = JSON.parse(fs.readFileSync(profilePath, 'utf8'));
     const { questionId, subject, isCorrect, questionData } = req.body;
     const today = new Date().toISOString().split('T')[0];
-    
-    data.stats.totalAttempted++;
-    if (isCorrect) data.stats.totalCorrect++;
-    if (!data.stats.subjectWise[subject]) data.stats.subjectWise[subject] = { attempted: 0, correct: 0 };
-    data.stats.subjectWise[subject].attempted++;
-    if (isCorrect) data.stats.subjectWise[subject].correct++;
-    if (data.stats.lastActiveDate !== today) {
-        const yesterday = new Date(Date.now() - 86400000).toISOString().split('T')[0];
-        data.stats.streakDays = data.stats.lastActiveDate === yesterday ? data.stats.streakDays + 1 : 1;
-        data.stats.lastActiveDate = today;
-    }
-    if (!isCorrect && questionData) {
-        const exists = data.wrongAnswers.find(w => w.questionId === questionId);
-        if (!exists) data.wrongAnswers.push({ questionId, subject, question: questionData.question?.substring(0,200), options: questionData.options, answer: questionData.answer, explanation: questionData.explanation, addedAt: new Date().toISOString() });
-    } else {
-        data.wrongAnswers = data.wrongAnswers.filter(w => w.questionId !== questionId);
-    }
-    fs.writeFileSync(profilePath, JSON.stringify(data, null, 2));
-    res.json({ success: true, stats: data.stats });
+    try {
+        if (isMongoConnected()) {
+            const profile = await Profile.findOne({ safeName });
+            if (!profile) return res.status(404).json({ error: 'Profile not found' });
+            profile.stats.totalAttempted++;
+            if (isCorrect) profile.stats.totalCorrect++;
+            if (!profile.stats.subjectWise[subject]) profile.stats.subjectWise[subject] = { attempted: 0, correct: 0 };
+            profile.stats.subjectWise[subject].attempted++;
+            if (isCorrect) profile.stats.subjectWise[subject].correct++;
+            if (profile.stats.lastActiveDate !== today) {
+                const yesterday = new Date(Date.now() - 86400000).toISOString().split('T')[0];
+                profile.stats.streakDays = profile.stats.lastActiveDate === yesterday ? profile.stats.streakDays + 1 : 1;
+                profile.stats.lastActiveDate = today;
+            }
+            if (!isCorrect && questionData) {
+                const exists = profile.wrongAnswers.find(w => w.questionId === questionId);
+                if (!exists) profile.wrongAnswers.push({ questionId, subject, question: questionData.question?.substring(0,200), options: questionData.options, answer: questionData.answer, explanation: questionData.explanation, addedAt: new Date().toISOString() });
+            } else {
+                profile.wrongAnswers = profile.wrongAnswers.filter(w => w.questionId !== questionId);
+            }
+            profile.markModified('stats');
+            profile.markModified('wrongAnswers');
+            await profile.save();
+            res.json({ success: true, stats: profile.stats });
+        } else {
+            // File fallback
+            const profilePath = path.join(__dirname, 'data', 'profiles', `${safeName}.json`);
+            if (!fs.existsSync(profilePath)) return res.status(404).json({ error: 'Profile not found' });
+            const data = JSON.parse(fs.readFileSync(profilePath, 'utf8'));
+            data.stats.totalAttempted++;
+            if (isCorrect) data.stats.totalCorrect++;
+            if (!data.stats.subjectWise[subject]) data.stats.subjectWise[subject] = { attempted: 0, correct: 0 };
+            data.stats.subjectWise[subject].attempted++;
+            if (isCorrect) data.stats.subjectWise[subject].correct++;
+            if (data.stats.lastActiveDate !== today) {
+                const yesterday = new Date(Date.now() - 86400000).toISOString().split('T')[0];
+                data.stats.streakDays = data.stats.lastActiveDate === yesterday ? data.stats.streakDays + 1 : 1;
+                data.stats.lastActiveDate = today;
+            }
+            if (!isCorrect && questionData) {
+                if (!data.wrongAnswers.find(w => w.questionId === questionId)) data.wrongAnswers.push({ questionId, subject, question: questionData.question?.substring(0,200), options: questionData.options, answer: questionData.answer, explanation: questionData.explanation, addedAt: new Date().toISOString() });
+            } else { data.wrongAnswers = data.wrongAnswers.filter(w => w.questionId !== questionId); }
+            fs.writeFileSync(profilePath, JSON.stringify(data, null, 2));
+            res.json({ success: true, stats: data.stats });
+        }
+    } catch(e) { res.status(500).json({ error: e.message }); }
 });
 
-app.post('/api/profiles/:name/bookmark', (req, res) => {
+app.post('/api/profiles/:name/bookmark', async (req, res) => {
     const safeName = req.params.name.toLowerCase().replace(/[^a-z0-9]/g, '-');
-    const profilePath = path.join(__dirname, 'data', 'profiles', `${safeName}.json`);
-    if (!fs.existsSync(profilePath)) return res.status(404).json({ error: 'Profile not found' });
-    const data = JSON.parse(fs.readFileSync(profilePath, 'utf8'));
     const item = req.body;
-    if (!data.bookmarks.find(b => b.id === item.id)) {
-        data.bookmarks.push({ ...item, bookmarkedAt: new Date().toISOString() });
-    }
-    fs.writeFileSync(profilePath, JSON.stringify(data, null, 2));
-    res.json({ success: true, bookmarkCount: data.bookmarks.length });
+    try {
+        if (isMongoConnected()) {
+            const profile = await Profile.findOne({ safeName });
+            if (!profile) return res.status(404).json({ error: 'Profile not found' });
+            if (!profile.bookmarks.find(b => b.id === item.id)) {
+                profile.bookmarks.push({ ...item, bookmarkedAt: new Date().toISOString() });
+                profile.markModified('bookmarks');
+                await profile.save();
+            }
+            res.json({ success: true, bookmarkCount: profile.bookmarks.length });
+        } else {
+            const profilePath = path.join(__dirname, 'data', 'profiles', `${safeName}.json`);
+            if (!fs.existsSync(profilePath)) return res.status(404).json({ error: 'Profile not found' });
+            const data = JSON.parse(fs.readFileSync(profilePath, 'utf8'));
+            if (!data.bookmarks.find(b => b.id === item.id)) { data.bookmarks.push({ ...item, bookmarkedAt: new Date().toISOString() }); }
+            fs.writeFileSync(profilePath, JSON.stringify(data, null, 2));
+            res.json({ success: true, bookmarkCount: data.bookmarks.length });
+        }
+    } catch(e) { res.status(500).json({ error: e.message }); }
 });
 
-app.delete('/api/profiles/:name/bookmark/:id', (req, res) => {
+app.delete('/api/profiles/:name/bookmark/:id', async (req, res) => {
     const safeName = req.params.name.toLowerCase().replace(/[^a-z0-9]/g, '-');
-    const profilePath = path.join(__dirname, 'data', 'profiles', `${safeName}.json`);
-    if (!fs.existsSync(profilePath)) return res.status(404).json({ error: 'Profile not found' });
-    const data = JSON.parse(fs.readFileSync(profilePath, 'utf8'));
-    data.bookmarks = data.bookmarks.filter(b => b.id !== req.params.id);
-    fs.writeFileSync(profilePath, JSON.stringify(data, null, 2));
-    res.json({ success: true });
+    try {
+        if (isMongoConnected()) {
+            await Profile.updateOne({ safeName }, { $pull: { bookmarks: { id: req.params.id } } });
+            res.json({ success: true });
+        } else {
+            const profilePath = path.join(__dirname, 'data', 'profiles', `${safeName}.json`);
+            if (!fs.existsSync(profilePath)) return res.status(404).json({ error: 'Profile not found' });
+            const data = JSON.parse(fs.readFileSync(profilePath, 'utf8'));
+            data.bookmarks = data.bookmarks.filter(b => b.id !== req.params.id);
+            fs.writeFileSync(profilePath, JSON.stringify(data, null, 2));
+            res.json({ success: true });
+        }
+    } catch(e) { res.status(500).json({ error: e.message }); }
 });
 
-app.post('/api/profiles/:name/reset', (req, res) => {
+app.post('/api/profiles/:name/reset', async (req, res) => {
     const safeName = req.params.name.toLowerCase().replace(/[^a-z0-9]/g, '-');
-    const profilePath = path.join(__dirname, 'data', 'profiles', `${safeName}.json`);
-    if (!fs.existsSync(profilePath)) return res.status(404).json({ error: 'Profile not found' });
-    const data = JSON.parse(fs.readFileSync(profilePath, 'utf8'));
-    data.bookmarks = []; data.attempted = []; data.wrongAnswers = []; data.revisionQueue = [];
-    data.stats = { totalAttempted: 0, totalCorrect: 0, subjectWise: {}, streakDays: 0, lastActiveDate: null };
-    fs.writeFileSync(profilePath, JSON.stringify(data, null, 2));
-    res.json({ success: true });
+    try {
+        if (isMongoConnected()) {
+            await Profile.updateOne({ safeName }, { $set: { bookmarks: [], attempted: [], wrongAnswers: [], revisionQueue: [], stats: { totalAttempted: 0, totalCorrect: 0, subjectWise: {}, streakDays: 0, lastActiveDate: null } } });
+            res.json({ success: true });
+        } else {
+            const profilePath = path.join(__dirname, 'data', 'profiles', `${safeName}.json`);
+            if (!fs.existsSync(profilePath)) return res.status(404).json({ error: 'Profile not found' });
+            const data = JSON.parse(fs.readFileSync(profilePath, 'utf8'));
+            data.bookmarks = []; data.attempted = []; data.wrongAnswers = []; data.revisionQueue = [];
+            data.stats = { totalAttempted: 0, totalCorrect: 0, subjectWise: {}, streakDays: 0, lastActiveDate: null };
+            fs.writeFileSync(profilePath, JSON.stringify(data, null, 2));
+            res.json({ success: true });
+        }
+    } catch(e) { res.status(500).json({ error: e.message }); }
 });
 
-app.delete('/api/profiles/:name', (req, res) => {
+app.delete('/api/profiles/:name', async (req, res) => {
     const safeName = req.params.name.toLowerCase().replace(/[^a-z0-9]/g, '-');
-    const profilePath = path.join(__dirname, 'data', 'profiles', `${safeName}.json`);
-    if (!fs.existsSync(profilePath)) return res.status(404).json({ error: 'Profile not found' });
-    fs.unlinkSync(profilePath);
-    res.json({ success: true, deleted: safeName });
+    try {
+        if (isMongoConnected()) {
+            await Profile.deleteOne({ safeName });
+            res.json({ success: true, deleted: safeName });
+        } else {
+            const profilePath = path.join(__dirname, 'data', 'profiles', `${safeName}.json`);
+            if (!fs.existsSync(profilePath)) return res.status(404).json({ error: 'Profile not found' });
+            fs.unlinkSync(profilePath);
+            res.json({ success: true, deleted: safeName });
+        }
+    } catch(e) { res.status(500).json({ error: e.message }); }
 });
