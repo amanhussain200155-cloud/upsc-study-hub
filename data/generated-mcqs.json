@@ -16,7 +16,7 @@
       "generatedAt": "2026-08-05T12:31:27.951Z"
     },
     {
-      "subject": "Geography - Physical",
+      "subject": "Geography",
       "question": "With reference to oceanography, consider the following statements:\n\n1. The Antarctic Circumpolar Current (ACC) is the only current that flows completely around the globe without being blocked by landmasses, driven primarily by the Westerlies.\n2. The salinity of the Mediterranean Sea is higher than that of the Atlantic Ocean primarily due to high evaporation and limited exchange through the Strait of Gibraltar.\n3. Neap tides occur when the Sun, Moon, and Earth are aligned in a straight line (syzygy), resulting in the maximum tidal range.\n4. The Mid-Atlantic Ridge is a divergent plate boundary where seafloor spreading occurs, and it is characterized by a central rift valley.\n\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2 and 4 only",
@@ -31,7 +31,7 @@
       "generatedAt": "2026-08-05T12:31:27.951Z"
     },
     {
-      "subject": "Ancient History",
+      "subject": "History",
       "question": "Arrange the following Vedic texts/developments in chronological order (earliest to latest):\n\n1. Composition of the Rigveda Samhita\n2. Composition of the Upanishads (early ones like Brihadaranyaka, Chandogya)\n3. Emergence of the Painted Grey Ware (PGW) culture in the Ghaggar-Hakra and Ganga-Yamuna doab\n4. Composition of the Brahmanas (e.g., Aitareya, Shatapatha)\n5. Use of iron (Krishna Ayas) in the Ganga valley\n\nSelect the correct chronological sequence:",
       "options": [
         "1 - 4 - 3 - 5 - 2",
@@ -40,7 +40,7 @@
         "3 - 1 - 4 - 5 - 2"
       ],
       "answer": 0,
-      "explanation": "Correct sequence: 1. Rigveda Samhita (c. 1500-1000 BCE, Early Vedic). 2. Brahmanas (c. 1000-800 BCE, Later Vedic) – ritual commentaries on Samhitas. 3. PGW culture (c. 1200-600 BCE, peaks c. 900-600 BCE) – archaeological correlate of Later Vedic culture in western Ganga plain. 4. Iron use (Krishna Ayas) in Ganga valley (c. 1000-800 BCE onwards, widespread by 800 BCE) – mentioned in Later Vedic texts (Atharvaveda, Brahmanas). 5. Early Upanishads (c. 800-500 BCE) – philosophical end of Vedic corpus (Vedanta). Note: PGW and iron overlap; PGW begins slightly before widespread iron but both are Later Vedic. The sequence 1-4-3-5-2 best reflects textual and archaeological consensus.",
+      "explanation": "Correct sequence: 1. Rigveda Samhita (c. 1500-1000 BCE, Early Vedic). 2. Brahmanas (c. 1000-800 BCE, Later Vedic) \u2013 ritual commentaries on Samhitas. 3. PGW culture (c. 1200-600 BCE, peaks c. 900-600 BCE) \u2013 archaeological correlate of Later Vedic culture in western Ganga plain. 4. Iron use (Krishna Ayas) in Ganga valley (c. 1000-800 BCE onwards, widespread by 800 BCE) \u2013 mentioned in Later Vedic texts (Atharvaveda, Brahmanas). 5. Early Upanishads (c. 800-500 BCE) \u2013 philosophical end of Vedic corpus (Vedanta). Note: PGW and iron overlap; PGW begins slightly before widespread iron but both are Later Vedic. The sequence 1-4-3-5-2 best reflects textual and archaeological consensus.",
       "id": "syl-1785933087951-3vum",
       "source": "AI Syllabus",
       "generatedAt": "2026-08-05T12:31:27.951Z"
@@ -55,13 +55,13 @@
         "3-1-5-4-2"
       ],
       "answer": 2,
-      "explanation": "1. BSF established: 1 December 1965 (post-1965 war). 2. ITBP created: 24 October 1962 (post-1962 Sino-Indian War). 3. BADP constituted: 1986-87 (7th Five Year Plan) as a central scheme for border blocks. 4. SSB (formerly Special Service Bureau, 1963) was declared a border guarding force for Indo-Nepal/Indo-Bhutan borders in 2001 (renamed Sashastra Seema Bal in 2003). 5. CIBMS launched: 2017 (pilot in Jammu 2018). Correct chronological order: ITBP (1962) → BSF (1965) → BADP (1986-87) → SSB as border force (2001) → CIBMS (2017). Thus, 3-1-4-5-2.",
+      "explanation": "1. BSF established: 1 December 1965 (post-1965 war). 2. ITBP created: 24 October 1962 (post-1962 Sino-Indian War). 3. BADP constituted: 1986-87 (7th Five Year Plan) as a central scheme for border blocks. 4. SSB (formerly Special Service Bureau, 1963) was declared a border guarding force for Indo-Nepal/Indo-Bhutan borders in 2001 (renamed Sashastra Seema Bal in 2003). 5. CIBMS launched: 2017 (pilot in Jammu 2018). Correct chronological order: ITBP (1962) \u2192 BSF (1965) \u2192 BADP (1986-87) \u2192 SSB as border force (2001) \u2192 CIBMS (2017). Thus, 3-1-4-5-2.",
       "id": "syl-1785934765745-4p2j",
       "source": "AI Syllabus",
       "generatedAt": "2026-08-05T12:59:25.745Z"
     },
     {
-      "subject": "Medieval History",
+      "subject": "History",
       "question": "Arrange the following events related to regional kingdoms in chronological order:\n\n1. Foundation of the Ahom kingdom by Sukaphaa\n2. Battle of Talikota leading to the decline of Vijayanagara Empire\n3. Establishment of the Khalsa Panth by Guru Gobind Singh\n4. Coronation of Shivaji as Chhatrapati\n5. Treaty of Yandabo ending the First Anglo-Burmese War (affecting Ahom kingdom)\n\nSelect the correct chronological sequence using the code given below:",
       "options": [
         "(a) 1-2-4-3-5",
@@ -70,7 +70,7 @@
         "(d) 1-4-2-3-5"
       ],
       "answer": 0,
-      "explanation": "The correct chronological order is:\n\n1. Foundation of the Ahom kingdom by Sukaphaa - 1228 CE (Sukaphaa entered the Brahmaputra valley and established the Ahom kingdom)\n\n2. Battle of Talikota - 1565 CE (Deccan Sultanates defeated Vijayanagara Empire)\n\n4. Coronation of Shivaji as Chhatrapati - 1674 CE (Shivaji crowned at Raigad)\n\n3. Establishment of the Khalsa Panth by Guru Gobind Singh - 1699 CE (Baisakhi day at Anandpur Sahib)\n\n5. Treaty of Yandabo - 1826 CE (Ended First Anglo-Burmese War; Ahom kingdom came under British control)\n\nSequence: 1 → 2 → 4 → 3 → 5\n\nOption (a) is correct.",
+      "explanation": "The correct chronological order is:\n\n1. Foundation of the Ahom kingdom by Sukaphaa - 1228 CE (Sukaphaa entered the Brahmaputra valley and established the Ahom kingdom)\n\n2. Battle of Talikota - 1565 CE (Deccan Sultanates defeated Vijayanagara Empire)\n\n4. Coronation of Shivaji as Chhatrapati - 1674 CE (Shivaji crowned at Raigad)\n\n3. Establishment of the Khalsa Panth by Guru Gobind Singh - 1699 CE (Baisakhi day at Anandpur Sahib)\n\n5. Treaty of Yandabo - 1826 CE (Ended First Anglo-Burmese War; Ahom kingdom came under British control)\n\nSequence: 1 \u2192 2 \u2192 4 \u2192 3 \u2192 5\n\nOption (a) is correct.",
       "id": "syl-1785935430370-pblk",
       "source": "AI Syllabus",
       "generatedAt": "2026-08-05T13:10:30.370Z"
@@ -126,7 +126,7 @@
       "source": "Current Affairs (AI)",
       "generatedAt": "2026-08-05T13:13:08.672Z",
       "articleLink": "https://www.thehindu.com/news/international/west-asia-war-tehran-washington-talks-iran-oman-diplomatic-engagement-strait-of-hormuz-live-updates-august-5-2026/article71307954.ece",
-      "articleContent": "\"More than 8,00,000 people displaced by war in Lebanon have begun returning to their hometowns following a lull in violence amid the Israel-Hezbollah war,” the United Nations said",
+      "articleContent": "\"More than 8,00,000 people displaced by war in Lebanon have begun returning to their hometowns following a lull in violence amid the Israel-Hezbollah war,\u201d the United Nations said",
       "articleSource": "The Hindu (International)"
     },
     {
@@ -155,14 +155,14 @@
         "1, 2 and 3"
       ],
       "answer": 0,
-      "explanation": "Statement 1 is correct: Suspending factory inspections by certification bodies (like CQC) creates procedural hurdles and delays for US exporters, acting as a Non-Tariff Barrier (NTB) — specifically a conformity assessment procedure restriction.\nStatement 2 is incorrect: While GATT Article XXI (Security Exceptions) allows members to take actions they consider necessary for their essential security interests, it is not unconditional. The WTO Appellate Body in *Russia – Traffic in Transit* (2019) ruled that Article XXI is subject to a minimum standard of good faith review; it cannot be invoked arbitrarily as a pretext for protectionism. China's invocation is contestable.\nStatement 3 is incorrect: Retaliatory measures (countermeasures) authorized by the WTO Dispute Settlement Body (DSB) are an exception to MFN. However, *unilateral* retaliation without DSB authorization violates MFN (Article I) and dispute settlement rules (DSU Article 23). Since China's measures appear unilateral (not DSB-authorized), they violate WTO obligations, but the *act of blacklisting itself* is a violation of National Treatment/Market Access, not specifically the MFN principle (which requires equal treatment of *all* trading partners). The measure targets the US specifically, so it violates MFN *de facto*, but the primary legal characterization is a violation of specific commitments and the prohibition on unilateral retaliation.",
+      "explanation": "Statement 1 is correct: Suspending factory inspections by certification bodies (like CQC) creates procedural hurdles and delays for US exporters, acting as a Non-Tariff Barrier (NTB) \u2014 specifically a conformity assessment procedure restriction.\nStatement 2 is incorrect: While GATT Article XXI (Security Exceptions) allows members to take actions they consider necessary for their essential security interests, it is not unconditional. The WTO Appellate Body in *Russia \u2013 Traffic in Transit* (2019) ruled that Article XXI is subject to a minimum standard of good faith review; it cannot be invoked arbitrarily as a pretext for protectionism. China's invocation is contestable.\nStatement 3 is incorrect: Retaliatory measures (countermeasures) authorized by the WTO Dispute Settlement Body (DSB) are an exception to MFN. However, *unilateral* retaliation without DSB authorization violates MFN (Article I) and dispute settlement rules (DSU Article 23). Since China's measures appear unilateral (not DSB-authorized), they violate WTO obligations, but the *act of blacklisting itself* is a violation of National Treatment/Market Access, not specifically the MFN principle (which requires equal treatment of *all* trading partners). The measure targets the US specifically, so it violates MFN *de facto*, but the primary legal characterization is a violation of specific commitments and the prohibition on unilateral retaliation.",
       "sourceArticle": "China announces 'countermeasures' after U.S. trade sanctions",
       "id": "ca-ai-1785935669464-mbs1",
       "source": "Current Affairs (AI)",
       "generatedAt": "2026-08-05T13:14:29.464Z"
     },
     {
-      "subject": "Modern History",
+      "subject": "History",
       "question": "With reference to the Civil Disobedience Movement (1930-34), consider the following statements:\n\n1. The movement was launched with the Dandi March on 12 March 1930, but the formal breach of Salt Law occurred on 6 April 1930.\n2. The Gandhi-Irwin Pact (1931) provided for the release of all political prisoners, including those convicted of violence.\n3. The Second Round Table Conference (1931) saw Gandhi as the sole representative of the Indian National Congress.\n4. The movement was officially suspended in May 1933 and formally withdrawn in May 1934.\n\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 3 and 4 only",
@@ -177,7 +177,7 @@
       "generatedAt": "2026-08-05T13:16:03.819Z"
     },
     {
-      "subject": "Medieval History",
+      "subject": "History",
       "question": "Consider the following statements regarding the Sufi orders (Silsilahs) in medieval India:\n\n1. The Chishti order was introduced in India by Khwaja Moinuddin Chishti and emphasized renunciation of worldly possessions and service to humanity.\n2. The Suhrawardi order, unlike the Chishtis, accepted state patronage and held important governmental positions.\n3. The Naqshbandi order, introduced by Baqi Billah, emphasized strict adherence to Sharia and opposed the concept of Wahdat al-Wujud (Unity of Being).\n4. The Qadiri order was founded in India by Shah Nimatullah Wali and focused on music (Sama) as a means of spiritual elevation.\n\nWhich of the statements given above are correct?",
       "options": [
         "(a) 1 and 2 only",
@@ -211,7 +211,7 @@
       "articleSource": "The Hindu (National)"
     },
     {
-      "subject": "Geography - India",
+      "subject": "Geography",
       "question": "Consider the following statements regarding the drainage systems of India:\n1. The Indus river system has a larger drainage basin area within India than the Ganga river system.\n2. The Western Ghats act as the main water divide between the east-flowing and west-flowing Peninsular rivers.\n3. The Brahmaputra river, before entering India, flows through the Tibet Autonomous Region where it is known as Yarlung Tsangpo.\n4. The Narmada and Tapi rivers flow through rift valleys and form estuaries rather than deltas.\nWhich of the statements given above are correct?",
       "options": [
         "1 and 2 only",
@@ -224,9 +224,233 @@
       "id": "syl-1785938063486-ny9a",
       "source": "AI Syllabus",
       "generatedAt": "2026-08-05T13:54:23.486Z"
+    },
+    {
+      "subject": "Polity & Governance",
+      "question": "With reference to the legislative process in Parliament, consider the following statements:\n1. A Bill pending in the Lok Sabha lapses on the dissolution of the Lok Sabha.\n2. A Bill passed by the Lok Sabha but pending in the Rajya Sabha lapses on the dissolution of the Lok Sabha.\n3. A Bill not passed by the two Houses due to disagreement and pending before a Joint Sitting does not lapse on the dissolution of the Lok Sabha.\n4. The Taxation and Other Laws (Amendment) Bill, 2024, being a Money Bill, cannot be referred to a Joint Sitting of Parliament.\nWhich of the statements given above are correct?",
+      "options": [
+        "1 and 2 only",
+        "1, 2 and 3 only",
+        "1, 2 and 4 only",
+        "2, 3 and 4 only"
+      ],
+      "answer": 1,
+      "explanation": "Statement 1 is correct: Under Article 107(5) of the Constitution, a Bill pending in the Lok Sabha lapses on its dissolution. Statement 2 is correct: A Bill passed by Lok Sabha but pending in Rajya Sabha also lapses on dissolution of Lok Sabha (Article 107(5)). Statement 3 is correct: Under Article 108, a Bill pending before a Joint Sitting does not lapse on dissolution of Lok Sabha. Statement 4 is incorrect: While Money Bills cannot be referred to a Joint Sitting (Article 109), the Taxation and Other Laws (Amendment) Bill is a Finance Bill (Category I) under Article 117(1), not a Money Bill under Article 110. Finance Bills can be referred to Joint Sitting if there is disagreement between the Houses, though in practice this is rare. The news mentions this Bill was to be moved in Lok Sabha during the Monsoon Session.",
+      "sourceArticle": "Parliament Monsoon Session Day 14 LIVE: Lok Sabha pays homage to Hiroshima-Nagasaki atomic bombing victims; Opposition continues protest in Rajya Sabha",
+      "id": "ca-ai-1785996970357-htdb",
+      "source": "Current Affairs (AI)",
+      "generatedAt": "2026-08-06T06:16:10.357Z",
+      "articleLink": "https://www.thehindu.com/news/national/parliament-monsoon-session-day-14-nirmala-sitharaman-to-move-taxation-and-other-laws-amendment-bill-in-lok-sabha-rajya-sabha-live-updates-august-6-2026/article71312092.ece",
+      "articleContent": "Lok Sabha adjourned till 2 p.m.; Nirmala Sitharaman to move Taxation and Other Laws (Amendment) Bill in Lok Sabha",
+      "articleSource": "The Hindu (National)"
+    },
+    {
+      "subject": "Economy",
+      "question": "Consider the following statements regarding the Agriculture Budget presented by Tamil Nadu:\n1. Tamil Nadu presents a separate Agriculture Budget, a practice initiated in 2021-22.\n2. The Agriculture Budget for 2024-25 includes contingency plans for 12 districts to cope with Super El Ni\u00f1o impacts, particularly during the Kuruvai season.\n3. The Kuruvai season in Tamil Nadu corresponds to the Kharif season and is primarily dependent on the Southwest Monsoon.\n4. The Cauvery water dispute between Tamil Nadu and Karnataka is adjudicated by the Cauvery Water Management Authority (CWMA) constituted under the Inter-State River Water Disputes Act, 1956.\nWhich of the statements given above are correct?",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2 and 4 only",
+        "2, 3 and 4 only",
+        "1, 2, 3 and 4"
+      ],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: Tamil Nadu became the first state in India to present a separate Agriculture Budget in 2021-22, a practice continued annually. Statement 2 is correct: As per the news, the 2024-25 Agriculture Budget presented by Minister R. Vinoth includes contingency plans for 12 districts to address Super El Ni\u00f1o impacts during the Kuruvai season. Statement 3 is correct: Kuruvai (June-July to October-November) is the Kharif season in Tamil Nadu, primarily dependent on Southwest Monsoon and Cauvery water releases from Karnataka. Statement 4 is incorrect: The Cauvery Water Management Authority (CWMA) was constituted in 2018 under the Cauvery Water Disputes Tribunal's final award as modified by the Supreme Court, not directly under the Inter-State River Water Disputes Act, 1956. The Act provides for Tribunals, while CWMA is an implementation authority created by the Central Government under the Tribunal's award.",
+      "sourceArticle": "T.N. Agriculture Budget | Contingency plans drawn up for districts to cope with Super El Ni\u00f1o impacts: Minister",
+      "id": "ca-ai-1785996970357-ox0l",
+      "source": "Current Affairs (AI)",
+      "generatedAt": "2026-08-06T06:16:10.357Z",
+      "articleLink": "https://www.thehindu.com/news/national/tamil-nadu/tn-agriculture-budget-contingency-plans-drawn-up-for-districts-to-cope-with-super-el-nino-impacts-minister/article71312267.ece",
+      "articleContent": "Presenting the Agriculture Budget in the Assembly, R. Vinoth said while severe climatic impacts were anticipated across the country during the current year, particularly in the Kuruvai season, 12 districts in Tamil Nadu were expected to be severely affected",
+      "articleSource": "The Hindu (National)"
+    },
+    {
+      "subject": "Geography",
+      "question": "With reference to the Kodagu district in Karnataka, consider the following statements:\n1. Kodagu district is the primary catchment area for the Krishna Raja Sagara (KRS) reservoir on the Cauvery River.\n2. The KRS reservoir is the lifeline for irrigation in Mysuru and Mandya districts.\n3. Kodagu receives the highest rainfall in Karnataka during the Southwest Monsoon season.\n4. The Cauvery River originates at Talakaveri in Kodagu district.\nWhich of the statements given above are correct?",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2 and 4 only",
+        "2, 3 and 4 only",
+        "1, 2, 3 and 4"
+      ],
+      "answer": 1,
+      "explanation": "Statement 1 is correct: As mentioned in the news, Kodagu district is considered the primary catchment for the KRS reservoir. Statement 2 is correct: The news explicitly states KRS reservoir is the lifeline of Mysuru and Mandya districts, providing irrigation and drinking water. Statement 3 is incorrect: While Kodagu receives heavy rainfall, the highest rainfall in Karnataka during Southwest Monsoon is typically received in the Western Ghats regions of Uttara Kannada (e.g., Agumbe, Hulikal) and not necessarily Kodagu. Statement 4 is correct: The Cauvery River originates at Talakaveri in the Brahmagiri hills of Kodagu district, Karnataka. The below-normal rainfall in Kodagu directly impacts Cauvery water availability downstream.",
+      "sourceArticle": "Karnataka: Kodagu district receives below-normal rainfall; Minister hopeful of rains in August",
+      "id": "ca-ai-1785996970357-0z5j",
+      "source": "Current Affairs (AI)",
+      "generatedAt": "2026-08-06T06:16:10.357Z",
+      "articleLink": "https://www.thehindu.com/news/national/karnataka/karnataka-rain-kodagu-district-receives-below-normal-rainfall-minister-hopeful-of-rains-in-august/article71312022.ece",
+      "articleContent": "Kodagu district is considered to be the primary catchment for KRS reservoir, which is the lifeline of Mysuru and Mandya districts, providing irrigation to thousands of acres of farmland and drinking water for the region, including Bengaluru",
+      "articleSource": "The Hindu (National)"
+    },
+    {
+      "subject": "Economy",
+      "question": "Consider the following statements regarding El Ni\u00f1o and its impact on Indian agriculture:\n1. El Ni\u00f1o is characterized by unusual warming of surface waters in the central and eastern tropical Pacific Ocean.\n2. A 'Super El Ni\u00f1o' event is declared when the Oceanic Ni\u00f1o Index (ONI) exceeds +2.0\u00b0C for at least three consecutive overlapping seasons.\n3. El Ni\u00f1o generally leads to deficient Southwest Monsoon rainfall over India, adversely affecting Kharif crops.\n4. The India Meteorological Department (IMD) issues El Ni\u00f1o forecasts in collaboration with the World Meteorological Organization (WMO).\nWhich of the statements given above are correct?",
+      "options": [
+        "1 and 3 only",
+        "1, 2 and 3 only",
+        "1, 3 and 4 only",
+        "2, 3 and 4 only"
+      ],
+      "answer": 2,
+      "explanation": "Statement 1 is correct: El Ni\u00f1o is the warm phase of ENSO, characterized by unusual warming of surface waters in the central and eastern tropical Pacific Ocean. Statement 2 is incorrect: A 'Super El Ni\u00f1o' is not officially defined by ONI exceeding +2.0\u00b0C. The term is used informally for very strong events (like 1997-98, 2015-16). NOAA defines 'strong' El Ni\u00f1o as ONI \u2265 +1.5\u00b0C; there is no official 'Super' category at +2.0\u00b0C. Statement 3 is correct: El Ni\u00f1o generally weakens the Southwest Monsoon, leading to below-normal rainfall and adverse impacts on Kharif crops, as highlighted in the news regarding Tamil Nadu's contingency plans for Kuruvai season. Statement 4 is correct: IMD issues seasonal forecasts including El Ni\u00f1o/La Ni\u00f1a outlooks in collaboration with WMO and other global climate centers. The news mentions 'Super El Ni\u00f1o impacts' anticipated during the current year.",
+      "sourceArticle": "T.N. Agriculture Budget | Contingency plans drawn up for districts to cope with Super El Ni\u00f1o impacts: Minister",
+      "id": "ca-ai-1785996970357-h8nu",
+      "source": "Current Affairs (AI)",
+      "generatedAt": "2026-08-06T06:16:10.357Z",
+      "articleLink": "https://www.thehindu.com/news/national/tamil-nadu/tn-agriculture-budget-contingency-plans-drawn-up-for-districts-to-cope-with-super-el-nino-impacts-minister/article71312267.ece",
+      "articleContent": "Presenting the Agriculture Budget in the Assembly, R. Vinoth said while severe climatic impacts were anticipated across the country during the current year, particularly in the Kuruvai season, 12 districts in Tamil Nadu were expected to be severely affected",
+      "articleSource": "The Hindu (National)"
+    },
+    {
+      "subject": "Indian Economy / Federalism",
+      "question": "Consider the following statements regarding inter-state water disputes in India:\n1. The Cauvery Water Disputes Tribunal was constituted under the Inter-State River Water Disputes Act, 1956.\n2. The decision of a Water Disputes Tribunal becomes binding only after it is published in the Official Gazette by the Central Government.\n3. The Supreme Court has no jurisdiction to hear appeals against the decision of a Water Disputes Tribunal.\nWhich of the statements given above is/are correct?",
+      "options": [
+        "1 and 2 only",
+        "2 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "answer": 0,
+      "explanation": "Statement 1 is correct - the Cauvery Water Disputes Tribunal was constituted in 1990 under the Inter-State River Water Disputes Act, 1956 (now amended in 2019). Statement 2 is correct under Section 6 of the Act - the Tribunal's decision becomes binding only after publication in the Official Gazette by the Central Government. Statement 3 is incorrect - while Article 262(2) bars Supreme Court jurisdiction over inter-state water disputes, the Supreme Court has held in Cauvery case (2018) that it can hear appeals under Article 136 (Special Leave Petition) against Tribunal decisions, as these are not 'original jurisdiction' matters under Article 262.",
+      "sourceArticle": "On day of Agriculture Budget, DMK MLAs wear black over TVK-led government's 'failure' on Cauvery issue",
+      "id": "ca-ai-1785997863871-j2tt",
+      "source": "Current Affairs (AI)",
+      "generatedAt": "2026-08-06T06:31:03.871Z",
+      "articleLink": "https://www.thehindu.com/news/national/tamil-nadu/on-day-of-agriculture-budget-dmk-mlas-wear-black-over-tvk-led-governments-failure-on-cauvery-issue/article71312193.ece",
+      "articleContent": "The Agri Budget was presented by Minister R. Vinoth, who waxed eloquent about Chief Minister C. Joseph Vijay and the TVK government",
+      "articleSource": "The Hindu (National)"
+    },
+    {
+      "subject": "Polity & Governance",
+      "question": "With reference to the Special Intensive Revision (SIR) of electoral rolls conducted by the Election Commission of India, consider the following statements:\n1. The SIR is conducted under the provisions of the Representation of the People Act, 1950.\n2. It aims to achieve a 'clean and error-free' electoral roll by focusing on the removal of duplicate entries, deceased voters, and shifted electors.\n3. The ECI has completed the SIR for approximately 700 million voters, with verification of another 350 million voters underway.\nWhich of the statements given above is/are correct?",
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "answer": 3,
+      "explanation": "Statement 1 is correct: The preparation and revision of electoral rolls are governed by the Representation of the People Act, 1950 (specifically Sections 21, 22, and 23), and the Registration of Electors Rules, 1960. The Special Intensive Revision is a targeted exercise undertaken by the ECI under this legal framework. Statement 2 is correct: The primary objective of SIR is to improve the fidelity of electoral rolls by identifying and removing duplicate entries (using ERONET software), deleting entries of deceased electors, and updating records of shifted voters to prevent bogus voting. Statement 3 is incorrect as per the article: The article states the SIR has been 'completed for around 700 million voters, while verification of another 350 million voters' is ongoing \u2013 implying the 350 million are part of the same exercise, not a separate verification phase. The phrasing suggests the total electorate covered is approximately 1.05 billion, with 700 million completed and 350 million remaining.",
+      "sourceArticle": "Election Commission's transparency unparalleled: Gyanesh Kumar",
+      "id": "ca-ai-1786000571618-hv6o",
+      "source": "Current Affairs (AI)",
+      "generatedAt": "2026-08-06T07:16:11.618Z",
+      "articleLink": "https://www.thehindu.com/news/national/election-commissions-transparency-unparalleled-gyanesh-kumar/article71311933.ece",
+      "articleContent": "Commenting on the Special Intensive Revision (SIR) of electoral rolls, Mr. Kumar said the exercise has already been completed for around 700 million voters, while verification of another 350 million voters is underway.",
+      "articleSource": "The Hindu (National)"
+    },
+    {
+      "subject": "Economy / Agriculture",
+      "question": "Consider the following statements regarding the Tamil Nadu Agriculture Budget 2024-25 and measures for human-wildlife conflict mitigation:\n1. The Tamil Nadu government has announced the distribution of eco-friendly liquid repellent to farmers to tackle crop damage by wild boars.\n2. Solar-powered electric fencing systems will be installed at subsidised rates to protect crops from elephants, gaurs, and deer in addition to wild boars.\n3. The Agriculture Budget was presented by the Minister for Agriculture and Farmers' Welfare in the Tamil Nadu Legislative Assembly.\nWhich of the statements given above is/are correct?",
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "answer": 3,
+      "explanation": "Statement 1 is correct: As per the Tamil Nadu Agriculture Budget announcements, the government will provide an eco-friendly liquid repellent to farmers to deter wild boars, which are a major cause of crop loss in the state. Statement 2 is correct: The budget also includes a provision for installing solar-powered electric fencing systems at subsidised rates to mitigate crop damage not only from wild boars but also from elephants, gaurs (Indian bison), and deer \u2013 addressing human-wildlife conflict comprehensively. Statement 3 is incorrect: The article explicitly states the Agri Budget was presented by 'Minister R. Vinoth' \u2013 who is the Minister for Forests, not the Minister for Agriculture and Farmers' Welfare (currently M.R.K. Panneerselvam). This is a notable detail as the Forest Department often handles human-wildlife conflict measures, explaining the ministerial overlap.",
+      "sourceArticle": "Tamil Nadu Agriculture Budget: Eco-friendly liquid repellent to help farmers tackle wild boars",
+      "id": "ca-ai-1786000571618-5xig",
+      "source": "Current Affairs (AI)",
+      "generatedAt": "2026-08-06T07:16:11.618Z",
+      "articleLink": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-agriculture-budget-eco-friendly-liquid-repellent-to-help-farmers-tackle-wild-boar-menace/article71312375.ece",
+      "articleContent": "To further reduce crop losses caused not only by wild boars but also by elephants, gaurs, and deer, the government will install solar-powered electric fencing systems at subsidised rates",
+      "articleSource": "The Hindu (National)"
+    },
+    {
+      "subject": "Geography / Environment",
+      "question": "With reference to the drought and drinking water crisis in Yadgir district, Karnataka, consider the following statements:\n1. Yadgir district falls under the North Interior Karnataka agro-climatic zone, which is chronically drought-prone.\n2. The Karnataka government has directed Revenue and Agriculture Department officials to submit a comprehensive report on crop damage for initiating relief measures under the State Disaster Response Fund (SDRF).\n3. The National Disaster Response Fund (NDRF) is the primary funding mechanism for state-level drought relief operations.\nWhich of the statements given above is/are correct?",
+      "options": [
+        "1 and 2 only",
+        "2 only",
+        "1 and 3 only",
+        "2 and 3 only"
+      ],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: Yadgir district is located in the North Interior Karnataka region (specifically the Kalyana-Karnataka region), which is classified as a drought-prone area with low and erratic rainfall, falling under the 'arid' and 'semi-arid' agro-climatic zones. Statement 2 is correct: As per the article, Minister Sharan Prakash Patil directed Revenue and Agriculture Department officials to submit a comprehensive report on crop damage caused by prolonged dry spells so that the district administration could initiate relief measures. This is the standard procedure for accessing SDRF (State Disaster Response Fund) norms for relief assistance. Statement 3 is incorrect: The primary funding mechanism for state-level drought relief is the State Disaster Response Fund (SDRF), constituted under Section 48 of the Disaster Management Act, 2005. The NDRF (National Disaster Response Fund) provides supplementary central assistance only for 'severe' calamities when the SDRF is insufficient, based on central team assessment.",
+      "sourceArticle": "Karnataka rain Minister Sharan Prakash Patil reviews drought and drinking water crisis in Yadgir",
+      "id": "ca-ai-1786000571618-b7nu",
+      "source": "Current Affairs (AI)",
+      "generatedAt": "2026-08-06T07:16:11.618Z",
+      "articleLink": "https://www.thehindu.com/news/national/karnataka/karnataka-rain-minister-sharan-prakash-patil-reviews-drought-and-drinking-water-crisis-in-yadgir/article71310434.ece",
+      "articleContent": "Dr. Patil directed Revenue and Agriculture Department officials to submit a comprehensive report on crop damage caused by prolonged dry spells so the district administration could initiate relief measures immediately",
+      "articleSource": "The Hindu (National)"
+    },
+    {
+      "subject": "Polity & Governance",
+      "question": "Consider the following statements regarding the constitutional and legal framework for judicial appointments and diversity in India:\n1. Article 124(2) of the Constitution mandates consultation with the Chief Justice of India for appointment of Supreme Court judges, but does not specify any criteria for social diversity.\n2. The 99th Constitutional Amendment Act, 2014 (NJAC Act) included a provision for two 'eminent persons' to be nominated by a committee comprising the Prime Minister, Leader of Opposition, and CJI, with one eminent person to be from SC/ST/OBC/minorities/women.\n3. The Supreme Court in the 'Fourth Judges Case' (2015) struck down the NJAC but directed the government to finalize a new Memorandum of Procedure (MoP) incorporating eligibility criteria and transparency measures.\nWhich of the statements given above is/are correct?",
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "answer": 3,
+      "explanation": "Statement 1 is correct: Article 124(2) states that the President shall appoint Supreme Court judges after consultation with such judges of the Supreme Court and High Courts as the President may deem necessary. The CJI is always consulted. The Constitution does not prescribe any diversity or reservation criteria for judicial appointments. Statement 2 is correct: The NJAC Act, 2014 (via 99th Amendment) provided for a 6-member commission including two 'eminent persons' nominated by a committee of PM, LoP, and CJI. The Act explicitly mandated that one of the two eminent persons shall belong to SC/ST/OBC/minorities/women \u2013 a legislative attempt to institutionalize diversity. Statement 3 is correct: In the Fourth Judges Case (Supreme Court Advocates-on-Record Association v. Union of India, 2015), the Supreme Court struck down the 99th Amendment and NJAC Act as unconstitutional (violating judicial independence/basic structure). However, the Court directed the government to finalize a revised Memorandum of Procedure (MoP) in consultation with the CJI, incorporating eligibility criteria, transparency, and a complaint mechanism. The MoP remains under discussion.",
+      "sourceArticle": "Parliament Monsoon Session Day 14 LIVE: RS MP Manoj Jha asks about steps taken to ensure representation of judges from SC and ST communities in the judiciary",
+      "id": "ca-ai-1786000571618-6tt8",
+      "source": "Current Affairs (AI)",
+      "generatedAt": "2026-08-06T07:16:11.618Z",
+      "articleLink": "https://www.thehindu.com/news/national/parliament-monsoon-session-day-14-nirmala-sitharaman-to-move-taxation-and-other-laws-amendment-bill-in-lok-sabha-rajya-sabha-live-updates-august-6-2026/article71312092.ece",
+      "articleContent": "Lok Sabha adjourned till 2 p.m.; Nirmala Sitharaman to move Taxation and Other Laws (Amendment) Bill in Lok Sabha",
+      "articleSource": "The Hindu (National)"
+    },
+    {
+      "subject": "Polity & Governance",
+      "question": "Consider the following statements regarding the jurisdiction and appellate mechanism of key tribunals in India:\n\n1. The National Green Tribunal (NGT) hears appeals directly from the Supreme Court of India under Section 22 of the NGT Act, 2010, bypassing High Courts entirely.\n2. The Central Administrative Tribunal (CAT), established under Article 323A of the Constitution, allows appeals against its orders to lie directly to the Supreme Court under Article 136.\n3. The National Company Law Tribunal (NCLT), constituted under Sections 408-411 of the Companies Act, 2013, has its appeals heard by the National Company Law Appellate Tribunal (NCLAT), whose decisions can be appealed to the Supreme Court.\n4. The Armed Forces Tribunal (AFT), established under the Armed Forces Tribunal Act, 2007, provides for appeals to lie directly to the Supreme Court against its orders.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "1 and 3 only",
+        "2 and 4 only",
+        "1, 3 and 4 only",
+        "3 and 4 only"
+      ],
+      "answer": 3,
+      "explanation": "Correct Answer: (d) 3 and 4 only\n\nDetailed Analysis:\n\nStatement 1 is INCORRECT: Section 22 of the NGT Act, 2010 provides that appeals against NGT orders lie to the Supreme Court, but this is a direct appeal (not bypassing High Courts - High Courts never had appellate jurisdiction over NGT). The phrasing \"bypassing High Courts entirely\" is misleading because High Courts never had appellate jurisdiction over NGT in the first place. However, the key error is that the Supreme Court hears appeals from NGT, not that NGT hears appeals from the Supreme Court. The statement reverses the appellate direction.\n\nStatement 2 is INCORRECT: CAT was established under Article 323A (inserted by 42nd Amendment, 1976) via the Administrative Tribunals Act, 1985. However, appeals against CAT orders lie to the concerned High Court under Section 28 of the Administrative Tribunals Act, 1985, NOT directly to the Supreme Court. The Supreme Court can only be approached via Special Leave Petition under Article 136 against High Court orders, not directly against CAT orders.\n\nStatement 3 is CORRECT: NCLT was constituted on 1 June 2016 under Sections 408-411 of the Companies Act, 2013. Appeals from NCLT lie to NCLAT (Section 421), and appeals from NCLAT lie to the Supreme Court on questions of law (Section 423).\n\nStatement 4 is CORRECT: The Armed Forces Tribunal Act, 2007 (operationalized 2009) provides under Section 31 that appeals against AFT orders lie directly to the Supreme Court. This is a unique feature - AFT is one of the few tribunals with direct Supreme Court appeal.",
+      "id": "syl-1786000775650-clhw",
+      "source": "AI Syllabus",
+      "generatedAt": "2026-08-06T07:19:35.650Z"
+    },
+    {
+      "subject": "Polity & Governance",
+      "question": "Consider the following statements regarding anticipatory bail in India:\n1. The power to grant anticipatory bail is conferred on the High Courts and Sessions Courts under Section 438 of the Code of Criminal Procedure, 1973.\n2. The Supreme Court can grant anticipatory bail directly under Article 32 of the Constitution as part of its writ jurisdiction.\n3. In the Salboni land-grabbing case, the Supreme Court stayed the arrest of the accused after the Calcutta High Court rejected his anticipatory bail plea.\nWhich of the statements given above is/are correct?",
+      "options": [
+        "1 and 3 only",
+        "2 and 3 only",
+        "1 only",
+        "1, 2 and 3"
+      ],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: Section 438 of CrPC, 1973 (now Section 482 of BNSS, 2023) empowers High Courts and Sessions Courts to grant anticipatory bail to a person apprehending arrest for a non-bailable offence. Statement 2 is incorrect: The Supreme Court does not ordinarily entertain anticipatory bail applications directly under Article 32; it exercises this power sparingly under Article 136 (Special Leave Petition) or in exceptional circumstances where fundamental rights are violated. The Supreme Court generally directs the applicant to approach the High Court first. Statement 3 is correct: As per the news, the Supreme Court stayed the arrest of Sumit Roy after the Calcutta High Court rejected his anticipatory bail plea on August 3, exercising its appellate/revisional jurisdiction.",
+      "sourceArticle": "Supreme Court stays arrest of Abhishek Banerjee's aide Sumit Roy in Salboni land-grabbing case",
+      "id": "ca-ai-1786002036201-73g8",
+      "source": "Current Affairs (AI)",
+      "generatedAt": "2026-08-06T07:40:36.201Z",
+      "articleLink": "https://www.thehindu.com/news/national/west-bengal/supreme-court-stays-arrest-of-abhishek-banerjees-aide-sumit-roy-in-salboni-land-grabbing-case/article71312567.ece",
+      "articleContent": "On August 3, the Calcutta High Court rejected the anticipatory bail plea of Mr. Roy in connection with the alleged government land fraud case being investigated by the Salboni Police.",
+      "articleSource": "The Hindu (National)"
+    },
+    {
+      "subject": "Environment & Ecology",
+      "question": "Consider the following statements regarding tiger conservation in India:\n1. The National Tiger Conservation Authority (NTCA) is a statutory body under the Wildlife (Protection) Act, 1972.\n2. Project Tiger was launched in 1973 as a Central Government sponsored scheme for in-situ conservation of wild tigers.\n3. The recent operation in Eluru region of Andhra Pradesh involved tranquillization and capture of a tiger under the Standard Operating Procedures (SOPs) issued by NTCA for tiger dispersal management.\nWhich of the statements given above is/are correct?",
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3",
+        "1 only"
+      ],
+      "answer": 2,
+      "explanation": "Statement 1 is correct: NTCA was constituted under Section 38L of the Wildlife (Protection) Act, 1972 (as amended in 2006), making it a statutory body. Statement 2 is correct: Project Tiger was launched on April 1, 1973, as a Centrally Sponsored Scheme for in-situ conservation of tigers in designated tiger reserves. Statement 3 is correct: The news article describes a large-scale operation involving 350 personnel, experts from tiger reserves, and trained tranquillization teams to capture a tiger on the prowl in Eluru region. Such operations for tiger dispersal management (when tigers move outside protected areas into human-dominated landscapes) are conducted as per NTCA's SOPs for 'Management of Tiger Dispersal' and 'Tiger Translocation', which mandate scientific capture, health assessment, and relocation to suitable habitats.",
+      "sourceArticle": "Operation intensified to capture tiger on the prowl in Eluru region of Andhra",
+      "id": "ca-ai-1786002802792-t15c",
+      "source": "Current Affairs (AI)",
+      "generatedAt": "2026-08-06T07:53:22.792Z",
+      "articleLink": "https://www.thehindu.com/news/national/andhra-pradesh/operation-intensified-to-capture-tiger-on-the-prowl-in-eluru-region-of-ap/article71310013.ece",
+      "articleContent": "Nearly 350 personnel from territorial and wildlife divisions, along with villagers, have been involved in the operation; experts and experienced personnel from tiger reserves and six trained tranquiliser shooters roped in",
+      "articleSource": "The Hindu (National)"
     }
   ],
-  "totalQuestions": 14,
-  "lastGenerated": "2026-08-05T15:26:45.502Z",
+  "totalQuestions": 26,
+  "lastGenerated": "2026-08-06T07:53:22.793Z",
   "llmEnabled": true
 }

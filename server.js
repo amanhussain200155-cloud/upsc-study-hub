@@ -18,6 +18,100 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 // ============ API ROUTES ============
 
+// API: Get detailed stats with daily additions
+app.get('/api/stats/detailed', (req, res) => {
+    try {
+        const stats = { prelims: {}, mains: 0, interview: 0, flashcards: 0, essays: 0, modelEssays: 0 };
+        const today = new Date().toISOString().split('T')[0];
+        let totalPrelims = 0;
+        let addedToday = 0;
+
+        // Count prelims by subject
+        const allQuestions = [];
+        const staticFiles = ['prelims.json', 'prelims-part2.json', 'maps.json', 'generated-mcqs.json'];
+        for (const file of staticFiles) {
+            const filePath = path.join(__dirname, 'data', file);
+            if (fs.existsSync(filePath)) {
+                const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+                const qs = data.questions || [];
+                qs.forEach(q => { if (q.source && q.source.includes('Current Affairs')) q.subject = 'Current Affairs'; });
+                allQuestions.push(...qs);
+            }
+        }
+        const subjectsDir = path.join(__dirname, 'data', 'subjects');
+        if (fs.existsSync(subjectsDir)) {
+            fs.readdirSync(subjectsDir).filter(f => f.endsWith('.json')).forEach(file => {
+                const data = JSON.parse(fs.readFileSync(path.join(subjectsDir, file), 'utf8'));
+                allQuestions.push(...(data.questions || []));
+            });
+        }
+
+        // Count by subject and today's additions
+        const subjectCounts = {};
+        const todayBySubject = {};
+        for (const q of allQuestions) {
+            const s = q.subject || 'Unknown';
+            subjectCounts[s] = (subjectCounts[s] || 0) + 1;
+            if ((q.generatedAt && q.generatedAt.startsWith(today)) || (q.addedAt && q.addedAt.startsWith(today))) {
+                addedToday++;
+                todayBySubject[s] = (todayBySubject[s] || 0) + 1;
+            }
+        }
+        stats.prelims = { total: allQuestions.length, bySubject: subjectCounts, addedToday, todayBySubject };
+
+        // Mains
+        const mainsPath = path.join(__dirname, 'data', 'mains.json');
+        let mainsToday = 0;
+        if (fs.existsSync(mainsPath)) {
+            const d = JSON.parse(fs.readFileSync(mainsPath, 'utf8'));
+            stats.mains = d.questions?.length || 0;
+            mainsToday = (d.questions || []).filter(q => q.generatedAt && q.generatedAt.startsWith(today)).length;
+        }
+        stats.mainsToday = mainsToday;
+
+        // Interview
+        const intPath = path.join(__dirname, 'data', 'interview.json');
+        let interviewToday = 0;
+        if (fs.existsSync(intPath)) {
+            const d = JSON.parse(fs.readFileSync(intPath, 'utf8'));
+            stats.interview = d.questions?.length || 0;
+            interviewToday = (d.questions || []).filter(q => q.generatedAt && q.generatedAt.startsWith(today)).length;
+        }
+        stats.interviewToday = interviewToday;
+
+        // Flashcards
+        const fcPath = path.join(__dirname, 'data', 'flashcards.json');
+        let flashcardsToday = 0;
+        if (fs.existsSync(fcPath)) {
+            const d = JSON.parse(fs.readFileSync(fcPath, 'utf8'));
+            stats.flashcards = (d.prelims?.length || 0) + (d.mains?.length || 0) + (d.interview?.length || 0);
+            flashcardsToday = (d.prelims || []).filter(c => c.id && c.id.startsWith('fc-') && c.id.includes(today.replace(/-/g,'').substring(2))).length;
+        }
+        stats.flashcardsToday = flashcardsToday;
+
+        // Essays
+        const essayPath = path.join(__dirname, 'data', 'essays.json');
+        let modelEssaysToday = 0;
+        if (fs.existsSync(essayPath)) {
+            const d = JSON.parse(fs.readFileSync(essayPath, 'utf8'));
+            stats.essays = Object.values(d.categories || {}).flat().length;
+            stats.modelEssays = Object.keys(d.modelEssays || {}).length;
+        }
+        stats.modelEssaysToday = modelEssaysToday;
+
+        // Current affairs
+        const caPath = path.join(__dirname, 'data', 'auto-current-affairs.json');
+        if (fs.existsSync(caPath)) {
+            const d = JSON.parse(fs.readFileSync(caPath, 'utf8'));
+            stats.currentAffairs = { articles: d.totalArticles || 0, lastUpdated: d.lastUpdated };
+        }
+
+        res.json(stats);
+    } catch(e) {
+        res.status(500).json({ error: e.message });
+    }
+});
+
 // Get all prelims questions (merges all sources)
 app.get('/api/questions/prelims', (req, res) => {
     try {

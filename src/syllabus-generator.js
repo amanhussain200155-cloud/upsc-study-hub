@@ -225,6 +225,8 @@ STRICT QUALITY REQUIREMENTS (UPSC 2023-24 difficulty level):
 - NO EASY QUESTIONS: If a student can answer without preparation, the question is too easy. Reject it.
 - Difficulty: 2 hard, 2 very hard, 1 extremely tricky (should fool even well-prepared candidates)
 
+CRITICAL: Only use facts you are 100% certain about. Do NOT generate questions about events from 2025 or 2026 from memory — you may have incorrect dates. Stick to established facts (pre-2024) for static syllabus topics.
+
 Return ONLY a valid JSON array (no other text):
 [{"subject":"Subject Name","question":"...","options":["a","b","c","d"],"answer":0,"explanation":"..."}]`;
 

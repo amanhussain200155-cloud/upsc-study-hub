@@ -1,14 +1,161 @@
-{"subject":"Science Environment Culture - Comprehensive","questions":[
-{"id":"sec1","subject":"Science","question":"Consider the following about India's nuclear triad:\n1. Land-based: Agni series missiles\n2. Sea-based: INS Arihant class submarines with K-series missiles\n3. Air-based: Rafale aircraft with nuclear capability\n4. India has a 'No First Use' nuclear policy","options":["1, 2 and 4 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 4 correct. Statement 3 wrong - India's air-based nuclear delivery is through Mirage 2000 and Jaguar aircraft (modified for nuclear role), NOT Rafale. While Rafale is capable of nuclear delivery (France uses it for that), India's nuclear-certified aircraft are Mirage 2000 and Jaguar. INS Arihant carries K-15 (750km) and K-4 (3500km) SLBMs."},
-{"id":"sec2","subject":"Science","question":"With reference to Chandrayaan-3:\n1. It landed near the lunar south pole\n2. The lander is named Vikram and rover is Pragyan\n3. It detected sulfur on the lunar surface\n4. India became the fourth country to soft-land on the Moon","options":["1, 2 and 3 only","1, 2, 3 and 4","All are correct","1 and 2 only"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 wrong - India became the FOURTH country to soft-land on Moon (after USSR, USA, China) BUT the first to land near the south polar region. The rover Pragyan detected sulfur, aluminium, calcium, iron, chromium, titanium using LIBS and APXS instruments. Landing on August 23, 2023."},
-{"id":"sec3","subject":"Science","question":"Consider the following about mRNA vaccines:\n1. They use messenger RNA to instruct cells to produce a protein\n2. They contain live virus particles\n3. Pfizer-BioNTech and Moderna COVID vaccines are mRNA-based\n4. mRNA vaccines can be developed faster than traditional vaccines","options":["1, 3 and 4 only","1, 2, 3 and 4","1 and 3 only","All are correct"],"answer":0,"explanation":"1, 3, 4 correct. Statement 2 WRONG - mRNA vaccines do NOT contain any virus (live or dead). They contain synthetic mRNA that instructs cells to make spike protein, triggering immune response. No viral material enters the body. This makes them safer and faster to develop (no need to grow virus). Covishield (India) is NOT mRNA - it's viral vector."},
-{"id":"sec4","subject":"Environment","question":"Consider the following about the National Green Tribunal (NGT):\n1. It was established under the National Green Tribunal Act, 2010\n2. It has original jurisdiction over environmental disputes\n3. Its orders can be challenged only in the Supreme Court\n4. It is guided by principles of sustainable development and precautionary principle","options":["1, 2, 3 and 4","1, 2 and 4 only","1 and 3 only","All are correct"],"answer":3,"explanation":"All correct. NGT Act 2010 established it. It has original and appellate jurisdiction over cases involving Environmental Protection Act, Forest Conservation Act, Biodiversity Act, etc. Orders appealable only to SC (not High Courts). It applies: polluter pays principle, precautionary principle, sustainable development principle. Headed by a retired SC/HC judge."},
-{"id":"sec5","subject":"Environment","question":"With reference to the Forest Rights Act (FRA), 2006:\n1. It recognizes rights of forest-dwelling tribal communities\n2. Gram Sabha is the authority to initiate the process of determining rights\n3. It provides for community forest resource rights\n4. It applies only to Scheduled Tribes","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG - FRA applies to both Scheduled Tribes AND Other Traditional Forest Dwellers (OTFD) who have resided in the forest for 3 generations (75 years) prior to December 13, 2005. Gram Sabha is the key authority. Community forest resource rights allow villages to manage their forests. Includes rights to NTFP, habitat, conversion of forest villages."},
-{"id":"sec6","subject":"Environment","question":"Consider the following about India's commitment to climate change:\n1. India pledged net-zero emissions by 2070 at COP26\n2. India's updated NDC targets 50% non-fossil fuel power capacity by 2030\n3. India is a party to the Paris Agreement\n4. India is among the top 3 CO2 emitters globally","options":["1, 2, 3 and 4","1, 2 and 3 only","1 and 3 only","All are correct"],"answer":3,"explanation":"All correct. PM Modi announced net-zero by 2070 at COP26 Glasgow (2021). Updated NDC (August 2022): 50% cumulative electric power from non-fossil sources, 45% reduction in emission intensity by 2030. India ratified Paris Agreement (Oct 2016). India is 3rd largest emitter (after China, USA) but per capita emissions are much below global average."},
-{"id":"sec7","subject":"Environment","question":"Which of the following are correctly matched?\n1. Kaziranga - One-horned rhinoceros\n2. Gir - Asiatic lion\n3. Ranthambore - Snow leopard\n4. Dachigam - Hangul (Kashmir stag)\n5. Manas - Golden langur","options":["1, 2, 4 and 5 only","1, 2, 3, 4 and 5","1, 2 and 4 only","All are correct"],"answer":0,"explanation":"1, 2, 4, 5 correct. Statement 3 WRONG - Ranthambore is famous for Bengal TIGERS, not snow leopards. Snow leopards are found in Hemis NP (Ladakh), Great Himalayan NP (HP), and Nanda Devi (Uttarakhand). Kaziranga (Assam) has 2/3 of world's one-horned rhinos. Gir (Gujarat) is only home of Asiatic lions. Dachigam (J&K) protects the Hangul. Manas (Assam) has golden langurs."},
-{"id":"sec8","subject":"Art & Culture","question":"Consider the following about Indian temple architecture:\n1. Nagara style has a curvilinear tower called Shikhara\n2. Dravida style has a pyramidal tower called Vimana\n3. Vesara style is a blend found in the Deccan region\n4. Khajuraho temples belong to the Dravida style","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG - Khajuraho temples (Chandela dynasty, MP) belong to NAGARA style (North Indian), not Dravida. They are famous for their curvilinear shikharas and erotic sculptures. Dravida temples are in Tamil Nadu (Brihadeswara, Shore Temple). Vesara/hybrid style found in Chalukyan and Hoysala temples (Karnataka)."},
-{"id":"sec9","subject":"Art & Culture","question":"With reference to Geographical Indication (GI) tags in India:\n1. Darjeeling Tea was the first Indian product to get GI tag\n2. GI registration is valid for 10 years and is renewable\n3. GI tags are registered under the Geographical Indications of Goods Act, 1999\n4. Any producer in the designated region can use the GI tag","options":["1, 2, 3 and 4","1, 2 and 3 only","1, 3 and 4 only","All are correct"],"answer":3,"explanation":"All correct. Darjeeling Tea was first Indian GI (2004). Valid 10 years, renewable indefinitely. Registered under GI of Goods (Registration and Protection) Act, 1999. Any authorized producer in the defined geographical area can use the tag (it's a collective right, not individual). Examples: Banarasi Sarees, Tirupati Laddu, Champagne (France), Kancheepuram Silk."},
-{"id":"sec10","subject":"Art & Culture","question":"Consider the following UNESCO Intangible Cultural Heritage elements from India:\n1. Yoga\n2. Kumbh Mela\n3. Bharatanatyam\n4. Durga Puja in Kolkata","options":["1, 2 and 4 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 4 correct. Statement 3 WRONG - Bharatanatyam is NOT on the UNESCO Intangible Cultural Heritage list (as of 2024). India's inscribed elements include: Yoga (2016), Kumbh Mela (2017), Durga Puja (2021), Ramlila, Vedic Chanting, Ramman, Mudiyettu, Kalbelia, Chhau, Buddhist chanting, Sankirtana, traditional brass/copper craft. Classical dances haven't been individually nominated."},
-{"id":"sec11","subject":"Science","question":"With reference to Quantum Computing:\n1. Qubits can exist in superposition (0 and 1 simultaneously)\n2. India launched the National Quantum Mission in 2023\n3. Quantum computers will make current encryption methods obsolete\n4. Quantum entanglement enables instant communication faster than light","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG - quantum entanglement does NOT enable faster-than-light communication. While entangled particles show correlated measurements instantly, you cannot use this to transmit usable information faster than light (no-communication theorem). National Quantum Mission (₹6,003 crore) aims to develop quantum computers with 50-1000 qubits by 2030. Quantum computers threaten RSA/ECC encryption."},
-{"id":"sec12","subject":"Environment","question":"Consider the following about wetlands:\n1. Chilika Lake is the largest coastal lagoon in India\n2. Loktak Lake has the only floating national park (Keibul Lamjao)\n3. All Ramsar sites in India are also protected as Wildlife Sanctuaries\n4. Wetlands act as natural flood buffers and water purifiers","options":["1, 2 and 4 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 4 correct. Statement 3 WRONG - not all Ramsar sites are Wildlife Sanctuaries. Many are lakes, reservoirs, or marshes without WLS designation (e.g., Sambhar Lake, Deepor Beel, Vembanad-Kol). Ramsar designation and WLS designation are independent processes under different laws (Wetland Rules 2017 vs Wildlife Protection Act 1972). Wetlands provide ecosystem services: flood control, water purification, biodiversity habitat, carbon sequestration."}
-]}
+{
+  "subject": "Science Environment Culture - Comprehensive",
+  "questions": [
+    {
+      "id": "sec1",
+      "subject": "Science & Technology",
+      "question": "Consider the following about India's nuclear triad:\n1. Land-based: Agni series missiles\n2. Sea-based: INS Arihant class submarines with K-series missiles\n3. Air-based: Rafale aircraft with nuclear capability\n4. India has a 'No First Use' nuclear policy",
+      "options": [
+        "1, 2 and 4 only",
+        "1, 2, 3 and 4",
+        "1 and 2 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 4 correct. Statement 3 wrong - India's air-based nuclear delivery is through Mirage 2000 and Jaguar aircraft (modified for nuclear role), NOT Rafale. While Rafale is capable of nuclear delivery (France uses it for that), India's nuclear-certified aircraft are Mirage 2000 and Jaguar. INS Arihant carries K-15 (750km) and K-4 (3500km) SLBMs."
+    },
+    {
+      "id": "sec2",
+      "subject": "Science & Technology",
+      "question": "With reference to Chandrayaan-3:\n1. It landed near the lunar south pole\n2. The lander is named Vikram and rover is Pragyan\n3. It detected sulfur on the lunar surface\n4. India became the fourth country to soft-land on the Moon",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "All are correct",
+        "1 and 2 only"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 wrong - India became the FOURTH country to soft-land on Moon (after USSR, USA, China) BUT the first to land near the south polar region. The rover Pragyan detected sulfur, aluminium, calcium, iron, chromium, titanium using LIBS and APXS instruments. Landing on August 23, 2023."
+    },
+    {
+      "id": "sec3",
+      "subject": "Science & Technology",
+      "question": "Consider the following about mRNA vaccines:\n1. They use messenger RNA to instruct cells to produce a protein\n2. They contain live virus particles\n3. Pfizer-BioNTech and Moderna COVID vaccines are mRNA-based\n4. mRNA vaccines can be developed faster than traditional vaccines",
+      "options": [
+        "1, 3 and 4 only",
+        "1, 2, 3 and 4",
+        "1 and 3 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 3, 4 correct. Statement 2 WRONG - mRNA vaccines do NOT contain any virus (live or dead). They contain synthetic mRNA that instructs cells to make spike protein, triggering immune response. No viral material enters the body. This makes them safer and faster to develop (no need to grow virus). Covishield (India) is NOT mRNA - it's viral vector."
+    },
+    {
+      "id": "sec4",
+      "subject": "Environment & Ecology",
+      "question": "Consider the following about the National Green Tribunal (NGT):\n1. It was established under the National Green Tribunal Act, 2010\n2. It has original jurisdiction over environmental disputes\n3. Its orders can be challenged only in the Supreme Court\n4. It is guided by principles of sustainable development and precautionary principle",
+      "options": [
+        "1, 2, 3 and 4",
+        "1, 2 and 4 only",
+        "1 and 3 only",
+        "All are correct"
+      ],
+      "answer": 3,
+      "explanation": "All correct. NGT Act 2010 established it. It has original and appellate jurisdiction over cases involving Environmental Protection Act, Forest Conservation Act, Biodiversity Act, etc. Orders appealable only to SC (not High Courts). It applies: polluter pays principle, precautionary principle, sustainable development principle. Headed by a retired SC/HC judge."
+    },
+    {
+      "id": "sec5",
+      "subject": "Environment & Ecology",
+      "question": "With reference to the Forest Rights Act (FRA), 2006:\n1. It recognizes rights of forest-dwelling tribal communities\n2. Gram Sabha is the authority to initiate the process of determining rights\n3. It provides for community forest resource rights\n4. It applies only to Scheduled Tribes",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "1 and 2 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG - FRA applies to both Scheduled Tribes AND Other Traditional Forest Dwellers (OTFD) who have resided in the forest for 3 generations (75 years) prior to December 13, 2005. Gram Sabha is the key authority. Community forest resource rights allow villages to manage their forests. Includes rights to NTFP, habitat, conversion of forest villages."
+    },
+    {
+      "id": "sec6",
+      "subject": "Environment & Ecology",
+      "question": "Consider the following about India's commitment to climate change:\n1. India pledged net-zero emissions by 2070 at COP26\n2. India's updated NDC targets 50% non-fossil fuel power capacity by 2030\n3. India is a party to the Paris Agreement\n4. India is among the top 3 CO2 emitters globally",
+      "options": [
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only",
+        "1 and 3 only",
+        "All are correct"
+      ],
+      "answer": 3,
+      "explanation": "All correct. PM Modi announced net-zero by 2070 at COP26 Glasgow (2021). Updated NDC (August 2022): 50% cumulative electric power from non-fossil sources, 45% reduction in emission intensity by 2030. India ratified Paris Agreement (Oct 2016). India is 3rd largest emitter (after China, USA) but per capita emissions are much below global average."
+    },
+    {
+      "id": "sec7",
+      "subject": "Environment & Ecology",
+      "question": "Which of the following are correctly matched?\n1. Kaziranga - One-horned rhinoceros\n2. Gir - Asiatic lion\n3. Ranthambore - Snow leopard\n4. Dachigam - Hangul (Kashmir stag)\n5. Manas - Golden langur",
+      "options": [
+        "1, 2, 4 and 5 only",
+        "1, 2, 3, 4 and 5",
+        "1, 2 and 4 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 4, 5 correct. Statement 3 WRONG - Ranthambore is famous for Bengal TIGERS, not snow leopards. Snow leopards are found in Hemis NP (Ladakh), Great Himalayan NP (HP), and Nanda Devi (Uttarakhand). Kaziranga (Assam) has 2/3 of world's one-horned rhinos. Gir (Gujarat) is only home of Asiatic lions. Dachigam (J&K) protects the Hangul. Manas (Assam) has golden langurs."
+    },
+    {
+      "id": "sec8",
+      "subject": "Art & Culture",
+      "question": "Consider the following about Indian temple architecture:\n1. Nagara style has a curvilinear tower called Shikhara\n2. Dravida style has a pyramidal tower called Vimana\n3. Vesara style is a blend found in the Deccan region\n4. Khajuraho temples belong to the Dravida style",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "1 and 2 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG - Khajuraho temples (Chandela dynasty, MP) belong to NAGARA style (North Indian), not Dravida. They are famous for their curvilinear shikharas and erotic sculptures. Dravida temples are in Tamil Nadu (Brihadeswara, Shore Temple). Vesara/hybrid style found in Chalukyan and Hoysala temples (Karnataka)."
+    },
+    {
+      "id": "sec9",
+      "subject": "Art & Culture",
+      "question": "With reference to Geographical Indication (GI) tags in India:\n1. Darjeeling Tea was the first Indian product to get GI tag\n2. GI registration is valid for 10 years and is renewable\n3. GI tags are registered under the Geographical Indications of Goods Act, 1999\n4. Any producer in the designated region can use the GI tag",
+      "options": [
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only",
+        "1, 3 and 4 only",
+        "All are correct"
+      ],
+      "answer": 3,
+      "explanation": "All correct. Darjeeling Tea was first Indian GI (2004). Valid 10 years, renewable indefinitely. Registered under GI of Goods (Registration and Protection) Act, 1999. Any authorized producer in the defined geographical area can use the tag (it's a collective right, not individual). Examples: Banarasi Sarees, Tirupati Laddu, Champagne (France), Kancheepuram Silk."
+    },
+    {
+      "id": "sec10",
+      "subject": "Art & Culture",
+      "question": "Consider the following UNESCO Intangible Cultural Heritage elements from India:\n1. Yoga\n2. Kumbh Mela\n3. Bharatanatyam\n4. Durga Puja in Kolkata",
+      "options": [
+        "1, 2 and 4 only",
+        "1, 2, 3 and 4",
+        "1 and 2 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 4 correct. Statement 3 WRONG - Bharatanatyam is NOT on the UNESCO Intangible Cultural Heritage list (as of 2024). India's inscribed elements include: Yoga (2016), Kumbh Mela (2017), Durga Puja (2021), Ramlila, Vedic Chanting, Ramman, Mudiyettu, Kalbelia, Chhau, Buddhist chanting, Sankirtana, traditional brass/copper craft. Classical dances haven't been individually nominated."
+    },
+    {
+      "id": "sec11",
+      "subject": "Science & Technology",
+      "question": "With reference to Quantum Computing:\n1. Qubits can exist in superposition (0 and 1 simultaneously)\n2. India launched the National Quantum Mission in 2023\n3. Quantum computers will make current encryption methods obsolete\n4. Quantum entanglement enables instant communication faster than light",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "1 and 2 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG - quantum entanglement does NOT enable faster-than-light communication. While entangled particles show correlated measurements instantly, you cannot use this to transmit usable information faster than light (no-communication theorem). National Quantum Mission (\u20b96,003 crore) aims to develop quantum computers with 50-1000 qubits by 2030. Quantum computers threaten RSA/ECC encryption."
+    },
+    {
+      "id": "sec12",
+      "subject": "Environment & Ecology",
+      "question": "Consider the following about wetlands:\n1. Chilika Lake is the largest coastal lagoon in India\n2. Loktak Lake has the only floating national park (Keibul Lamjao)\n3. All Ramsar sites in India are also protected as Wildlife Sanctuaries\n4. Wetlands act as natural flood buffers and water purifiers",
+      "options": [
+        "1, 2 and 4 only",
+        "1, 2, 3 and 4",
+        "1 and 2 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 4 correct. Statement 3 WRONG - not all Ramsar sites are Wildlife Sanctuaries. Many are lakes, reservoirs, or marshes without WLS designation (e.g., Sambhar Lake, Deepor Beel, Vembanad-Kol). Ramsar designation and WLS designation are independent processes under different laws (Wetland Rules 2017 vs Wildlife Protection Act 1972). Wetlands provide ecosystem services: flood control, water purification, biodiversity habitat, carbon sequestration."
+    }
+  ]
+}

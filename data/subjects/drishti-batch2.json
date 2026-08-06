@@ -1,0 +1,200 @@
+{
+  "subject": "Current Affairs - Drishti Batch 2",
+  "questions": [
+    {
+      "id": "d2-1",
+      "subject": "Economics",
+      "question": "Consider the following about PM-KUSUM scheme:\n1. It promotes solar energy among farmers for irrigation\n2. Component A: Installation of solar power plants on barren land\n3. Component B: Standalone solar pumps\n4. Component C: Solarisation of existing grid-connected pumps\n5. It has an allocation of over \u20b934,000 crore",
+      "options": [
+        "1, 2, 3, 4 and 5",
+        "1, 3, 4 and 5 only",
+        "1, 2 and 3 only",
+        "All are correct"
+      ],
+      "answer": 3,
+      "explanation": "All correct. PM-KUSUM (Kisan Urja Suraksha evam Utthaan Mahabhiyan): Component A (10,000 MW solar plants on barren/fallow land), Component B (20 lakh standalone solar pumps), Component C (15 lakh existing pumps solarised). Total outlay ~\u20b934,422 crore. Helps farmers earn by selling surplus solar power to grid, reduces diesel dependence for irrigation. Budget 2026-27 revised allocation to \u20b95,000 crore for Component A expansion."
+    },
+    {
+      "id": "d2-2",
+      "subject": "Economics",
+      "question": "With reference to Agri-Photovoltaics (APV):\n1. It involves installing solar panels above agricultural fields\n2. It allows simultaneous farming and energy generation\n3. India has extensive empirical data validating APV across all agro-climatic zones\n4. Incorrect panel height/spacing can reduce crop yield",
+      "options": [
+        "1, 2 and 4 only",
+        "1, 2, 3 and 4",
+        "1 and 2 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 4 correct. Statement 3 WRONG \u2014 India does NOT yet have extensive empirical data across all zones. APV is still in pilot/research stage in India. Challenges include: determining optimal panel height, spacing, and tilt for different crops in different agro-climatic zones. ICAR and agricultural universities are conducting trials. Poorly designed systems CAN reduce yields by blocking too much sunlight. Successful in countries like Japan, Germany for specific crops."
+    },
+    {
+      "id": "d2-3",
+      "subject": "Economics",
+      "question": "Consider the following about India's infrastructure financing:\n1. National Infrastructure Pipeline (NIP) targets \u20b9111 lakh crore investment\n2. National Bank for Financing Infrastructure and Development (NaBFID) was established in 2021\n3. Infrastructure Investment Trusts (InvITs) are used for asset monetization\n4. India's infrastructure spend as percentage of GDP exceeds China's",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "1 and 2 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG \u2014 India's infrastructure spend (~4-5% of GDP) is LOWER than China's (~8-10% at its peak). India needs to significantly increase infrastructure investment to match East Asian growth trajectories. NaBFID (Development Finance Institution, \u20b920,000 crore initial capital) fills the gap left by IDBI's conversion to bank. InvITs enable asset recycling (NHAI, PowerGrid have listed InvITs)."
+    },
+    {
+      "id": "d2-4",
+      "subject": "Economics",
+      "question": "With reference to PSB reforms under EASE (Enhanced Access and Service Excellence):\n1. EASE is a reform framework for Public Sector Banks\n2. It focuses on digital banking, customer service, and NPA resolution\n3. EASE was launched jointly by Finance Ministry and IBA\n4. India's PSBs now have zero NPAs due to EASE reforms",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "1 and 2 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG \u2014 PSBs do NOT have zero NPAs. While gross NPAs have reduced significantly (from 14.6% in 2018 to ~3-4% in 2024-25 due to IBC resolution, write-offs, and improved underwriting), they are not zero. EASE 9.0 (2026) focuses on: AI-driven credit decisions, digital loan journeys, tech-driven fraud detection, HR reforms. It's a benchmark-based improvement agenda monitored by Boston Consulting Group."
+    },
+    {
+      "id": "d2-5",
+      "subject": "International Relations",
+      "question": "Consider the following about the India-Canada Strategic Reset:\n1. Relations were strained over allegations of Indian involvement in Nijjar's killing\n2. Canada expelled Indian diplomats in 2023\n3. The 'reset' involves resuming engagement despite unresolved issues\n4. India-Canada bilateral trade exceeds $100 billion annually",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "1 and 2 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG \u2014 India-Canada trade is approximately $8-9 billion (far below $100 billion). The relationship deteriorated sharply in 2023 after Canada alleged Indian involvement in the killing of Khalistani separatist Hardeep Singh Nijjar. Mutual diplomat expulsions followed. 'Strategic reset' (2025-26) involves cautious re-engagement: resuming diplomatic contacts, discussing trade issues, but underlying tensions remain. 1.8 million Indian diaspora in Canada complicates the situation."
+    },
+    {
+      "id": "d2-6",
+      "subject": "International Relations",
+      "question": "With reference to India's position on Strategic Petroleum Reserves (SPRs):\n1. India has operational SPRs at Visakhapatnam, Mangalore, and Padur\n2. India opted out of the IEA-led coordinated oil release in 2026\n3. India is not a full member of IEA but an 'Association Country'\n4. India's strategic reserves can provide approximately 9.5 days of import cover",
+      "options": [
+        "1, 2, 3 and 4",
+        "1, 3 and 4 only",
+        "1 and 3 only",
+        "All are correct"
+      ],
+      "answer": 3,
+      "explanation": "All correct. India's SPR: Phase 1 completed at Vishakhapatnam (1.33 MMT), Mangalore (1.5 MMT), Padur (2.5 MMT) = total 5.33 MMT (about 9.5 days of imports). India is IEA Association Country (not full member, as full membership requires net oil importer status + IEA stockholding obligations). India independently decides on reserve releases based on its own assessment, and opted out of IEA's coordinated release during the 2026 geopolitical crisis."
+    },
+    {
+      "id": "d2-7",
+      "subject": "International Relations",
+      "question": "Consider the following about the Durand Line Dispute:\n1. It is the international border between Pakistan and Afghanistan\n2. It was drawn in 1893 by Sir Mortimer Durand\n3. Afghanistan has never formally accepted it as a permanent international border\n4. It has no relevance to India's security concerns",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "1 and 2 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG \u2014 Durand Line IS relevant to India's security. Instability in the Af-Pak border region fuels terrorism that targets India. Taliban's control of Afghanistan and porous Durand Line enable terror groups (JeM, LeT connections). Also, any Pakistan-Afghanistan conflict destabilizes the region affecting India's energy routes and Central Asian connectivity plans."
+    },
+    {
+      "id": "d2-8",
+      "subject": "Environment & Ecology",
+      "question": "Consider the following about Nor'westers (Kal Baisakhi) in India:\n1. They are local thunderstorms occurring in April-May over eastern India\n2. They bring rainfall beneficial for tea cultivation in Assam and West Bengal\n3. They are caused by convergence of moist maritime air with dry continental air\n4. They occur in the same season as 'Mango Showers' in peninsular India",
+      "options": [
+        "1, 2, 3 and 4",
+        "1, 2 and 4 only",
+        "1 and 2 only",
+        "All are correct"
+      ],
+      "answer": 3,
+      "explanation": "All correct. Nor'westers (Kal Baisakhi in Bengali) are violent thunderstorms in April-June over West Bengal, Bihar, Assam. Caused by collision of moisture-laden southwesterlies/southerlies with dry northwesterlies. Beneficial for pre-monsoon tea crops (called 'Tea Showers' in Assam, 'Bordoisila'). Mango Showers (pre-monsoon showers in peninsular India, especially Kerala/Karnataka coast) occur same period (March-May), help in early ripening of mangoes."
+    },
+    {
+      "id": "d2-9",
+      "subject": "Environment & Ecology",
+      "question": "With reference to the State of World's Migratory Species report (CMS):\n1. It was released under the Convention on Migratory Species (Bonn Convention)\n2. Nearly half of CMS-listed species are declining in population\n3. India is a party to the CMS\n4. The report found that overexploitation and habitat loss are the biggest threats",
+      "options": [
+        "1, 2, 3 and 4",
+        "1, 2 and 4 only",
+        "1 and 3 only",
+        "All are correct"
+      ],
+      "answer": 3,
+      "explanation": "All correct. CMS (Convention on Conservation of Migratory Species/Bonn Convention, 1979): India is a party. First-ever 'State of the World's Migratory Species' report (2024) found: 44% of CMS-listed species declining, 1 in 5 threatened with extinction. Primary threats: overexploitation (hunting, fishing), habitat loss (agriculture, urbanization), climate change, pollution. Key Indian migratory species: Amur Falcon, Bar-headed Goose, Siberian Crane, whale sharks."
+    },
+    {
+      "id": "d2-10",
+      "subject": "Science & Technology",
+      "question": "Consider the following about India's Reusable Launch Vehicle (RLV) programme:\n1. ISRO is developing RLV-TD (Technology Demonstrator)\n2. RLV aims to reduce launch costs by reusing the first stage/booster\n3. India has already conducted RLV landing experiments\n4. SpaceX's Falcon 9 is the world's only operational reusable rocket",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "1 and 2 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG \u2014 SpaceX Falcon 9 is NOT the only operational reusable rocket. SpaceX also has Starship, Rocket Lab has Electron (partially reusable), and Blue Origin's New Shepard is reusable. ISRO's RLV-TD demonstrated autonomous landing in 2023 (runway landing test at Chitradurga). Full orbital reusability is still in development. Goal: reduce launch cost from ~$10,000/kg to ~$2,000/kg."
+    },
+    {
+      "id": "d2-11",
+      "subject": "Polity & Governance",
+      "question": "Consider the following about India's National Counter-Terrorism Policy - PRAHAAR:\n1. It is India's first comprehensive counter-terrorism strategy document\n2. It covers prevention, preparedness, protection, and prosecution\n3. It emphasizes a whole-of-government approach to counter-terrorism\n4. It gives unlimited powers to NIA without judicial oversight",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "1 and 3 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG \u2014 no policy framework in India gives 'unlimited powers without judicial oversight'. NIA operates under NIA Act 2008, requires judicial authorization for searches/seizures, accused have right to legal representation. PRAHAAR (Proactive Response Against All Harmful Activities and Radical Threats) provides a strategic framework but operates within constitutional bounds. It emphasizes coordination between central and state agencies, intelligence sharing, and radicalization prevention."
+    },
+    {
+      "id": "d2-12",
+      "subject": "Polity & Governance",
+      "question": "With reference to Left Wing Extremism (LWE) in India:\n1. India has declared a target to completely eliminate LWE by 2026-27\n2. The number of LWE-affected districts has significantly reduced\n3. SAMADHAN doctrine is the government's strategy to tackle LWE\n4. LWE operates primarily in the 'Red Corridor' spanning 10+ states",
+      "options": [
+        "1, 2, 3 and 4",
+        "2, 3 and 4 only",
+        "1 and 3 only",
+        "All are correct"
+      ],
+      "answer": 3,
+      "explanation": "All correct. Government target: LWE-free India by March 2026 (extended). Affected districts reduced from 126 (2010) to ~25-30 (2025). SAMADHAN: S-Smart leadership, A-Aggressive strategy, M-Motivation, A-Actionable intelligence, D-Dashboard monitoring, H-Harnessing technology, A-Action plan, N-No access to financing. Red Corridor: belt from Nepal through Bihar/Jharkhand/Chhattisgarh/Odisha/Telangana/AP/Maharashtra. Significant reduction in violence but pockets remain."
+    },
+    {
+      "id": "d2-13",
+      "subject": "Polity & Governance",
+      "question": "Consider the following about the Right to be Forgotten (Delhi HC ruling):\n1. It is derived from the Right to Privacy under Article 21\n2. It allows individuals to request removal of personal information from internet\n3. It is absolute and cannot be restricted by any public interest\n4. The Digital Personal Data Protection Act, 2023 provides for data erasure",
+      "options": [
+        "1, 2 and 4 only",
+        "1, 2, 3 and 4",
+        "1 and 2 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 4 correct. Statement 3 WRONG \u2014 Right to be Forgotten is NOT absolute. It must be balanced against: freedom of press, public interest, historical record, right to information. Courts apply proportionality test. Delhi HC recognized it as part of informational privacy (Article 21). DPDP Act 2023 Section 12 provides Right to Erasure. EU's GDPR Article 17 is the global reference. Indian courts grant it on case-by-case basis."
+    },
+    {
+      "id": "d2-14",
+      "subject": "Science & Technology",
+      "question": "With reference to India's Defence Vision 2047:\n1. It aims for self-reliance in defence production by 2047\n2. Defence corridors in UP (Bundelkhand) and Tamil Nadu are part of this vision\n3. India targets defence exports of $5 billion by 2025\n4. 68% of defence capital procurement budget is reserved for Indian industry",
+      "options": [
+        "1, 2 and 4 only",
+        "1, 2, 3 and 4",
+        "1 and 2 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 4 correct. Statement 3 \u2014 the $5 billion export target was for 2024-25 (not achieved yet; exports reached ~$2.5 billion). Current revised target is more ambitious. Defence corridors: UP (6 nodes: Agra, Aligarh, Chitrakoot, Jhansi, Kanpur, Lucknow) and TN (5 nodes: Chennai, Coimbatore, Hosur, Salem, Tiruchirappalli). 68% reservation for domestic industry (up from 64%) promotes Atmanirbharta. Key exports: BrahMos, Tejas components, Dornier aircraft."
+    },
+    {
+      "id": "d2-15",
+      "subject": "Polity & Governance",
+      "question": "Consider the following about Pradhan Mantri Awaas Yojana-Gramin (PMAY-G):\n1. It aims to provide 'Housing for All' in rural areas by 2024 (extended)\n2. Unit assistance is \u20b91.20 lakh in plain areas and \u20b91.30 lakh in hilly/difficult areas\n3. Beneficiary selection is done through Socio-Economic and Caste Census (SECC) data\n4. PMAY-G houses must have basic amenities: toilet, LPG, electricity, water connection",
+      "options": [
+        "1, 3 and 4 only",
+        "1, 2, 3 and 4",
+        "1 and 3 only",
+        "All are correct"
+      ],
+      "answer": 3,
+      "explanation": "All correct. PMAY-G (launched 2016, extended to 2024 and further): targets 2.95 crore houses. Unit assistance: \u20b91.20 lakh (plains), \u20b91.30 lakh (hilly/NE/difficult/IAP districts). Additionally \u20b912,000 for toilet under SBM. Beneficiary identification through SECC 2011 data (housing deprivation parameters). Convergence with SBM (toilet), Ujjwala (LPG), Saubhagya (electricity), JJM (tap water) ensures complete habitat. Geo-tagged photos at 3 stages for monitoring."
+    }
+  ]
+}

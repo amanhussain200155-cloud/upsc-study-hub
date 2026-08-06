@@ -1,14 +1,227 @@
-{"subject":"Map-Based Visual Questions","questions":[
-{"id":"mv1","subject":"Geography (Maps)","question":"A river originates in Amarkantak (Madhya Pradesh), flows westward through a rift valley for approximately 1,312 km, and empties into the Arabian Sea through a broad estuary. Which river is this?","options":["Tapti","Narmada","Godavari","Mahanadi"],"answer":1,"explanation":"Narmada (1,312 km) originates at Amarkantak (MP), flows WESTWARD through a rift valley between Vindhya and Satpura ranges, and enters the Arabian Sea via an estuary near Bharuch (Gujarat). It does NOT form a delta. Tapti also flows west but originates in Betul (MP) and is shorter (724 km).","mapData":{"type":"river","highlight":"narmada","origin":"Amarkantak, MP","mouth":"Gulf of Khambhat, Gujarat","direction":"west"}},
-{"id":"mv2","subject":"Geography (Maps)","question":"Identify the correct north-to-south order of these hill stations:","options":["Shimla - Mussoorie - Nainital - Darjeeling","Mussoorie - Shimla - Nainital - Darjeeling","Darjeeling - Nainital - Mussoorie - Shimla","Shimla - Mussoorie - Darjeeling - Nainital"],"answer":0,"explanation":"North to South along the Himalayas: Shimla (31.1°N, HP) → Mussoorie (30.4°N, Uttarakhand) → Nainital (29.4°N, Uttarakhand) → Darjeeling (27.0°N, West Bengal). Darjeeling is the southernmost as it's in the Eastern Himalayas. Shimla is the northernmost among these options.","mapData":{"type":"locations","points":[{"name":"Shimla","lat":31.1,"lng":77.1},{"name":"Mussoorie","lat":30.4,"lng":78.0},{"name":"Nainital","lat":29.4,"lng":79.4},{"name":"Darjeeling","lat":27.0,"lng":88.2}]}},
-{"id":"mv3","subject":"Geography (Maps)","question":"A state in India shares borders with three countries (China, Nepal, Bhutan) and four Indian states. It is also home to the Kangchenjunga peak. Identify the state:","options":["Arunachal Pradesh","West Bengal","Sikkim","Uttarakhand"],"answer":2,"explanation":"Sikkim shares borders with China (Tibet - north), Nepal (west), Bhutan (east), and Indian states of West Bengal (south). Kangchenjunga (8,586m, 3rd highest in world) is on the Sikkim-Nepal border. Sikkim is India's least populous state and second smallest by area.","mapData":{"type":"state","highlight":"sikkim","borders":["China","Nepal","Bhutan","West Bengal"]}},
-{"id":"mv4","subject":"Geography (Maps)","question":"Consider a strait that is approximately 80 km wide at its narrowest point, separates India from Sri Lanka, and contains a chain of limestone shoals historically called Adam's Bridge. This strait is:","options":["Ten Degree Channel","Palk Strait","Eight Degree Channel","Duncan Passage"],"answer":1,"explanation":"Palk Strait (53-80 km wide) separates Tamil Nadu from northern Sri Lanka. Adam's Bridge (Ram Setu) is a chain of limestone shoals connecting Pamban Island (India) to Mannar Island (Sri Lanka). Ten Degree Channel separates Andaman from Nicobar. Eight Degree Channel separates Minicoy from Maldives. Duncan Passage separates South Andaman from Little Andaman.","mapData":{"type":"strait","highlight":"palk","between":["India (Tamil Nadu)","Sri Lanka"]}},
-{"id":"mv5","subject":"Geography (Maps)","question":"A river system in India has its origin in Tibet (where it is called Tsangpo), enters India through Arunachal Pradesh (where it is called Dihang/Siang), and flows through Assam creating the world's largest river island (Majuli). Identify the river:","options":["Ganga","Indus","Brahmaputra","Meghna"],"answer":2,"explanation":"Brahmaputra: Tsangpo (Tibet) → Dihang/Siang (Arunachal) → Brahmaputra (Assam) → Jamuna (Bangladesh). It creates Majuli (world's largest river island, Assam). It's an antecedent river (older than Himalayas). Male river name (Brahma+putra = son of Brahma). Highly braided in Assam, causing frequent floods.","mapData":{"type":"river","highlight":"brahmaputra","names":["Tsangpo (Tibet)","Dihang (Arunachal)","Brahmaputra (Assam)","Jamuna (Bangladesh)"]}},
-{"id":"mv6","subject":"Geography (Maps)","question":"Identify the INCORRECT pair of ports and their coastal location:\n1. Kandla - Gulf of Kutch (West coast)\n2. Paradip - Odisha coast (East coast)\n3. Tuticorin - Kerala coast (West coast)\n4. Visakhapatnam - Andhra Pradesh coast (East coast)","options":["1","2","3","4"],"answer":2,"explanation":"Statement 3 is INCORRECT. Tuticorin (Thoothukudi) is in TAMIL NADU on the EAST coast (Gulf of Mannar side), NOT Kerala west coast. Kandla (Gujarat, west coast, tidal port), Paradip (Odisha, east coast, iron ore export), Visakhapatnam (AP, east coast, deepest landlocked harbour) are all correctly matched.","mapData":{"type":"ports","points":[{"name":"Kandla","coast":"west","state":"Gujarat"},{"name":"Paradip","coast":"east","state":"Odisha"},{"name":"Tuticorin","coast":"east","state":"Tamil Nadu"},{"name":"Visakhapatnam","coast":"east","state":"Andhra Pradesh"}]}},
-{"id":"mv7","subject":"Geography (Maps)","question":"A volcanic island in the Andaman Sea is the only active volcano in South Asia. It last erupted in 2020. Identify it:","options":["Narcondam Island","Barren Island","Car Nicobar","Ross Island"],"answer":1,"explanation":"Barren Island (Andaman & Nicobar, India) is South Asia's only confirmed active volcano. Located 135 km NE of Port Blair. It has erupted multiple times: 1991, 1994-95, 2005-06, 2017, 2020. Narcondam is a dormant volcano. Car Nicobar is a coral island. Ross Island is a historic British administrative centre.","mapData":{"type":"island","highlight":"barren","location":"Andaman Sea, 135km NE of Port Blair"}},
-{"id":"mv8","subject":"Geography (Maps)","question":"Consider the following sequence of states from west to east along India's northern border with China:\n1. Jammu & Kashmir/Ladakh\n2. Himachal Pradesh\n3. Uttarakhand\n4. Sikkim\n5. Arunachal Pradesh\nWhich is the correct west-to-east sequence?","options":["1-2-3-4-5","1-3-2-4-5","2-1-3-5-4","1-2-3-5-4"],"answer":0,"explanation":"West to East along India-China border: Ladakh (Aksai Chin, Karakoram Pass) → Himachal Pradesh (Shipki La) → Uttarakhand (Lipulekh, Niti Pass) → Sikkim (Nathu La) → Arunachal Pradesh (Bom Di La, Tawang). Note: Nepal and Bhutan are between Uttarakhand/Sikkim and Sikkim/Arunachal respectively, so the border is not continuous.","mapData":{"type":"border","line":"india-china","states":["Ladakh","Himachal Pradesh","Uttarakhand","Sikkim","Arunachal Pradesh"]}},
-{"id":"mv9","subject":"Geography (Maps)","question":"The Eastern and Western Ghats meet at which location?","options":["Anai Mudi peak","Nilgiri Hills","Palani Hills","Cardamom Hills"],"answer":1,"explanation":"The Eastern and Western Ghats converge at the Nilgiri Hills (Tamil Nadu/Karnataka/Kerala junction). Anai Mudi (2,695m, in Cardamom Hills, Kerala) is the highest peak in SOUTH India but is not where the Ghats meet. Dodda Betta (2,637m) is the highest peak in the Nilgiris where the two Ghats converge.","mapData":{"type":"mountains","highlight":"nilgiri","note":"Junction of Eastern and Western Ghats"}},
-{"id":"mv10","subject":"Geography (Maps)","question":"A state in peninsular India is landlocked, shares borders with 5 states, and is the source of the Godavari river. Identify it:","options":["Madhya Pradesh","Maharashtra","Chhattisgarh","Telangana"],"answer":1,"explanation":"TRICK: Maharashtra is NOT landlocked - it has a coastline! But Godavari DOES originate in Maharashtra (Trimbakeshwar, near Nashik). So none of the options perfectly match all criteria. However, Godavari's origin in Maharashtra makes it the answer for the 'source of Godavari' clue. Maharashtra borders Gujarat, MP, Chhattisgarh, Telangana, Karnataka, Goa (6 states + Arabian Sea coast).","mapData":{"type":"state","highlight":"maharashtra","rivers":["Godavari origin at Trimbakeshwar"]}},
-{"id":"mv11","subject":"Geography (Maps)","question":"Which of the following groups of islands are of CORAL origin?\n1. Lakshadweep\n2. Andaman Islands\n3. Nicobar Islands\n4. New Moore Island (now submerged)","options":["1 and 4 only","1, 2 and 3","1 only","1, 3 and 4"],"answer":0,"explanation":"Only Lakshadweep and New Moore Island are/were coral origin. Andaman and Nicobar Islands are of VOLCANIC/tectonic origin (part of a submerged mountain chain extending from Myanmar's Arakan Yoma). Lakshadweep (36 islands) are coral atolls built on submarine ridge. New Moore/South Talpatti (disputed India-Bangladesh) was a sandy coral island that submerged due to sea level rise.","mapData":{"type":"islands","coral":["Lakshadweep"],"volcanic":["Andaman","Nicobar"]}},
-{"id":"mv12","subject":"Geography (Maps)","question":"Consider the following Tiger Reserves from north to south:\n1. Corbett (Uttarakhand)\n2. Ranthambore (Rajasthan)\n3. Panna (Madhya Pradesh)\n4. Bandipur (Karnataka)\n5. Periyar (Kerala)\nThe correct north-to-south order is:","options":["1-2-3-4-5","2-1-3-4-5","1-2-3-5-4","1-3-2-4-5"],"answer":0,"explanation":"North to South: Corbett (29.5°N, Uttarakhand) → Ranthambore (26.0°N, Rajasthan) → Panna (24.7°N, MP) → Bandipur (11.7°N, Karnataka) → Periyar (9.5°N, Kerala). India has 53 tiger reserves under Project Tiger (1973). Jim Corbett was India's first national park (1936) and first tiger reserve.","mapData":{"type":"locations","points":[{"name":"Corbett","lat":29.5},{"name":"Ranthambore","lat":26.0},{"name":"Panna","lat":24.7},{"name":"Bandipur","lat":11.7},{"name":"Periyar","lat":9.5}]}}
-]}
+{
+  "subject": "Map-Based Visual Questions",
+  "questions": [
+    {
+      "id": "mv1",
+      "subject": "Geography",
+      "question": "A river originates in Amarkantak (Madhya Pradesh), flows westward through a rift valley for approximately 1,312 km, and empties into the Arabian Sea through a broad estuary. Which river is this?",
+      "options": [
+        "Tapti",
+        "Narmada",
+        "Godavari",
+        "Mahanadi"
+      ],
+      "answer": 1,
+      "explanation": "Narmada (1,312 km) originates at Amarkantak (MP), flows WESTWARD through a rift valley between Vindhya and Satpura ranges, and enters the Arabian Sea via an estuary near Bharuch (Gujarat). It does NOT form a delta. Tapti also flows west but originates in Betul (MP) and is shorter (724 km).",
+      "mapData": {
+        "type": "river",
+        "highlight": "narmada",
+        "origin": "Amarkantak, MP",
+        "mouth": "Gulf of Khambhat, Gujarat",
+        "direction": "west"
+      }
+    },
+    {
+      "id": "mv2",
+      "subject": "Geography",
+      "question": "Identify the correct north-to-south order of these hill stations:",
+      "options": [
+        "Shimla - Mussoorie - Nainital - Darjeeling",
+        "Mussoorie - Shimla - Nainital - Darjeeling",
+        "Darjeeling - Nainital - Mussoorie - Shimla",
+        "Shimla - Mussoorie - Darjeeling - Nainital"
+      ],
+      "answer": 0,
+      "explanation": "North to South along the Himalayas: Shimla (31.1\u00b0N, HP) \u2192 Mussoorie (30.4\u00b0N, Uttarakhand) \u2192 Nainital (29.4\u00b0N, Uttarakhand) \u2192 Darjeeling (27.0\u00b0N, West Bengal). Darjeeling is the southernmost as it's in the Eastern Himalayas. Shimla is the northernmost among these options.",
+      "mapData": {
+        "type": "locations",
+        "points": [
+          {
+            "name": "Shimla",
+            "lat": 31.1,
+            "lng": 77.1
+          },
+          {
+            "name": "Mussoorie",
+            "lat": 30.4,
+            "lng": 78.0
+          },
+          {
+            "name": "Nainital",
+            "lat": 29.4,
+            "lng": 79.4
+          },
+          {
+            "name": "Darjeeling",
+            "lat": 27.0,
+            "lng": 88.2
+          }
+        ]
+      }
+    },
+    {
+      "id": "mv3",
+      "subject": "Geography",
+      "question": "A state in India shares borders with three countries (China, Nepal, Bhutan) and four Indian states. It is also home to the Kangchenjunga peak. Identify the state:",
+      "options": [
+        "Arunachal Pradesh",
+        "West Bengal",
+        "Sikkim",
+        "Uttarakhand"
+      ],
+      "answer": 2,
+      "explanation": "Sikkim shares borders with China (Tibet - north), Nepal (west), Bhutan (east), and Indian states of West Bengal (south). Kangchenjunga (8,586m, 3rd highest in world) is on the Sikkim-Nepal border. Sikkim is India's least populous state and second smallest by area.",
+      "mapData": {
+        "type": "state",
+        "highlight": "sikkim",
+        "borders": [
+          "China",
+          "Nepal",
+          "Bhutan",
+          "West Bengal"
+        ]
+      }
+    },
+    {
+      "id": "mv4",
+      "subject": "Geography",
+      "question": "Consider a strait that is approximately 80 km wide at its narrowest point, separates India from Sri Lanka, and contains a chain of limestone shoals historically called Adam's Bridge. This strait is:",
+      "options": [
+        "Ten Degree Channel",
+        "Palk Strait",
+        "Eight Degree Channel",
+        "Duncan Passage"
+      ],
+      "answer": 1,
+      "explanation": "Palk Strait (53-80 km wide) separates Tamil Nadu from northern Sri Lanka. Adam's Bridge (Ram Setu) is a chain of limestone shoals connecting Pamban Island (India) to Mannar Island (Sri Lanka). Ten Degree Channel separates Andaman from Nicobar. Eight Degree Channel separates Minicoy from Maldives. Duncan Passage separates South Andaman from Little Andaman.",
+      "mapData": {
+        "type": "strait",
+        "highlight": "palk",
+        "between": [
+          "India (Tamil Nadu)",
+          "Sri Lanka"
+        ]
+      }
+    },
+    {
+      "id": "mv5",
+      "subject": "Geography",
+      "question": "A river system in India has its origin in Tibet (where it is called Tsangpo), enters India through Arunachal Pradesh (where it is called Dihang/Siang), and flows through Assam creating the world's largest river island (Majuli). Identify the river:",
+      "options": [
+        "Ganga",
+        "Indus",
+        "Brahmaputra",
+        "Meghna"
+      ],
+      "answer": 2,
+      "explanation": "Brahmaputra: Tsangpo (Tibet) \u2192 Dihang/Siang (Arunachal) \u2192 Brahmaputra (Assam) \u2192 Jamuna (Bangladesh). It creates Majuli (world's largest river island, Assam). It's an antecedent river (older than Himalayas). Male river name (Brahma+putra = son of Brahma). Highly braided in Assam, causing frequent floods.",
+      "mapData": {
+        "type": "river",
+        "highlight": "brahmaputra",
+        "names": [
+          "Tsangpo (Tibet)",
+          "Dihang (Arunachal)",
+          "Brahmaputra (Assam)",
+          "Jamuna (Bangladesh)"
+        ]
+      }
+    },
+    {
+      "id": "mv6",
+      "subject": "Geography",
+      "question": "Identify the INCORRECT pair of ports and their coastal location:\n1. Kandla - Gulf of Kutch (West coast)\n2. Paradip - Odisha coast (East coast)\n3. Tuticorin - Kerala coast (West coast)\n4. Visakhapatnam - Andhra Pradesh coast (East coast)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 2,
+      "explanation": "Statement 3 is INCORRECT. Tuticorin (Thoothukudi) is in TAMIL NADU on the EAST coast (Gulf of Mannar side), NOT Kerala west coast. Kandla (Gujarat, west coast, tidal port), Paradip (Odisha, east coast, iron ore export), Visakhapatnam (AP, east coast, deepest landlocked harbour) are all correctly matched.",
+      "mapData": {
+        "type": "ports",
+        "points": [
+          {
+            "name": "Kandla",
+            "coast": "west",
+            "state": "Gujarat"
+          },
+          {
+            "name": "Paradip",
+            "coast": "east",
+            "state": "Odisha"
+          },
+          {
+            "name": "Tuticorin",
+            "coast": "east",
+            "state": "Tamil Nadu"
+          },
+          {
+            "name": "Visakhapatnam",
+            "coast": "east",
+            "state": "Andhra Pradesh"
+          }
+        ]
+      }
+    },
+    {
+      "id": "mv7",
+      "subject": "Geography",
+      "question": "A volcanic island in the Andaman Sea is the only active volcano in South Asia. It last erupted in 2020. Identify it:",
+      "options": [
+        "Narcondam Island",
+        "Barren Island",
+        "Car Nicobar",
+        "Ross Island"
+      ],
+      "answer": 1,
+      "explanation": "Barren Island (Andaman & Nicobar, India) is South Asia's only confirmed active volcano. Located 135 km NE of Port Blair. It has erupted multiple times: 1991, 1994-95, 2005-06, 2017, 2020. Narcondam is a dormant volcano. Car Nicobar is a coral island. Ross Island is a historic British administrative centre.",
+      "mapData": {
+        "type": "island",
+        "highlight": "barren",
+        "location": "Andaman Sea, 135km NE of Port Blair"
+      }
+    },
+    {
+      "id": "mv9",
+      "subject": "Geography",
+      "question": "The Eastern and Western Ghats meet at which location?",
+      "options": [
+        "Anai Mudi peak",
+        "Nilgiri Hills",
+        "Palani Hills",
+        "Cardamom Hills"
+      ],
+      "answer": 1,
+      "explanation": "The Eastern and Western Ghats converge at the Nilgiri Hills (Tamil Nadu/Karnataka/Kerala junction). Anai Mudi (2,695m, in Cardamom Hills, Kerala) is the highest peak in SOUTH India but is not where the Ghats meet. Dodda Betta (2,637m) is the highest peak in the Nilgiris where the two Ghats converge.",
+      "mapData": {
+        "type": "mountains",
+        "highlight": "nilgiri",
+        "note": "Junction of Eastern and Western Ghats"
+      }
+    },
+    {
+      "id": "mv11",
+      "subject": "Geography",
+      "question": "Which of the following groups of islands are of CORAL origin?\n1. Lakshadweep\n2. Andaman Islands\n3. Nicobar Islands\n4. New Moore Island (now submerged)",
+      "options": [
+        "1 and 4 only",
+        "1, 2 and 3",
+        "1 only",
+        "1, 3 and 4"
+      ],
+      "answer": 0,
+      "explanation": "Only Lakshadweep and New Moore Island are/were coral origin. Andaman and Nicobar Islands are of VOLCANIC/tectonic origin (part of a submerged mountain chain extending from Myanmar's Arakan Yoma). Lakshadweep (36 islands) are coral atolls built on submarine ridge. New Moore/South Talpatti (disputed India-Bangladesh) was a sandy coral island that submerged due to sea level rise.",
+      "mapData": {
+        "type": "islands",
+        "coral": [
+          "Lakshadweep"
+        ],
+        "volcanic": [
+          "Andaman",
+          "Nicobar"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "subject": "Current Affairs - Drishti Batch 14 (Niche Facts)",
+  "questions": [
+    {
+      "id": "d14-1",
+      "subject": "Polity & Governance",
+      "question": "Consider the following about Rajya Sabha composition:\n1. Maximum strength is 250 (238 elected + 12 nominated by President)\n2. Present strength is 245 (233 elected from States/UTs + 12 nominated)\n3. Only elected MLAs of States/UTs form the electoral college for RS elections\n4. A member elected to fill a casual vacancy serves the FULL 6-year term",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "2 and 3 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG \u2014 a member elected to fill a CASUAL vacancy serves only the REMAINDER of the term of the member they replaced, NOT a full 6-year term. Article 80: max 250 (238+12). Electoral college: ONLY elected MLAs (not nominated MLAs, not MPs). Single transferable vote system with proportional representation. Eligibility: citizen, 30+ years (Article 84). Representation of People Act, 1951 and Representation of People (Amendment) Act, 2003 govern RS elections."
+    },
+    {
+      "id": "d14-2",
+      "subject": "Polity & Governance",
+      "question": "With reference to the Forest Rights Act (FRA) 2006 and tribal rights:\n1. It recognizes rights of forest-dwelling Scheduled Tribes and OTFDs\n2. The colonial Indian Forest Act 1878 was based on 'eminent domain' principle\n3. Forest (Conservation) Act 1980 restricted conversion of forest land\n4. FRA implementation has been uniform and complete across all states",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "1 and 3 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG \u2014 FRA implementation has been HIGHLY UNEVEN across states. Many states have high rejection rates (50-70% claims rejected). Issues: bureaucratic resistance, inadequate awareness among tribals, conflict with Forest Department control, Supreme Court's 2019 order (later stayed) to evict rejected claimants. States like Chhattisgarh, Odisha have better implementation; others lag. Community Forest Resource Rights (CFR) implementation especially poor."
+    },
+    {
+      "id": "d14-3",
+      "subject": "Polity & Governance",
+      "question": "Consider the following about the Dam Safety Act, 2021:\n1. It provides for surveillance, inspection, operation, and maintenance of specified dams\n2. It establishes National Committee on Dam Safety and National Dam Safety Authority\n3. It applies to all dams above 15 metres height or with specified storage capacity\n4. India has approximately 5,700+ large dams (3rd highest globally after China and USA)",
+      "options": [
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only",
+        "1 and 4 only",
+        "All are correct"
+      ],
+      "answer": 3,
+      "explanation": "All correct. Dam Safety Act 2021: provides institutional framework for dam safety (previously no central law). NCDS (advisory) + NDSA (regulatory/enforcement). Applies to: dams >15m height OR 10-15m with specific storage capacity. India: 5,700+ large dams (many aging \u2014 80% will be >50 years old by 2025). States opposed it as 'water' is State subject (Entry 17). Dam failures: Machhu Dam (1979, Gujarat - 10,000+ deaths), Mullaperiyar controversy. Act mandates: Emergency Action Plans, regular inspections, state dam safety organizations."
+    },
+    {
+      "id": "d14-4",
+      "subject": "Science & Technology",
+      "question": "With reference to AI's projected economic impact on India:\n1. AI is projected to add USD 500-600 billion to India's GDP by 2030\n2. Integration with DPI (Aadhaar, UPI, DigiLocker) amplifies AI's impact\n3. India's IndiaAI Mission has allocated \u20b910,372 crore for 6 years\n4. India has more AI engineers than AI researchers \u2014 a gap being addressed",
+      "options": [
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only",
+        "1 and 2 only",
+        "All are correct"
+      ],
+      "answer": 3,
+      "explanation": "All correct. AI impact on India (Accenture/NASSCOM estimates): $500-600 billion GDP addition by 2030 (primarily through productivity enhancement in agriculture, healthcare, manufacturing, services). India's advantage: DPI infrastructure allows AI scaling (example: AI on top of Aadhaar for identity verification, AI with UPI for fraud detection). IndiaAI Mission (\u20b910,372 crore, FY26-31): compute infra, datasets, applications, skilling. Gap: India has engineers who can USE AI tools but fewer who can BUILD foundational AI models \u2014 FutureSkills PRIME addresses this."
+    },
+    {
+      "id": "d14-5",
+      "subject": "Economics",
+      "question": "Consider the following about India Semiconductor Mission (ISM) 2.0 financial support:\n1. Total outlay exceeds \u20b976,000 crore\n2. Credit guarantee of up to \u20b97 crore or 70% of loan (first-time) is available\n3. It aims to catalyze nearly \u20b94 lakh crore in investment\n4. Only fabrication (fab) is covered, not design or ATMP",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "1 and 3 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG \u2014 ISM 2.0 covers the ENTIRE value chain: Design (chip design startups, EDA tools), Fabrication (fabs), ATMP (Assembly, Testing, Marking, Packaging), Display fab, and Compound Semiconductors. Credit guarantee corpus created to support first-time borrowers in semiconductor ecosystem. Target: create globally competitive semiconductor manufacturing ecosystem in India. Beneficiaries: Tata Electronics (fab), Micron (ATMP), CG Semi (compound semiconductors)."
+    },
+    {
+      "id": "d14-6",
+      "subject": "Economics",
+      "question": "With reference to the Revised Startup Recognition Framework:\n1. DPIIT recognizes startups that are less than 10 years old\n2. Annual turnover should not exceed \u20b9100 crore in any financial year\n3. Entity should be working towards innovation/development/improvement of products\n4. Recognized startups get 3-year income tax holiday under Section 80-IAC",
+      "options": [
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only",
+        "2 and 3 only",
+        "All are correct"
+      ],
+      "answer": 3,
+      "explanation": "All correct. Startup India recognition criteria (revised): incorporated as Private Limited/LLP/Partnership, <10 years old, turnover <\u20b9100 crore/year, working towards innovation (not mere replication). Benefits: 3-year tax holiday (consecutive, within first 10 years), self-certification for labour/environment laws, easier public procurement (no prior experience required), fast-track patent application (rebate on fees), access to Fund of Funds (\u20b910,000 crore through SIDBI). 1.4 lakh+ startups recognized."
+    },
+    {
+      "id": "d14-7",
+      "subject": "Polity & Governance",
+      "question": "Consider the following about the 'Privilege Notice' in Parliament:\n1. It is issued when a member's privilege is allegedly breached\n2. Committee of Privileges examines breach of privilege cases\n3. Lok Sabha Speaker and Rajya Sabha Chairman are first authorities on privilege\n4. There is a codified law defining all Parliamentary privileges in India",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "1 and 2 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG \u2014 India does NOT have a codified/comprehensive law defining all Parliamentary privileges. Article 105 (for Parliament) and 194 (for State Legislatures) provide privileges but don't enumerate them exhaustively. They refer to privileges of House of Commons (UK) until Parliament enacts a law \u2014 which it hasn't done in 75+ years. Privileges are based on conventions, precedents, and Speaker/Chairman's rulings. This has been criticized as creating uncertainty."
+    },
+    {
+      "id": "d14-8",
+      "subject": "Polity & Governance",
+      "question": "With reference to the SANKALP Scheme:\n1. It stands for Skills Acquisition and Knowledge Awareness for Livelihood Promotion\n2. It is a World Bank-assisted project for skilling\n3. It aims to strengthen institutional mechanisms for skill development\n4. It operates under the Ministry of Skill Development and Entrepreneurship",
+      "options": [
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only",
+        "1 and 4 only",
+        "All are correct"
+      ],
+      "answer": 3,
+      "explanation": "All correct. SANKALP (Skills Acquisition and Knowledge Awareness for Livelihood Promotion): World Bank loan-assisted (USD 250 million). Under MSDE. Objective: institutional strengthening of skilling ecosystem at district level (District Skill Committees), convergence of skilling schemes, quality assurance. Components: institutional strengthening, quality assurance, inclusion of marginalized (women, SC/ST, PwD), leveraging technology. Complements PMKVY (Pradhan Mantri Kaushal Vikas Yojana) by building capacity rather than just providing training."
+    },
+    {
+      "id": "d14-9",
+      "subject": "Polity & Governance",
+      "question": "Consider the following about Design Linked Incentive (DLI) Scheme:\n1. It provides financial incentives for semiconductor chip design\n2. It covers the entire range from IC design to product deployment\n3. It is part of India's semiconductor self-reliance strategy\n4. India already has 20% of global chip designers working in Indian design centres",
+      "options": [
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only",
+        "1 and 3 only",
+        "All are correct"
+      ],
+      "answer": 3,
+      "explanation": "All correct. DLI Scheme (under ISM): incentivizes semiconductor design startups/companies at every stage from design \u2192 tape-out \u2192 product. Two components: Design Infrastructure Support (EDA tool subsidies, IP cores) + Product Design Linked Incentive (reimbursement of design costs up to 50%). India's strength: 20%+ of global chip designers work in India (Qualcomm, Intel, AMD, ARM, TI, Broadcom all have design centres). Over 3,000 chip design startups in India. Gap: India designs but doesn't fabricate \u2014 DLI+ISM together address full chain."
+    },
+    {
+      "id": "d14-10",
+      "subject": "Environment & Ecology",
+      "question": "Consider the following about 10 Years of Paris Agreement (as of 2025):\n1. Paris Agreement was adopted in 2015 and entered into force in 2016\n2. It aims to limit warming to well below 2\u00b0C, preferably 1.5\u00b0C\n3. Global Stocktake (first completed at COP28, 2023) assessed collective progress\n4. All countries have achieved their first-round NDC targets",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "1 and 2 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG \u2014 most countries have NOT achieved their first-round NDC targets. UNEP Emissions Gap Report consistently shows world is off-track for 1.5\u00b0C (heading for 2.5-2.9\u00b0C). Many developed nations haven't met their pledges. Global Stocktake (COP28 Dubai, 2023) concluded: world is not on track, transitioning away from fossil fuels needed. India is among few countries on track for some NDC components (renewable energy deployment ahead of schedule)."
+    },
+    {
+      "id": "d14-11",
+      "subject": "International Relations",
+      "question": "With reference to India's Foreign Policy Recalibration (2025-26):\n1. India maintained strategic autonomy during the US-Israel-Iran conflict\n2. India-China LAC disengagement at some friction points progressed\n3. India's 'multi-alignment' approach involves engaging all major powers simultaneously\n4. India joined a formal military alliance with the QUAD nations",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "1 and 3 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG \u2014 India has NOT joined any formal military alliance. QUAD is explicitly a strategic DIALOGUE/partnership, not a military alliance (no mutual defense treaty). India's foreign policy: strategic autonomy (not neutrality), multi-alignment (engage US, Russia, Europe, Middle East simultaneously based on Indian interests), issue-based coalitions. India refused to take sides in Russia-Ukraine and Israel-Palestine conflicts while maintaining relations with all parties."
+    },
+    {
+      "id": "d14-12",
+      "subject": "Polity & Governance",
+      "question": "Consider the following about India's Orange Economy initiatives:\n1. Orange Economy refers to the creative/cultural economy\n2. Budget 2026-27 announced 3 initiatives to promote India's Orange Economy\n3. It includes entertainment, media, arts, heritage, design, and publishing\n4. India's entertainment and media revenue is projected to reach $35+ billion by 2025",
+      "options": [
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only",
+        "1 and 3 only",
+        "All are correct"
+      ],
+      "answer": 3,
+      "explanation": "All correct. Orange Economy (term from IDB/Colombia): creative industries generating economic value \u2014 media, entertainment, arts, publishing, gaming, fashion, design, heritage, sports, comics. India's M&E sector: $35+ billion (projected to grow to $55+ billion by 2030). Budget 2026-27 initiatives: production incentives, infrastructure (studios, animation parks), promotion of Indian content globally. India already: 2nd largest TV market, largest film producer (by volume), growing OTT market. AVGC (Animation, VFX, Gaming, Comics) sector specially targeted."
+    }
+  ]
+}

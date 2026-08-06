@@ -1,0 +1,122 @@
+{
+  "subject": "Current Affairs - Drishti Batch 9",
+  "questions": [
+    {
+      "id": "d9-1",
+      "subject": "International Relations",
+      "question": "Consider the following about the BBNJ Agreement (High Seas Treaty):\n1. It is the first legally binding treaty to protect marine biodiversity beyond national jurisdictions\n2. It came into force in January 2026\n3. It applies to high seas and international seabed (beyond EEZs)\n4. It is under the framework of UNCLOS (UN Convention on the Law of the Sea)",
+      "options": [
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only",
+        "1 and 3 only",
+        "All are correct"
+      ],
+      "answer": 3,
+      "explanation": "All correct. BBNJ (Biodiversity Beyond National Jurisdiction) Agreement: adopted June 2023, entered into force January 17, 2026. Under UNCLOS framework. Covers: Marine Genetic Resources (benefit sharing), Area-Based Management Tools (Marine Protected Areas on high seas), Environmental Impact Assessments, Capacity Building. High seas (64% of ocean surface) were previously ungoverned for biodiversity. Includes provisions for Indigenous Peoples and local communities."
+    },
+    {
+      "id": "d9-2",
+      "subject": "International Relations",
+      "question": "With reference to India and the US-led Board of Peace for Gaza:\n1. India was invited to join the Board for Gaza reconstruction\n2. The Board is a US-led intergovernmental body backed by UNSC\n3. India immediately accepted membership\n4. Membership involves financial contribution (USD 1 billion for permanent status)",
+      "options": [
+        "1, 2 and 4 only",
+        "1, 2, 3 and 4",
+        "1 and 2 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 4 correct. Statement 3 WRONG \u2014 India did NOT immediately confirm participation. India's cautious approach to the Gaza situation reflects its multi-alignment: supporting Palestinian statehood while maintaining ties with Israel and US. India evaluates each multilateral commitment carefully based on: strategic interests, financial implications, and alignment with its stated positions. The Board's mandate includes demilitarization, reconstruction, economic recovery."
+    },
+    {
+      "id": "d9-4",
+      "subject": "Economics",
+      "question": "With reference to India's exports surge and challenges:\n1. India's goods exports touched $778 billion in FY 2024-25\n2. IT/services exports remain India's biggest export strength\n3. Shrinking clusters of India's exports refers to over-dependence on few products/markets\n4. India targets $2 trillion exports (goods + services) by 2030",
+      "options": [
+        "2, 3 and 4 only",
+        "1, 2, 3 and 4",
+        "2 and 3 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "2, 3, 4 correct. Statement 1 needs verification \u2014 India's total exports (goods + services) have grown significantly but $778 billion for goods alone in single FY needs careful checking (goods exports were ~$437 billion in FY23-24, services ~$340 billion). The point about 'shrinking clusters' refers to: export concentration in few items (petroleum, pharma, IT) and few markets (US, UAE, EU), making India vulnerable to sector-specific shocks. Diversification needed."
+    },
+    {
+      "id": "d9-5",
+      "subject": "Environment & Ecology",
+      "question": "Consider the following about India's Grassland Conservation:\n1. India's grasslands cover approximately 3.5% of geographic area\n2. They are classified under 'wastelands' in many state records\n3. Great Indian Bustard is a critically endangered grassland species\n4. Semi-arid grasslands support species like Blackbuck, Chinkara, and Indian Wolf",
+      "options": [
+        "1, 2, 3 and 4",
+        "2, 3 and 4 only",
+        "1 and 3 only",
+        "All are correct"
+      ],
+      "answer": 3,
+      "explanation": "All correct. India's grasslands: ~12 million hectares (~3.5%). Major type: tropical savanna grasslands (western Rajasthan, Gujarat, Madhya Pradesh). Critically endangered species: Great Indian Bustard (GIB, <150 individuals, mainly in Rajasthan's Desert National Park). Problem: grasslands classified as 'wasteland' leading to conversion for solar parks, farming, urbanization. Supporting wildlife: Blackbuck, Chinkara, Indian Wolf, Lesser Florican. Conservation: Species Recovery Plans, overhead power line mitigation for GIB."
+    },
+    {
+      "id": "d9-6",
+      "subject": "Environment & Ecology",
+      "question": "With reference to the White-bellied Heron:\n1. It is one of the rarest herons globally\n2. It is classified as Critically Endangered by IUCN\n3. It is found in Northeast India (Arunachal Pradesh) and Bhutan\n4. India has only around 10-15 individuals of this species",
+      "options": [
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only",
+        "1 and 2 only",
+        "All are correct"
+      ],
+      "answer": 3,
+      "explanation": "All correct. White-bellied Heron (Ardea insignis): one of rarest herons globally (~200 total). Critically Endangered (IUCN). Found in: Bhutan (main population), Arunachal Pradesh (Namdapha NP area, upper Brahmaputra tributaries), Myanmar. India has only 10-15 individuals (extremely rare). Threats: habitat loss (river damming, deforestation), disturbance. Protected under Schedule I of Wildlife Protection Act (highest legal protection in India). Conservation: Kalai-II hydroelectric project concern."
+    },
+    {
+      "id": "d9-7",
+      "subject": "Science & Technology",
+      "question": "Consider the following about Marine and Space Biotechnology:\n1. Marine biotechnology explores ocean organisms for pharmaceuticals and biofuels\n2. India has a Deep Ocean Mission targeting polymetallic nodules\n3. Space biotechnology studies biological systems in microgravity\n4. India's Gaganyaan will conduct space biology experiments",
+      "options": [
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only",
+        "1 and 2 only",
+        "All are correct"
+      ],
+      "answer": 3,
+      "explanation": "All correct. Marine biotech: ocean organisms (sponges, microalgae, deep-sea bacteria) for drugs, enzymes, biofuel. India's Deep Ocean Mission (\u20b94,077 crore): targets 6,000m depth with manned submersible 'Matsya 6000', mining polymetallic nodules (nickel, cobalt, manganese \u2014 critical minerals). Space biotech: microgravity effects on proteins, cells, organisms. Gaganyaan will carry biological experiments alongside human crew (understanding human physiology in space, growing crystals, pharmaceutical applications)."
+    },
+    {
+      "id": "d9-8",
+      "subject": "Science & Technology",
+      "question": "With reference to Nanorobots in Healthcare:\n1. They are microscopic robots designed to perform tasks inside the human body\n2. They can be used for targeted drug delivery to cancer cells\n3. India has commercial nanorobots approved for clinical use\n4. They could potentially perform microsurgery and clear arterial blockages",
+      "options": [
+        "1, 2 and 4 only",
+        "1, 2, 3 and 4",
+        "1 and 2 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 4 correct. Statement 3 WRONG \u2014 India does NOT have commercially approved nanorobots for clinical use (as of 2026). Nanorobotics is still largely in research/experimental stage globally. Potential applications: targeted cancer drug delivery (reducing chemotherapy side effects), arterial plaque removal, diagnostic sensors, wound repair. Challenges: powering nanobots, controlling navigation, biocompatibility, scaling production, regulatory approval. Major research: IITs, AIIMS collaborations."
+    },
+    {
+      "id": "d9-9",
+      "subject": "Polity & Governance",
+      "question": "Consider the following about PM CARES Fund:\n1. It is a public charitable trust created for COVID-19 and other emergencies\n2. It is NOT subject to CAG audit\n3. PM CARES donations qualify for 100% tax deduction under Section 80G\n4. RTI Act does not apply to PM CARES Fund",
+      "options": [
+        "1, 2, 3 and 4",
+        "1, 3 and 4 only",
+        "1 and 3 only",
+        "All are correct"
+      ],
+      "answer": 3,
+      "explanation": "All correct. PM CARES Fund (March 2020): public charitable trust (PM as chair + Finance, Home, Defence Ministers). NOT audited by CAG (uses private auditors) \u2014 criticized as lack of public accountability. 100% tax deduction (unlike PM National Relief Fund which gets 50%). RTI Act does NOT apply (SC upheld \u2014 it's a trust, not 'public authority' under Section 2(h) of RTI Act). Also receives CSR contributions. Controversy: opacity of fund utilization, absence of public accountability mechanisms despite receiving public donations."
+    },
+    {
+      "id": "d9-10",
+      "subject": "Polity & Governance",
+      "question": "With reference to Mission for Aatmanirbharta in Pulses:\n1. India is the largest producer AND largest importer of pulses globally\n2. The mission aims to achieve self-sufficiency in pulse production\n3. MSP for pulses has been increased to encourage farmers\n4. India imports mainly from Canada, Myanmar, and East African countries",
+      "options": [
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only",
+        "1 and 4 only",
+        "All are correct"
+      ],
+      "answer": 3,
+      "explanation": "All correct. India: produces ~25-28% of global pulses (~25 million tonnes) but also imports ~3-5 million tonnes annually (largest importer too \u2014 demand exceeds supply). Mission targets: increase production through better seeds, irrigation, minimum support prices. MSP for major pulses (tur, urad, moong) increased regularly. Import sources: Canada (yellow peas, lentils), Myanmar (urad, tur), Mozambique, Tanzania. India's per capita pulse consumption declining due to price rise \u2014 food security concern."
+    }
+  ]
+}

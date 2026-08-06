@@ -52,6 +52,7 @@ function QuizMode({ questions, showBookmark = true }) {
     const [score, setScore] = useState(0);
     const [answered, setAnswered] = useState(0);
     const [round, setRound] = useState(1);
+    const [bookmarked, setBookmarked] = useState(new Set());
 
     useEffect(() => {
         if (questions.length > 0) {
@@ -89,6 +90,7 @@ function QuizMode({ questions, showBookmark = true }) {
 
     const handleBookmark = () => {
         bookmarkAPI({ id: q.id, type: 'question', subject: q.subject, question: q.question, options: q.options, answer: q.answer, explanation: q.explanation });
+        setBookmarked(prev => new Set([...prev, q.id]));
     };
 
     return (
@@ -105,7 +107,7 @@ function QuizMode({ questions, showBookmark = true }) {
                 <div className="quiz-meta">
                     <span className="quiz-subject">{q.subject}</span>
                     <div>
-                        {showBookmark && <span className="bookmark-btn" onClick={handleBookmark} title="Bookmark">🔖</span>}
+                        {showBookmark && <span className="bookmark-btn" onClick={handleBookmark} title={bookmarked.has(q.id) ? 'Bookmarked' : 'Bookmark'}>{bookmarked.has(q.id) ? '✅' : '🔖'}</span>}
                         <span className="quiz-number">Q{idx + 1}/{pool.length}</span>
                     </div>
                 </div>
@@ -274,7 +276,7 @@ function CurrentAffairsMode() {
                             <p style={{color:'#64748b',fontSize:'0.75rem',marginTop:'4px'}}>Source: {a.source}</p>
                             <div style={{marginTop:'8px'}}>
                                 {a.link && <a href={a.link} target="_blank" rel="noopener" style={{color:'#60a5fa',fontSize:'0.8rem',marginRight:'12px'}}>Read full →</a>}
-                                <span style={{color:'#f97316',fontSize:'0.8rem',cursor:'pointer'}} onClick={(e) => {e.stopPropagation(); bookmarkAPI({id:a.id,type:'article',subject:a.subject,title:a.title,content:a.content,source:a.source})}}>🔖 Bookmark</span>
+                                <span style={{color: '#f97316',fontSize:'0.8rem',cursor:'pointer'}} onClick={(e) => {e.stopPropagation(); bookmarkAPI({id:a.id,type:'article',subject:a.subject,title:a.title,content:a.content,source:a.source}); e.target.textContent='✅ Bookmarked'}}>🔖 Bookmark</span>
                             </div>
                         </div>
                     ) : <p style={{color:'#94a3b8',fontSize:'0.85rem',overflow:'hidden',textOverflow:'ellipsis',whiteSpace:'nowrap'}}>{a.content}</p>}
@@ -447,6 +449,63 @@ function RevisionMode() {
             </div>
         );
     }
+}
+
+// ========== STATS BADGE ==========
+function StatsBadge() {
+    const { data } = useData('/api/stats/detailed');
+    const [showDetails, setShowDetails] = useState(false);
+    if (!data) return null;
+    const todayTotal = (data.prelims?.addedToday || 0) + (data.mainsToday || 0) + (data.interviewToday || 0);
+    return (
+        <div style={{marginTop:'12px'}}>
+            <div style={{color:'#64748b',fontSize:'0.8rem',cursor:'pointer',textAlign:'center'}} onClick={() => setShowDetails(!showDetails)}>
+                📊 {data.prelims?.total || 0} Prelims • {data.mains} Mains • {data.interview} Interview • {data.flashcards} Flashcards • {data.essays} Essays
+                {todayTotal > 0 && <span style={{color:'#22c55e'}}> (+{todayTotal} today)</span>}
+                <span style={{marginLeft:'8px',color:'#60a5fa'}}>{showDetails ? '▲' : '▼'}</span>
+            </div>
+            {showDetails && data.prelims?.bySubject && (
+                <div style={{marginTop:'12px',padding:'16px',background:'#1e293b',borderRadius:'8px',border:'1px solid #334155'}}>
+                    <h4 style={{color:'#eab308',marginBottom:'10px',fontSize:'0.85rem'}}>Questions by Subject (Prelims):</h4>
+                    <div style={{display:'grid',gridTemplateColumns:'1fr 1fr',gap:'4px'}}>
+                        {Object.entries(data.prelims.bySubject).sort((a,b) => b[1]-a[1]).map(([s,c]) => (
+                            <div key={s} style={{display:'flex',justifyContent:'space-between',padding:'3px 8px',fontSize:'0.8rem'}}>
+                                <span style={{color:'#cbd5e1'}}>{s}</span>
+                                <span>
+                                    <span style={{color:'#f97316',fontWeight:'bold'}}>{c}</span>
+                                    {data.prelims.todayBySubject && data.prelims.todayBySubject[s] && <span style={{color:'#22c55e',marginLeft:'4px',fontSize:'0.7rem'}}>+{data.prelims.todayBySubject[s]}</span>}
+                                </span>
+                            </div>
+                        ))}
+                    </div>
+                    <div style={{marginTop:'12px',borderTop:'1px solid #334155',paddingTop:'8px',fontSize:'0.8rem',color:'#94a3b8'}}>
+                        <div>Mains: {data.mains} {data.mainsToday > 0 && <span style={{color:'#22c55e'}}>+{data.mainsToday}</span>}</div>
+                        <div>Interview: {data.interview} {data.interviewToday > 0 && <span style={{color:'#22c55e'}}>+{data.interviewToday}</span>}</div>
+                        <div>Flashcards: {data.flashcards} {data.flashcardsToday > 0 && <span style={{color:'#22c55e'}}>+{data.flashcardsToday}</span>}</div>
+                        <div>Essay Topics: {data.essays} | Model Essays: {data.modelEssays} {data.modelEssaysToday > 0 && <span style={{color:'#22c55e'}}>+{data.modelEssaysToday}</span>}</div>
+                        <div>Current Affairs Articles: {data.currentAffairs?.articles || 0}</div>
+                    </div>
+                    {todayTotal > 0 && (
+                        <div style={{marginTop:'8px',padding:'8px',background:'#052e16',borderRadius:'4px',fontSize:'0.8rem',color:'#86efac'}}>
+                            ✨ Today's additions: {data.prelims?.addedToday > 0 ? `${data.prelims.addedToday} Prelims MCQs` : ''}{data.mainsToday > 0 ? ` • ${data.mainsToday} Mains Qs` : ''}{data.interviewToday > 0 ? ` • ${data.interviewToday} Interview Qs` : ''}
+                        </div>
+                    )}
+                    <div style={{marginTop:'10px',borderTop:'1px solid #334155',paddingTop:'8px',fontSize:'0.75rem',color:'#64748b'}}>
+                        <div style={{color:'#94a3b8',fontWeight:'bold',marginBottom:'4px'}}>⏰ Auto-Growth Schedule:</div>
+                        <div>• Prelims MCQs: Every hour (:15) — ~3-5 Qs/hour</div>
+                        <div>• Static Bank (verified): Daily 5:00 AM IST — ~7-8 Qs</div>
+                        <div>• Mains Questions: Daily 3:30 AM IST — ~2 Qs</div>
+                        <div>• Interview Questions: Daily 3:30 AM IST — ~2 Qs</div>
+                        <div>• Model Essays: Every hour (:15) — 1 essay/hour</div>
+                        <div>• Flashcards: Every hour (:15) — ~3-5 cards</div>
+                        <div>• Essay Topics: Weekly (Sunday) — ~5 topics</div>
+                        <div>• Current Affairs: Every 4 hours — ~40 articles</div>
+                        <div>• CA MCQs from news: Every 6 hours — ~3-5 Qs</div>
+                    </div>
+                </div>
+            )}
+        </div>
+    );
 }
 
 // ========== PREVIOUS YEAR QUESTIONS ==========
@@ -642,11 +701,12 @@ function App() {
     return (
         <div>
             <div className="header">
-                <h1>🏛️ UPSC Study Hub</h1>
+                <h1><span style={{WebkitTextFillColor:'initial',background:'none'}}>🏛️</span> <span style={{background:'linear-gradient(135deg, #f97316, #eab308)',WebkitBackgroundClip:'text',WebkitTextFillColor:'transparent'}}>UPSC Study Hub</span></h1>
                 <p>Unlimited Practice • Auto-Updating • Spaced Repetition</p>
                 {statusData && <p style={{color:'#64748b',fontSize:'0.75rem',marginTop:'6px'}}>
-                    {statusData.totalQuestions} questions • {statusData.currentAffairs?.articles || 0} current affairs • {statusData.llmEnabled ? '🤖 AI MCQs active' : '📋 Template MCQs'}
+                    {statusData.totalQuestions} questions • {statusData.currentAffairs?.articles || 0} current affairs • {statusData.llmEnabled ? '🤖 AI active' : '📋 Template MCQs'}
                 </p>}
+                <StatsBadge />
             </div>
 
             <div className="section-tabs">

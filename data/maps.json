@@ -3,7 +3,7 @@
   "questions": [
     {
       "id": "map1",
-      "subject": "Geography (Maps)",
+      "subject": "Geography",
       "question": "Consider the following places frequently in news:\n1. Pangong Tso\n2. Doklam\n3. Galwan Valley\n4. Chumar\nWhich of the above are located on/near the Line of Actual Control (LAC)?",
       "options": [
         "1, 3 and 4 only",
@@ -16,7 +16,7 @@
     },
     {
       "id": "map2",
-      "subject": "Geography (Maps)",
+      "subject": "Geography",
       "question": "Arrange the following from north to south:\n1. Bhopal\n2. Hyderabad\n3. Bangalore\n4. Tropic of Cancer",
       "options": [
         "4-1-2-3",
@@ -29,7 +29,7 @@
     },
     {
       "id": "map3",
-      "subject": "Geography (Maps)",
+      "subject": "Geography",
       "question": "Which of the following states share a border with Bangladesh?\n1. West Bengal\n2. Assam\n3. Tripura\n4. Mizoram\n5. Nagaland",
       "options": [
         "1, 2, 3 and 4 only",
@@ -42,7 +42,7 @@
     },
     {
       "id": "map5",
-      "subject": "Geography (Maps)",
+      "subject": "Geography",
       "question": "Consider the following water bodies:\n1. Gulf of Khambhat - Gujarat\n2. Gulf of Mannar - Tamil Nadu\n3. Gulf of Kutch - Rajasthan\n4. Chilika Lake - Odisha\nWhich pairs are correctly matched?",
       "options": [
         "1, 2 and 4 only",
@@ -55,7 +55,7 @@
     },
     {
       "id": "map7",
-      "subject": "Geography (Maps)",
+      "subject": "Geography",
       "question": "Consider the following National Parks and their locations:\n1. Kaziranga - Assam\n2. Bandipur - Karnataka\n3. Jim Corbett - Uttarakhand\n4. Periyar - Tamil Nadu\nWhich is/are correctly matched?",
       "options": [
         "1, 2 and 3 only",
@@ -68,7 +68,7 @@
     },
     {
       "id": "map8",
-      "subject": "Geography (Maps)",
+      "subject": "Geography",
       "question": "The 'Nine Degree Channel' separates:",
       "options": [
         "Lakshadweep from Maldives",
@@ -81,7 +81,7 @@
     },
     {
       "id": "map9",
-      "subject": "Geography (Maps)",
+      "subject": "Geography",
       "question": "Which of the following volcanoes/volcanic islands is/are in Indian territory?\n1. Barren Island\n2. Narcondam Island\n3. Deccan Traps\nSelect the correct answer:",
       "options": [
         "1 and 2 only",
@@ -94,7 +94,7 @@
     },
     {
       "id": "map11",
-      "subject": "Geography (Maps)",
+      "subject": "Geography",
       "question": "Consider the following rivers and the cities situated on them:\n1. Hooghly - Kolkata\n2. Musi - Hyderabad\n3. Sabarmati - Ahmedabad\n4. Gomti - Varanasi\nWhich are correctly matched?",
       "options": [
         "1, 2 and 3 only",
@@ -107,7 +107,7 @@
     },
     {
       "id": "map12",
-      "subject": "Geography (Maps)",
+      "subject": "Geography",
       "question": "The Siachen Glacier is located in the:",
       "options": [
         "Karakoram Range",
