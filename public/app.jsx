@@ -380,6 +380,101 @@ function MonthlyMode() {
     );
 }
 
+// ========== BOOKMARK CARD (expandable) ==========
+function BookmarkCard({ bookmark: b, onRemove }) {
+    const [expanded, setExpanded] = useState(false);
+    const typeLabels = {question:'📝 Prelims MCQ',article:'📰 Article',mains:'✍️ Mains',interview:'🎤 Interview',flashcard:'🗂️ Flashcard',essay:'📄 Essay'};
+    const typeLabel = typeLabels[b.type] || '📌 Saved';
+    
+    return (
+        <div className="quiz-card" style={{cursor:'pointer'}} onClick={() => setExpanded(!expanded)}>
+            <div className="quiz-meta">
+                <span className="quiz-subject">{b.subject}</span>
+                <div>
+                    <span style={{color:'#64748b',fontSize:'0.7rem',marginRight:'10px'}}>{typeLabel}</span>
+                    <span style={{color:'#ef4444',cursor:'pointer',fontSize:'0.8rem'}} onClick={(e) => {e.stopPropagation(); onRemove();}}>✕</span>
+                </div>
+            </div>
+            <p style={{color:'#f1f5f9',fontSize:'0.95rem',fontWeight:'500'}}>{b.question || b.title}</p>
+            
+            {!expanded && (
+                <p style={{color:'#64748b',fontSize:'0.8rem',marginTop:'6px'}}>Tap to expand ▾</p>
+            )}
+            
+            {expanded && (
+                <div style={{marginTop:'12px',borderTop:'1px solid #334155',paddingTop:'12px'}}>
+                    {/* MCQ / Prelims question */}
+                    {b.type === 'question' && b.options && (
+                        <div>
+                            <div style={{marginBottom:'10px'}}>
+                                {b.options.map((opt, i) => (
+                                    <p key={i} style={{color: i === b.answer ? '#22c55e' : '#cbd5e1', fontSize:'0.9rem', padding:'6px 0', borderBottom:'1px solid #1e293b'}}>
+                                        {i === b.answer ? '✓ ' : '  '}{opt}
+                                    </p>
+                                ))}
+                            </div>
+                            {b.explanation && <div style={{background:'#0f172a',padding:'12px',borderRadius:'6px',borderLeft:'3px solid #eab308'}}><p style={{color:'#cbd5e1',fontSize:'0.85rem',lineHeight:'1.6'}}><strong style={{color:'#eab308'}}>Explanation:</strong> {b.explanation}</p></div>}
+                        </div>
+                    )}
+                    
+                    {/* Article / Current Affairs / Monthly */}
+                    {b.type === 'article' && (
+                        <div>
+                            {b.content && <p style={{color:'#cbd5e1',fontSize:'0.9rem',lineHeight:'1.7',whiteSpace:'pre-wrap'}}>{b.content}</p>}
+                            {b.source && <p style={{color:'#64748b',fontSize:'0.75rem',marginTop:'8px'}}>Source: {b.source}</p>}
+                            {b.link && <a href={b.link} target="_blank" rel="noopener" style={{color:'#60a5fa',fontSize:'0.85rem',marginTop:'8px',display:'inline-block'}} onClick={e=>e.stopPropagation()}>Read full article →</a>}
+                        </div>
+                    )}
+                    
+                    {/* Mains */}
+                    {b.type === 'mains' && (
+                        <div>
+                            {b.content && <div style={{background:'#0f172a',padding:'14px',borderRadius:'8px',borderLeft:'3px solid #22c55e'}}><strong style={{color:'#22c55e',fontSize:'0.85rem'}}>Model Answer (excerpt):</strong><p style={{color:'#cbd5e1',fontSize:'0.9rem',lineHeight:'1.7',marginTop:'8px',whiteSpace:'pre-wrap'}}>{b.content}</p></div>}
+                        </div>
+                    )}
+                    
+                    {/* Interview */}
+                    {b.type === 'interview' && (
+                        <div>
+                            {b.content && <div style={{background:'#0f172a',padding:'14px',borderRadius:'8px',borderLeft:'3px solid #60a5fa'}}><strong style={{color:'#60a5fa',fontSize:'0.85rem'}}>Model Answer (excerpt):</strong><p style={{color:'#cbd5e1',fontSize:'0.9rem',lineHeight:'1.7',marginTop:'8px',whiteSpace:'pre-wrap'}}>{b.content}</p></div>}
+                        </div>
+                    )}
+                    
+                    {/* Flashcard */}
+                    {b.type === 'flashcard' && (
+                        <div>
+                            <div style={{background:'#0f172a',padding:'14px',borderRadius:'8px',borderLeft:'3px solid #f97316'}}>
+                                <strong style={{color:'#f97316',fontSize:'0.85rem'}}>Answer:</strong>
+                                <p style={{color:'#cbd5e1',fontSize:'0.9rem',lineHeight:'1.7',marginTop:'8px',whiteSpace:'pre-wrap'}}>{b.content}</p>
+                            </div>
+                        </div>
+                    )}
+                    
+                    {/* Essay */}
+                    {b.type === 'essay' && (
+                        <div>
+                            {b.content && <div style={{background:'#0f172a',padding:'14px',borderRadius:'8px',borderLeft:'3px solid #eab308'}}><strong style={{color:'#eab308',fontSize:'0.85rem'}}>Essay Content:</strong><p style={{color:'#cbd5e1',fontSize:'0.9rem',lineHeight:'1.7',marginTop:'8px',whiteSpace:'pre-wrap'}}>{b.content}</p></div>}
+                            {!b.content && <p style={{color:'#94a3b8',fontSize:'0.85rem',fontStyle:'italic'}}>Essay topic saved for practice. Use Essay Generator to write your attempt.</p>}
+                        </div>
+                    )}
+                    
+                    {/* Generic fallback for any type without specific rendering */}
+                    {!['question','article','mains','interview','flashcard','essay'].includes(b.type) && (
+                        <div>
+                            {b.content && <p style={{color:'#cbd5e1',fontSize:'0.9rem',lineHeight:'1.7',whiteSpace:'pre-wrap'}}>{b.content}</p>}
+                            {b.explanation && <p style={{color:'#94a3b8',fontSize:'0.85rem',marginTop:'8px',fontStyle:'italic'}}>{b.explanation}</p>}
+                        </div>
+                    )}
+                    
+                    {b.link && b.type !== 'article' && <a href={b.link} target="_blank" rel="noopener" style={{color:'#60a5fa',fontSize:'0.85rem',marginTop:'10px',display:'inline-block'}} onClick={e=>e.stopPropagation()}>Open source →</a>}
+                    
+                    <p style={{color:'#64748b',fontSize:'0.7rem',marginTop:'10px'}}>Saved: {b.bookmarkedAt ? new Date(b.bookmarkedAt).toLocaleDateString() : ''}</p>
+                </div>
+            )}
+        </div>
+    );
+}
+
 // ========== REVISION TAB ==========
 function RevisionMode() {
     const [revData, setRevData] = useState(null);
@@ -502,17 +597,7 @@ function RevisionMode() {
                     <h3>🔖 Bookmarks ({bookmarks.length})</h3>
                 </div>
                 {bookmarks.map((b, i) => (
-                    <div key={i} className="quiz-card">
-                        <div className="quiz-meta">
-                            <span className="quiz-subject">{b.subject}</span>
-                            <span style={{color:'#ef4444',cursor:'pointer',fontSize:'0.8rem'}} onClick={() => {removeBookmarkAPI(b.id); reload();}}>Remove ✕</span>
-                        </div>
-                        <p style={{color:'#f1f5f9',fontSize:'0.95rem'}}>{b.question || b.title}</p>
-                        {b.content && <p style={{color:'#94a3b8',fontSize:'0.85rem',marginTop:'8px',lineHeight:'1.5'}}>{b.content}</p>}
-                        {b.explanation && <p style={{color:'#cbd5e1',fontSize:'0.85rem',marginTop:'8px',fontStyle:'italic'}}>{b.explanation}</p>}
-                        {b.source && <p style={{color:'#64748b',fontSize:'0.75rem',marginTop:'6px'}}>Source: {b.source}</p>}
-                        {b.link && <a href={b.link} target="_blank" rel="noopener" style={{color:'#60a5fa',fontSize:'0.8rem',marginTop:'6px',display:'inline-block'}}>Read full article →</a>}
-                    </div>
+                    <BookmarkCard key={i} bookmark={b} onRemove={() => {removeBookmarkAPI(b.id); reload();}} />
                 ))}
                 {bookmarks.length === 0 && <p className="empty-msg">No bookmarks yet. Use 🔖 while practicing to save items.</p>}
             </div>
