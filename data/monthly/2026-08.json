@@ -546,21 +546,6 @@
       "relevanceScore": 2
     },
     {
-      "id": "ca-1785935952969-aw5eez",
-      "title": "Top official reviews Independence Day arrangements at Parade Grounds in Amaravati",
-      "content": "Emphasising inter-departmental coordination, Syamala Rao says that all agencies should work in close coordination to ensure smooth and successful conduct of the celebrations",
-      "source": "The Hindu (National)",
-      "tier": 1,
-      "date": "2026-08-05T13:13:10.000Z",
-      "link": "https://www.thehindu.com/news/national/andhra-pradesh/top-official-reviews-independence-day-arrangements-at-parade-grounds-in-amaravati/article71309131.ece",
-      "subject": "Polity & Governance",
-      "secondarySubject": null,
-      "tags": [
-        "History & Culture"
-      ],
-      "relevanceScore": 2
-    },
-    {
       "id": "ca-1785936986206-wbbimd",
       "title": "Trust seeks Central funds to conserve Gundlakamma river",
       "content": "The Hindu Dharma Parirakshana Trust writes to Union Jal Shakti Minister Chandrakant Raghunath Patil, plans 280-km afforestation programme along both banks, an anti-encroachment drive and a boundary survey using the funds",
@@ -682,21 +667,6 @@
       "relevanceScore": 3
     },
     {
-      "id": "ca-1785996894102-m7kkkq",
-      "title": "On day of Agriculture Budget, DMK MLAs wear black over TVK-led government’s ‘failure’ on Cauvery issue",
-      "content": "The Agri Budget was presented by Minister R. Vinoth, who waxed eloquent about Chief Minister C. Joseph Vijay and the TVK government",
-      "source": "The Hindu (National)",
-      "tier": 1,
-      "date": "2026-08-06T06:05:35.000Z",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/on-day-of-agriculture-budget-dmk-mlas-wear-black-over-tvk-led-governments-failure-on-cauvery-issue/article71312193.ece",
-      "subject": "Economy",
-      "secondarySubject": "International Relations",
-      "tags": [
-        "Economy"
-      ],
-      "relevanceScore": 2
-    },
-    {
       "id": "ca-1785996894103-sb6yev",
       "title": "T.N. Agriculture Budget | Contingency plans drawn up for districts to cope with Super El Niño impacts: Minister",
       "content": "Presenting the Agriculture Budget in the Assembly, R. Vinoth said while severe climatic impacts were anticipated across the country during the current year, particularly in the Kuruvai season, 12 districts in Tamil Nadu were expected to be severely affected",
@@ -800,21 +770,6 @@
         "Economy"
       ],
       "relevanceScore": 2
-    },
-    {
-      "id": "ca-1786000452699-ftwlyj",
-      "title": "Election Commission's transparency unparalleled: Gyanesh Kumar",
-      "content": "Commenting on the Special Intensive Revision (SIR) of electoral rolls, Mr. Kumar said the exercise has already been completed for around 700 million voters, while verification of another 350 million voters is underway.",
-      "source": "The Hindu (National)",
-      "tier": 1,
-      "date": "2026-08-06T07:08:56.000Z",
-      "link": "https://www.thehindu.com/news/national/election-commissions-transparency-unparalleled-gyanesh-kumar/article71311933.ece",
-      "subject": "Polity & Governance",
-      "secondarySubject": "Economy",
-      "tags": [
-        "Polity & Governance"
-      ],
-      "relevanceScore": 3
     },
     {
       "id": "ca-1786000452700-vzek4v",
@@ -999,5 +954,5 @@
     }
   ],
   "lastUpdated": "2026-08-06T13:42:35.765Z",
-  "totalArticles": 66
+  "totalArticles": 63
 }

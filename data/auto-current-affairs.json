@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-08-06T13:42:35.765Z",
-  "totalArticles": 38,
+  "totalArticles": 36,
   "sources": [
     "The Hindu (National)",
     "The Hindu (International)",
@@ -196,22 +196,6 @@
         "relevanceScore": 2
       },
       {
-        "id": "ca-1786023751190-mogxyh",
-        "title": "Parliament Monsoon Session Day 14 updates: Rajya Sabha approves Appropriation (No.3) Bill; Lok Sabha passes Taxation Bill without debate",
-        "content": "Rajya Sabha Chairman C.P. Radhakrishnan asked Parliamentary Affairs Minister Kiren Rijiju to convey the Opposition's demand for a statement to Home Minister Amit Shah on police violence against students, after Leader of Opposition in the RS Mallikarjun Kharge demanded a statement from Mr. Shah in the House",
-        "source": "The Hindu (National)",
-        "tier": 1,
-        "date": "2026-08-06T13:15:00.000Z",
-        "link": "https://www.thehindu.com/news/national/parliament-monsoon-session-day-14-nirmala-sitharaman-to-move-taxation-and-other-laws-amendment-bill-in-lok-sabha-rajya-sabha-live-updates-august-6-2026/article71312092.ece",
-        "subject": "Polity & Governance",
-        "secondarySubject": null,
-        "tags": [
-          "Polity & Governance"
-        ],
-        "relevanceScore": 3,
-        "classifiedBy": "keyword"
-      },
-      {
         "id": "ca-1786023751294-wpwm48",
         "title": "Fiscal federalism, efficiency versus equity concerns",
         "content": "The Sixteenth Finance Commission risks moving away from its core mandate of acting as an equalising force within the federation",
@@ -219,22 +203,6 @@
         "tier": 1,
         "date": "2026-08-06T11:00:09.000Z",
         "link": "https://www.thehindu.com/opinion/lead/fiscal-federalism-efficiency-versus-equity-concerns/article71310469.ece",
-        "subject": "Polity & Governance",
-        "secondarySubject": null,
-        "tags": [
-          "Polity & Governance"
-        ],
-        "relevanceScore": 2,
-        "classifiedBy": "keyword"
-      },
-      {
-        "id": "ca-1786023751345-a8365d",
-        "title": "Parliament Monsoon Session Day 14 Live: Lok Sabha passes Taxation Bill to promote domestic electronic manufacturing amid din",
-        "content": "",
-        "source": "Indian Express (India)",
-        "tier": 1,
-        "date": "2026-08-06T04:54:59.000Z",
-        "link": "https://indianexpress.com/article/india/parliament-monsoon-session-day-14-live-lok-sabha-to-take-up-new-law-for-changes-to-income-tax-10820036/",
         "subject": "Polity & Governance",
         "secondarySubject": null,
         "tags": [
@@ -1142,22 +1110,6 @@
       "relevanceScore": 2
     },
     {
-      "id": "ca-1786023751190-mogxyh",
-      "title": "Parliament Monsoon Session Day 14 updates: Rajya Sabha approves Appropriation (No.3) Bill; Lok Sabha passes Taxation Bill without debate",
-      "content": "Rajya Sabha Chairman C.P. Radhakrishnan asked Parliamentary Affairs Minister Kiren Rijiju to convey the Opposition's demand for a statement to Home Minister Amit Shah on police violence against students, after Leader of Opposition in the RS Mallikarjun Kharge demanded a statement from Mr. Shah in the House",
-      "source": "The Hindu (National)",
-      "tier": 1,
-      "date": "2026-08-06T13:15:00.000Z",
-      "link": "https://www.thehindu.com/news/national/parliament-monsoon-session-day-14-nirmala-sitharaman-to-move-taxation-and-other-laws-amendment-bill-in-lok-sabha-rajya-sabha-live-updates-august-6-2026/article71312092.ece",
-      "subject": "Polity & Governance",
-      "secondarySubject": null,
-      "tags": [
-        "Polity & Governance"
-      ],
-      "relevanceScore": 3,
-      "classifiedBy": "keyword"
-    },
-    {
       "id": "ca-1786023751294-wpwm48",
       "title": "Fiscal federalism, efficiency versus equity concerns",
       "content": "The Sixteenth Finance Commission risks moving away from its core mandate of acting as an equalising force within the federation",
@@ -1165,22 +1117,6 @@
       "tier": 1,
       "date": "2026-08-06T11:00:09.000Z",
       "link": "https://www.thehindu.com/opinion/lead/fiscal-federalism-efficiency-versus-equity-concerns/article71310469.ece",
-      "subject": "Polity & Governance",
-      "secondarySubject": null,
-      "tags": [
-        "Polity & Governance"
-      ],
-      "relevanceScore": 2,
-      "classifiedBy": "keyword"
-    },
-    {
-      "id": "ca-1786023751345-a8365d",
-      "title": "Parliament Monsoon Session Day 14 Live: Lok Sabha passes Taxation Bill to promote domestic electronic manufacturing amid din",
-      "content": "",
-      "source": "Indian Express (India)",
-      "tier": 1,
-      "date": "2026-08-06T04:54:59.000Z",
-      "link": "https://indianexpress.com/article/india/parliament-monsoon-session-day-14-live-lok-sabha-to-take-up-new-law-for-changes-to-income-tax-10820036/",
       "subject": "Polity & Governance",
       "secondarySubject": null,
       "tags": [
