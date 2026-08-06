@@ -187,13 +187,26 @@ app.get('/api/questions/prelims', async (req, res) => {
 });
 
 // Essay topics and framework
-app.get('/api/essays', (req, res) => {
+app.get('/api/essays', async (req, res) => {
     const filePath = path.join(__dirname, 'data', 'essays.json');
+    let data = { categories: {} };
     if (fs.existsSync(filePath)) {
-        res.json(JSON.parse(fs.readFileSync(filePath, 'utf8')));
-    } else {
-        res.json({ categories: {} });
+        data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
     }
+    // Merge model essays from MongoDB
+    try {
+        const { GeneratedEssay } = require('./src/db-storage');
+        if (require('mongoose').connection.readyState === 1) {
+            const dbEssays = await GeneratedEssay.find({}).lean();
+            if (!data.modelEssays) data.modelEssays = {};
+            for (const e of dbEssays) {
+                if (e.modelEssay && !data.modelEssays[e.topic]) {
+                    data.modelEssays[e.topic] = e.modelEssay;
+                }
+            }
+        }
+    } catch(e) {}
+    res.json(data);
 });
 
 // Get mains questions
@@ -452,6 +465,17 @@ async function generateEssayOutlinesBatch() {
         if (!response || response.length < 500) return;
         data.modelEssays[pick.topic] = response;
         fs.writeFileSync(essayPath, JSON.stringify(data, null, 2));
+        // Save to MongoDB for persistence
+        try {
+            const { GeneratedEssay } = require('./src/db-storage');
+            if (require('mongoose').connection.readyState === 1) {
+                await GeneratedEssay.findOneAndUpdate(
+                    { topic: pick.topic },
+                    { eid: 'essay-' + Date.now(), category: pick.cat, topic: pick.topic, modelEssay: response, source: 'AI Generated', generatedAt: new Date() },
+                    { upsert: true }
+                );
+            }
+        } catch(e) {}
         console.log(`[MODEL-ESSAY] Generated for "${pick.topic.substring(0,50)}..." (${response.split(' ').length} words). Total: ${Object.keys(data.modelEssays).length}/${allTopics.length}`);
     } catch(e) {}
 }
