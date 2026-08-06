@@ -907,9 +907,14 @@ ReactDOM.createRoot(document.getElementById('app')).render(<App />);
 (function initProfiles() {
     // Always show the profile selection overlay on app load
     function showProfileScreen() {
-        const overlay = document.createElement('div');
-        overlay.id = 'profile-overlay';
-        overlay.style.cssText = 'position:fixed;top:0;left:0;width:100%;height:100%;background:#0f172a;z-index:9999;display:flex;align-items:center;justify-content:center;flex-direction:column;padding:20px;';
+        // Use the existing overlay from HTML (already visible, no flash)
+        let overlay = document.getElementById('profile-overlay');
+        if (!overlay) {
+            overlay = document.createElement('div');
+            overlay.id = 'profile-overlay';
+            overlay.style.cssText = 'position:fixed;top:0;left:0;width:100%;height:100%;background:#0f172a;z-index:9999;display:flex;align-items:center;justify-content:center;flex-direction:column;padding:20px;';
+            document.body.appendChild(overlay);
+        }
         
         // Load existing profiles
         fetch('/api/profiles').then(r => r.json()).then(data => {
@@ -978,7 +983,7 @@ ReactDOM.createRoot(document.getElementById('app')).render(<App />);
                         localStorage.setItem('upsc_profile', profile);
                         localStorage.setItem('upsc_profile_display', display);
                         activateProfile(profile);
-                        overlay.remove();
+                        overlay.remove(); document.getElementById('app').style.display='block';
                     };
                 });
                 
@@ -995,7 +1000,7 @@ ReactDOM.createRoot(document.getElementById('app')).render(<App />);
                             localStorage.removeItem('upsc_profile_display');
                         }
                         // Refresh the profile screen
-                        overlay.remove();
+                        overlay.remove(); document.getElementById('app').style.display='block';
                         showProfileScreen();
                     };
                 });
@@ -1009,7 +1014,7 @@ ReactDOM.createRoot(document.getElementById('app')).render(<App />);
                     localStorage.setItem('upsc_profile', safeName);
                     localStorage.setItem('upsc_profile_display', name);
                     activateProfile(safeName);
-                    overlay.remove();
+                    overlay.remove(); document.getElementById('app').style.display='block';
                 };
                 document.getElementById('profile-input').onkeypress = (e) => { if(e.key==='Enter') document.getElementById('profile-btn').click(); };
             }, 50);
@@ -1031,7 +1036,7 @@ ReactDOM.createRoot(document.getElementById('app')).render(<App />);
                     localStorage.setItem('upsc_profile', safeName);
                     localStorage.setItem('upsc_profile_display', name);
                     activateProfile(safeName);
-                    overlay.remove();
+                    overlay.remove(); document.getElementById('app').style.display='block';
                 };
                 document.getElementById('profile-input').onkeypress = (e) => { if(e.key==='Enter') document.getElementById('profile-btn').click(); };
             }, 50);
