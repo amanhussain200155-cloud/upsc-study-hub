@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-08-06T08:00:01.463Z",
-  "totalArticles": 42,
+  "totalArticles": 39,
   "sources": [
     "The Hindu (National)",
     "The Hindu (International)",
@@ -75,28 +75,13 @@
       {
         "id": "ca-1786003200322-sdnjfe",
         "title": "Coal production increased 7.5% in July, dispatches surge 17.3% on higher power demand",
-        "content": "India’s consumption of power rose in July owing to lower-than-normal monsoons",
+        "content": "India\u2019s consumption of power rose in July owing to lower-than-normal monsoons",
         "source": "The Hindu (Economy)",
         "tier": 1,
         "date": "2026-08-02T10:37:46.000Z",
         "link": "https://www.thehindu.com/business/Economy/coal-production-increased-75-in-july-dispatches-surge-173-on-higher-power-demand/article71297444.ece",
         "subject": "Geography",
         "secondarySubject": "Environment & Ecology",
-        "tags": [
-          "Geography"
-        ],
-        "relevanceScore": 2
-      },
-      {
-        "id": "ca-1786003201463-pp4dod",
-        "title": "Pacific Islands Alarmed At Trump-Backed Deep-Sea Mining Push",
-        "content": "The United States alarmed its tropical island territories earlier this year, detailing plans to carve up parts of the Pacific Ocean for mining exploration.",
-        "source": "NDTV",
-        "tier": 3,
-        "date": "2026-08-06T04:04:03.000Z",
-        "link": "https://www.ndtv.com/world-news/pacific-islands-alarmed-by-trump-backed-push-for-deep-sea-mining-11872470#publisher=newsstand",
-        "subject": "Geography",
-        "secondarySubject": null,
         "tags": [
           "Geography"
         ],
@@ -151,7 +136,7 @@
       },
       {
         "id": "ca-1786003200354-3fvewz",
-        "title": "Parliament Monsoon Session Day 14 Live: ‘Disruption is part of democracy,’ says Kharge as Rijiju cites Rajya Sabha rules",
+        "title": "Parliament Monsoon Session Day 14 Live: \u2018Disruption is part of democracy,\u2019 says Kharge as Rijiju cites Rajya Sabha rules",
         "content": "",
         "source": "Indian Express (India)",
         "tier": 1,
@@ -166,7 +151,7 @@
       },
       {
         "id": "ca-1786003200383-g7fz83",
-        "title": "Money Bill passed to increase judges’ number: Why this route faces legal challenge",
+        "title": "Money Bill passed to increase judges\u2019 number: Why this route faces legal challenge",
         "content": "",
         "source": "Indian Express (Explained)",
         "tier": 1,
@@ -230,7 +215,7 @@
     "Economy": [
       {
         "id": "ca-1786003200198-uox136",
-        "title": "On day of Tamil Nadu Agriculture Budget, DMK MLAs wear black over TVK-led government’s ‘failure’ on Cauvery issue",
+        "title": "On day of Tamil Nadu Agriculture Budget, DMK MLAs wear black over TVK-led government\u2019s \u2018failure\u2019 on Cauvery issue",
         "content": "The Agri Budget was presented by Minister R. Vinoth, who waxed eloquent about Chief Minister C. Joseph Vijay and the TVK government",
         "source": "The Hindu (National)",
         "tier": 1,
@@ -276,7 +261,7 @@
       {
         "id": "ca-1786003200321-b8ljhs",
         "title": "RBI to issue polymer currency notes from beginning of next fiscal: Governor Sanjay Malhotra",
-        "content": "“We are still at a pilot [stage]. We will test, check as to how they [the polymer notes] perform in the Indian condition, climate and other infrastructure we have put in place,” Sanjay Malhotra said",
+        "content": "\u201cWe are still at a pilot [stage]. We will test, check as to how they [the polymer notes] perform in the Indian condition, climate and other infrastructure we have put in place,\u201d Sanjay Malhotra said",
         "source": "The Hindu (Economy)",
         "tier": 1,
         "date": "2026-08-05T09:50:15.000Z",
@@ -366,7 +351,7 @@
       {
         "id": "ca-1786003200322-qbuvio",
         "title": "India's manufacturing sector activity growth falls to 5-year low in July amid challenging market condition: PMI",
-        "content": "The HSBC India Manufacturing Purchasing Managers’ Index (PMI) is a gauge of overall conditions derived from measures of new orders, output, employment, supplier delivery times and stocks of purchases.",
+        "content": "The HSBC India Manufacturing Purchasing Managers\u2019 Index (PMI) is a gauge of overall conditions derived from measures of new orders, output, employment, supplier delivery times and stocks of purchases.",
         "source": "The Hindu (Economy)",
         "tier": 1,
         "date": "2026-08-03T16:22:49.000Z",
@@ -380,8 +365,8 @@
       },
       {
         "id": "ca-1786003200322-x89dw4",
-        "title": "India’s balancing act to attract more investment from China, U.S. and boost trade",
-        "content": "This balancing act has seen gradual and incremental relaxations in several long-held policies of the government — whether it has to do with FDI in e-commerce, allowing FDI from companies with Chinese ownership, or taking action against the dumping of goods in India by its trade partners.",
+        "title": "India\u2019s balancing act to attract more investment from China, U.S. and boost trade",
+        "content": "This balancing act has seen gradual and incremental relaxations in several long-held policies of the government \u2014 whether it has to do with FDI in e-commerce, allowing FDI from companies with Chinese ownership, or taking action against the dumping of goods in India by its trade partners.",
         "source": "The Hindu (Economy)",
         "tier": 1,
         "date": "2026-08-01T13:38:15.000Z",
@@ -411,7 +396,7 @@
       {
         "id": "ca-1786003201101-s9m7rm",
         "title": "Centre sustains capex push in Q1 despite global trade disruptions, geopolitical uncertainty",
-        "content": "The infrastructure-led growth strategy has remained at the centre of India’s fiscal policy over the past several years and economists assert that public investment in productive assets has a larger multiplier effect than revenue spending.",
+        "content": "The infrastructure-led growth strategy has remained at the centre of India\u2019s fiscal policy over the past several years and economists assert that public investment in productive assets has a larger multiplier effect than revenue spending.",
         "source": "LiveMint (Economy)",
         "tier": 2,
         "date": "2026-08-05T16:05:50.000Z",
@@ -425,7 +410,7 @@
       },
       {
         "id": "ca-1786003200406-259wli",
-        "title": "RBI sees inflation risks — but growth comes first",
+        "title": "RBI sees inflation risks \u2014 but growth comes first",
         "content": "",
         "source": "Indian Express (Opinion)",
         "tier": 2,
@@ -456,7 +441,7 @@
       },
       {
         "id": "ca-1786003201101-g81oli",
-        "title": "Yen at 40-year low reveals Japan’s deepening monetary policy constraints",
+        "title": "Yen at 40-year low reveals Japan\u2019s deepening monetary policy constraints",
         "content": "Driven by interest rate gaps, high energy import costs, and massive national debt, the Japanese yen has fallen to historic lows, limiting Tokyo's ability to raise rates to defend it.",
         "source": "LiveMint (Economy)",
         "tier": 2,
@@ -502,7 +487,7 @@
       {
         "id": "ca-1786003201102-hb2oix",
         "title": "Will a repo rate pause make RBI fall behind the curve?",
-        "content": "Facing rising inflation risks from the West Asia war and El Niño, the RBI faces dilemma over whether to hold repo rates or hike them to curb mounting price pressures.",
+        "content": "Facing rising inflation risks from the West Asia war and El Ni\u00f1o, the RBI faces dilemma over whether to hold repo rates or hike them to curb mounting price pressures.",
         "source": "LiveMint (Economy)",
         "tier": 2,
         "date": "2026-08-03T04:29:59.000Z",
@@ -532,7 +517,7 @@
       {
         "id": "ca-1786003201102-3gpicj",
         "title": "Viksit Bharat 2047 under threat? World Bank says extreme heat costs South Asia 31 million jobs every year",
-        "content": "Without adaptation, the report said, rising heat could leave South Asia's GDP close to 7 per cent smaller by 2050—the steepest projected loss of any developing region in the world.",
+        "content": "Without adaptation, the report said, rising heat could leave South Asia's GDP close to 7 per cent smaller by 2050\u2014the steepest projected loss of any developing region in the world.",
         "source": "LiveMint (Economy)",
         "tier": 2,
         "date": "2026-08-01T10:40:39.000Z",
@@ -549,7 +534,7 @@
       {
         "id": "ca-1786003200235-fgbrau",
         "title": "Hiroshima marks 81st atomic bomb anniversary as Mayor deplores pursuit of nuclear weapons",
-        "content": "Prime Minister Sanae Takaichi, who attended the memorial for the first time as Prime Minister, said she will take “a realistic approach” toward achieving a world where nuclear weapons are never used, within the framework of the United Nations' treaty to prevent the spread of nuclear weapons",
+        "content": "Prime Minister Sanae Takaichi, who attended the memorial for the first time as Prime Minister, said she will take \u201ca realistic approach\u201d toward achieving a world where nuclear weapons are never used, within the framework of the United Nations' treaty to prevent the spread of nuclear weapons",
         "source": "The Hindu (International)",
         "tier": 1,
         "date": "2026-08-06T05:18:05.000Z",
@@ -569,36 +554,6 @@
         "tier": 1,
         "date": "2026-08-06T04:17:08.000Z",
         "link": "https://www.thehindu.com/opinion/collapse-of-rules-based-order-calls-for-total-ban-on-nuclear-weapons/article71310373.ece",
-        "subject": "International Relations",
-        "secondarySubject": null,
-        "tags": [
-          "International Relations"
-        ],
-        "relevanceScore": 2
-      },
-      {
-        "id": "ca-1786003201462-okw1e6",
-        "title": "Kerala Man Killed In Dubai Blast. He Was Planning To Bring Wife To UAE",
-        "content": "The Indian consulate in Dubai confirmed Paul's death and said it was in touch with his family and local authorities to facilitate the repatriation of his mortal remains",
-        "source": "NDTV",
-        "tier": 3,
-        "date": "2026-08-06T05:40:27.000Z",
-        "link": "https://www.ndtv.com/world-news/kerala-man-killed-in-dubai-blast-he-was-planning-to-bring-wife-to-uae-11872887#publisher=newsstand",
-        "subject": "International Relations",
-        "secondarySubject": null,
-        "tags": [
-          "International Relations"
-        ],
-        "relevanceScore": 2
-      },
-      {
-        "id": "ca-1786003201463-chp6l7",
-        "title": "Bridge Washed Away, Mudslides Block Nagaland Roads Amid Heavy Rain",
-        "content": "Bridge washed away and mudslide disrupt roads in Nagaland, prompting traffic advisory.",
-        "source": "NDTV",
-        "tier": 3,
-        "date": "2026-08-06T03:05:27.000Z",
-        "link": "https://www.ndtv.com/india-news/bridge-washed-away-mudslides-block-nagaland-roads-amid-heavy-rain-11872399#publisher=newsstand",
         "subject": "International Relations",
         "secondarySubject": null,
         "tags": [
@@ -641,7 +596,7 @@
       {
         "id": "ca-1786003200276-3r205h",
         "title": "ISRO issues memo to curb exodus of scientists and engineers from Gaganyaan and other key missions",
-        "content": "Won’t accept any request for voluntary retirement or resignation from scientific and technical personnel of Group ‘A’ associated with the Gaganyaan, or other important missions or projects till their realisation",
+        "content": "Won\u2019t accept any request for voluntary retirement or resignation from scientific and technical personnel of Group \u2018A\u2019 associated with the Gaganyaan, or other important missions or projects till their realisation",
         "source": "The Hindu (Science)",
         "tier": 1,
         "date": "2026-08-03T08:08:40.000Z",
@@ -656,7 +611,7 @@
       {
         "id": "ca-1786003200276-hnz1t8",
         "title": "Science must become priority of space missions, we need more money for it: ISRO chief Somanath",
-        "content": "ISRO chief says the agency’s role is to mentor and develop the industry ecosystem in India, and the new space policy will aid private companies",
+        "content": "ISRO chief says the agency\u2019s role is to mentor and develop the industry ecosystem in India, and the new space policy will aid private companies",
         "source": "The Hindu (Science)",
         "tier": 1,
         "date": "2026-08-03T07:58:16.000Z",
@@ -748,7 +703,7 @@
     },
     {
       "id": "ca-1786003200198-uox136",
-      "title": "On day of Tamil Nadu Agriculture Budget, DMK MLAs wear black over TVK-led government’s ‘failure’ on Cauvery issue",
+      "title": "On day of Tamil Nadu Agriculture Budget, DMK MLAs wear black over TVK-led government\u2019s \u2018failure\u2019 on Cauvery issue",
       "content": "The Agri Budget was presented by Minister R. Vinoth, who waxed eloquent about Chief Minister C. Joseph Vijay and the TVK government",
       "source": "The Hindu (National)",
       "tier": 1,
@@ -794,7 +749,7 @@
     {
       "id": "ca-1786003200235-fgbrau",
       "title": "Hiroshima marks 81st atomic bomb anniversary as Mayor deplores pursuit of nuclear weapons",
-      "content": "Prime Minister Sanae Takaichi, who attended the memorial for the first time as Prime Minister, said she will take “a realistic approach” toward achieving a world where nuclear weapons are never used, within the framework of the United Nations' treaty to prevent the spread of nuclear weapons",
+      "content": "Prime Minister Sanae Takaichi, who attended the memorial for the first time as Prime Minister, said she will take \u201ca realistic approach\u201d toward achieving a world where nuclear weapons are never used, within the framework of the United Nations' treaty to prevent the spread of nuclear weapons",
       "source": "The Hindu (International)",
       "tier": 1,
       "date": "2026-08-06T05:18:05.000Z",
@@ -808,7 +763,7 @@
     },
     {
       "id": "ca-1786003200354-3fvewz",
-      "title": "Parliament Monsoon Session Day 14 Live: ‘Disruption is part of democracy,’ says Kharge as Rijiju cites Rajya Sabha rules",
+      "title": "Parliament Monsoon Session Day 14 Live: \u2018Disruption is part of democracy,\u2019 says Kharge as Rijiju cites Rajya Sabha rules",
       "content": "",
       "source": "Indian Express (India)",
       "tier": 1,
@@ -853,7 +808,7 @@
     },
     {
       "id": "ca-1786003200383-g7fz83",
-      "title": "Money Bill passed to increase judges’ number: Why this route faces legal challenge",
+      "title": "Money Bill passed to increase judges\u2019 number: Why this route faces legal challenge",
       "content": "",
       "source": "Indian Express (Explained)",
       "tier": 1,
@@ -899,7 +854,7 @@
     {
       "id": "ca-1786003200321-b8ljhs",
       "title": "RBI to issue polymer currency notes from beginning of next fiscal: Governor Sanjay Malhotra",
-      "content": "“We are still at a pilot [stage]. We will test, check as to how they [the polymer notes] perform in the Indian condition, climate and other infrastructure we have put in place,” Sanjay Malhotra said",
+      "content": "\u201cWe are still at a pilot [stage]. We will test, check as to how they [the polymer notes] perform in the Indian condition, climate and other infrastructure we have put in place,\u201d Sanjay Malhotra said",
       "source": "The Hindu (Economy)",
       "tier": 1,
       "date": "2026-08-05T09:50:15.000Z",
@@ -1019,7 +974,7 @@
     {
       "id": "ca-1786003200322-qbuvio",
       "title": "India's manufacturing sector activity growth falls to 5-year low in July amid challenging market condition: PMI",
-      "content": "The HSBC India Manufacturing Purchasing Managers’ Index (PMI) is a gauge of overall conditions derived from measures of new orders, output, employment, supplier delivery times and stocks of purchases.",
+      "content": "The HSBC India Manufacturing Purchasing Managers\u2019 Index (PMI) is a gauge of overall conditions derived from measures of new orders, output, employment, supplier delivery times and stocks of purchases.",
       "source": "The Hindu (Economy)",
       "tier": 1,
       "date": "2026-08-03T16:22:49.000Z",
@@ -1049,7 +1004,7 @@
     {
       "id": "ca-1786003200276-3r205h",
       "title": "ISRO issues memo to curb exodus of scientists and engineers from Gaganyaan and other key missions",
-      "content": "Won’t accept any request for voluntary retirement or resignation from scientific and technical personnel of Group ‘A’ associated with the Gaganyaan, or other important missions or projects till their realisation",
+      "content": "Won\u2019t accept any request for voluntary retirement or resignation from scientific and technical personnel of Group \u2018A\u2019 associated with the Gaganyaan, or other important missions or projects till their realisation",
       "source": "The Hindu (Science)",
       "tier": 1,
       "date": "2026-08-03T08:08:40.000Z",
@@ -1064,7 +1019,7 @@
     {
       "id": "ca-1786003200276-hnz1t8",
       "title": "Science must become priority of space missions, we need more money for it: ISRO chief Somanath",
-      "content": "ISRO chief says the agency’s role is to mentor and develop the industry ecosystem in India, and the new space policy will aid private companies",
+      "content": "ISRO chief says the agency\u2019s role is to mentor and develop the industry ecosystem in India, and the new space policy will aid private companies",
       "source": "The Hindu (Science)",
       "tier": 1,
       "date": "2026-08-03T07:58:16.000Z",
@@ -1079,7 +1034,7 @@
     {
       "id": "ca-1786003200322-sdnjfe",
       "title": "Coal production increased 7.5% in July, dispatches surge 17.3% on higher power demand",
-      "content": "India’s consumption of power rose in July owing to lower-than-normal monsoons",
+      "content": "India\u2019s consumption of power rose in July owing to lower-than-normal monsoons",
       "source": "The Hindu (Economy)",
       "tier": 1,
       "date": "2026-08-02T10:37:46.000Z",
@@ -1093,8 +1048,8 @@
     },
     {
       "id": "ca-1786003200322-x89dw4",
-      "title": "India’s balancing act to attract more investment from China, U.S. and boost trade",
-      "content": "This balancing act has seen gradual and incremental relaxations in several long-held policies of the government — whether it has to do with FDI in e-commerce, allowing FDI from companies with Chinese ownership, or taking action against the dumping of goods in India by its trade partners.",
+      "title": "India\u2019s balancing act to attract more investment from China, U.S. and boost trade",
+      "content": "This balancing act has seen gradual and incremental relaxations in several long-held policies of the government \u2014 whether it has to do with FDI in e-commerce, allowing FDI from companies with Chinese ownership, or taking action against the dumping of goods in India by its trade partners.",
       "source": "The Hindu (Economy)",
       "tier": 1,
       "date": "2026-08-01T13:38:15.000Z",
@@ -1124,7 +1079,7 @@
     {
       "id": "ca-1786003201101-s9m7rm",
       "title": "Centre sustains capex push in Q1 despite global trade disruptions, geopolitical uncertainty",
-      "content": "The infrastructure-led growth strategy has remained at the centre of India’s fiscal policy over the past several years and economists assert that public investment in productive assets has a larger multiplier effect than revenue spending.",
+      "content": "The infrastructure-led growth strategy has remained at the centre of India\u2019s fiscal policy over the past several years and economists assert that public investment in productive assets has a larger multiplier effect than revenue spending.",
       "source": "LiveMint (Economy)",
       "tier": 2,
       "date": "2026-08-05T16:05:50.000Z",
@@ -1138,7 +1093,7 @@
     },
     {
       "id": "ca-1786003200406-259wli",
-      "title": "RBI sees inflation risks — but growth comes first",
+      "title": "RBI sees inflation risks \u2014 but growth comes first",
       "content": "",
       "source": "Indian Express (Opinion)",
       "tier": 2,
@@ -1169,7 +1124,7 @@
     },
     {
       "id": "ca-1786003201101-g81oli",
-      "title": "Yen at 40-year low reveals Japan’s deepening monetary policy constraints",
+      "title": "Yen at 40-year low reveals Japan\u2019s deepening monetary policy constraints",
       "content": "Driven by interest rate gaps, high energy import costs, and massive national debt, the Japanese yen has fallen to historic lows, limiting Tokyo's ability to raise rates to defend it.",
       "source": "LiveMint (Economy)",
       "tier": 2,
@@ -1215,7 +1170,7 @@
     {
       "id": "ca-1786003201102-hb2oix",
       "title": "Will a repo rate pause make RBI fall behind the curve?",
-      "content": "Facing rising inflation risks from the West Asia war and El Niño, the RBI faces dilemma over whether to hold repo rates or hike them to curb mounting price pressures.",
+      "content": "Facing rising inflation risks from the West Asia war and El Ni\u00f1o, the RBI faces dilemma over whether to hold repo rates or hike them to curb mounting price pressures.",
       "source": "LiveMint (Economy)",
       "tier": 2,
       "date": "2026-08-03T04:29:59.000Z",
@@ -1245,7 +1200,7 @@
     {
       "id": "ca-1786003201102-3gpicj",
       "title": "Viksit Bharat 2047 under threat? World Bank says extreme heat costs South Asia 31 million jobs every year",
-      "content": "Without adaptation, the report said, rising heat could leave South Asia's GDP close to 7 per cent smaller by 2050—the steepest projected loss of any developing region in the world.",
+      "content": "Without adaptation, the report said, rising heat could leave South Asia's GDP close to 7 per cent smaller by 2050\u2014the steepest projected loss of any developing region in the world.",
       "source": "LiveMint (Economy)",
       "tier": 2,
       "date": "2026-08-01T10:40:39.000Z",
@@ -1254,51 +1209,6 @@
       "secondarySubject": "History & Culture",
       "tags": [
         "Economy"
-      ],
-      "relevanceScore": 2
-    },
-    {
-      "id": "ca-1786003201462-okw1e6",
-      "title": "Kerala Man Killed In Dubai Blast. He Was Planning To Bring Wife To UAE",
-      "content": "The Indian consulate in Dubai confirmed Paul's death and said it was in touch with his family and local authorities to facilitate the repatriation of his mortal remains",
-      "source": "NDTV",
-      "tier": 3,
-      "date": "2026-08-06T05:40:27.000Z",
-      "link": "https://www.ndtv.com/world-news/kerala-man-killed-in-dubai-blast-he-was-planning-to-bring-wife-to-uae-11872887#publisher=newsstand",
-      "subject": "International Relations",
-      "secondarySubject": null,
-      "tags": [
-        "International Relations"
-      ],
-      "relevanceScore": 2
-    },
-    {
-      "id": "ca-1786003201463-pp4dod",
-      "title": "Pacific Islands Alarmed At Trump-Backed Deep-Sea Mining Push",
-      "content": "The United States alarmed its tropical island territories earlier this year, detailing plans to carve up parts of the Pacific Ocean for mining exploration.",
-      "source": "NDTV",
-      "tier": 3,
-      "date": "2026-08-06T04:04:03.000Z",
-      "link": "https://www.ndtv.com/world-news/pacific-islands-alarmed-by-trump-backed-push-for-deep-sea-mining-11872470#publisher=newsstand",
-      "subject": "Geography",
-      "secondarySubject": null,
-      "tags": [
-        "Geography"
-      ],
-      "relevanceScore": 2
-    },
-    {
-      "id": "ca-1786003201463-chp6l7",
-      "title": "Bridge Washed Away, Mudslides Block Nagaland Roads Amid Heavy Rain",
-      "content": "Bridge washed away and mudslide disrupt roads in Nagaland, prompting traffic advisory.",
-      "source": "NDTV",
-      "tier": 3,
-      "date": "2026-08-06T03:05:27.000Z",
-      "link": "https://www.ndtv.com/india-news/bridge-washed-away-mudslides-block-nagaland-roads-amid-heavy-rain-11872399#publisher=newsstand",
-      "subject": "International Relations",
-      "secondarySubject": null,
-      "tags": [
-        "International Relations"
       ],
       "relevanceScore": 2
     }
