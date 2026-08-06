@@ -1,0 +1,316 @@
+{
+  "questions": [
+    {
+      "id": "mag-p1",
+      "subject": "Polity & Governance",
+      "question": "Consider the following about the Anti-Defection Law (10th Schedule):\n1. It was added by the 52nd Amendment Act, 1985\n2. A legislator is disqualified if they voluntarily give up party membership\n3. The Speaker/Chairman's decision on disqualification is subject to judicial review\n4. Merger of a party is exempt only if 2/3 of party legislators agree to merge",
+      "options": [
+        "1, 2, 3 and 4",
+        "1, 2 and 4 only",
+        "1 and 2 only",
+        "All are correct"
+      ],
+      "answer": 3,
+      "explanation": "All correct. 52nd Amendment (1985) added 10th Schedule. Disqualification: voluntary giving up membership OR voting against party whip. Speaker decides (Kihoto Hollohan case - subject to judicial review on grounds of mala fide/perversity). Merger exemption: requires 2/3 of party's legislators. Source: Drishti IAS Saraansh May 2027."
+    },
+    {
+      "id": "mag-p2",
+      "subject": "Polity & Governance",
+      "question": "With reference to Bulldozer Justice in India:\n1. It refers to demolition of properties of accused persons without due process\n2. The Supreme Court has laid down guidelines requiring prior notice before demolition\n3. Municipal laws allow demolition only of unauthorized constructions, not as punishment\n4. It is constitutionally valid as a deterrent against crime",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "2 and 3 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG \u2014 bulldozer action as PUNISHMENT for crime is NOT constitutionally valid. SC held: demolition cannot be punitive; only illegal/unauthorized constructions can be demolished under municipal laws with due process (notice, hearing). Using demolition as extra-judicial punishment violates Article 14 (equality), 21 (due process), and 300A (right to property). Source: Drishti IAS Saraansh March 2026."
+    },
+    {
+      "id": "mag-p3",
+      "subject": "Polity & Governance",
+      "question": "Consider the following about Governor's powers in post-election scenarios:\n1. Governor has discretion in inviting party/coalition to form government when no clear majority\n2. Sarkaria Commission recommended Governor invite the single largest party/coalition first\n3. Floor test must be conducted within a reasonable time as per Supreme Court rulings\n4. Governor can indefinitely withhold assent to state bills",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "1 and 3 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG \u2014 Governor cannot INDEFINITELY withhold assent. SC in 2024 (Tamil Nadu case) held that indefinite withholding is unconstitutional; must act within reasonable time. Sarkaria Commission: invite largest party/pre-poll alliance. Floor test: SC mandated timely conduct (Rameshwar Prasad case, SR Bommai). Governor's discretion exists but is not absolute. Source: Drishti IAS Saraansh May 2027."
+    },
+    {
+      "id": "mag-p4",
+      "subject": "Polity & Governance",
+      "question": "With reference to the Removal of the Chief Election Commissioner:\n1. CEC can be removed only through impeachment-like process (same as SC judge)\n2. Other Election Commissioners can be removed on CEC's recommendation\n3. The CEC and EC (Appointment, Conditions of Service) Act, 2023 changed the appointment process\n4. Previously the President appointed CEC/ECs based solely on PM's advice",
+      "options": [
+        "1, 2, 3 and 4",
+        "1, 3 and 4 only",
+        "1 and 4 only",
+        "All are correct"
+      ],
+      "answer": 3,
+      "explanation": "All correct. CEC removal: same as SC judge (proven misbehaviour/incapacity, address by Parliament, 2/3 majority). Other ECs: can be removed on CEC's recommendation (not independently). 2023 Act: Selection Committee now includes PM + Leader of Opposition + CJI-nominated SC judge (replaced earlier system of PM's sole advice to President). This followed SC's Anoop Baranwal verdict (2023). Source: Drishti IAS Saraansh March 2026."
+    },
+    {
+      "id": "mag-p5",
+      "subject": "Polity & Governance",
+      "question": "Consider the following about Reforming Tribunals in India:\n1. Tribunals were created to reduce burden on courts and provide speedy justice\n2. Finance Act route for tribunal reforms was struck down by SC as unconstitutional\n3. Tribunal Reforms Act, 2021 was also partially struck down by SC\n4. India has no vacancies in tribunal positions currently",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "1 and 2 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG \u2014 India has SIGNIFICANT vacancies in tribunals (often 30-50% positions vacant). SC struck down Finance Act 2017 route (Rojer Mathew case - money bill cannot deal with tribunals). Tribunal Reforms Act 2021: SC struck down provisions on tenure (4 years too short) and age limits. Key issues: independence, tenure security, vacancy crisis, pendency. Source: Drishti IAS Saraansh March 2026."
+    },
+    {
+      "id": "mag-e1",
+      "subject": "Economics",
+      "question": "Consider the following about India's New GDP Series with base year 2022-23:\n1. NSO periodically revises GDP base year to reflect current economic structure\n2. The new series includes better coverage of the digital economy and gig workers\n3. Previous base year was 2011-12\n4. Base year revision always increases GDP growth rate",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "1 and 3 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG \u2014 base year revision does NOT always increase growth rate. It can increase or decrease depending on structural shifts captured. 2011-12 base replaced 2004-05. New 2022-23 base better captures: digital economy, fintech, gig/platform workers, e-commerce, new sectors. Method: uses latest MCA-21 data, GST data, updated weights for sectors. Source: Drishti IAS Saraansh March 2026."
+    },
+    {
+      "id": "mag-e2",
+      "subject": "Economics",
+      "question": "With reference to Washington Consensus and India:\n1. It refers to free-market economic policies promoted by IMF and World Bank\n2. Key elements include privatization, deregulation, and fiscal discipline\n3. India's 1991 reforms were partially influenced by Washington Consensus\n4. India fully adopted all Washington Consensus recommendations without modification",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "1 and 2 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG \u2014 India did NOT fully adopt all recommendations. India followed a GRADUALIST approach: selective privatization (not blanket), maintained subsidies for poor, retained public sector in strategic areas, capital account not fully convertible. India adapted policies to its context unlike many Latin American countries that faced crises from full adoption. Source: Drishti IAS Saraansh March 2026."
+    },
+    {
+      "id": "mag-e3",
+      "subject": "Economics",
+      "question": "Consider the following about India's Infrastructure Financing:\n1. National Infrastructure Pipeline (NIP) targets \u20b9111 lakh crore investment by 2025\n2. Infrastructure Investment Trusts (InvITs) allow monetization of operational assets\n3. National Bank for Financing Infrastructure and Development (NaBFID) was set up in 2021\n4. India's infrastructure spending is primarily funded by external commercial borrowings",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "2 and 3 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG \u2014 India's infrastructure is primarily funded by DOMESTIC sources: government budgetary support (~40%), bank credit (~25%), and capital markets/bonds. ECBs are a small portion. NaBFID: DFI for long-term infra lending (\u20b95 lakh crore target). InvITs: monetize roads, pipelines, telecom towers (NHAI, PowerGrid InvITs). NIP: 7,400+ projects across sectors. Source: Drishti IAS Saraansh March 2026."
+    },
+    {
+      "id": "mag-e4",
+      "subject": "Economics",
+      "question": "With reference to Kisan Credit Card (KCC) scheme:\n1. It provides short-term crop loans at 4% effective interest rate (with subvention)\n2. Coverage extended to fisheries and animal husbandry under PM-KCC\n3. Loans up to \u20b93 lakh are collateral-free under KCC\n4. KCC is available only through nationalized banks",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "1 and 2 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG \u2014 KCC is available through ALL scheduled commercial banks, Regional Rural Banks (RRBs), cooperative banks, and Small Finance Banks (not just nationalized). Interest: 7% with 3% subvention (MISS) = effective 4% for prompt repayers. Collateral-free up to \u20b91.6 lakh (revised from \u20b91 lakh). Extended to PM-Kisan beneficiaries, fishermen (PM-MKSCC), dairy farmers. Source: Drishti IAS Saraansh March 2026."
+    },
+    {
+      "id": "mag-env1",
+      "subject": "Environment & Ecology",
+      "question": "Consider the following about Human-Wildlife Conflict in India:\n1. India has the highest number of elephant-human conflict deaths globally\n2. Wildlife corridors are being established to reduce conflict\n3. SC has recognized the right of animals to move freely in their habitat\n4. Compensation for crop damage is the only solution adopted by government",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "2 and 3 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG \u2014 government uses MULTIPLE solutions beyond compensation: early warning systems (AI/IoT), wildlife corridors, solar fencing, trenches, SMS alerts, crop insurance, translocation, habitat restoration, community-based conservation. Compensation is inadequate and delayed in many states. SC recognized animals' right to free passage. India: ~500 elephant deaths + ~100 tiger conflict incidents annually. Source: Drishti IAS Saraansh May 2027."
+    },
+    {
+      "id": "mag-env2",
+      "subject": "Environment & Ecology",
+      "question": "With reference to India's Invasive Species Crisis:\n1. Lantana camara is one of India's most widespread invasive species affecting forests\n2. Water Hyacinth blocks waterways and depletes oxygen in water bodies\n3. Prosopis juliflora (Vilayati Babool) has invaded arid areas of Rajasthan and Gujarat\n4. Indian Biodiversity Act allows free import of all foreign plant species",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "1 and 2 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG \u2014 India has regulations on import of alien species under Plant Quarantine Order 2003, Biological Diversity Act 2002, and Wildlife Protection Act 1972. Not all foreign species can be freely imported. Lantana: covers 40%+ of India's forest floor, reduces biodiversity. Water Hyacinth: 'Terror of Bengal', clogs Dal Lake. Prosopis: was introduced for afforestation but became invasive. Source: Drishti IAS Saraansh May 2027."
+    },
+    {
+      "id": "mag-env3",
+      "subject": "Environment & Ecology",
+      "question": "Consider the following about SO\u2082 mitigation from coal-fired power plants:\n1. Flue Gas Desulphurisation (FGD) is the primary technology used\n2. India extended the deadline for installing FGDs multiple times\n3. Coal plants contribute significantly to India's SO\u2082 emissions\n4. India has achieved 100% FGD installation in all thermal plants",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "1 and 3 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG \u2014 India has NOT achieved 100% FGD installation. As of 2026, less than 10% of coal plants have operational FGDs. Deadline extended from 2017 \u2192 2019 \u2192 2022 \u2192 2027 for different categories. India is world's largest SO\u2082 emitter. FGD: wet limestone-based system removes 90%+ SO\u2082. Challenges: cost (\u20b910-15 crore/MW), water availability, space constraints. Source: Drishti IAS Saraansh May 2027."
+    },
+    {
+      "id": "mag-st1",
+      "subject": "Science & Technology",
+      "question": "Consider the following about India's Reusable Launch Vehicle (RLV) Technology:\n1. ISRO's RLV-TD (Technology Demonstrator) successfully performed autonomous landing\n2. Reusable vehicles reduce launch costs by recovering the first stage\n3. India aims to develop a fully reusable Two-Stage-to-Orbit (TSTO) vehicle\n4. India has already commercialized its reusable launch vehicle",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "1 and 2 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG \u2014 India has NOT yet commercialized its RLV. It is in the testing/demonstration phase. RLV-TD (2016): first flight, demonstrated hypersonic flight and re-entry. LEX (Landing Experiment): autonomous runway landing (2023). Future: fully reusable TSTO = dramatically cheaper launches. Currently, only SpaceX has commercialized partial reusability (Falcon 9 first stage). Source: Drishti IAS Saraansh January 2026."
+    },
+    {
+      "id": "mag-st2",
+      "subject": "Science & Technology",
+      "question": "With reference to CAR-T Cell Therapy:\n1. It uses genetically modified patient's own T-cells to fight cancer\n2. India developed an affordable indigenous CAR-T therapy (NexCAR19)\n3. T-cells are engineered to recognize specific cancer antigens\n4. CAR-T therapy is effective for all types of cancers equally",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "1 and 3 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG \u2014 CAR-T is NOT equally effective for all cancers. It works best for blood cancers (leukemia, lymphoma). For solid tumors (breast, lung, colon), effectiveness is limited due to tumor microenvironment challenges. India's NexCAR19 (IIT Bombay + Tata Hospital): costs ~\u20b930-40 lakh vs \u20b93-4 crore abroad. Process: extract patient's T-cells \u2192 genetically modify with Chimeric Antigen Receptor \u2192 infuse back. Source: Drishti IAS Saraansh February 2026 & May 2027."
+    },
+    {
+      "id": "mag-ir1",
+      "subject": "International Relations",
+      "question": "Consider the following about India-France Special Global Strategic Partnership:\n1. France is India's oldest strategic partner in Europe\n2. Cooperation covers defence (Rafale), nuclear energy (Jaitapur), and space (ISRO-CNES)\n3. France supported India's permanent UNSC membership bid\n4. India and France have no differences on any international issue",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "1 and 2 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG \u2014 there are differences on some issues: EU carbon border tax (CBAM) affecting Indian exports, agricultural subsidies in WTO, approach to Indo-Pacific (France has its own territories in the region). However, convergences far outweigh differences. Strategic partnership since 1998. Rafale deal (36 aircraft), Jaitapur nuclear plant (world's largest planned), Scorpene submarines. Source: Drishti IAS Saraansh February 2026."
+    },
+    {
+      "id": "mag-ir2",
+      "subject": "International Relations",
+      "question": "With reference to India-Canada relations and recent tensions:\n1. Tensions escalated over allegations regarding Sikh separatism\n2. India expelled Canadian diplomats in 2023\n3. Canada is home to the largest Indian diaspora outside India\n4. Trade relations were completely suspended between the two countries",
+      "options": [
+        "1 and 2 only",
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "All are correct"
+      ],
+      "answer": 1,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG \u2014 trade relations were NOT completely suspended. Economic ties continued despite diplomatic tensions. India-Canada trade: ~$8-9 billion. Issues: Khalistan movement supporters in Canada, Trudeau's allegations in Parliament (2023), mutual diplomatic expulsions. India's concerns: Canadian tolerance of anti-India activities. Diaspora: ~1.8 million Canadians of Indian origin. Source: Drishti IAS Saraansh March 2026."
+    },
+    {
+      "id": "mag-s1",
+      "subject": "Social Issues",
+      "question": "Consider the following about the Creamy Layer concept:\n1. Creamy Layer ceiling for OBCs is currently \u20b98 lakh per annum\n2. It was first introduced based on Indra Sawhney judgment (1992)\n3. Supreme Court in 2024 extended creamy layer concept to SC/ST reservations\n4. Creamy Layer applies to reservations in private sector employment",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "2 and 3 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG \u2014 Creamy Layer concept applies to GOVERNMENT reservations, not private sector (which has no mandatory reservation in most states). OBC creamy layer: \u20b98 lakh (raised from \u20b96 lakh). Indra Sawhney (1992): 27% OBC reservation with creamy layer exclusion. SC/ST extension: 2024 landmark judgment (7-judge bench) allowed states to sub-classify within SC/ST and apply creamy layer principle. Source: Drishti IAS Saraansh May 2027."
+    },
+    {
+      "id": "mag-s2",
+      "subject": "Social Issues",
+      "question": "With reference to Prison Health Crisis in India:\n1. Overcrowding in Indian prisons exceeds 130% of capacity nationally\n2. Undertrial prisoners constitute about 76% of total prison population\n3. Mental health services are largely absent in Indian prisons\n4. All prisons in India have been linked to Ayushman Bharat for healthcare",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "1 and 2 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG \u2014 NOT all prisons are linked to Ayushman Bharat. Coverage is partial and inconsistent across states (prisons are a State subject). Issues: overcrowding (118% occupancy national average, some states 200%+), 76%+ undertrials (awaiting trial), inadequate medical staff (1 doctor per 1000+ prisoners in many), mental health neglected, high HIV/TB prevalence. Nelson Mandela Rules (UN) mandate minimum healthcare standards. Source: Drishti IAS Saraansh March 2026."
+    },
+    {
+      "id": "mag-h1",
+      "subject": "History",
+      "question": "Consider the following about the RIN Revolt (Royal Indian Navy Mutiny) of 1946:\n1. It began in Bombay (Mumbai) and spread to other naval bases\n2. Sailors protested against poor food, racial discrimination, and INA trial\n3. Both Congress and Muslim League asked the sailors to surrender\n4. It demonstrated that the British could no longer rely on Indian armed forces",
+      "options": [
+        "1, 2, 3 and 4",
+        "1, 2 and 4 only",
+        "1 and 2 only",
+        "All are correct"
+      ],
+      "answer": 3,
+      "explanation": "All correct. RIN Revolt (February 1946): started at HMIS Talwar in Bombay, spread to Karachi, Calcutta, and other bases. Causes: racial discrimination, poor food quality, inspired by INA trials. Both Congress (Patel) and Muslim League (Jinnah) called for surrender \u2014 feared revolutionary violence. Significance: proved British couldn't depend on Indian military loyalty; accelerated independence timeline. 20,000+ sailors participated. Source: Drishti IAS Saraansh February 2026 \u2014 '80 Years of the RIN Revolt'."
+    },
+    {
+      "id": "mag-h2",
+      "subject": "Art & Culture",
+      "question": "With reference to Indian Miniature Painting traditions:\n1. Mughal miniatures were influenced by Persian painting traditions\n2. Rajput paintings depict themes from Ramayana, Krishna Leela, and Ragamala\n3. Pahari school includes Kangra and Basohli styles\n4. All Indian miniature paintings used only natural mineral pigments",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "1 and 2 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG \u2014 while traditionally natural pigments were used (gold, lapis lazuli, vermillion), later periods and some schools also used synthetic/imported colours. Mughal: realistic portraiture, Persian influence (Humayun brought painters). Rajput: devotional themes, bold colours, flat perspective. Pahari: Kangra (soft lyrical, Radha-Krishna), Basohli (bold, vibrant), Guler (naturalistic). Other schools: Deccan, Malwa, Bundelkhand. Source: Drishti IAS Saraansh January 2026."
+    },
+    {
+      "id": "mag-sec1",
+      "subject": "Internal Security",
+      "question": "Consider the following about India's National Counter-Terrorism Policy PRAHAAR:\n1. It adopts a whole-of-government approach to counter-terrorism\n2. It integrates intelligence from multiple agencies through Multi-Agency Centre (MAC)\n3. It addresses hybrid threats including cyber attacks and disinformation\n4. It focuses exclusively on cross-border terrorism from Pakistan",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "1 and 3 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG \u2014 PRAHAAR is NOT exclusive to cross-border terrorism. It addresses ALL forms: urban terrorism, lone-wolf attacks, left-wing extremism, narco-terrorism, cyber warfare, and hybrid threats. Whole-of-government + whole-of-society approach. MAC enables real-time intelligence fusion. Financial surveillance under PMLA 2002. Integrated security response via National Security Strategy. Source: Drishti IAS Saraansh March 2026."
+    },
+    {
+      "id": "mag-sec2",
+      "subject": "Internal Security",
+      "question": "With reference to Operation Sindoor and India's defence capabilities:\n1. It demonstrated India's capability for precision strikes against terrorist infrastructure\n2. India used indigenous weapons systems in the operation\n3. It highlighted the importance of intelligence-based targeting\n4. The operation required no international cooperation or diplomatic coordination",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "1 and 2 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG \u2014 such operations require significant diplomatic coordination and communication with relevant countries (to prevent escalation, manage airspace, inform allies). Operation Sindoor (post-Pahalgam attack 2025): demonstrated India's resolve, precision targeting capability, and use of indigenous systems (BrahMos, Astra, DRDO equipment). Intelligence-based operations require ISR (Intelligence, Surveillance, Reconnaissance) from multiple sources. Source: Drishti IAS Saraansh May 2027 & July 2026."
+    },
+    {
+      "id": "mag-g1",
+      "subject": "Geography",
+      "question": "Consider the following about India's Inland Waterways:\n1. National Waterway 1 (Ganga: Allahabad to Haldia) is the longest NW in India\n2. Inland Waterways Authority of India (IWAI) develops and maintains waterways\n3. Jal Marg Vikas Project developed NW-1 with World Bank assistance\n4. India utilizes over 50% of its navigable waterway potential",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "2 and 3 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG \u2014 India utilizes less than 2-3% of its navigable waterway potential (~14,500 km navigable but only ~5,500 km used for transport). NW-1: 1,620 km (Haldia-Prayagraj). IWAI: statutory body under IWAI Act 1985. Jal Marg Vikas: \u20b95,369 crore, World Bank assisted. 111 NWs declared. Challenge: seasonal water levels, shallow drafts, last-mile connectivity. Source: Drishti IAS Saraansh May 2027."
+    },
+    {
+      "id": "mag-g2",
+      "subject": "Geography",
+      "question": "With reference to Nor'westers (Kalbaisakhi) and local winds of India:\n1. Nor'westers are violent thunderstorms in eastern India during pre-monsoon season\n2. They are caused by convergence of moist southerly winds with dry westerlies\n3. They are beneficial for tea plantations in Assam and rice cultivation in Bengal\n4. They occur exclusively during the southwest monsoon season",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "1 and 2 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG \u2014 Nor'westers occur during PRE-MONSOON season (March-May), NOT during the southwest monsoon (June-September). They are called 'Kalbaisakhi' (destruction in Baisakh month). Caused by: moisture from Bay of Bengal meets dry continental air from northwest. Beneficial: 'Bardoli Chheerha' for Assam tea, 'Mango Showers' in South. Destructive: hail, gusty winds (60-100 kmph), lightning. Source: Drishti IAS Saraansh March 2026."
+    }
+  ]
+}
