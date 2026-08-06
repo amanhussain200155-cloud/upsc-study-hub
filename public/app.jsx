@@ -340,9 +340,31 @@ function RevisionMode() {
     const [revData, setRevData] = useState(null);
     const [view, setView] = useState('overview'); // overview, wrong, bookmarks, due
     const [loading, setLoading] = useState(true);
+    const profileName = window._upscProfileDisplay || localStorage.getItem('upsc_profile_display') || 'Student';
 
     const reload = () => {
-        fetch('/api/revision').then(r=>r.json()).then(d => {setRevData(d);setLoading(false);});
+        const profile = window._upscProfile || localStorage.getItem('upsc_profile');
+        const url = profile ? `/api/profiles/${profile}` : '/api/revision';
+        fetch(url).then(r=>r.json()).then(d => {
+            // Normalize data shape for profile vs generic endpoint
+            if (d.stats) {
+                setRevData({
+                    summary: {
+                        totalAttempted: d.stats.totalAttempted || 0,
+                        accuracy: d.stats.totalAttempted > 0 ? Math.round((d.stats.totalCorrect / d.stats.totalAttempted) * 100) : 0,
+                        streakDays: d.stats.streakDays || 0,
+                        revisionDueCount: (d.revisionQueue || []).filter(r => new Date(r.nextReview) <= new Date()).length,
+                        subjectWise: d.stats.subjectWise || {}
+                    },
+                    wrongAnswers: d.wrongAnswers || [],
+                    bookmarks: d.bookmarks || [],
+                    dueRevisions: (d.revisionQueue || []).filter(r => new Date(r.nextReview) <= new Date())
+                });
+            } else {
+                setRevData(d);
+            }
+            setLoading(false);
+        });
     };
     useEffect(reload, []);
 
@@ -356,7 +378,7 @@ function RevisionMode() {
         return (
             <div>
                 <div className="current-affairs-banner" style={{borderColor:'#f97316'}}>
-                    <h3>📊 Your Study Dashboard</h3>
+                    <h3>📊 {profileName}'s Study Dashboard</h3>
                     <p>Track progress, revise mistakes, revisit bookmarks</p>
                 </div>
                 <div className="stats-bar">
@@ -384,7 +406,7 @@ function RevisionMode() {
                     {dueRevisions.length > 0 && <button className="btn btn-primary" onClick={() => setView('due')}>🔄 Revise Due ({dueRevisions.length})</button>}
                     {wrongAnswers.length > 0 && <button className="btn btn-secondary" onClick={() => setView('wrong')}>❌ Wrong Answers ({wrongAnswers.length})</button>}
                     {bookmarks.length > 0 && <button className="btn btn-secondary" onClick={() => setView('bookmarks')}>🔖 Bookmarks ({bookmarks.length})</button>}
-                    <button className="btn btn-secondary" style={{borderColor:'#ef4444',color:'#ef4444',marginTop:'8px'}} onClick={() => {if(confirm('Reset ALL progress? This will clear all attempts, wrong answers, and bookmarks.')){fetch('/api/revision/reset',{method:'POST'}).then(()=>reload())}}}>🗑️ Reset All Progress</button>
+                    <button className="btn btn-secondary" style={{borderColor:'#ef4444',color:'#ef4444',marginTop:'8px'}} onClick={() => {if(confirm('Reset ALL progress? This will clear all attempts, wrong answers, and bookmarks.')){const profile = window._upscProfile || localStorage.getItem('upsc_profile'); const url = profile ? `/api/profiles/${profile}/reset` : '/api/revision/reset'; fetch(url,{method:'POST'}).then(()=>reload())}}}>🗑️ Reset All Progress</button>
                 </div>
             </div>
         );
@@ -734,57 +756,143 @@ function App() {
 ReactDOM.createRoot(document.getElementById('app')).render(<App />);
 
 // ============ PROFILE SELECTOR (injected at app load) ============
-// Overrides: recordAttemptAPI and bookmarkAPI to use profile-specific endpoints
+// Always shows profile selection screen before entering the app
 (function initProfiles() {
-    let currentProfile = localStorage.getItem('upsc_profile');
-    
-    if (!currentProfile) {
-        // Show profile selection on first visit
+    // Always show the profile selection overlay on app load
+    function showProfileScreen() {
         const overlay = document.createElement('div');
         overlay.id = 'profile-overlay';
-        overlay.style.cssText = 'position:fixed;top:0;left:0;width:100%;height:100%;background:#0f172a;z-index:9999;display:flex;align-items:center;justify-content:center;flex-direction:column;';
-        overlay.innerHTML = `
-            <h2 style="color:#f97316;margin-bottom:20px;font-size:1.5rem;">🏛️ Welcome to UPSC Study Hub</h2>
-            <p style="color:#94a3b8;margin-bottom:20px;">Enter your name to create/access your profile:</p>
-            <input id="profile-input" type="text" placeholder="Your name" style="padding:12px 20px;border-radius:8px;border:1px solid #334155;background:#1e293b;color:#fff;font-size:1rem;width:250px;margin-bottom:12px;">
-            <button id="profile-btn" style="padding:12px 24px;border-radius:8px;background:#f97316;color:#fff;border:none;cursor:pointer;font-size:1rem;">Start Studying →</button>
-            <p style="color:#64748b;margin-top:16px;font-size:0.8rem;">Each person gets their own progress, bookmarks, and revision tracking.</p>
-        `;
-        document.body.appendChild(overlay);
+        overlay.style.cssText = 'position:fixed;top:0;left:0;width:100%;height:100%;background:#0f172a;z-index:9999;display:flex;align-items:center;justify-content:center;flex-direction:column;padding:20px;';
         
-        setTimeout(() => {
-            document.getElementById('profile-btn').onclick = async () => {
-                const name = document.getElementById('profile-input').value.trim();
-                if (name.length < 2) { alert('Please enter at least 2 characters'); return; }
-                await fetch('/api/profiles/create', { method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({name}) });
-                localStorage.setItem('upsc_profile', name.toLowerCase().replace(/[^a-z0-9]/g,'-'));
-                localStorage.setItem('upsc_profile_display', name);
-                document.getElementById('profile-overlay').remove();
-                location.reload();
-            };
-            document.getElementById('profile-input').onkeypress = (e) => { if(e.key==='Enter') document.getElementById('profile-btn').click(); };
-        }, 100);
-    } else {
-        // Override the global API functions to use profile-specific endpoints
-        window._upscProfile = currentProfile;
-        const origRecord = window.recordAttemptAPI || (async()=>{});
+        // Load existing profiles
+        fetch('/api/profiles').then(r => r.json()).then(data => {
+            const profiles = data.profiles || [];
+            const savedProfile = localStorage.getItem('upsc_profile');
+            const savedDisplay = localStorage.getItem('upsc_profile_display');
+            
+            let profileListHTML = '';
+            if (profiles.length > 0) {
+                profileListHTML = `
+                    <div style="margin-bottom:24px;width:100%;max-width:320px;">
+                        <p style="color:#94a3b8;margin-bottom:12px;font-size:0.9rem;text-align:center;">Select your profile:</p>
+                        <div id="profile-list" style="display:flex;flex-direction:column;gap:10px;">
+                            ${profiles.map(p => {
+                                const displayName = p.charAt(0).toUpperCase() + p.slice(1).replace(/-/g, ' ');
+                                const isLast = (p === savedProfile);
+                                return `<button class="profile-select-btn" data-profile="${p}" data-display="${displayName}" style="
+                                    padding:14px 20px;border-radius:12px;border:2px solid ${isLast ? '#f97316' : '#334155'};
+                                    background:${isLast ? '#1e293b' : '#0f172a'};color:#fff;cursor:pointer;font-size:1rem;
+                                    display:flex;align-items:center;gap:12px;transition:all 0.2s;
+                                ">
+                                    <span style="width:40px;height:40px;border-radius:50%;background:linear-gradient(135deg, #f97316, #eab308);display:flex;align-items:center;justify-content:center;font-size:1.2rem;font-weight:bold;">${displayName.charAt(0).toUpperCase()}</span>
+                                    <span style="flex:1;text-align:left;">
+                                        <span style="display:block;font-weight:600;">${displayName}</span>
+                                        ${isLast ? '<span style="font-size:0.75rem;color:#f97316;">Last used</span>' : ''}
+                                    </span>
+                                    <span style="color:#64748b;font-size:1.2rem;">→</span>
+                                </button>`;
+                            }).join('')}
+                        </div>
+                    </div>
+                    <div style="width:100%;max-width:320px;border-top:1px solid #334155;padding-top:20px;margin-top:8px;">
+                        <p style="color:#64748b;margin-bottom:12px;font-size:0.85rem;text-align:center;">Or create a new profile:</p>
+                    </div>
+                `;
+            }
+            
+            overlay.innerHTML = `
+                <h2 style="color:#f97316;margin-bottom:8px;font-size:1.5rem;">🏛️ UPSC Study Hub</h2>
+                <p style="color:#64748b;margin-bottom:24px;font-size:0.85rem;">Who's studying today?</p>
+                ${profileListHTML}
+                <div style="display:flex;gap:8px;width:100%;max-width:320px;">
+                    <input id="profile-input" type="text" placeholder="Enter name" style="padding:12px 16px;border-radius:8px;border:1px solid #334155;background:#1e293b;color:#fff;font-size:1rem;flex:1;">
+                    <button id="profile-btn" style="padding:12px 18px;border-radius:8px;background:#f97316;color:#fff;border:none;cursor:pointer;font-size:0.9rem;white-space:nowrap;">Create →</button>
+                </div>
+                <p style="color:#64748b;margin-top:16px;font-size:0.75rem;">Each profile has its own progress, bookmarks & revision tracking.</p>
+            `;
+            
+            document.body.appendChild(overlay);
+            
+            // Handle existing profile clicks
+            setTimeout(() => {
+                document.querySelectorAll('.profile-select-btn').forEach(btn => {
+                    btn.onmouseenter = () => { btn.style.borderColor = '#f97316'; btn.style.background = '#1e293b'; };
+                    btn.onmouseleave = () => { 
+                        const isLast = btn.dataset.profile === savedProfile;
+                        btn.style.borderColor = isLast ? '#f97316' : '#334155'; 
+                        btn.style.background = isLast ? '#1e293b' : '#0f172a'; 
+                    };
+                    btn.onclick = () => {
+                        const profile = btn.dataset.profile;
+                        const display = btn.dataset.display;
+                        localStorage.setItem('upsc_profile', profile);
+                        localStorage.setItem('upsc_profile_display', display);
+                        activateProfile(profile);
+                        overlay.remove();
+                    };
+                });
+                
+                // Handle new profile creation
+                document.getElementById('profile-btn').onclick = async () => {
+                    const name = document.getElementById('profile-input').value.trim();
+                    if (name.length < 2) { alert('Please enter at least 2 characters'); return; }
+                    await fetch('/api/profiles/create', { method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({name}) });
+                    const safeName = name.toLowerCase().replace(/[^a-z0-9]/g,'-');
+                    localStorage.setItem('upsc_profile', safeName);
+                    localStorage.setItem('upsc_profile_display', name);
+                    activateProfile(safeName);
+                    overlay.remove();
+                };
+                document.getElementById('profile-input').onkeypress = (e) => { if(e.key==='Enter') document.getElementById('profile-btn').click(); };
+            }, 50);
+        }).catch(() => {
+            // Fallback if /api/profiles fails - just show input
+            overlay.innerHTML = `
+                <h2 style="color:#f97316;margin-bottom:20px;font-size:1.5rem;">🏛️ Welcome to UPSC Study Hub</h2>
+                <p style="color:#94a3b8;margin-bottom:20px;">Enter your name to create/access your profile:</p>
+                <input id="profile-input" type="text" placeholder="Your name" style="padding:12px 20px;border-radius:8px;border:1px solid #334155;background:#1e293b;color:#fff;font-size:1rem;width:250px;margin-bottom:12px;">
+                <button id="profile-btn" style="padding:12px 24px;border-radius:8px;background:#f97316;color:#fff;border:none;cursor:pointer;font-size:1rem;">Start Studying →</button>
+            `;
+            document.body.appendChild(overlay);
+            setTimeout(() => {
+                document.getElementById('profile-btn').onclick = async () => {
+                    const name = document.getElementById('profile-input').value.trim();
+                    if (name.length < 2) { alert('Please enter at least 2 characters'); return; }
+                    await fetch('/api/profiles/create', { method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({name}) });
+                    const safeName = name.toLowerCase().replace(/[^a-z0-9]/g,'-');
+                    localStorage.setItem('upsc_profile', safeName);
+                    localStorage.setItem('upsc_profile_display', name);
+                    activateProfile(safeName);
+                    overlay.remove();
+                };
+                document.getElementById('profile-input').onkeypress = (e) => { if(e.key==='Enter') document.getElementById('profile-btn').click(); };
+            }, 50);
+        });
+    }
+    
+    // Activate profile: override API functions to use profile-specific endpoints
+    function activateProfile(profileName) {
+        window._upscProfile = profileName;
+        window._upscProfileDisplay = localStorage.getItem('upsc_profile_display') || profileName;
+        
         window.recordAttemptAPI = async (questionId, subject, isCorrect, questionData) => {
             try {
-                await fetch(`/api/profiles/${currentProfile}/attempt`, {
+                await fetch(`/api/profiles/${profileName}/attempt`, {
                     method:'POST', headers:{'Content-Type':'application/json'},
                     body:JSON.stringify({questionId, subject, isCorrect, questionData})
                 });
             } catch(e) {}
-            // Also call original for backward compatibility
-            origRecord(questionId, subject, isCorrect, questionData);
         };
         window.bookmarkAPI = async (item) => {
-            await fetch(`/api/profiles/${currentProfile}/bookmark`, {
+            await fetch(`/api/profiles/${profileName}/bookmark`, {
                 method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify(item)
             });
         };
         window.removeBookmarkAPI = async (id) => {
-            await fetch(`/api/profiles/${currentProfile}/bookmark/${id}`, {method:'DELETE'});
+            await fetch(`/api/profiles/${profileName}/bookmark/${id}`, {method:'DELETE'});
         };
     }
+    
+    // Show the profile selection screen
+    showProfileScreen();
 })();
