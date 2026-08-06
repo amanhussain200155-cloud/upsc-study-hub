@@ -491,16 +491,15 @@ function StatsBadge() {
                         </div>
                     )}
                     <div style={{marginTop:'10px',borderTop:'1px solid #334155',paddingTop:'8px',fontSize:'0.75rem',color:'#64748b'}}>
-                        <div style={{color:'#94a3b8',fontWeight:'bold',marginBottom:'4px'}}>⏰ Auto-Growth Schedule:</div>
-                        <div>• Prelims MCQs: Every hour (:15) — ~3-5 Qs/hour</div>
-                        <div>• Static Bank (verified): Daily 5:00 AM IST — ~7-8 Qs</div>
-                        <div>• Mains Questions: Daily 3:30 AM IST — ~2 Qs</div>
-                        <div>• Interview Questions: Daily 3:30 AM IST — ~2 Qs</div>
-                        <div>• Model Essays: Every hour (:15) — 1 essay/hour</div>
-                        <div>• Flashcards: Every hour (:15) — ~3-5 cards</div>
-                        <div>• Essay Topics: Weekly (Sunday) — ~5 topics</div>
-                        <div>• Current Affairs: Every 4 hours — ~40 articles</div>
-                        <div>• CA MCQs from news: Every 6 hours — ~3-5 Qs</div>
+                        <div style={{color:'#94a3b8',fontWeight:'bold',marginBottom:'4px'}}>⏰ Daily Growth (all free, AI-powered):</div>
+                        <div>• Prelims MCQs: ~20-25/day (syllabus + current affairs)</div>
+                        <div>• Static Bank (verified): ~7-8/day (added to permanent bank)</div>
+                        <div>• Mains Questions: ~2/day (with model answers)</div>
+                        <div>• Interview Questions: ~2/day (with model answers)</div>
+                        <div>• Model Essays: ~3-5/day (~1200 words each)</div>
+                        <div>• Flashcards: ~15-20/day</div>
+                        <div>• Current Affairs: ~30-40 articles/day (AI-classified)</div>
+                        <div style={{marginTop:'4px',color:'#60a5fa'}}>Sources: The Hindu, Indian Express, PIB, LiveMint</div>
                     </div>
                 </div>
             )}
