@@ -57,7 +57,7 @@ app.get('/api/stats/detailed', async (req, res) => {
                 todayBySubject[s] = (todayBySubject[s] || 0) + 1;
             }
         }
-        stats.prelims = { total: allQuestions.length, bySubject: subjectCounts, addedToday, todayBySubject };
+        stats.prelims = { total: allQuestions.length, bySubject: subjectCounts, addedToday, todayBySubject, staticCount: allQuestions.length };
 
         // Mains
         const mainsPath = path.join(__dirname, 'data', 'mains.json');

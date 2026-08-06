@@ -656,6 +656,8 @@ function StatsBadge() {
                         <div>Flashcards: {data.flashcards} {data.flashcardsToday > 0 && <span style={{color:'#22c55e'}}>+{data.flashcardsToday}</span>}</div>
                         <div>Essay Topics: {data.essays} | Model Essays: {data.modelEssays} {data.modelEssaysToday > 0 && <span style={{color:'#22c55e'}}>+{data.modelEssaysToday}</span>}</div>
                         <div>Current Affairs Articles: {data.currentAffairs?.articles || 0} {data.caToday > 0 && <span style={{color:'#22c55e'}}>+{data.caToday}</span>}</div>
+                        {data.dbCounts && data.dbCounts.questions > 0 && <div style={{marginTop:'4px',color:'#60a5fa',fontSize:'0.75rem'}}>📦 Stored in DB: {data.dbCounts.questions} MCQs • {data.dbCounts.flashcards} Flashcards • {data.dbCounts.mains} Mains • {data.dbCounts.interview} Interview • {data.dbCounts.essays} Essays • {data.dbCounts.articles} Articles</div>}
+                        <div style={{marginTop:'4px',color:'#94a3b8',fontSize:'0.75rem'}}>📚 Manual (Saraansh): {data.prelims?.staticCount || 0} Prelims MCQs</div>
                     </div>
                     {todayTotal > 0 && (
                         <div style={{marginTop:'8px',padding:'8px',background:'#052e16',borderRadius:'4px',fontSize:'0.8rem',color:'#86efac'}}>
