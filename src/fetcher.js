@@ -21,212 +21,252 @@ const FEEDS = [
     { url: 'https://www.downtoearth.org.in/rss/environment', source: 'Down to Earth (Environment)', tier: 1 },
     // Tier 2 - Economy & Business
     { url: 'https://www.livemint.com/rss/economy', source: 'LiveMint (Economy)', tier: 2 },
-    // Tier 3 - General
-    // NDTV removed - brings irrelevant crime/accident news not useful for UPSC
 ];
 
-// Note: Yojana and Kurukshetra don't have standard RSS feeds
-// We'll add them as static monthly sources that the user can update or
-// that the LLM can process when API key is provided
+// ========== AI-FIRST CLASSIFICATION ==========
+// AI reads each article and decides: (1) Is it UPSC relevant? (2) What subject?
 
-// UPSC Subject classification - comprehensive keyword mapping
+async function classifyWithAI(articlesList) {
+    try {
+        const { callLLM, isLLMAvailable } = require('./mcq-generator');
+        if (!isLLMAvailable() || articlesList.length === 0) return null; // null means AI unavailable, use fallback
+        
+        const results = [];
+        
+        // Process in batches of 15 for efficiency
+        for (let i = 0; i < articlesList.length; i += 15) {
+            const batch = articlesList.slice(i, i + 15);
+            
+            const prompt = `You are a UPSC Civil Services exam expert. Classify these news articles for UPSC preparation relevance.
+
+CATEGORIES (use EXACTLY these names):
+- Polity & Governance (Parliament, judiciary, constitutional bodies, laws, bills, governance issues)
+- Economy (RBI, budget, trade, GDP, banking, agriculture policy, schemes, infrastructure)
+- International Relations (India's foreign policy, bilateral/multilateral relations, treaties, global organizations)
+- Environment & Ecology (climate, biodiversity, pollution, conservation, environmental laws, disasters)
+- Science & Technology (ISRO, DRDO, IT policy, health tech, biotech, defense tech, innovations)
+- Social Issues (education, health, women/tribal/minority rights, poverty, urbanization, schemes)
+- History & Culture (heritage, ASI findings, art forms, GI tags, festivals, archaeological discoveries)
+- Security & Defense (military, terrorism, internal security, border issues, defense procurement)
+- Geography (physical geography, resources, mapping, demographic data, regional development)
+- IRRELEVANT (crime, accidents, entertainment, celebrity, sports, local politics with no national significance, obituaries, weather reports)
+
+RULES:
+- Be STRICT about relevance - only UPSC-worthy news
+- State-level governance/budget = "Polity & Governance" only if it has national policy significance
+- Local crime/accidents/disasters = IRRELEVANT (unless it raises policy/governance questions)
+- Foreign events = "International Relations" ONLY if India is directly involved or it affects India's interests
+- Mark anything not useful for UPSC preparation as IRRELEVANT
+
+Articles:
+${batch.map((a, i) => `${i+1}. [${a.source}] ${a.title}\n   ${(a.content || '').substring(0, 150)}`).join('\n')}
+
+Return ONLY a valid JSON array with classification for each article (same order):
+[{"category":"...","relevant":true/false,"reason":"one-line reason for UPSC relevance"}]`;
+
+            try {
+                const response = await callLLM(prompt, 1500);
+                if (!response) {
+                    // AI call failed for this batch, mark as needing fallback
+                    batch.forEach(a => results.push({ article: a, aiResult: null }));
+                    continue;
+                }
+                
+                const match = response.match(/\[[\s\S]*\]/);
+                if (match) {
+                    let parsed;
+                    try {
+                        parsed = JSON.parse(match[0]);
+                    } catch(e) {
+                        // Try fixing common JSON issues
+                        let fixed = match[0].replace(/,\s*}/g, '}').replace(/,\s*\]/g, ']');
+                        try { parsed = JSON.parse(fixed); } catch(e2) { parsed = null; }
+                    }
+                    
+                    if (parsed && Array.isArray(parsed)) {
+                        for (let j = 0; j < batch.length; j++) {
+                            const classification = parsed[j] || null;
+                            results.push({ article: batch[j], aiResult: classification });
+                        }
+                    } else {
+                        batch.forEach(a => results.push({ article: a, aiResult: null }));
+                    }
+                } else {
+                    batch.forEach(a => results.push({ article: a, aiResult: null }));
+                }
+            } catch(e) {
+                console.log(`[CA-AI] Batch ${i/15 + 1} classification error:`, e.message);
+                batch.forEach(a => results.push({ article: a, aiResult: null }));
+            }
+            
+            // Small delay between batches to avoid rate limiting
+            if (i + 15 < articlesList.length) {
+                await new Promise(r => setTimeout(r, 1000));
+            }
+        }
+        
+        return results;
+    } catch(e) {
+        console.log('[CA-AI] AI classification unavailable:', e.message);
+        return null;
+    }
+}
+
+// ========== FALLBACK: KEYWORD CLASSIFICATION (used when AI is unavailable) ==========
+
 const SUBJECT_KEYWORDS = {
     'Polity & Governance': [
         'parliament', 'supreme court', 'high court', 'constitution', 'amendment', 'bill passed',
-        'election', 'governor', 'president', 'cabinet', 'lok sabha', 'rajya sabha', 'judiciary',
-        'fundamental rights', 'directive principles', 'panchayat', 'municipality', 'federalism',
-        'legislation', 'ordinance', 'tribunal', 'commission', 'ombudsman', 'lokpal', 'rti',
-        'niti aayog', 'finance commission', 'cag', 'election commission', 'delimitation',
-        'anti-defection', 'privilege', 'contempt', 'impeach', 'censure', 'adjournment',
-        'money bill', 'finance bill', 'ordinance', 'article 370', 'article 356',
-        'governor\'s role', 'state reorganization', 'union territory', 'special status',
-        'cooperative federalism', 'competitive federalism', 'inter-state', 'gst council'
+        'election commission', 'governor', 'president of india', 'cabinet', 'lok sabha', 'rajya sabha',
+        'judiciary', 'fundamental rights', 'directive principles', 'panchayati raj', 'municipality',
+        'federalism', 'legislation', 'ordinance', 'tribunal', 'lokpal', 'rti act',
+        'niti aayog', 'finance commission', 'delimitation', 'anti-defection',
+        'money bill', 'finance bill', 'article 370', 'article 356',
+        'cooperative federalism', 'gst council', 'interstate dispute'
     ],
     'Economy': [
-        'gdp', 'rbi', 'fiscal deficit', 'monetary policy', 'inflation', 'budget', 'tax reform',
-        'gst', 'trade deficit', 'export', 'import', 'investment', 'fdi', 'fpi', 'stock',
-        'banking', 'npa', 'msme', 'startup', 'digital economy', 'upi', 'fintech',
-        'agriculture', 'farmer', 'msp', 'crop insurance', 'food security', 'pds',
-        'employment', 'unemployment', 'poverty', 'subsidy', 'disinvestment', 'privatization',
-        'rupee', 'dollar', 'forex', 'current account', 'balance of payments', 'imf',
-        'world bank', 'adb', 'aiib', 'ndb', 'capital market', 'sebi', 'mutual fund',
-        'cryptocurrency', 'digital rupee', 'cbdc', 'financial inclusion', 'microfinance',
-        'production linked incentive', 'pli', 'make in india', 'atmanirbhar', 'self-reliant',
-        'infrastructure', 'national monetization', 'asset monetization', 'public debt'
+        'gdp growth', 'rbi policy', 'fiscal deficit', 'monetary policy', 'inflation rate',
+        'union budget', 'tax reform', 'gst collection', 'trade deficit', 'export growth',
+        'fdi inflow', 'stock market', 'banking sector', 'npa crisis', 'msme sector',
+        'digital economy', 'upi transaction', 'agriculture gdp', 'msp hike',
+        'crop insurance', 'food security act', 'employment rate', 'poverty line',
+        'disinvestment', 'privatization', 'rupee depreciation', 'forex reserve',
+        'current account deficit', 'balance of payments', 'capital market',
+        'production linked incentive', 'make in india', 'atmanirbhar bharat',
+        'infrastructure development', 'national monetization'
     ],
     'International Relations': [
-        'india-china', 'india-pakistan', 'india-us', 'india-russia', 'india-japan', 'bilateral',
-        'united nations', 'unsc', 'unga', 'g20', 'g7', 'brics', 'sco', 'asean', 'quad',
-        'diplomacy', 'foreign policy', 'treaty', 'agreement', 'summit', 'state visit',
-        'indo-pacific', 'south china sea', 'border dispute', 'lac', 'loc', 'mcmahon',
-        'sanctions', 'nuclear deal', 'nato', 'european union', 'african union', 'global south',
-        'refugee', 'migration', 'terrorism', 'security council reform', 'imf reform',
-        'act east policy', 'neighbourhood first', 'look west', 'connect central asia',
-        'indian ocean', 'string of pearls', 'belt and road', 'bri', 'quad plus',
-        'vaccine diplomacy', 'climate diplomacy', 'multilateralism', 'rules-based order',
-        'ctbt', 'npt', 'mtcr', 'nsg', 'wassenaar', 'australia group'
+        'india-china relations', 'india-pakistan', 'india-us relations', 'india-russia',
+        'bilateral summit', 'united nations general assembly', 'unsc reform',
+        'g20 summit', 'brics summit', 'sco summit', 'asean summit', 'quad summit',
+        'foreign policy', 'diplomatic relations', 'indo-pacific strategy',
+        'south china sea dispute', 'border standoff', 'line of actual control',
+        'line of control', 'nuclear non-proliferation', 'nato expansion',
+        'global south', 'refugee crisis', 'act east policy', 'neighbourhood first',
+        'indian ocean region', 'belt and road initiative',
+        'climate diplomacy', 'multilateral forum', 'rules-based international order',
+        'comprehensive nuclear-test-ban', 'missile technology control regime'
     ],
     'Science & Technology': [
-        'isro', 'space mission', 'satellite', 'rocket', 'mars', 'moon', 'chandrayaan', 'gaganyaan',
-        'artificial intelligence', 'machine learning', 'deep learning', 'quantum computing',
-        'biotechnology', 'genome', 'crispr', 'gene editing', 'vaccine', 'drug discovery',
-        'cyber security', 'digital india', '5g', '6g', 'semiconductor', 'chip fabrication',
-        'renewable energy', 'solar power', 'hydrogen energy', 'nuclear energy', 'fusion reactor',
-        'drdo', 'missile test', 'defense technology', 'supercomputer', 'nanotechnology',
-        'blockchain', 'iot', 'internet of things', 'robotics', 'drone', 'uav',
-        'telemedicine', 'digital health', 'precision medicine', 'stem cell',
-        'electric vehicle', 'battery technology', 'lithium', 'rare earth',
-        'deep sea mission', 'ocean exploration', 'polar research', 'arctic', 'antarctic'
+        'isro mission', 'space launch', 'satellite deployment', 'chandrayaan', 'gaganyaan',
+        'artificial intelligence policy', 'quantum computing', 'biotechnology',
+        'genome sequencing', 'crispr gene', 'vaccine development',
+        'cyber security policy', 'digital india programme', '5g rollout', 'semiconductor fab',
+        'renewable energy target', 'solar capacity', 'hydrogen mission', 'nuclear reactor',
+        'drdo missile', 'supercomputer', 'nanotechnology',
+        'electric vehicle policy', 'battery technology', 'lithium reserve',
+        'deep ocean mission', 'polar expedition'
     ],
     'Environment & Ecology': [
-        'climate change', 'global warming', 'carbon emission', 'net zero', 'paris agreement',
-        'biodiversity', 'wildlife', 'tiger', 'elephant', 'endangered species', 'extinction',
-        'forest', 'deforestation', 'afforestation', 'mangrove', 'wetland', 'ramsar site',
-        'pollution', 'air quality index', 'water pollution', 'plastic ban', 'waste management',
-        'disaster', 'flood', 'earthquake', 'cyclone', 'drought', 'landslide', 'tsunami',
-        'cop28', 'cop29', 'unfccc', 'ipcc', 'green hydrogen', 'circular economy',
-        'national park', 'wildlife sanctuary', 'biosphere reserve', 'tiger reserve',
-        'coral reef', 'ocean acidification', 'el nino', 'la nina', 'monsoon',
-        'environmental impact assessment', 'eia', 'forest conservation act', 'wildlife protection act',
-        'compensatory afforestation', 'campa', 'green tribunal', 'ngt',
-        'sustainable development', 'sdg', 'ecological footprint', 'carbon credit',
-        'ozone depletion', 'montreal protocol', 'kigali amendment', 'hfc'
+        'climate change impact', 'global warming', 'carbon emission target', 'net zero pledge',
+        'paris agreement', 'biodiversity loss', 'wildlife protection', 'endangered species',
+        'forest conservation', 'deforestation rate', 'mangrove restoration', 'wetland conservation',
+        'ramsar site', 'air pollution', 'water pollution', 'plastic ban',
+        'waste management', 'cop summit', 'unfccc', 'ipcc report',
+        'green hydrogen', 'national park', 'wildlife sanctuary', 'biosphere reserve',
+        'tiger reserve', 'coral reef bleaching', 'ocean acidification',
+        'monsoon forecast', 'environmental impact assessment',
+        'national green tribunal', 'forest rights act', 'compensatory afforestation',
+        'sustainable development goals', 'carbon credit market'
     ],
     'Social Issues': [
-        'education policy', 'nep', 'health policy', 'hospital', 'women empowerment', 'gender equality',
-        'caste discrimination', 'reservation', 'tribal rights', 'scheduled tribe', 'scheduled caste',
-        'poverty alleviation', 'nutrition', 'malnutrition', 'sanitation', 'swachh bharat',
-        'population policy', 'census', 'demographic dividend', 'urbanization', 'smart city',
-        'skill development', 'literacy', 'digital divide', 'right to education',
-        'domestic violence', 'dowry', 'trafficking', 'child labour', 'minimum wage',
-        'social security', 'pension', 'insurance', 'ayushman bharat', 'jan arogya',
-        'mental health', 'substance abuse', 'elderly care', 'disability rights',
-        'lgbtq', 'section 377', 'same-sex marriage', 'uniform civil code',
-        'communalism', 'secularism', 'hate speech', 'mob lynching', 'custodial death'
+        'education policy', 'national education policy', 'health policy', 'women empowerment',
+        'gender equality', 'caste discrimination', 'reservation policy', 'tribal rights',
+        'poverty alleviation scheme', 'nutrition programme', 'sanitation mission',
+        'swachh bharat', 'skill development', 'digital divide',
+        'right to education', 'domestic violence', 'child labour',
+        'social security pension', 'ayushman bharat', 'mental health policy',
+        'disability rights', 'uniform civil code', 'communal harmony'
     ],
     'History & Culture': [
-        'archaeological survey', 'asi', 'heritage site', 'unesco', 'monument', 'excavation',
-        'festival', 'temple', 'mosque', 'church', 'gurudwara', 'heritage',
-        'classical dance', 'classical music', 'painting', 'sculpture', 'pottery',
-        'freedom movement', 'independence day', 'republic day', 'gandhi jayanti',
-        'ancient history', 'medieval history', 'mughal', 'british raj', 'colonial',
-        'indus valley', 'harappan', 'vedic', 'maurya', 'gupta', 'chola', 'vijayanagara',
-        'gi tag', 'geographical indication', 'intangible heritage', 'folk art',
-        'sangeet natak akademi', 'sahitya akademi', 'lalit kala', 'padma awards'
+        'archaeological survey of india', 'heritage site', 'unesco world heritage',
+        'ancient monument', 'excavation discovery', 'classical dance form',
+        'classical music', 'gi tag awarded', 'geographical indication',
+        'intangible heritage', 'folk art', 'sangeet natak akademi',
+        'sahitya akademi', 'padma awards', 'national museum',
+        'freedom movement anniversary', 'historical monument'
     ],
     'Security & Defense': [
-        'indian army', 'indian navy', 'indian air force', 'military exercise', 'defence budget',
-        'terrorism', 'counter-terrorism', 'naxal', 'maoist', 'insurgency', 'border security',
-        'bsf', 'crpf', 'nsa', 'nia', 'raw', 'intelligence bureau', 'ntro',
-        'missile', 'nuclear deterrent', 'submarine', 'aircraft carrier', 'rafale',
-        'ceasefire', 'surgical strike', 'afspa', 'national security', 'internal security',
-        'left wing extremism', 'lwe', 'cyber warfare', 'hybrid warfare', 'grey zone',
-        'arms procurement', 'defence corridor', 'indigenous defence', 'tejas', 'arjun',
-        'coastal security', 'maritime domain', 'unlawful activities', 'uapa', 'nsa act'
+        'indian army exercise', 'indian navy', 'indian air force', 'defence budget allocation',
+        'counter-terrorism', 'naxal operation', 'border security force',
+        'national investigation agency', 'defence procurement', 'missile test',
+        'nuclear submarine', 'aircraft carrier', 'ceasefire violation',
+        'afspa extension', 'internal security', 'left wing extremism',
+        'cyber warfare', 'coastal security', 'defence corridor',
+        'indigenous defence production', 'theaterisation'
     ],
     'Geography': [
-        'earthquake', 'seismic zone', 'tectonic plate', 'volcanic', 'tsunami',
-        'monsoon', 'cyclone', 'rainfall', 'drought', 'flood', 'cloudburst',
-        'river', 'dam', 'irrigation', 'interlinking', 'glacier', 'himalaya',
-        'ocean current', 'el nino', 'la nina', 'indian ocean dipole',
-        'mineral', 'mining', 'coal', 'petroleum', 'natural gas', 'shale',
-        'census', 'urbanization', 'migration', 'demographic', 'population',
-        'agriculture', 'cropping pattern', 'soil', 'land use', 'desertification',
-        'map', 'boundary', 'border', 'territory', 'island', 'coast'
+        'seismic zone', 'tectonic activity', 'volcanic eruption', 'tsunami warning',
+        'monsoon pattern', 'cyclone formation', 'rainfall deficit', 'drought declaration',
+        'river interlinking', 'glacier retreat', 'himalayan ecology',
+        'ocean current', 'indian ocean dipole', 'mineral reserve',
+        'coal production', 'petroleum exploration', 'demographic transition',
+        'urbanization trend', 'land use change', 'desertification'
     ]
 };
 
-function categorizeArticle(title, content) {
+function categorizeArticleKeyword(title, content) {
     const text = `${title} ${content || ''}`.toLowerCase();
     const scores = {};
+    
     for (const [subject, keywords] of Object.entries(SUBJECT_KEYWORDS)) {
         let score = 0;
         for (const keyword of keywords) {
-            if (text.includes(keyword)) score++;
+            // Use word boundary matching to prevent substring false positives
+            // For multi-word keywords, check if the phrase exists
+            // For short keywords (<=4 chars), require word boundaries
+            if (keyword.length <= 4) {
+                const regex = new RegExp(`\\b${keyword.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`, 'i');
+                if (regex.test(text)) score++;
+            } else {
+                if (text.includes(keyword)) score++;
+            }
         }
         if (score > 0) scores[subject] = score;
     }
-    // Prevent state/domestic news from being classified as International Relations
-    const stateKeywords = ['tamil nadu', 'kerala', 'karnataka', 'andhra pradesh', 'telangana', 'maharashtra', 'rajasthan', 'bihar', 'uttar pradesh', 'madhya pradesh', 'gujarat', 'punjab', 'haryana', 'jharkhand', 'chhattisgarh', 'odisha', 'assam', 'west bengal', 'nagaland', 'manipur', 'mizoram', 'meghalaya', 'tripura', 'sikkim', 'arunachal', 'goa', 'himachal', 'uttarakhand', 'state budget', 'assembly', 'cm ', 'chief minister', 'panchayat', 'municipality', 'district', 'killed', 'murder', 'accident', 'crash', 'fire', 'flood', 'rain', 'bridge washed', 'landslide', 'blast', 'man killed', 'woman killed', 'body found', 'arrested'];
-    const isStateDomestic = stateKeywords.some(kw => text.includes(kw)) && !text.includes('bilateral') && !text.includes('treaty') && !text.includes('summit') && !text.includes('foreign policy') && !text.includes('diplomatic');
-    if (isStateDomestic && scores['International Relations']) {
-        delete scores['International Relations'];
-    }
+    
+    // Filter out obvious irrelevant content
+    const irrelevantPatterns = [
+        /\b(killed in|murder|body found|arrested for|road accident|car crash|bike accident)\b/i,
+        /\b(film|movie|actor|actress|cricket|ipl|football|tennis|bollywood|celebrity)\b/i,
+        /\b(horoscope|recipe|lifestyle|fashion|beauty tips)\b/i
+    ];
+    const isIrrelevant = irrelevantPatterns.some(p => p.test(text));
+    if (isIrrelevant) return null;
+    
     const sorted = Object.entries(scores).sort((a, b) => b[1] - a[1]);
     if (sorted.length === 0) return null;
+    if (sorted[0][1] < 1) return null; // Need at least 1 keyword match
+    
     return {
         primary: sorted[0][0],
         secondary: sorted.length > 1 ? sorted[1][0] : null,
         relevanceScore: sorted[0][1],
-        allTags: sorted.filter(s => s[1] >= 2).map(s => s[0])
+        allTags: sorted.filter(s => s[1] >= 1).map(s => s[0])
     };
 }
 
+// ========== MAIN FETCH FUNCTION ==========
+
 async function fetchCurrentAffairs() {
     console.log(`[${new Date().toISOString()}] Starting current affairs fetch...`);
-    const articles = [];
+    const allRawArticles = [];
     const errors = [];
 
-    // LLM reclassification helper
-    async function reclassifyWithAI(articlesList) {
-        try {
-            const { callLLM, isLLMAvailable } = require('./mcq-generator');
-            if (!isLLMAvailable() || articlesList.length === 0) return articlesList;
-            
-            // Batch classify 10 articles at a time
-            const batch = articlesList.slice(0, 10);
-            const prompt = `Classify these news articles into EXACTLY ONE UPSC category each. Categories: Polity & Governance, Economics, International Relations, Environment & Ecology, Science & Technology, Social Issues, Art & Culture, Internal Security, Geography.
-
-RULES:
-- State budgets/local governance = "Polity & Governance" (NOT International Relations)
-- Crime/accident/disaster = SKIP (write "IRRELEVANT")
-- Only foreign policy/treaties/bilateral = "International Relations"
-
-Articles:
-${batch.map((a, i) => `${i+1}. ${a.title}`).join('\n')}
-
-Return ONLY a JSON array of categories (same order): ["category1","category2",...]`;
-
-            const response = await callLLM(prompt, 500);
-            if (!response) return articlesList;
-            
-            const match = response.match(/\[[\s\S]*?\]/);
-            if (match) {
-                const categories = JSON.parse(match[0]);
-                for (let i = 0; i < Math.min(categories.length, batch.length); i++) {
-                    if (categories[i] === 'IRRELEVANT') {
-                        batch[i]._irrelevant = true;
-                    } else if (categories[i] && categories[i].length > 3) {
-                        batch[i].subject = categories[i];
-                    }
-                }
-            }
-        } catch(e) {
-            console.log('[CA-CLASSIFY] AI classification error:', e.message);
-        }
-        return articlesList.filter(a => !a._irrelevant);
-    }
-
+    // Step 1: Fetch ALL articles from feeds (no filtering yet)
     for (const feed of FEEDS) {
         try {
             const result = await parser.parseURL(feed.url);
             for (const item of result.items.slice(0, 20)) {
-                const category = categorizeArticle(item.title, item.contentSnippet || item.content);
-                if (category && category.relevanceScore >= 2) {
-                    articles.push({
-                        id: `ca-${Date.now()}-${Math.random().toString(36).substr(2, 6)}`,
-                        title: item.title?.trim(),
-                        content: (item.contentSnippet || item.content || '').substring(0, 500).trim(),
-                        source: feed.source,
-                        tier: feed.tier,
-                        date: item.isoDate || item.pubDate || new Date().toISOString(),
-                        link: item.link,
-                        subject: category.primary,
-                        secondarySubject: category.secondary,
-                        tags: category.allTags,
-                        relevanceScore: category.relevanceScore
-                    });
-                }
+                allRawArticles.push({
+                    id: `ca-${Date.now()}-${Math.random().toString(36).substr(2, 6)}`,
+                    title: item.title?.trim(),
+                    content: (item.contentSnippet || item.content || '').substring(0, 500).trim(),
+                    source: feed.source,
+                    tier: feed.tier,
+                    date: item.isoDate || item.pubDate || new Date().toISOString(),
+                    link: item.link,
+                });
             }
             console.log(`  ✓ ${feed.source}`);
         } catch (err) {
@@ -237,23 +277,87 @@ Return ONLY a JSON array of categories (same order): ["category1","category2",..
 
     // Deduplicate
     const seen = new Set();
-    const unique = articles.filter(a => {
+    const unique = allRawArticles.filter(a => {
         const key = a.title?.toLowerCase().substring(0, 60);
         if (!key || seen.has(key)) return false;
         seen.add(key);
         return true;
     });
 
-    unique.sort((a, b) => {
+    // Sort by tier (Tier 1 first)
+    unique.sort((a, b) => a.tier - b.tier);
+
+    console.log(`[CA] Fetched ${unique.length} unique articles. Starting classification...`);
+
+    // Step 2: AI Classification (PRIMARY) - send ALL articles to AI
+    let classifiedArticles = [];
+    const aiResults = await classifyWithAI(unique);
+    
+    if (aiResults) {
+        // AI is available - use its classification
+        let aiClassified = 0;
+        let aiRejected = 0;
+        let aiFailed = 0;
+        
+        for (const { article, aiResult } of aiResults) {
+            if (!aiResult) {
+                // AI failed for this article - use keyword fallback
+                const keywordResult = categorizeArticleKeyword(article.title, article.content);
+                if (keywordResult && keywordResult.relevanceScore >= 2) {
+                    classifiedArticles.push({
+                        ...article,
+                        subject: keywordResult.primary,
+                        secondarySubject: keywordResult.secondary,
+                        tags: keywordResult.allTags,
+                        relevanceScore: keywordResult.relevanceScore,
+                        classifiedBy: 'keyword-fallback'
+                    });
+                }
+                aiFailed++;
+            } else if (aiResult.relevant === false || aiResult.category === 'IRRELEVANT') {
+                aiRejected++;
+            } else if (aiResult.category && aiResult.category !== 'IRRELEVANT') {
+                classifiedArticles.push({
+                    ...article,
+                    subject: aiResult.category,
+                    secondarySubject: null,
+                    tags: [aiResult.category],
+                    relevanceScore: 5, // AI-classified = high confidence
+                    classifiedBy: 'ai',
+                    aiReason: aiResult.reason || ''
+                });
+                aiClassified++;
+            }
+        }
+        
+        console.log(`[CA-AI] Classification complete: ${aiClassified} relevant, ${aiRejected} rejected, ${aiFailed} fallback`);
+    } else {
+        // AI unavailable - use keyword classification as fallback
+        console.log('[CA] AI unavailable. Using keyword classification (fallback)...');
+        for (const article of unique) {
+            const category = categorizeArticleKeyword(article.title, article.content);
+            if (category && category.relevanceScore >= 2) {
+                classifiedArticles.push({
+                    ...article,
+                    subject: category.primary,
+                    secondarySubject: category.secondary,
+                    tags: category.allTags,
+                    relevanceScore: category.relevanceScore,
+                    classifiedBy: 'keyword'
+                });
+            }
+        }
+        console.log(`[CA] Keyword classification: ${classifiedArticles.length} articles passed`);
+    }
+
+    // Sort by relevance then date
+    classifiedArticles.sort((a, b) => {
         if (a.tier !== b.tier) return a.tier - b.tier;
         return new Date(b.date) - new Date(a.date);
     });
 
-    let topArticles = unique.slice(0, 80);
-    
-    // AI reclassification - correct any misclassified articles
-    topArticles = await reclassifyWithAI(topArticles);
-    
+    let topArticles = classifiedArticles.slice(0, 80);
+
     const grouped = {};
     for (const article of topArticles) {
         if (!grouped[article.subject]) grouped[article.subject] = [];
@@ -268,7 +372,6 @@ Return ONLY a JSON array of categories (same order): ["category1","category2",..
     if (fs.existsSync(monthlyPath)) {
         monthlyData = JSON.parse(fs.readFileSync(monthlyPath, 'utf8'));
     }
-    // Append new unique articles to monthly
     const existingTitles = new Set(monthlyData.articles.map(a => a.title?.toLowerCase().substring(0, 60)));
     const newForMonthly = topArticles.filter(a => !existingTitles.has(a.title?.toLowerCase().substring(0, 60)));
     monthlyData.articles.push(...newForMonthly);
@@ -285,8 +388,8 @@ Return ONLY a JSON array of categories (same order): ["category1","category2",..
         articles: topArticles
     };
 
-    const dataDir = path.join(__dirname, '..', 'data');
     // ACCUMULATE: load existing articles, append new unique ones
+    const dataDir = path.join(__dirname, '..', 'data');
     const caPath = path.join(dataDir, 'auto-current-affairs.json');
     let accumulated = { articles: [], bySubject: {} };
     if (fs.existsSync(caPath)) {
