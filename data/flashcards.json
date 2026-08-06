@@ -1061,6 +1061,36 @@
       "front": "How is NEP 2020 being implemented? Describe the roles of NEP Implementation Committees, SARTHAQ, and the National Curriculum Framework (NCF) 2023.",
       "back": "Implementation architecture: (1) National Steering Committee (Chair: Education Minister) for oversight. (2) National Mission for Mentoring. (3) SARTHAQ (Students' and Teachers' Holistic Advancement through Quality Education) - 297 tasks with timelines, responsible agencies, outputs. (4) NCF 2023 for Foundational Stage (launched Oct 2022) and School Education (Aug 2023) - guides textbook development, pedagogy, assessment. (5) Vidya Pravesh (3-month play-based school prep for Grade 1). (6) NIPUN Bharat for foundational literacy/numeracy by Grade 3 (2026-27). (7) PM SHRI schools (14,500 model schools). (8) PARAKH for assessment reform. (9) State/UT level committees for localization.",
       "id": "fc-1786007992185-dz8u"
+    },
+    {
+      "subject": "Environment",
+      "front": "What are the key mechanisms under Article 6 of the Paris Agreement, and how do they differ from the Kyoto Protocol's Clean Development Mechanism (CDM)?",
+      "back": "Article 6 establishes three voluntary cooperation mechanisms: (1) Article 6.2 — Cooperative Approaches: Allows bilateral/regional transfer of mitigation outcomes (ITMOs) with corresponding adjustments to avoid double counting; no central UN oversight. (2) Article 6.4 — Mechanism: Successor to CDM, supervised by a UN body; generates A6.4ERs (emission reductions) with mandatory corresponding adjustments and share of proceeds for adaptation. (3) Article 6.8 — Non-Market Approaches: Framework for cooperation without carbon markets (e.g., technology transfer, capacity building). Key differences from CDM: mandatory corresponding adjustments (no double counting), overall mitigation in global emissions (OMGE) requirement, stronger sustainability safeguards, and transition of CDM projects subject to host country approval.",
+      "id": "fc-1786011535954-7x8l"
+    },
+    {
+      "subject": "Environment",
+      "front": "Explain the Loss and Damage Fund established at COP27 and operationalized at COP28. What are its governance structure, funding sources, and eligibility criteria?",
+      "back": "The Loss and Damage Fund (LDF) was established at COP27 (Sharm El-Sheikh) and operationalized at COP28 (Dubai). Governance: Hosted by World Bank as interim trustee (4 years); governed by a 26-member Board (12 developed, 14 developing countries); independent secretariat. Funding: Voluntary contributions from developed countries and others 'in a position to do so'; innovative sources encouraged (levies, taxes). No mandatory assessed contributions. Eligibility: All developing countries 'particularly vulnerable' to climate change; access via National Designated Authorities; focus on economic and non-economic losses (slow-onset events, extreme weather). Key principle: Not liability/compensation (per Decision 2/CP.27). Initial pledges ~$700M (UAE, Germany, EU, UK, US, Japan).",
+      "id": "fc-1786011535954-kx96"
+    },
+    {
+      "subject": "Environment",
+      "front": "What is the Global Stocktake (GST) under the Paris Agreement? Describe its process, components, and the key outcomes of the first GST at COP28.",
+      "back": "Global Stocktake (Article 14) is a 5-yearly collective assessment of progress toward Paris goals (mitigation, adaptation, finance). Process: Three phases — (1) Information collection (IPCC reports, Party submissions), (2) Technical assessment (structured expert dialogues), (3) Consideration of outputs (political phase at COP). First GST concluded at COP28 (Dubai) with 'UAE Consensus'. Key outcomes: (a) Mitigation: Call to 'transition away from fossil fuels in energy systems' (first explicit mention), triple renewables & double energy efficiency by 2030, accelerate zero/low-emission tech. (b) Adaptation: Framework for Global Goal on Adaptation (GGA) with targets on water, health, ecosystems. (c) Finance: Urge developed countries to double adaptation finance by 2025; new collective quantified goal (NCQG) post-2025. (d) Loss & Damage: Operationalize fund. Next GST: 2028.",
+      "id": "fc-1786011535954-58b3"
+    },
+    {
+      "subject": "Government Schemes",
+      "front": "Compare Startup India, Stand Up India, and MUDRA Yojana in terms of target beneficiaries, financial support, and key objectives.",
+      "back": "Startup India (2016): Targets DPIIT-recognized startups (innovation-driven, scalable). Support: Tax holiday (3/7 years), 80% patent fee rebate, self-certification, Fund of Funds (₹10,000 Cr via SIDBI), credit guarantee. Objective: Foster innovation ecosystem. Stand Up India (2016): Targets SC/ST and women entrepreneurs (1 per bank branch). Support: Bank loans ₹10 lakh–₹1 crore for greenfield enterprises (manufacturing/services/trading); composite loan (term + working capital); margin money 25% (convergence with state schemes). Objective: Promote entrepreneurship among marginalized. MUDRA (2015): Targets non-corporate, non-farm micro/small enterprises. Support: Collateral-free loans up to ₹20 lakh (enhanced from ₹10 lakh in 2024) under three categories — Shishu (≤₹50K), Kishor (₹50K–₹5L), Tarun (₹5L–₹20L); delivered via banks/NBFCs/MFIs. Objective: Fund the unfunded, formalize credit access.",
+      "id": "fc-1786011535954-ikc2"
+    },
+    {
+      "subject": "Government Schemes",
+      "front": "What is the Fund of Funds for Startups (FFS) and the Government e-Marketplace (GeM)? Explain their structure, operation, and impact.",
+      "back": "Fund of Funds for Startups (FFS): Established 2016 under Startup India; corpus ₹10,000 Cr (contributed over 14th/15th Finance Commission cycles). Operated by SIDBI. Structure: FFS → invests in SEBI-registered Alternative Investment Funds (AIFs) → AIFs invest in DPIIT-recognized startups. Government does not invest directly. Focus: Early-stage, risk capital. Impact: As of 2024, ~₹8,000+ Cr committed to 100+ AIFs, supporting 1,000+ startups. Government e-Marketplace (GeM): Launched 2016; 100% government-owned SPV under Ministry of Commerce. Online platform for public procurement (goods/services) by Central/State govts, PSUs, autonomous bodies. Features: Transparent, cashless, contactless; reverse auction, e-bidding; mandatory for common-use goods/services (GFR 2017). Impact: >₹4 lakh crore GMV; 1.5 lakh+ sellers (60%+ MSMEs); estimated savings 15–20%; integrated with PPP (Public Procurement Portal) for vendor assessment.",
+      "id": "fc-1786011535954-qq92"
     }
   ],
   "mains": [
