@@ -732,3 +732,59 @@ function App() {
 }
 
 ReactDOM.createRoot(document.getElementById('app')).render(<App />);
+
+// ============ PROFILE SELECTOR (injected at app load) ============
+// Overrides: recordAttemptAPI and bookmarkAPI to use profile-specific endpoints
+(function initProfiles() {
+    let currentProfile = localStorage.getItem('upsc_profile');
+    
+    if (!currentProfile) {
+        // Show profile selection on first visit
+        const overlay = document.createElement('div');
+        overlay.id = 'profile-overlay';
+        overlay.style.cssText = 'position:fixed;top:0;left:0;width:100%;height:100%;background:#0f172a;z-index:9999;display:flex;align-items:center;justify-content:center;flex-direction:column;';
+        overlay.innerHTML = `
+            <h2 style="color:#f97316;margin-bottom:20px;font-size:1.5rem;">🏛️ Welcome to UPSC Study Hub</h2>
+            <p style="color:#94a3b8;margin-bottom:20px;">Enter your name to create/access your profile:</p>
+            <input id="profile-input" type="text" placeholder="Your name" style="padding:12px 20px;border-radius:8px;border:1px solid #334155;background:#1e293b;color:#fff;font-size:1rem;width:250px;margin-bottom:12px;">
+            <button id="profile-btn" style="padding:12px 24px;border-radius:8px;background:#f97316;color:#fff;border:none;cursor:pointer;font-size:1rem;">Start Studying →</button>
+            <p style="color:#64748b;margin-top:16px;font-size:0.8rem;">Each person gets their own progress, bookmarks, and revision tracking.</p>
+        `;
+        document.body.appendChild(overlay);
+        
+        setTimeout(() => {
+            document.getElementById('profile-btn').onclick = async () => {
+                const name = document.getElementById('profile-input').value.trim();
+                if (name.length < 2) { alert('Please enter at least 2 characters'); return; }
+                await fetch('/api/profiles/create', { method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({name}) });
+                localStorage.setItem('upsc_profile', name.toLowerCase().replace(/[^a-z0-9]/g,'-'));
+                localStorage.setItem('upsc_profile_display', name);
+                document.getElementById('profile-overlay').remove();
+                location.reload();
+            };
+            document.getElementById('profile-input').onkeypress = (e) => { if(e.key==='Enter') document.getElementById('profile-btn').click(); };
+        }, 100);
+    } else {
+        // Override the global API functions to use profile-specific endpoints
+        window._upscProfile = currentProfile;
+        const origRecord = window.recordAttemptAPI || (async()=>{});
+        window.recordAttemptAPI = async (questionId, subject, isCorrect, questionData) => {
+            try {
+                await fetch(`/api/profiles/${currentProfile}/attempt`, {
+                    method:'POST', headers:{'Content-Type':'application/json'},
+                    body:JSON.stringify({questionId, subject, isCorrect, questionData})
+                });
+            } catch(e) {}
+            // Also call original for backward compatibility
+            origRecord(questionId, subject, isCorrect, questionData);
+        };
+        window.bookmarkAPI = async (item) => {
+            await fetch(`/api/profiles/${currentProfile}/bookmark`, {
+                method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify(item)
+            });
+        };
+        window.removeBookmarkAPI = async (id) => {
+            await fetch(`/api/profiles/${currentProfile}/bookmark/${id}`, {method:'DELETE'});
+        };
+    }
+})();

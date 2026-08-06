@@ -488,3 +488,102 @@ app.listen(PORT, () => {
     console.log(`   ├── Monthly compilations: auto-accumulated`);
     console.log(`   └── Revision system: spaced repetition + bookmarks\n`);
 });
+
+// ============ USER PROFILES ============
+// Simple name-based profiles (no password) - separate progress per user
+
+app.get('/api/profiles', (req, res) => {
+    const profilesDir = path.join(__dirname, 'data', 'profiles');
+    if (!fs.existsSync(profilesDir)) fs.mkdirSync(profilesDir, { recursive: true });
+    const profiles = fs.readdirSync(profilesDir).filter(f => f.endsWith('.json')).map(f => f.replace('.json',''));
+    res.json({ profiles });
+});
+
+app.post('/api/profiles/create', (req, res) => {
+    const { name } = req.body;
+    if (!name || name.length < 2) return res.status(400).json({ error: 'Name must be at least 2 characters' });
+    const safeName = name.toLowerCase().replace(/[^a-z0-9]/g, '-');
+    const profilesDir = path.join(__dirname, 'data', 'profiles');
+    if (!fs.existsSync(profilesDir)) fs.mkdirSync(profilesDir, { recursive: true });
+    const profilePath = path.join(profilesDir, `${safeName}.json`);
+    if (!fs.existsSync(profilePath)) {
+        fs.writeFileSync(profilePath, JSON.stringify({
+            name, created: new Date().toISOString(),
+            bookmarks: [], attempted: [], wrongAnswers: [], revisionQueue: [],
+            stats: { totalAttempted: 0, totalCorrect: 0, subjectWise: {}, streakDays: 0, lastActiveDate: null }
+        }, null, 2));
+    }
+    res.json({ success: true, profile: safeName });
+});
+
+app.get('/api/profiles/:name', (req, res) => {
+    const safeName = req.params.name.toLowerCase().replace(/[^a-z0-9]/g, '-');
+    const profilePath = path.join(__dirname, 'data', 'profiles', `${safeName}.json`);
+    if (fs.existsSync(profilePath)) {
+        res.json(JSON.parse(fs.readFileSync(profilePath, 'utf8')));
+    } else {
+        res.status(404).json({ error: 'Profile not found' });
+    }
+});
+
+app.post('/api/profiles/:name/attempt', (req, res) => {
+    const safeName = req.params.name.toLowerCase().replace(/[^a-z0-9]/g, '-');
+    const profilePath = path.join(__dirname, 'data', 'profiles', `${safeName}.json`);
+    if (!fs.existsSync(profilePath)) return res.status(404).json({ error: 'Profile not found' });
+    const data = JSON.parse(fs.readFileSync(profilePath, 'utf8'));
+    const { questionId, subject, isCorrect, questionData } = req.body;
+    const today = new Date().toISOString().split('T')[0];
+    
+    data.stats.totalAttempted++;
+    if (isCorrect) data.stats.totalCorrect++;
+    if (!data.stats.subjectWise[subject]) data.stats.subjectWise[subject] = { attempted: 0, correct: 0 };
+    data.stats.subjectWise[subject].attempted++;
+    if (isCorrect) data.stats.subjectWise[subject].correct++;
+    if (data.stats.lastActiveDate !== today) {
+        const yesterday = new Date(Date.now() - 86400000).toISOString().split('T')[0];
+        data.stats.streakDays = data.stats.lastActiveDate === yesterday ? data.stats.streakDays + 1 : 1;
+        data.stats.lastActiveDate = today;
+    }
+    if (!isCorrect && questionData) {
+        const exists = data.wrongAnswers.find(w => w.questionId === questionId);
+        if (!exists) data.wrongAnswers.push({ questionId, subject, question: questionData.question?.substring(0,200), options: questionData.options, answer: questionData.answer, explanation: questionData.explanation, addedAt: new Date().toISOString() });
+    } else {
+        data.wrongAnswers = data.wrongAnswers.filter(w => w.questionId !== questionId);
+    }
+    fs.writeFileSync(profilePath, JSON.stringify(data, null, 2));
+    res.json({ success: true, stats: data.stats });
+});
+
+app.post('/api/profiles/:name/bookmark', (req, res) => {
+    const safeName = req.params.name.toLowerCase().replace(/[^a-z0-9]/g, '-');
+    const profilePath = path.join(__dirname, 'data', 'profiles', `${safeName}.json`);
+    if (!fs.existsSync(profilePath)) return res.status(404).json({ error: 'Profile not found' });
+    const data = JSON.parse(fs.readFileSync(profilePath, 'utf8'));
+    const item = req.body;
+    if (!data.bookmarks.find(b => b.id === item.id)) {
+        data.bookmarks.push({ ...item, bookmarkedAt: new Date().toISOString() });
+    }
+    fs.writeFileSync(profilePath, JSON.stringify(data, null, 2));
+    res.json({ success: true, bookmarkCount: data.bookmarks.length });
+});
+
+app.delete('/api/profiles/:name/bookmark/:id', (req, res) => {
+    const safeName = req.params.name.toLowerCase().replace(/[^a-z0-9]/g, '-');
+    const profilePath = path.join(__dirname, 'data', 'profiles', `${safeName}.json`);
+    if (!fs.existsSync(profilePath)) return res.status(404).json({ error: 'Profile not found' });
+    const data = JSON.parse(fs.readFileSync(profilePath, 'utf8'));
+    data.bookmarks = data.bookmarks.filter(b => b.id !== req.params.id);
+    fs.writeFileSync(profilePath, JSON.stringify(data, null, 2));
+    res.json({ success: true });
+});
+
+app.post('/api/profiles/:name/reset', (req, res) => {
+    const safeName = req.params.name.toLowerCase().replace(/[^a-z0-9]/g, '-');
+    const profilePath = path.join(__dirname, 'data', 'profiles', `${safeName}.json`);
+    if (!fs.existsSync(profilePath)) return res.status(404).json({ error: 'Profile not found' });
+    const data = JSON.parse(fs.readFileSync(profilePath, 'utf8'));
+    data.bookmarks = []; data.attempted = []; data.wrongAnswers = []; data.revisionQueue = [];
+    data.stats = { totalAttempted: 0, totalCorrect: 0, subjectWise: {}, streakDays: 0, lastActiveDate: null };
+    fs.writeFileSync(profilePath, JSON.stringify(data, null, 2));
+    res.json({ success: true });
+});
