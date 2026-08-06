@@ -2,31 +2,31 @@
   "prelims": [
     {
       "id": "f1",
-      "subject": "Polity",
+      "subject": "Polity & Governance",
       "front": "How many Fundamental Rights are in the Constitution?",
       "back": "6 (originally 7; Right to Property removed by 44th Amendment, 1978): Right to Equality (14-18), Freedom (19-22), Against Exploitation (23-24), Freedom of Religion (25-28), Cultural & Educational Rights (29-30), Constitutional Remedies (32)."
     },
     {
       "id": "f2",
-      "subject": "Polity",
+      "subject": "Polity & Governance",
       "front": "Difference between Article 32 and Article 226?",
       "back": "Article 32: Supreme Court for Fundamental Rights only (itself a FR). Article 226: High Courts for FR + any other purpose (wider scope). SC jurisdiction is narrower but the right to approach it is itself fundamental."
     },
     {
       "id": "f3",
-      "subject": "Polity",
+      "subject": "Polity & Governance",
       "front": "5 types of Writs?",
       "back": "Habeas Corpus (illegal detention), Mandamus (perform public duty), Prohibition (lower court exceeding jurisdiction), Certiorari (transfer case from lower court), Quo Warranto (challenge authority to hold office)."
     },
     {
       "id": "f4",
-      "subject": "Polity",
+      "subject": "Polity & Governance",
       "front": "What is the Basic Structure doctrine?",
       "back": "Kesavananda Bharati case (1973): Parliament can amend Constitution but cannot destroy basic structure. Includes: supremacy of Constitution, republican democratic form, secularism, separation of powers, federalism, rule of law, judicial review."
     },
     {
       "id": "f5",
-      "subject": "Polity",
+      "subject": "Polity & Governance",
       "front": "Article 356 - President's Rule",
       "back": "Imposed when state government can't function per Constitution. Governor's report to President. Rajya Sabha approval within 2 months. Max 3 years (Parliament approval every 6 months). SR Bommai (1994) made it judicially reviewable."
     },
@@ -86,25 +86,25 @@
     },
     {
       "id": "f15",
-      "subject": "Science",
+      "subject": "Science & Technology",
       "front": "Nuclear Fission vs Fusion?",
       "back": "Fission: Heavy nucleus splits (U-235, Pu-239). Reactors, atomic bombs. Radioactive waste. Fusion: Light nuclei combine (H→He). Powers Sun. Needs extreme temperature. Cleaner but technically hard. ITER project for controlled fusion."
     },
     {
       "id": "f16",
-      "subject": "Science",
+      "subject": "Science & Technology",
       "front": "India's Three-Stage Nuclear Programme?",
       "back": "Homi Bhabha design. Stage 1: PHWR - natural uranium → plutonium. Stage 2: Fast Breeder Reactors - plutonium + U-238 → more Pu + U-233 from thorium. Stage 3: Thorium-based reactors (India has 25% world's thorium). PFBR at Kalpakkam = Stage 2."
     },
     {
       "id": "f17",
-      "subject": "Environment",
+      "subject": "Environment & Ecology",
       "front": "Key Environmental Conventions",
       "back": "Ramsar (1971): Wetlands | Stockholm (1972): First env conference | CITES (1973): Wildlife trade | Montreal (1987): Ozone | Basel (1989): Hazardous waste | CBD (1992): Biodiversity | UNFCCC (1992): Climate | Kyoto (1997): Emission targets | Paris (2015): 1.5-2°C limit"
     },
     {
       "id": "f18",
-      "subject": "Environment",
+      "subject": "Environment & Ecology",
       "front": "India's NDCs (Paris Agreement)?",
       "back": "Updated 2022: 1) Reduce emission intensity 45% by 2030 (from 2005) 2) 50% power from non-fossil by 2030 3) Additional carbon sink of 2.5-3 billion tonnes CO2 via forests. Net-zero target: 2070."
     },
@@ -122,13 +122,13 @@
     },
     {
       "id": "wfc-1785931267852-0",
-      "subject": "Medieval History",
+      "subject": "History",
       "front": "Key fact about Delhi Sultanate:",
       "back": "The sultanate was established in 1206 in the former Ghurid territories in India. | Its history is generally divided into five periods: Mamluk (1206–1290), Khalji (1290–1320), Tughlaq (1320–1414), Sayyid (1414–1451), and Lodi (1451–1526). | The foundation of the sultanate was laid by the Ghurid conqueror Muhammad Ghori, who routed the Rajput Confederacy, led by Ajmer ruler Prithviraj Chauhan, in 1192 near Tarain, in a reversal of an earlier battle. | In 1526, Timurid ruler Babur invaded northern India and conquered the sultanate, leading to its succession by the Mughal Empire. | 1266 – 4 January 1316) was the Khalji dynasty Sultan of Delhi from 1296 until his death in 1316."
     },
     {
       "id": "wfc-1785931269494-0",
-      "subject": "Science",
+      "subject": "Science & Technology",
       "front": "Key fact about ISRO:",
       "back": "Chandrayaan-3 (CHUN-drə-YAHN ) is the third mission in the Chandrayaan programme, a series of lunar-exploration missions developed by ISRO. | The mission consists of Vikram, a lunar lander, and Pragyan, a lunar rover, as replacements for the equivalents on Chandrayaan-2, which had crashed on landing in 2019. | Chandrayaan-3 was launched on 14 July 2023, at 14:35 IST from the Satish Dhawan Space Centre (SDSC) in Sriharikota, India. | It entered lunar orbit on 5 August, and touched down near the lunar south pole, at 69°S, on 23 August 2023 at 18:04 IST (12:33 UTC). | The orbiting propulsion module remained operational and was repurposed for scientific observations of Earth; it was shifted from lunar orbit to a high Earth orbit on 22 November 2023, where it remains in service."
     },
@@ -146,7 +146,7 @@
     },
     {
       "id": "wfc-1785931949469-0",
-      "subject": "Modern History",
+      "subject": "History",
       "front": "Key fact about Gandhi and Movements:",
       "back": "The honorific Mahātmā (Sanskrit: \"great-souled\", \"venerable\"), first applied to him in 1914 in South Africa, is now used throughout the world. | After two uncertain years in India, where he was unable to start a successful law practice, Gandhi moved to South Africa in 1893 to represent an Indian merchant in a lawsuit. | In 1915, aged 45, he returned to India and soon set about organising peasants, farmers, and urban labourers to protest against discrimination and excessive land tax. | Assuming leadership of the Indian National Congress in 1921, Gandhi led nationwide campaigns for easing poverty, expanding women's rights, building religious and ethnic amity, ending untouchability, and, above all, achieving swaraj or self-rule. | Bringing anti-colonial nationalism to the common Indians, Gandhi led them in challenging the British-imposed salt tax with the 400 km (250 mi) Dandi Salt March in 1930 and in calling for the British to quit India in 1942."
     },
@@ -157,31 +157,31 @@
       "back": "It is the seventh-largest country in the world, with a total area of 3,287,263 square kilometres (1,269,219 mi2). | The Ganges is the longest river originating in India. | Kangchenjunga, in the Indian state of Sikkim, is the highest point in India at 8,586 m (28,169 ft) and the world's third highest peak."
     },
     {
-      "subject": "Indian Polity",
+      "subject": "Polity & Governance",
       "front": "Which of the following statements about Article 12 (Definition of 'State') is/are correct?\n1. The term 'State' includes the Government and Parliament of India, and the Government and Legislature of each State.\n2. It includes all local authorities such as municipalities, district boards, and panchayats.\n3. It includes 'other authorities' which has been judicially interpreted to include bodies like LIC, ONGC, and BCCI.\n4. The judiciary is explicitly included within the definition of 'State' under Article 12.",
       "back": "Correct: 1, 2, and 3 only.\n\nExplanation:\n- Article 12 defines 'State' for Part III (Fundamental Rights). It includes: (a) Government & Parliament of India; (b) Government & Legislature of each State; (c) All local authorities (municipalities, district boards, panchayats, etc.); (d) 'Other authorities' – a residuary category.\n- 'Other authorities' has been expansively interpreted by SC (e.g., Sukhdev Singh v. Bhagatram, 1975; R.D. Shetty v. Airport Authority, 1979) to include statutory bodies performing public functions – LIC, ONGC, Oil India, Electricity Boards, etc.\n- BCCI was held to be 'State' in Pradeep Kumar Biswas v. IICB (2002) and later reaffirmed (2015) due to its public function, monopoly, and state control.\n- Judiciary is NOT included in Article 12 definition. In Naresh Shridhar Mirajkar v. State of Maharashtra (1966), SC held judicial decisions are not 'State action' under Art. 12, though administrative functions of courts may be. | Correct: (a) 1 and 4 only.\nExplanation:\n1...",
       "id": "fc-1785932888733-0ikt"
     },
     {
-      "subject": "Indian Polity",
+      "subject": "Polity & Governance",
       "front": "Consider the following statements regarding Article 19(1)(a) (Freedom of Speech and Expression) and its reasonable restrictions under Article 19(2):\n1. The ground 'public order' was added by the First Amendment Act, 1951.\n2. 'Sedition' (Section 124A IPC) was held constitutional by the Supreme Court in Kedar Nath Singh v. State of Bihar (1962) on the ground that it is a reasonable restriction in the interest of 'public order'.\n3. The right to freedom of speech includes the right to information, but the Right to Information Act, 2005 is not a constitutional mandate.\n4. Commercial speech (advertising) was brought under the protection of Article 19(1)(a) in Tata Press Ltd. v. MTNL (1995).",
       "back": "Correct: 2 and 4 only.\n\nExplanation:\n- Statement 1 is incorrect: 'Public order' was added by the Constitution (Sixteenth Amendment) Act, 1963. The First Amendment (1951) added 'public order'? No – First Amendment added 'public order'? Wait: First Amendment added 'public order'? Actually, First Amendment added 'public order'? Let's recall: First Amendment (1951) added three grounds: 'public order', 'incitement to an offence', and 'friendly relations with foreign states'. Yes, First Amendment DID add 'public order'. Correction: Statement 1 is CORRECT. First Amendment 1951 added 'public order', 'incitement to offence', 'friendly relations with foreign states'. Sixteenth Amendment (1963) added 'sovereignty and integrity of India'. So statement 1 is correct.\n- Statement 2: Kedar Nath Singh (1962) upheld constitutional validity of Section 124A (sedition) reading it down to apply only to acts involving intention or tendency to create disorder/disturbance of public order or incitement to viole...",
       "id": "fc-1785932888733-6k9t"
     },
     {
-      "subject": "Indian Polity",
+      "subject": "Polity & Governance",
       "front": "Match the following landmark Supreme Court cases with the Fundamental Right principle they established:\n\nList I (Case)                    List II (Principle)\nA. A.K. Gopalan v. State of Madras (1950)     1. 'Procedure established by law' ≠ 'Due process of law'; Art. 21 does not require natural justice\nB. Maneka Gandhi v. Union of India (1978)       2. Right to Privacy is a fundamental right under Art. 21\nC. K.S. Puttaswamy v. Union of India (2017)     3. 'Procedure established by law' must be fair, just, and reasonable; Arts. 14, 19, 21 are interconnected\nD. Minerva Mills v. Union of India (1980)       4. Basic Structure doctrine; judicial review is part of basic structure; Art. 31C cannot override Arts. 14 & 19\n\nSelect the correct matching:",
       "back": "Correct Matching: A-1, B-3, C-2, D-4\n\nExplanation:\n- A.K. Gopalan (1950): SC took a literal interpretation of Art. 21 – 'procedure established by law' means any procedure enacted by competent legislature, not 'due process of law' (which implies judicial review of fairness). Arts. 19 and 21 were held to be mutually exclusive.\n- Maneka Gandhi (1978): Overruled Gopalan. Held that procedure under Art. 21 must be 'fair, just and reasonable' – not arbitrary, fanciful, or oppressive. Established the 'golden triangle' – Arts. 14, 19, 21 are not mutually exclusive but interconnected.\n- K.S. Puttaswamy (2017): 9-judge bench unanimously declared Right to Privacy as a fundamental right intrinsic to Art. 21 (life and personal liberty) and Part III. Overruled M.P. Sharma (1954) and Kharak Singh (1962).\n- Minerva Mills (1980): Struck down clauses of 42nd Amendment that gave primacy to Directive Principles over Fundamental Rights and ousted judicial review. Reaffirmed Basic Structure doctrine (Kesavananda Bharati, 1973) – judicial review and balance between Part III and Part IV are basic features.",
       "id": "fc-1785932888733-53fm"
     },
     {
-      "subject": "Indian Economy",
+      "subject": "Economics",
       "front": "With reference to the Reserve Bank of India's monetary policy framework, consider the following statements:\n1. The Flexible Inflation Targeting (FIT) framework was adopted in 2016 through an amendment to the RBI Act, 1934, with a statutory inflation target of 4% (+/- 2%) CPI.\n2. The Monetary Policy Committee (MPC) consists of six members – three from RBI (including Governor as ex-officio Chairperson) and three external members appointed by the Central Government.\n3. The MPC meets at least four times a year, and its decisions are binding on the RBI.\n4. If inflation breaches the tolerance band for three consecutive quarters, the RBI must submit a report to the Government explaining reasons and remedial actions.",
       "back": "Correct: 1, 2, and 3 only.\n\nExplanation:\n- Statement 1: Correct. The RBI Act was amended in 2016 (Finance Act, 2016) to provide statutory basis for FIT. The Central Government notified 4% CPI inflation target with +/- 2% tolerance band (i.e., 2%-6%) for the period 2016-2021, later retained for 2021-2026.\n- Statement 2: Correct. MPC has 6 members: Governor (Chair), Deputy Governor in charge of monetary policy, one RBI officer nominated by Central Board, and three external members appointed by Central Government on recommendations of a Search-cum-Selection Committee. External members have 4-year terms, not eligible for reappointment.\n- Statement 3: Correct. MPC meets at least 4 times a year (typically bi-monthly, so 6 times). Quorum is 4 members. Decisions by majority vote; Governor has casting vote. Decisions are binding on RBI.\n- Statement 4: Incorrect. The accountability mechanism: If inflation breaches tolerance band for three consecutive quarters, RBI must send a report to the Central Government (not Parliament) explaining reasons, remedial actions, and estimated time for convergence. This is under Section 45ZN of RBI Act. The report is to the Government, not Parliament directly.",
       "id": "fc-1785932888733-uomf"
     },
     {
-      "subject": "Indian Economy",
+      "subject": "Economics",
       "front": "Which of the following statements regarding Non-Performing Assets (NPAs) and related resolution mechanisms in India is/are correct?\n1. As per RBI's prudential norms, a loan asset becomes NPA when interest/principal remains overdue for more than 90 days.\n2. The Insolvency and Bankruptcy Code (IBC), 2016 provides for a time-bound resolution process of 180 days (extendable by 90 days) for corporate debtors.\n3. The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest (SARFAESI) Act, 2002 allows banks to take possession of secured assets without court intervention for NPAs above ₹1 lakh.\n4. The 'Prompt Corrective Action' (PCA) framework is applied by RBI on banks with high NPAs, low capital adequacy, and negative return on assets, restricting their lending and expansion activities.",
       "back": "Correct: 1, 2, and 4 only.\n\nExplanation:\n- Statement 1: Correct. RBI's Income Recognition and Asset Classification (IRAC) norms: An asset becomes NPA when interest/principal installment remains overdue for more than 90 days (for term loans, cash credit/overdraft, bills purchased/discounted).\n- Statement 2: Correct. IBC 2016 provides Corporate Insolvency Resolution Process (CIRP) of 180 days from admission of application, extendable by 90 days (total max 270 days). Further extension by 90 days (total 360 days) only in exceptional circumstances with 90% CoC approval.\n- Statement 3: Incorrect. SARFAESI Act, 2002 applies to secured creditors (banks/FIs) for NPAs above ₹1 lakh? The threshold is ₹1 lakh for applicability? Actually, SARFAESI originally applied to NPAs above ₹1 lakh, but the threshold was raised to ₹10 lakh in 2016 (Notification S.O. 856(E)). Also, it allows enforcement of security interest without court intervention, but the debtor can appeal to Debt Recovery Tribunal (DRT) and then DRAT. The statement says 'without court intervention' which is broadly true for initial possession, but the threshold is wrong (₹1 lakh vs ₹10 lakh).\n- Statement 4: Correct. PCA framework (revised 2017) triggers based on three risk thresholds: CRAR (Capital to Risk-weighted Assets Ratio), Net NPA ratio, and Return on Assets (RoA). It imposes mandatory and discretionary restrictions on dividend distribution, branch expansion, lending to high-risk sectors, etc.",
       "id": "fc-1785932888733-9t4w"
@@ -205,98 +205,98 @@
       "id": "fc-1785932963289-mzdt"
     },
     {
-      "subject": "Ancient History",
+      "subject": "History",
       "front": "Compare the core teachings of Jainism and Buddhism. Highlight similarities and key doctrinal differences.",
       "back": "Similarities: Both Shramanic traditions rejecting Vedic authority/rituals/caste; karma, rebirth, moksha/nirvana; ahimsa; monastic sangha; Prakrit/Pali for propagation. Differences: (1) Soul: Jainism - eternal jiva in all beings (animate/inanimate); Buddhism - anatta (no-soul), five skandhas. (2) Ahimsa: Jainism - absolute (even unintentional harm binds karma); Buddhism - contextual (intention matters). (3) Asceticism: Jainism - extreme (sallekhana, nudity for Digambaras); Buddhism - Middle Path (avoiding extremes). (4) God: Jainism - Tirthankaras as role models, no creator; Buddhism - non-theistic, Buddha as teacher. (5) Moksha: Jainism - kevala jnana through ratnatraya (right faith, knowledge, conduct); Buddhism - nirvana via Eightfold Path. (6) Spread: Jainism - limited to India (merchant patronage); Buddhism - pan-Asian (royal patronage: Ashoka, Kanishka).",
       "id": "fc-1785932963289-45al"
     },
     {
-      "subject": "Ancient History",
+      "subject": "History",
       "front": "Trace the evolution of Buddhist Councils. What were the outcomes of each council and their significance for sectarian development?",
       "back": "1st Council (483 BCE, Rajagriha, Ajatashatru): Presided by Mahakassapa. Compiled Sutta Pitaka (Ananda) and Vinaya Pitaka (Upali). Unified canon. 2nd Council (383 BCE, Vaishali, Kalashoka): Presided by Sabakami. Dispute over 10 points of monastic discipline (e.g., storing salt, eating after noon). Result: First schism - Sthaviravada (Elders) vs Mahasanghika (Great Sangha). 3rd Council (250 BCE, Pataliputra, Ashoka): Presided by Moggaliputta Tissa. Purged heretics; compiled Kathavatthu (Abhidhamma); sent missionaries (Mahinda to Sri Lanka). Vibhajjavada (Theravada) established. 4th Council (72 CE, Kashmir, Kanishka): Presided by Vasumitra/Asvaghosha. Sanskrit canon; Mahavibhasha (commentary); formalized Mahayana (Bodhisattva ideal, Buddha as divine). Significance: Councils 1-3 = Theravada consolidation; 4th = Mahayana emergence. Later: 5th (1871, Mandalay) and 6th (1954, Rangoon) - modern Theravada recensions.",
       "id": "fc-1785932963289-505q"
     },
     {
-      "subject": "Geography - Physical",
+      "subject": "Geography",
       "front": "Match the following erosion landforms with the agents/processes primarily responsible for their formation: List I (Landform) → List II (Agent/Process): A. Mushroom rock — 1. Glacier erosion, B. Sand dune — 2. Wind abrasion, C. Cirque — 3. Groundwater dissolution, D. Karst pinnacle — 4. Wind deposition. Which of the following is the correct match?",
       "back": "Answer: A-2, B-4, C-1, D-3. Mushroom rocks (pedestal rocks) are formed by wind abrasion, where the lower part of the rock is eroded faster than the upper part due to sandblasting at ground level. Sand dunes are formed by wind deposition (not erosion), where wind transports and deposits sand. Cirques (corries) are bowl-shaped depressions at the head of glacial valleys formed by glacial erosion (plucking and abrasion). Karst pinnacles (karst towers) are formed by groundwater dissolution of soluble rocks like limestone, characteristic of tropical and subtropical karst landscapes (e.g., Guilin, China; Kutnahara, Hungary).",
       "id": "fc-1785932989622-gfs9"
     },
     {
-      "subject": "Art & Culture - Indian Painting",
+      "subject": "Art & Culture",
       "front": "With reference to Mughal miniature painting, consider the following statements: 1. The Mughal school of painting was primarily patronised by Emperor Akbar and reached its zenith during the reign of Shah Jahan. 2. Mughal miniatures are characterised by bold colours, strong outlines, and a blend of Persian, Indian, and European artistic techniques. 3. The themes of Mughal miniatures were exclusively confined to court scenes and royal portraits. Which of the statements given above is/are correct?",
       "back": "Answer: (b) 2 only. Statement 1 is partially incorrect: While Akbar was indeed the great patron who established the atelier (with Persian master Mir Sayyid Ali and Abdus Samad), the zenith of Mughal painting is generally considered to be during the reigns of Akbar and Jahangir (not Shah Jahan). Shah Jahan's period saw a shift toward more decorative and less emotionally expressive work. Statement 2 is correct: Mughal miniatures are known for their rich palette, fine brushwork, strong outlines, and a synthesis of Persian (Safavid), Indian (Hindu), and European (via Jesuit missionaries) techniques — a hallmark of Indo-Persian synthesis. Statement 3 is incorrect: Themes also included portraits, battles, hunts, court scenes, literary illustrations (Hamzanama, Tutinama), and later, romantic and allegorical themes. The exclusivity claim makes this false.",
       "id": "fc-1785932989622-k7sw"
     },
     {
-      "subject": "Art & Culture - Indian Painting",
+      "subject": "Art & Culture",
       "front": "Arrange the following Indian miniature painting schools in the correct chronological order of their emergence (earliest to latest): 1. Kangra school, 2. Basohli school, 3. Mewar school, 4. Bundi school. Which of the following is the correct order?",
       "back": "Answer: 3-2-4-1 (Mewar → Basohli → Bundi → Kangra). Mewar school is the earliest, dating to the early 16th century (c. 1500s), known for its bold, primitive style with flat figures and bright primary colours (e.g., the Chawand Ragamala paintings, c. 1605, though the school's origins are earlier). Basohli school emerged in the late 17th to early 18th century, famous for its intense facial features, large eyes, and use of gold and beetle-wing cases for jewel effects. Bundi school developed in the 17th–18th centuries, influenced by Mughal and Basohli styles, known for lush vegetation and night scenes. Kangra school emerged in the mid-18th century under the patronage of Ghamand Chand and later Raja Sansar Chand, reaching its peak in the late 18th century with delicate, lyrical themes from the Gita Govinda and Baramasa, characterised by soft colours and refined line work.",
       "id": "fc-1785932989622-flvc"
     },
     {
-      "subject": "Art & Culture - Indian Painting",
+      "subject": "Art & Culture",
       "front": "Consider the following Indian folk and tribal art forms: 1. Madhubani painting — originated in Bihar and is traditionally created by women using natural dyes on walls and floors. 2. Warli painting — originates from Maharashtra and primarily uses geometric shapes (circles, triangles, squares) to depict scenes of daily life and nature. 3. Kalamkari — a block-printing and hand-painting textile art from Andhra Pradesh using only vegetable dyes. 4. Phad painting — a scroll painting from Rajasthan depicting folk deities and narrative stories. Which of the statements given above is/are correct?",
       "back": "Answer: (c) 1, 2, and 3 only. Statement 1 is correct: Madhubani (Mithila) painting originated in the Mithila region of Bihar, traditionally painted by women on mud walls and floors using natural dyes (derived from plants, charcoal, etc.) and bold geometric patterns, flora, fauna, and mythological themes. Statement 2 is correct: Warli painting is from the Warli tribal community of Maharashtra (and parts of Gujarat), using simple geometric shapes — circles (sun/moon), triangles (mountains/trees), and squares (sacred enclosure) — on a red ochre or white background to depict hunting, farming, festivals, and daily life. Statement 3 is correct: Kalamkari is a traditional hand-painting or block-printing craft from Srikalahasti and Machilipatnam in Andhra Pradesh, using natural (vegetable) dyes and a tamarind pen (kalam) for freehand drawing. Statement 4 is INCORRECT: Phad painting is from Rajasthan (specifically Shahpura, near Bhilwara), not from a generic 'Rajasthan' — wait, actually Phad IS from Rajasthan, so let me re-examine. The statement says 'Phad painting — a scroll painting from Rajasthan depicting folk deities and narrative stories.' This is actually CORRECT. Phad paintings are indeed from Rajasthan (Bhilwara/Shahpura region), painted on cloth, depicting folk deities like Pabuji and Devnarayan, and narrative stories. So all four statements are correct. Revised Answer: (d) All 1, 2, 3, and 4.",
       "id": "fc-1785932989622-2ls0"
     },
     {
       "id": "wfc-1785933026138-0",
-      "subject": "Medieval History",
+      "subject": "History",
       "front": "Key fact about Mughal Empire:",
       "back": "The Mughal imperial structure, however, is sometimes dated to 1600, to the rule of Babur's grandson, Akbar. | This imperial structure lasted until 1720, shortly after the death of the last major emperor, Aurangzeb, during whose reign the empire also achieved its maximum geographical extent. | Reduced subsequently to the region in and around Old Delhi by 1760, the empire was formally dissolved by the British Raj after the Indian Rebellion of 1857. | Akbar (Jalal-ud-Din Muhammad Akbar, (1542-10-15)15 October 1542 – (1605-10-27)27 October 1605), also known as Akbar the Great, was the third Mughal emperor, who reigned from 1556 to 1605. | To unify the vast Mughal state, Akbar established a centralised system of administration and adopted a policy of conciliating conquered rulers through marriage and diplomacy."
     },
     {
-      "subject": "Medieval History",
+      "subject": "History",
       "front": "What were the major changes in the caste system during the Delhi Sultanate and Mughal periods?",
       "back": "The caste system became more rigid with proliferation of jatis (sub-castes) based on occupation. New groups like Kayasthas (scribes), Khatris (traders), and Rajputs (warrior clans) gained prominence. The Sultans/Mughals recognized caste hierarchies for revenue collection (zamindars often from dominant castes). However, Islam's egalitarian ethos and Bhakti movement provided limited social mobility. Untouchability intensified; lower castes faced restrictions on temple entry, water access, and residence. The Mughal mansabdari system created a new service elite cutting across caste lines, but birth-based hierarchy remained dominant in rural society.",
       "id": "fc-1785933132712-xi1s"
     },
     {
-      "subject": "Medieval History",
+      "subject": "History",
       "front": "Describe the status of women in medieval India (Delhi Sultanate to Mughal era) with key practices and exceptions.",
       "back": "Women's status generally declined: purdah system spread among upper classes (Hindu & Muslim), child marriage became prevalent, sati practiced among Rajputs and some Hindus, widow remarriage prohibited among upper castes, polygamy common among nobility. Property rights limited to stridhana. Exceptions: Royal women like Razia Sultan, Nur Jahan, Jahanara wielded political influence; Bhakti saints (Mirabai, Andal) gained spiritual authority; peasant/tribal women worked in fields with relatively more freedom; Devadasi system existed in temples. Education mostly restricted to royal/noble households.",
       "id": "fc-1785933132712-nqmz"
     },
     {
-      "subject": "Medieval History",
+      "subject": "History",
       "front": "What were the main features of education system under the Delhi Sultanate and Mughals?",
       "back": "Education was religion-based and decentralized. Maktabs (primary) taught Quran, Persian, arithmetic; Madrassas (higher) taught theology, law, logic, astronomy, medicine. Persian was court language; Sanskrit pathshalas continued for Hindus teaching Vedas, grammar, philosophy. Royal patronage: Firuz Tughlaq built many madrasas; Akbar introduced secular subjects (accounting, agriculture); Dara Shikoh promoted Hindu-Muslim synthesis. No state-funded universal system; literacy low, confined to elites, ulema, scribes. Vocational training through hereditary apprenticeship (ustad-shagird).",
       "id": "fc-1785933132712-bfy2"
     },
     {
-      "subject": "Medieval History",
+      "subject": "History",
       "front": "Compare the Nirguna and Saguna schools of Bhakti movement with key saints and philosophical differences.",
       "back": "Nirguna (formless God): Kabir, Raidas, Guru Nanak, Dadu Dayal. Rejected idol worship, caste, rituals, scriptures; emphasized inner devotion, guru's grace, monotheism; attracted lower castes, artisans; composed in vernacular (Hindi, Punjabi). Saguna (God with form): Ramananda, Vallabhacharya, Chaitanya, Mirabai, Tulsidas, Surdas. Worshipped personal deities (Rama, Krishna); accepted caste hierarchy (mostly), temples, rituals; emphasized grace through love/surrender; composed in Braj, Awadhi, Bengali. Both used local languages, challenged Brahmanical monopoly, but Saguna was more accommodated within orthodoxy.",
       "id": "fc-1785933132712-m87f"
     },
     {
-      "subject": "Medieval History",
+      "subject": "History",
       "front": "What was the socio-religious impact of the Bhakti movement on medieval Indian society?",
       "back": "Bhakti democratized religion: bypassed priests, used vernacular, opened spirituality to women, shudras, outcastes. Challenged caste rigidity (Kabir, Raidas, Guru Nanak rejected birth-based hierarchy). Promoted Hindu-Muslim syncretism (Kabir, Guru Nanak, Sufi-Bhakti dialogue). Stimulated regional literature (Hindi, Marathi, Bengali, Punjabi, Gujarati, Tamil). Strengthened Vaishnavism (Rama/Krishna cults) and Sikhism (from Nanak's teachings). However, did not dismantle caste system; many sects developed own hierarchies; Saguna bhakti often reinforced ritualism; political impact limited though provided cultural cohesion against orthodoxy.",
       "id": "fc-1785933132712-kphz"
     },
     {
       "id": "wfc-1785933329698-0",
-      "subject": "Science",
+      "subject": "Science & Technology",
       "front": "Key fact about AI and Computing:",
       "back": "Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making. | Artificial intelligence was founded as an academic discipline in 1956. | The field went through multiple cycles of optimism throughout its history, followed by periods of disappointment and loss of funding, known as AI winters. | Funding and interest increased substantially after 2012, when graphics processing units (GPUs) started being used to accelerate neural networks, and deep learning outperformed previous AI techniques. | This growth accelerated further after 2017 with the transformer architecture."
     },
     {
       "id": "wfc-1785933331361-0",
-      "subject": "Environment",
+      "subject": "Environment & Ecology",
       "front": "Key fact about Environmental Laws:",
       "back": "It was set up under the National Green Tribunal Act in 2010."
     },
     {
       "id": "wfc-1785933902122-0",
-      "subject": "Environment",
+      "subject": "Environment & Ecology",
       "front": "Key fact about Climate Change:",
       "back": "India was ranked seventh among the list of countries most affected by climate change in 2019. | The climate change performance index of India ranks eighth among 63 countries which account for 92% of all GHG emissions in the year 2021. | A 2007 World Wide Fund for Nature (WWF) report states that the Indus River may run dry for the same reason. | Temperatures in India have risen by 0.7 °C (1.3 °F) between 1901 and 2018. | The Paris Agreement (also called the Paris Accords or Paris Climate Accords) is an international treaty on climate change that was signed in 2016."
     },
     {
       "id": "wfc-1785933903767-0",
-      "subject": "Polity",
+      "subject": "Polity & Governance",
       "front": "Key fact about Indian Constitution:",
       "back": "The Constitution of India is the supreme legal document of India, and the longest written national constitution in the world. | It espouses constitutional supremacy (not parliamentary supremacy found in the United Kingdom, since it was created by a constituent assembly rather than Parliament) and was adopted with a declaration in its preamble. | State of Kerala held that there were certain features of the Constitution so integral to its functioning and existence that they could never be cut out of the constitution (known as the 'Basic Structure' Doctrine). | The Government of India Act 1935, mainly drafted by Samuel Hoare, provided the basis for the constitution of India. | The Constituent Assembly of India adopted the constitution on 26 November 1949 and became effective on 26 January 1950."
     },
@@ -319,61 +319,61 @@
       "id": "fc-1785934419652-fsxh"
     },
     {
-      "subject": "Medieval History",
+      "subject": "History",
       "front": "Describe the Nayankara system of the Vijayanagara Empire. How did it differ from the Iqta system of the Delhi Sultanate?",
       "back": "**Nayankara System**: Military-administrative arrangement where the king granted *amaram* (territory) to *Nayakas* (military chiefs) in return for: (1) Fixed military contingent; (2) Annual revenue share; (3) Personal attendance at court. Nayakas had hereditary rights over *amaram* but not ownership; could be transferred. They maintained forts, administered justice, collected taxes.\n\n**Difference from Iqta**: Iqta was a *revenue assignment* (non-hereditary, transferable at Sultan's will) to *muqtis* for salary/maintenance of troops; no proprietary rights. Nayankara had stronger hereditary tendency, greater autonomy, and Nayakas functioned as semi-independent rulers, leading to feudal fragmentation post-1565.",
       "id": "fc-1785934419652-tdg1"
     },
     {
-      "subject": "Medieval History",
+      "subject": "History",
       "front": "What were the main features of Vijayanagara temple architecture? Cite two major examples.",
       "back": "**Features**: (1) **Dravida style** evolved: massive *gopurams* (gateways) dominating skyline; (2) **Kalyanamandapa** (marriage hall) with ornate pillars; (3) **Amman shrines** (consort goddess) within complex; (4) **Musical pillars** (e.g., Vittala Temple); (5) **Monolithic sculptures** (Nandi, Ganesha); (6) **Pushkarini** (stepped tank); (7) Use of **granite**; (8) **Vijayanagara pillars** - composite pillars with rearing yalis.\n\n**Examples**: (1) **Virupaksha Temple**, Hampi (continuous worship since 7th cen., expanded by Krishnadevaraya); (2) **Vittala Temple**, Hampi (iconic stone chariot, musical pillars, Krishnadevaraya period).",
       "id": "fc-1785934419652-ekjd"
     },
     {
-      "subject": "Modern History",
+      "subject": "History",
       "front": "What were the key features of the Indian Councils Act, 1909 (Morley-Minto Reforms) and how did it institutionalize communal representation?",
       "back": "Key features: (1) Increased size of legislative councils - Central (60 members) and Provincial (varying); (2) Introduced separate electorates for Muslims - first statutory recognition of communal representation; (3) Non-official majority in provincial councils but official majority retained at centre; (4) Members could discuss budget, move resolutions, ask supplementary questions; (5) Provided for nomination of Indians to Viceroy's Executive Council (Satyendra Sinha first). Significance: Legalized communalism, sowed seeds of partition; gave limited political participation but real power remained with British.",
       "id": "fc-1785934792511-c0lj"
     },
     {
-      "subject": "Modern History",
+      "subject": "History",
       "front": "Compare the Government of India Act, 1919 (Montagu-Chelmsford) and Government of India Act, 1935 in terms of dyarchy, provincial autonomy, and federal structure.",
       "back": "1919 Act: Introduced Dyarchy in provinces - transferred subjects (education, health, local self-govt) under Indian ministers responsible to legislature; reserved subjects (law & order, finance, land revenue) under Governor/executive councillors. No federal structure. 1935 Act: Abolished provincial dyarchy, introduced Provincial Autonomy - provinces became autonomous units with responsible government; proposed All-India Federation (never materialized as princely states didn't join); introduced dyarchy at Centre (defence, external affairs, tribal areas reserved); established Federal Court; separated Burma and Aden; expanded franchise to ~14% population.",
       "id": "fc-1785934792511-eds9"
     },
     {
-      "subject": "Modern History",
+      "subject": "History",
       "front": "What were the main provisions of the Indian Independence Act, 1947 and how did it effect the transfer of power?",
       "back": "Provisions: (1) Partition of British India into two dominions - India and Pakistan from 15 Aug 1947; (2) End of British paramountcy over princely states - they became free to join either dominion or remain independent; (3) Governor-General for each dominion appointed by British Crown on advice of respective cabinets; (4) Constituent Assemblies of both dominions to serve as legislatures with full legislative sovereignty; (5) British Parliament relinquished all legislative authority; (6) Division of armed forces, assets, liabilities. Transfer effected through Mountbatten Plan (3 June 1947) accepted by Congress and Muslim League.",
       "id": "fc-1785934792511-bfl2"
     },
     {
-      "subject": "Medieval History",
+      "subject": "History",
       "front": "Analyze the administrative and market reforms of Alauddin Khalji. How did they strengthen the Sultanate?",
       "back": "Administrative: (1) Confiscated religious endowments (madad-i-maash, inam lands); (2) Created Diwan-i-Mustakhraj for revenue arrears; (3) Introduced dagh (branding of horses) and chehra (descriptive roll of soldiers); (4) Banned nobles' social gatherings, intermarriage without permission; (5) Established espionage system (barids). Market Reforms: (1) Fixed prices of grain, cloth, sugar, etc. (SHAHNA-i-MANDI); (2) Grain stored in state granaries for famine; (3) Merchants registered, permitted fixed profit margins; (4) Strict punishment for hoarding/underweighting. Result: Large standing army maintained at low cost; Sultanate reached territorial zenith; but reforms collapsed after his death due to rigidity.",
       "id": "fc-1785934792511-9ia0"
     },
     {
-      "subject": "Medieval History",
+      "subject": "History",
       "front": "Evaluate Muhammad bin Tughlaq's token currency experiment and transfer of capital. Why did they fail?",
       "back": "Token Currency (1329-30): Issued copper/brass tanka at par with silver tanka to overcome silver shortage. Failed because: (1) No state monopoly on minting - widespread counterfeiting; (2) Foreign merchants refused acceptance; (3) People hoarded silver, paid taxes in copper; (4) Treasury flooded with fake coins - withdrawn at great loss. Transfer of Capital (1327): Shifted capital from Delhi to Daulatabad (Deogir) to control Deccan. Failed because: (1) Forced migration caused immense suffering/deaths; (2) Daulatabad lacked infrastructure, water; (3) Lost control over North-West frontier; (4) Reversed after 2 years. Both reflected visionary but impractical governance lacking administrative preparation.",
       "id": "fc-1785934792511-ava2"
     },
     {
-      "subject": "Indian Polity",
+      "subject": "Polity & Governance",
       "front": "What are the three types of majority required for constitutional amendments under Article 368, and which provisions require ratification by states?",
       "back": "Three types: (1) Simple Majority (>50% of members present & voting) - for provisions not under Art. 368 (e.g., admission of new states, creation of Legislative Councils). (2) Special Majority (2/3rd of members present & voting + majority of total membership of each House) - for most amendments (Fundamental Rights, DPSPs, etc.). (3) Special Majority + Ratification by ≥1/2 states (simple majority in state legislatures) - for 'federal provisions': Art. 54, 55, 73, 162, 241, Ch. IV of Part V, Ch. V of Part VI, Ch. I of Part XI, Seventh Schedule, representation of states in Parliament, and Art. 368 itself.",
       "id": "fc-1785935801443-57y7"
     },
     {
-      "subject": "Indian Polity",
+      "subject": "Polity & Governance",
       "front": "Explain the Basic Structure Doctrine. Which landmark cases established and expanded it? Can Parliament amend Fundamental Rights?",
       "back": "Basic Structure Doctrine: Parliament cannot amend the 'basic structure/framework' of the Constitution (Kesavananda Bharati, 1973). Key cases: (1) Shankari Prasad (1951) & Sajjan Singh (1965) - Parliament CAN amend FRs. (2) Golaknath (1967) - Parliament CANNOT amend FRs. (3) Kesavananda Bharati (1973) - Overruled Golaknath; Parliament can amend FRs but NOT basic structure. (4) Minerva Mills (1980) - Judicial review & balance between FRs & DPSPs are basic structure. (5) Waman Rao (1981) - Doctrine applies to amendments post-April 24, 1973. (6) Indira Gandhi v. Raj Narain (1975) - Free & fair elections, rule of law, judicial review added. (7) S.R. Bommai (1994) - Federalism, secularism, democracy added. Basic structure includes: Supremacy of Constitution, Republican & democratic form, Secularism, Federalism, Separation of powers, Judicial review, Rule of law, Free & fair elections, Unity & integrity of nation.",
       "id": "fc-1785935801443-mwxq"
     },
     {
-      "subject": "Indian Polity",
+      "subject": "Polity & Governance",
       "front": "Distinguish between 'Procedure Established by Law' (Art. 21) and 'Due Process of Law'. How has Indian jurisprudence evolved on this?",
       "back": "Procedure Established by Law (Art. 21): Only requires a validly enacted law; courts don't examine fairness/reasonableness (AK Gopalan, 1950). Due Process of Law (US 14th Amendment): Law must be fair, just, reasonable - courts examine substance. Evolution: (1) Maneka Gandhi (1978) - Procedure must be 'fair, just, reasonable' - not arbitrary, fanciful, oppressive. Introduced substantive due process. (2) Subsequent cases expanded: Right to life includes dignity, livelihood, health, education, clean environment, speedy trial, legal aid, privacy (Puttaswamy, 2017). Now Indian 'procedure established by law' ≈ American 'due process' in practice.",
       "id": "fc-1785935801443-a78b"
@@ -421,91 +421,91 @@
       "id": "fc-1785935883806-blmz"
     },
     {
-      "subject": "Geography - Physical",
+      "subject": "Geography",
       "front": "Describe the major discontinuities in Earth's interior and the key characteristics of each layer (crust, mantle, core).",
       "back": "Major discontinuities: (1) Conrad Discontinuity – separates upper (Sial: Si+Al, granitic) and lower (Sima: Si+Mg, basaltic) continental crust. (2) Mohorovičić (Moho) Discontinuity – crust-mantle boundary; P-wave velocity jumps from ~6 to ~8 km/s. (3) Gutenberg Discontinuity – mantle-core boundary at 2,900 km; S-waves disappear (outer core liquid). (4) Lehmann Discontinuity – inner-outer core boundary at 5,150 km; solid inner core (Fe-Ni alloy). Crust: 5-70 km thick, oceanic (thin, dense) vs continental (thick, less dense). Mantle: 2,900 km thick, upper mantle includes asthenosphere (plastic, low-velocity zone). Core: Outer core liquid (generates geomagnetic field via geodynamo), inner core solid due to pressure.",
       "id": "fc-1785936178372-sjwb"
     },
     {
-      "subject": "Geography - Physical",
+      "subject": "Geography",
       "front": "Explain the mechanism of plate tectonics: types of plate boundaries, driving forces, and associated geological features.",
       "back": "Plate boundaries: (1) Divergent (constructive) – plates move apart; mid-ocean ridges, rift valleys, basaltic volcanism, shallow earthquakes. (2) Convergent (destructive) – plates collide; three types: ocean-ocean (island arcs, deep trenches), ocean-continent (continental volcanic arcs, e.g., Andes), continent-continent (fold mountains, e.g., Himalayas). (3) Transform (conservative) – plates slide past; strike-slip faults (San Andreas), shallow earthquakes, no volcanism. Driving forces: mantle convection (ridge push, slab pull), gravitational sliding. Key evidence: seafloor spreading (magnetic stripes), paleomagnetism, earthquake/volcano distribution, hotspot tracks.",
       "id": "fc-1785936178372-hm3m"
     },
     {
-      "subject": "Geography - Physical",
+      "subject": "Geography",
       "front": "Distinguish between types of volcanoes based on eruption style and landforms. Explain the global distribution of volcanism.",
       "back": "Volcano types: (1) Shield volcano – low viscosity basaltic lava, gentle slopes, effusive (Hawaii). (2) Stratovolcano (composite) – alternating lava/pyroclasts, steep, explosive (Andes, Cascades, Fuji). (3) Cinder cone – pyroclastic fragments, small, steep. (4) Caldera – collapse after massive eruption (Yellowstone). (5) Fissure/Plateau basalt – extensive lava flows (Deccan Traps). Distribution: ~80% at convergent boundaries (Pacific Ring of Fire), ~15% at divergent boundaries (mid-ocean ridges), ~5% at intraplate hotspots (Hawaii, Réunion) due to mantle plumes.",
       "id": "fc-1785936178372-bdgd"
     },
     {
-      "subject": "Geography - Physical",
+      "subject": "Geography",
       "front": "Classify weathering processes and explain the factors controlling their intensity. Give examples of landforms produced by each type.",
       "back": "Weathering types: (1) Physical/Mechanical – disintegration without chemical change. Processes: frost wedging (tundra/high altitude → talus slopes, block fields), thermal expansion (deserts → exfoliation domes, inselbergs), salt crystallization (coastal/arid → honeycomb weathering), pressure release (batholiths → exfoliation sheets). (2) Chemical – decomposition via reactions. Processes: hydrolysis (feldspar → clay), oxidation (Fe-minerals → rust), carbonation (limestone → karst), solution. Intensified by heat, moisture, vegetation. (3) Biological – roots, lichens, burrowing. Landforms: karst (sinkholes, caves, towers), tors, laterite profiles, regolith/soil.",
       "id": "fc-1785936178372-lima"
     },
     {
-      "subject": "Geography - Physical",
+      "subject": "Geography",
       "front": "Describe the erosional and depositional landforms created by running water (fluvial), glaciers, wind (aeolian), and groundwater.",
       "back": "Fluvial: Erosional – V-valleys, waterfalls, gorges, potholes, river capture. Depositional – alluvial fans, floodplains, levees, deltas (arcuate, bird's foot), meanders, oxbow lakes. Glacial: Erosional – cirques, arêtes, horns, U-valleys, hanging valleys, fjords, roches moutonnées. Depositional – moraines (lateral, medial, terminal, ground), drumlins, eskers, kames, outwash plains. Aeolian: Erosional – mushroom rocks, yardangs, ventifacts, deflation hollows. Depositional – sand dunes (barchan, transverse, longitudinal, star), loess plains. Groundwater (karst): Erosional – sinkholes, caverns, stalactites/stalagmites, disappearing streams. Depositional – travertine terraces, tufa.",
       "id": "fc-1785936178372-5ttq"
     },
     {
-      "subject": "Geography - Physical",
+      "subject": "Geography",
       "front": "What are the key characteristics that distinguish a biome from an ecosystem, and name the five major terrestrial biomes classified by Whittaker's scheme?",
       "back": "Biome: Large-scale community of plants and animals adapted to a specific climate (temperature, precipitation) – defined by dominant vegetation type. Ecosystem: Functional unit where biotic (living) and abiotic (non-living) components interact within a defined area (energy flow, nutrient cycling). Biome encompasses multiple ecosystems. Whittaker's five major terrestrial biomes: (1) Tropical Rainforest, (2) Temperate Deciduous Forest, (3) Taiga/Boreal Forest, (4) Temperate Grassland, (5) Desert. (Tundra often added as sixth).",
       "id": "fc-1785937133800-zbwd"
     },
     {
-      "subject": "Geography - Physical",
+      "subject": "Geography",
       "front": "Explain the 10% rule in ecological pyramids. Why does energy transfer efficiency between trophic levels typically range between 5-20%?",
       "back": "10% rule (Lindeman): Only ~10% of energy at one trophic level is transferred to the next; 90% lost as heat (respiration), waste, and unconsumed biomass. Efficiency varies (5-20%) due to: (1) Assimilation efficiency (herbivores ~30-60%, carnivores ~80%), (2) Net production efficiency (endotherms low ~1-3%, ectotherms higher ~30-50%), (3) Ecological efficiency = assimilation × net production × exploitation efficiency. Low efficiency limits food chains to 4-5 trophic levels.",
       "id": "fc-1785937133800-endj"
     },
     {
-      "subject": "Geography - Physical",
+      "subject": "Geography",
       "front": "Differentiate between alpha, beta, and gamma diversity. Which diversity measure is most relevant for conservation prioritisation of protected area networks?",
       "back": "Alpha diversity: Species richness within a single homogeneous habitat/local site. Beta diversity: Rate of species turnover between habitats along a gradient (between-site diversity). Gamma diversity: Total species richness across a landscape/region (sum of alpha + beta). For protected area networks, beta diversity is most critical – it identifies complementarity between sites, ensuring maximum species representation with minimum reserves (systematic conservation planning).",
       "id": "fc-1785937133800-h6za"
     },
     {
-      "subject": "Modern History",
+      "subject": "History",
       "front": "Trace the ideological evolution of Bhagat Singh from revolutionary nationalism to Marxist socialism. Cite key writings and organisational shifts that mark this transition.",
       "back": "Early phase (1923-25): Influenced by Arya Samaj, revolutionary nationalism (HRA). Wrote 'Why I am an Atheist' (1930) rejecting religion. Turning point: Study of Marx, Lenin, Trotsky in prison (1926-29). Co-founded Hindustan Socialist Republican Association (HSRA, 1928) – added 'Socialist' to HRA. Key writings: 'Letter to Young Political Workers' (1931) advocating mass mobilisation, class struggle, and 'socialist republic'. Shifted from individual heroic action (Saunders killing, Assembly bomb) to mass-based revolutionary politics.",
       "id": "fc-1785937133800-fivg"
     },
     {
-      "subject": "Modern History",
+      "subject": "History",
       "front": "Compare the strategies of Chandrashekhar Azad and Subhas Chandra Bose (INA) for armed struggle. Why did Azad reject the INA's approach of seeking foreign military aid?",
       "back": "Azad (HSRA): Indigenous armed revolution – guerrilla warfare, targeted assassinations, propaganda by deed; self-reliance, no foreign dependence. Believed freedom won by Indians alone ensures true sovereignty. Bose (INA): Conventional military force (40,000+ troops) with Japanese support; sought Axis recognition of Provisional Government of Free India. Azad's rejection: (1) Principle of self-reliance (Swadeshi in struggle), (2) Distrust of fascist powers' intentions, (3) Fear of India becoming a Japanese puppet state. Azad died (1931) before INA formed (1942), but HSRA ideology opposed external military alliances.",
       "id": "fc-1785937133800-i250"
     },
     {
-      "subject": "Medieval History",
+      "subject": "History",
       "front": "Which Bhakti saint propounded the philosophy of 'Shuddhadvaita' (Pure Non-dualism) and what was his key contribution to the Krishna bhakti tradition?",
       "back": "Vallabhacharya (1479–1531 CE) propounded Shuddhadvaita. Key contributions: (1) Established Pushtimarg (Path of Grace) emphasizing total surrender (prapatti) to Krishna; (2) Rejected maya as illusion—world is real manifestation of Brahman; (3) Institutionalized seva (service) of Shrinathji (child Krishna) at Nathdwara; (4) Composed Subodhini, Anubhashya, and Shodash Granthas. Unlike Shankara's Advaita, he maintained distinct identity of jiva and world while affirming their non-difference from Brahman.",
       "id": "fc-1785937402664-kbv6"
     },
     {
-      "subject": "Medieval History",
+      "subject": "History",
       "front": "Compare the social impact of the Nirguna and Saguna Bhakti traditions on caste hierarchy and gender norms in medieval India.",
       "back": "Nirguna saints (Kabir, Ravidas, Dadu, Nanak): (1) Radical rejection of caste—Ravidas (chamar), Kabir (julaha) asserted spiritual equality; (2) Critiqued ritualism, idol worship, and Brahminical authority; (3) Women followers (e.g., Mira in early phase) but limited institutional roles. Saguna saints (Tulsidas, Surdas, Mirabai, Chaitanya, Narsi Mehta): (1) Operated within varna framework—Tulsidas upheld varnashrama dharma; (2) Mirabai defied patriarchal norms (widow remarriage taboo, royal restrictions); (3) Chaitanya's Gaudiya Vaishnavism allowed women in kirtan but maintained renunciant hierarchy. Overall: Nirguna more subversive; Saguna more accommodative yet created space for women's devotional expression.",
       "id": "fc-1785937402664-j6pq"
     },
     {
-      "subject": "Medieval History",
+      "subject": "History",
       "front": "How did the Bhakti Movement influence the development of regional languages and literature in medieval India? Give three specific examples.",
       "back": "(1) Marathi: Jnaneshwar's Jnaneshwari (commentary on Gita) and Namdev's abhangas established Marathi as literary language; Varkari tradition created rich corpus. (2) Hindi/Awadhi/Braj: Tulsidas's Ramcharitmanas (Awadhi) and Surdas's Sursagar (Braj) standardized these dialects; Kabir's dohas in Sadhukkadi became lingua franca. (3) Punjabi: Guru Nanak's Japji Sahib and Guru Arjan's Adi Granth (1604) laid foundation of Gurmukhi script and Punjabi literature. (4) Bengali: Chaitanya's influence produced Chaitanya Charitamrita (Krishnadas Kaviraj) and Vaishnava padavali. (5) Gujarati: Narsi Mehta's bhajans and Dayaram's garbis enriched Gujarati. Bhakti saints bypassed Sanskrit, democratizing spiritual knowledge.",
       "id": "fc-1785937402664-4qgk"
     },
     {
-      "subject": "Indian Polity",
+      "subject": "Polity & Governance",
       "front": "What are the key differences in the appointment process, tenure, and removal mechanism between the Chairperson of NHRC and the Chief Information Commissioner (CIC)?",
       "back": "NHRC Chairperson: Appointed by President on recommendation of Committee (PM, Home Minister, LS Speaker, RS Deputy Chair, Leaders of Opposition in both Houses). Tenure: 5 years or till 70 years. Removal: President on Supreme Court inquiry report for misbehaviour/incapacity. CIC: Appointed by President on recommendation of Committee (PM, LoP in LS, Union Cabinet Minister nominated by PM). Tenure: As prescribed by Central Govt (max 65 years age). Removal: Same as NHRC—President on SC inquiry. Key difference: NHRC has fixed 5-year term; CIC term determined by govt (RTI Amendment Act 2019). NHRC members need judicial/NHRC experience; CIC needs eminence in public life.",
       "id": "fc-1785937402664-k4w9"
     },
     {
-      "subject": "Indian Polity",
+      "subject": "Polity & Governance",
       "front": "Which of the following bodies have constitutional status and which are statutory? NHRC, NCW, NCSC, NCST, CIC.",
       "back": "Constitutional bodies (under Constitution): NCSC (Art. 338), NCST (Art. 338A). Statutory bodies (under Acts of Parliament): NHRC (Protection of Human Rights Act, 1993), NCW (National Commission for Women Act, 1990), CIC (RTI Act, 2005). Implications: Constitutional bodies have greater autonomy—removal only by President on SC inquiry; Parliament cannot abolish them without Constitutional Amendment. Statutory bodies can be amended/abolished by simple majority; appointment/tenure governed by respective Acts (RTI Amendment 2019 altered CIC tenure). NCSC/NCST also have powers of civil court; NHRC has recommendatory powers only.",
       "id": "fc-1785937402664-41i7"
@@ -541,19 +541,19 @@
       "id": "fc-1785938106607-g9od"
     },
     {
-      "subject": "Environment",
+      "subject": "Environment & Ecology",
       "front": "What are the four overarching goals and 23 action-oriented targets of the Kunming-Montreal Global Biodiversity Framework (GBF), and what is the significance of the '30x30' target?",
       "back": "The Kunming-Montreal GBF (adopted at CBD COP15, 2022) has 4 goals for 2050: (A) Enhance ecosystem integrity/connectivity; (B) Sustainable use of biodiversity; (C) Fair benefit-sharing from genetic resources/Digital Sequence Information (DSI); (D) Adequate means of implementation (finance, capacity, tech transfer).\n\n23 targets for 2030 include:\n- Target 1: Spatial planning to bring biodiversity loss close to zero\n- Target 2: Restore 30% degraded ecosystems\n- **Target 3 (30x30): Effectively conserve 30% terrestrial, inland water, coastal & marine areas** through ecologically representative, well-connected Protected Areas (PAs) and Other Effective area-based Conservation Measures (OECMs), recognizing indigenous rights\n- Target 7: Reduce pollution risks (pesticides, plastics, nutrients) by half\n- Target 18: Phase out/reform harmful subsidies ($500B/yr by 2030)\n- Target 19: Mobilize $200B/yr biodiversity finance; $20B/yr by 2025, $30B/yr by 2030 to developing countries\n\nIndia updated its Na...",
       "id": "fc-1785997037999-78xd"
     },
     {
-      "subject": "Environment",
+      "subject": "Environment & Ecology",
       "front": "How does India's National Biodiversity Action Plan (NBAP) 2024-2030 align with the Kunming-Montreal GBF, and what are its key focus areas?",
       "back": "India's NBAP 2024-2030 (updated from 2008 version) translates 23 GBF targets into **24 National Biodiversity Targets (NBTs)** under 5 strategic themes:\n1. **Reducing threats**: Mainstreaming biodiversity, spatial planning, ecosystem restoration, species recovery, sustainable harvest, invasive species control, pollution reduction, climate resilience\n2. **Meeting people's needs**: Sustainable agriculture/fisheries/forestry, urban green spaces, benefit-sharing (ABS), traditional knowledge protection\n3. **Tools & solutions**: Biodiversity finance (Resource Mobilization Strategy), capacity building, technology transfer, knowledge management\n4. **Mainstreaming**: Sectoral integration (agriculture, fisheries, tourism, infrastructure), corporate accountability\n5. **Implementation**: Whole-of-government & whole-of-society approach; Biodiversity Management Committees (BMCs) at local level; People's Biodiversity Registers (PBRs)\n\nKey innovations: Integration with Mission LiFE, Green Credit Progra...",
       "id": "fc-1785997037999-y80q"
     },
     {
-      "subject": "Environment",
+      "subject": "Environment & Ecology",
       "front": "Distinguish between Protected Areas (PAs) and Other Effective area-based Conservation Measures (OECMs) in the context of the 30x30 target. How does India recognize OECMs?",
       "back": "**Protected Areas (PAs)**: Legally designated areas (National Parks, Wildlife Sanctuaries, Conservation Reserves, Community Reserves under Wildlife Protection Act, 1972) with primary objective of biodiversity conservation. Managed by State Forest Departments.\n\n**OECMs**: Geographically defined areas **not primarily managed for conservation** but delivering effective in-situ biodiversity conservation as a by-product. Governed by diverse actors (communities, private, government agencies). Criteria: (1) Not a PA; (2) Managed for long-term; (3) Effective conservation outcomes; (4) Governance equity.\n\n**India's OECM recognition**: MoEFCC released guidelines (2023) identifying 14 categories:\n- Sacred groves/community conserved areas\n- Biodiversity Heritage Sites (Biological Diversity Act)\n- Eco-sensitive Zones (beyond PA boundaries)\n- Private conservation reserves\n- Defense/Paramilitary areas with biodiversity value\n- Industrial estates with green belts\n- Urban biodiversity parks\n- Wetlands (Ramsar sites outside PAs)\n- Coastal regulation zone areas\n- Agricultural biodiversity hotspots\n\nAs of 2024, India has ~5.7% land under PAs; OECMs critical to achieve 30x30. National Biodiversity Authority maintains OECM registry.",
       "id": "fc-1785997037999-mk8n"
@@ -589,19 +589,19 @@
       "id": "fc-1785997067917-1gaq"
     },
     {
-      "subject": "Environment",
+      "subject": "Environment & Ecology",
       "front": "What are the targets and city coverage under the National Clean Air Programme (NCAP)?",
       "back": "NCAP (launched Jan 2019 by MoEFCC) targets: 20-30% reduction in PM10 and PM2.5 concentrations by 2024 (base year 2017), later extended to 40% by 2025-26. Covers 131 non-attainment cities (NACs) - cities violating NAAQS consecutively for 5 years. City-specific action plans prepared by SPCBs/ULBs; funding: ₹10,422 cr (2019-24) + XV Finance Commission grants (₹12,139 cr for 42 million-plus cities). Monitoring: PM10/PM2.5 via CAAQMS; PRANA portal tracks progress. Key sectors: vehicular, industrial, biomass burning, construction/dust, waste burning. Mid-term review (2023): 95 cities showed PM10 reduction; 18 cities met NAAQS.",
       "id": "fc-1785997067917-lms1"
     },
     {
-      "subject": "Environment",
+      "subject": "Environment & Ecology",
       "front": "Explain GRAP stages for Delhi-NCR and key measures under BS-VI norms for vehicular pollution control.",
       "back": "GRAP (Graded Response Action Plan) - 4 stages based on AQI: Stage I (Poor, 201-300): stop construction/demolition >500 sqm, mechanized sweeping, ban on DG sets (except essential). Stage II (Very Poor, 301-400): enhance parking fees, augment CNG/electric buses, ban coal/firewood in hotels. Stage III (Severe, 401-450): ban BS-III petrol/BS-IV diesel 4-wheelers, close stone crushers/mining, WFH for 50% govt staff. Stage IV (Severe+, >450): ban all 4-wheelers (except EVs/CNG/BS-VI), close schools, odd-even for private vehicles.\n\nBS-VI norms (April 2020): PM limit 4.5 mg/km (vs 25 mg/km BS-IV for diesel); NOx limit 60 mg/km (vs 250 mg/km); PN (particle number) limit 6×10¹¹/km; mandatory OBD-II, RDE testing; 10 ppm sulphur fuel. For petrol: NOx 60 mg/km (vs 80 mg/km). Reduced emissions ~80-90% for PM/NOx vs BS-IV.",
       "id": "fc-1785997067917-6j4r"
     },
     {
-      "subject": "Environment",
+      "subject": "Environment & Ecology",
       "front": "What is the distinction between Protected Areas (PAs) and Other Effective Area-based Conservation Measures (OECMs) under the 30x30 target, and how does India report these?",
       "back": "PAs: Legally designated areas (National Parks, Wildlife Sanctuaries, Conservation Reserves, Community Reserves) under Wildlife Protection Act, 1972, primarily for biodiversity conservation. OECMs: Geographically defined areas not primarily for conservation but delivering effective in-situ biodiversity conservation (e.g., sacred groves, biodiversity heritage sites, community conserved areas, defense areas, industrial estates with biodiversity plans). India has 1,014 PAs (5.43% land area) and has identified 14 OECM categories. Reporting to CBD via World Database on Protected Areas (WDPA) and World Database on OECMs. India's 30x30 strategy includes expanding PA network, recognizing OECMs, and corridor connectivity.",
       "id": "fc-1786000535377-l70r"
@@ -613,31 +613,31 @@
       "id": "fc-1786000535377-n8cu"
     },
     {
-      "subject": "Economy",
+      "subject": "Economics",
       "front": "What is vertical devolution in fiscal federalism? How has the share of states in the divisible pool of taxes changed from the 14th to the 15th Finance Commission?",
       "back": "Vertical devolution refers to the share of net proceeds of Union taxes (divisible pool) allocated to states collectively. The 14th Finance Commission (2015-20) recommended 42% devolution (up from 32% by 13th FC). The 15th Finance Commission (2021-26) maintained 41% (1% retained for J&K and Ladakh UTs). The divisible pool excludes cesses and surcharges, which are not shared with states. This has led to a declining share of states in gross tax revenue despite higher devolution percentage, as cesses/surcharges have grown significantly.",
       "id": "fc-1786000830999-7ksl"
     },
     {
-      "subject": "Economy",
+      "subject": "Economics",
       "front": "Distinguish between cess and surcharge. Why does the increasing reliance on cesses and surcharges undermine fiscal federalism?",
       "back": "Cess is a tax levied for a specific purpose (e.g., Health & Education Cess, GST Compensation Cess) and its proceeds are earmarked for that purpose. Surcharge is an additional charge on existing tax (e.g., income tax surcharge on high earners) and goes to the Consolidated Fund of India for general use. Both are excluded from the divisible pool. Rising share of cesses/surcharges in gross tax revenue (from ~10% in 2011-12 to ~20% in 2023-24) reduces the divisible pool, effectively reducing states' share despite Finance Commission recommendations. This violates the spirit of fiscal federalism by giving Centre unilateral revenue-raising power.",
       "id": "fc-1786000830999-sg4e"
     },
     {
-      "subject": "Economy",
+      "subject": "Economics",
       "front": "Explain the GST compensation mechanism. What was the 'revenue gap' issue during 2020-22 and how was it resolved?",
       "back": "Under GST (Compensation to States) Act, 2017, states were guaranteed 14% annual revenue growth (base year 2015-16) for 5 years (till June 2022). Shortfall was funded by GST Compensation Cess on sin/luxury goods. During COVID (2020-22), cess collections crashed, creating a revenue gap. Centre initially refused to borrow on behalf of states. Resolution: Centre borrowed ₹1.1 lakh crore (2020-21) and ₹1.59 lakh crore (2021-22) via special window, passed to states as back-to-back loans (not counted in states' fiscal deficit). Cess collection extended till March 2026 to repay this borrowing.",
       "id": "fc-1786000830999-smv0"
     },
     {
-      "subject": "Economy",
+      "subject": "Economics",
       "front": "What are the key differences between Government Securities (G-Secs), Treasury Bills (T-Bills), and State Development Loans (SDLs)?",
       "back": "G-Secs: Long-term debt instruments (dated securities) issued by Centre, tenure 5-40 years, pay semi-annual coupon. T-Bills: Short-term money market instruments issued by Centre, tenures 91-day, 182-day, 364-day, issued at discount, redeemed at par (zero-coupon). SDLs: Dated securities issued by State Governments to fund fiscal deficit, similar structure to G-Secs but carry slightly higher yield due to credit risk. All are sovereign guaranteed (SDLs by Centre under Article 293). G-Secs and SDLs are traded on NDS-OM; T-Bills on NDS-Call. FPIs can invest in all three under specified limits.",
       "id": "fc-1786000830999-ml4u"
     },
     {
-      "subject": "Economy",
+      "subject": "Economics",
       "front": "What is the yield curve? Explain the recent bond market reforms in India including the Fully Accessible Route (FAR) and inclusion in global bond indices.",
       "back": "Yield curve plots yields of bonds of same credit quality but different maturities. Normal: upward sloping (long-term > short-term). Inverted: short-term > long-term (recession signal). Flat: transition phase. Key reforms: (1) Fully Accessible Route (FAR), 2020: Allows non-residents to invest in specified G-Secs without investment limits. (2) JPMorgan GBI-EM inclusion (June 2024): 23 FAR-eligible G-Secs (~$330 bn) included, expected $20-25 bn inflows. (3) Bloomberg Index inclusion (Jan 2025). (4) RBI's Retail Direct Scheme (2021): Direct G-Sec access for retail investors. (5) NDS-OM enhancements, T+1 settlement. Reforms aim to deepen bond market, diversify investor base, lower borrowing costs.",
       "id": "fc-1786000830999-6ivt"
@@ -661,13 +661,13 @@
       "id": "fc-1786002249279-fhsi"
     },
     {
-      "subject": "Environment",
+      "subject": "Environment & Ecology",
       "front": "What are the key goals and targets of the Kunming-Montreal Global Biodiversity Framework (GBF)? Explain the '30x30' target and its implications for India.",
       "back": "The Kunming-Montreal Global Biodiversity Framework (GBF) was adopted at CBD COP15 (Dec 2022) with 4 long-term goals for 2050 and 23 action-oriented targets for 2030.\n\n4 Goals (2050): (A) Ecosystem integrity/connectivity; (B) Sustainable use of biodiversity; (C) Fair benefit-sharing (Nagoya Protocol); (D) Means of implementation (finance, capacity, technology).\n\nKey 2030 Targets:\n- Target 1: Spatial planning to reduce biodiversity loss\n- Target 2: Restore 30% degraded ecosystems\n- Target 3: **30x30** – Conserve 30% land, waters, seas through protected areas (PAs) and OECMs\n- Target 4: Halt species extinction, recover threatened species\n- Target 7: Reduce pollution (pesticides, plastics, nutrients)\n- Target 10: Sustainable agriculture/aquaculture/forestry\n- Target 19: Mobilize $200B/year; $30B/year international finance to developing countries\n\n30x30 Target (Target 3): Effectively conserve and manage ≥30% of terrestrial, inland water, coastal and marine areas by 2030 through ecologically representative, well-connected systems of PAs and Other Effective area-based Conservation Measures (OECMs), recognizing indigenous territories.\n\nImplications for India: India currently has ~22% terrestrial (PAs ~5.28%, plus community reserves, conservation reserves) and ~0.3% marine area under protection. Achieving 30x30 requires: (a) Expanding PA network; (b) Recognizing OECMs (sacred groves, community conserved areas, biodiversity heritage sites); (c) Integrating biodiversity in sectoral policies; (d) Enhanced finance – India advocated for $100B/year global biodiversity fund at COP15.",
       "id": "fc-1786002249279-l3uz"
     },
     {
-      "subject": "Environment",
+      "subject": "Environment & Ecology",
       "front": "Discuss India's National Biodiversity Action Plan (NBAP) and its alignment with the Kunming-Montreal GBF. What are the key focus areas and implementation mechanisms?",
       "back": "India's National Biodiversity Action Plan (NBAP) was first prepared in 2008 (aligned with CBD 2010 targets) and updated in 2014 (Addendum) for 2011-2020 Aichi Targets. A post-2020 NBAP aligned with Kunming-Montreal GBF is under finalization.\n\nCurrent NBAP (2014 Addendum) – 12 National Biodiversity Targets (NBTs) mapped to Aichi Targets:\n1. Biodiversity awareness\n2. Biodiversity values integrated in planning\n3. Incentives reformed\n4. Sustainable production/consumption\n5. Habitat loss halved\n6. Sustainable fisheries\n7. Sustainable agriculture\n8. Pollution reduced\n9. Invasive species managed\n10. Climate change impacts minimized\n11. Protected areas expanded (17% terrestrial, 10% marine)\n12. Species extinction prevented\n\nAlignment with GBF: The updated NBAP (expected 2024-25) will map 12 NBTs to 23 GBF targets, adding: 30x30 (Target 3), restoration (Target 2), pollution halving (Target 7), $200B finance (Target 19), gender equality (Target 23).\n\nImplementation Mechanisms:\n- National Level: National Biodiversity Authority (NBA) – nodal agency\n- State Level: State Biodiversity Boards (SBBs) – State Biodiversity Action Plans (SBAPs)\n- Local Level: Biodiversity Management Committees (BMCs) – People's Biodiversity Registers (PBRs)\n- Legal Framework: Biological Diversity Act, 2002 (amended 2023) – access & benefit sharing (ABS), threatened species protection\n- Finance: National/State Biodiversity Funds; CAMPA; Green Credit Programme; International finance (GEF, GCF).",
       "id": "fc-1786002249279-rv38"
@@ -685,19 +685,19 @@
       "id": "fc-1786002472817-ammr"
     },
     {
-      "subject": "Environment",
+      "subject": "Environment & Ecology",
       "front": "What are the targets under the National Clean Air Programme (NCAP) and how does the Graded Response Action Plan (GRAP) for Delhi-NCR operate across its four stages?",
       "back": "NCAP (launched 2019): Target — 40% reduction in PM10/PM2.5 by 2025-26 (base 2017), covering 131 non-attainment cities. City-specific action plans, monitoring, source apportionment. GRAP (CAQM, 2021): Stage I (AQI Poor 201-300) — ban on coal/firewood, strict dust control. Stage II (Very Poor 301-400) — enhance parking fees, augment public transport, DG set restrictions. Stage III (Severe 401-450) — ban on construction, BS-III petrol/BS-IV diesel 4-wheelers, brick kilns. Stage IV (Severe+ >450) — ban on non-essential trucks, 4-wheelers (odd-even), work-from-home advisory.",
       "id": "fc-1786002472817-ijgh"
     },
     {
-      "subject": "Environment",
+      "subject": "Environment & Ecology",
       "front": "What are the key technological and policy solutions promoted to address stubble burning in Punjab, Haryana, and Uttar Pradesh?",
       "back": "In-situ: Happy Seeder, Super SMS, Paddy Straw Chopper, Mulcher, Rotavator — incorporate residue into soil (subsidized 50-80% under CRM scheme). Ex-situ: Biomass power plants, 2G ethanol (e.g., Panipat), compressed biogas (SATAT), pelletization for co-firing in thermal plants (NTPC mandate 5-10% biomass). Policy: Crop diversification (Maize, Cotton, Pulses via MSP assurance), direct seeding of rice (DSR) to advance harvest, ex-gratia cash incentive (₹2,500/acre in Punjab/Haryana), PUSA Decomposer (microbial spray). Monitoring via satellite (ICAR/NASA).",
       "id": "fc-1786002472817-z5o4"
     },
     {
-      "subject": "Environment",
+      "subject": "Environment & Ecology",
       "front": "Compare BS-IV and BS-VI emission norms for diesel and petrol vehicles. What technological changes were mandated for the leapfrog from BS-IV to BS-VI in 2020?",
       "back": "BS-VI (2020) vs BS-IV (2017): PM limit — diesel: 4.5 mg/km (BS-VI) vs 25 mg/km (BS-IV), 80% cut; NOx — diesel: 80 mg/km vs 250 mg/km, 68% cut; petrol: 60 mg/km vs 80 mg/km. PN (particle number) limit introduced: 6×10¹¹/km (diesel & direct-injection petrol). Technologies: Diesel — DPF (Diesel Particulate Filter), LNT/SCR (Selective Catalytic Reduction with AdBlue/urea), advanced EGR. Petrol — GPF (Gasoline Particulate Filter) for GDI engines, improved three-way catalysts. On-board diagnostics (OBD-II) mandatory. Fuel: 10 ppm sulphur (vs 50 ppm). Leapfrogged BS-V entirely.",
       "id": "fc-1786002472817-ybvs"
@@ -793,19 +793,19 @@
       "id": "fc-1786007992185-dz8u"
     },
     {
-      "subject": "Environment",
+      "subject": "Environment & Ecology",
       "front": "What are the key mechanisms under Article 6 of the Paris Agreement, and how do they differ from the Kyoto Protocol's Clean Development Mechanism (CDM)?",
       "back": "Article 6 establishes three voluntary cooperation mechanisms: (1) Article 6.2 — Cooperative Approaches: Allows bilateral/regional transfer of mitigation outcomes (ITMOs) with corresponding adjustments to avoid double counting; no central UN oversight. (2) Article 6.4 — Mechanism: Successor to CDM, supervised by a UN body; generates A6.4ERs (emission reductions) with mandatory corresponding adjustments and share of proceeds for adaptation. (3) Article 6.8 — Non-Market Approaches: Framework for cooperation without carbon markets (e.g., technology transfer, capacity building). Key differences from CDM: mandatory corresponding adjustments (no double counting), overall mitigation in global emissions (OMGE) requirement, stronger sustainability safeguards, and transition of CDM projects subject to host country approval.",
       "id": "fc-1786011535954-7x8l"
     },
     {
-      "subject": "Environment",
+      "subject": "Environment & Ecology",
       "front": "Explain the Loss and Damage Fund established at COP27 and operationalized at COP28. What are its governance structure, funding sources, and eligibility criteria?",
       "back": "The Loss and Damage Fund (LDF) was established at COP27 (Sharm El-Sheikh) and operationalized at COP28 (Dubai). Governance: Hosted by World Bank as interim trustee (4 years); governed by a 26-member Board (12 developed, 14 developing countries); independent secretariat. Funding: Voluntary contributions from developed countries and others 'in a position to do so'; innovative sources encouraged (levies, taxes). No mandatory assessed contributions. Eligibility: All developing countries 'particularly vulnerable' to climate change; access via National Designated Authorities; focus on economic and non-economic losses (slow-onset events, extreme weather). Key principle: Not liability/compensation (per Decision 2/CP.27). Initial pledges ~$700M (UAE, Germany, EU, UK, US, Japan).",
       "id": "fc-1786011535954-kx96"
     },
     {
-      "subject": "Environment",
+      "subject": "Environment & Ecology",
       "front": "What is the Global Stocktake (GST) under the Paris Agreement? Describe its process, components, and the key outcomes of the first GST at COP28.",
       "back": "Global Stocktake (Article 14) is a 5-yearly collective assessment of progress toward Paris goals (mitigation, adaptation, finance). Process: Three phases — (1) Information collection (IPCC reports, Party submissions), (2) Technical assessment (structured expert dialogues), (3) Consideration of outputs (political phase at COP). First GST concluded at COP28 (Dubai) with 'UAE Consensus'. Key outcomes: (a) Mitigation: Call to 'transition away from fossil fuels in energy systems' (first explicit mention), triple renewables & double energy efficiency by 2030, accelerate zero/low-emission tech. (b) Adaptation: Framework for Global Goal on Adaptation (GGA) with targets on water, health, ecosystems. (c) Finance: Urge developed countries to double adaptation finance by 2025; new collective quantified goal (NCQG) post-2025. (d) Loss & Damage: Operationalize fund. Next GST: 2028.",
       "id": "fc-1786011535954-58b3"
