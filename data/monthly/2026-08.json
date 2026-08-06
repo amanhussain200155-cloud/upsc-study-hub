@@ -9,27 +9,12 @@
       "tier": 1,
       "date": "2026-08-05T11:23:51.000Z",
       "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-budget-2026-finance-minister-n-marie-wilson-present-tvk-government-maiden-financial-plan-live-updates-august-5-2026/article71307860.ece",
-      "subject": "International Relations",
+      "subject": "Economy",
       "secondarySubject": "Economy",
       "tags": [
         "International Relations"
       ],
       "relevanceScore": 2
-    },
-    {
-      "id": "ca-1785929470904-wygarx",
-      "title": "Parliament Monsoon Session Day 13 LIVE: Rajya Sabha clears SC Judges' Bill; Lok Sabha adjourned for the day",
-      "content": "Lok Sabha passes the Bankers’ Books Evidence Bill without debate; Kiren Rijiju hits out at Opposition protests over Ram Temple donations 'scam'",
-      "source": "The Hindu (National)",
-      "tier": 1,
-      "date": "2026-08-05T11:15:04.000Z",
-      "link": "https://www.thehindu.com/news/national/parliament-monsoon-session-lok-sabha-rajya-sabha-day-13-live-updates-bankers-books-evidence-bill-taxation-amendment-bill-august-5-2026/article71307974.ece",
-      "subject": "Polity & Governance",
-      "secondarySubject": "Environment & Ecology",
-      "tags": [
-        "Polity & Governance"
-      ],
-      "relevanceScore": 3
     },
     {
       "id": "ca-1785929470904-u4vgrj",
@@ -55,7 +40,7 @@
       "tier": 1,
       "date": "2026-08-05T10:51:37.000Z",
       "link": "https://www.thehindu.com/news/national/telangana/telangana-rolls-out-ai-powered-emergency-number-112-slashes-response-time/article71308963.ece",
-      "subject": "International Relations",
+      "subject": "Science & Technology",
       "secondarySubject": "Environment & Ecology",
       "tags": [
         "International Relations"
@@ -104,21 +89,6 @@
       "secondarySubject": "Security & Defense",
       "tags": [
         "International Relations",
-        "Security & Defense"
-      ],
-      "relevanceScore": 2
-    },
-    {
-      "id": "ca-1785929470929-294omu",
-      "title": "Russian missile and drone barrage in Ukrainian capital region kills 15",
-      "content": "The attack was the latest in a series of large-scale Russian ballistic missile strikes that have become near-routine this summer",
-      "source": "The Hindu (International)",
-      "tier": 1,
-      "date": "2026-08-05T07:21:55.000Z",
-      "link": "https://www.thehindu.com/news/international/russian-missile-drone-barrage-in-kyiv-kills-several-august-5-2026/article71308514.ece",
-      "subject": "Security & Defense",
-      "secondarySubject": "Science & Technology",
-      "tags": [
         "Security & Defense"
       ],
       "relevanceScore": 2
@@ -197,21 +167,6 @@
         "International Relations"
       ],
       "relevanceScore": 3
-    },
-    {
-      "id": "ca-1785929471027-jfg4sv",
-      "title": "Parliament Monsoon Session Day 13 Live: Opp walks out of Rajya Sabha amid debate over Bill to increase SC judges",
-      "content": "",
-      "source": "Indian Express (India)",
-      "tier": 1,
-      "date": "2026-08-05T03:31:52.000Z",
-      "link": "https://indianexpress.com/article/india/parliament-monsoon-session-live-updates-lok-sabha-to-take-up-bankers-books-evidence-bill-taxation-amendment-bill-fcra-10818340/",
-      "subject": "Polity & Governance",
-      "secondarySubject": "Environment & Ecology",
-      "tags": [
-        "Polity & Governance"
-      ],
-      "relevanceScore": 2
     },
     {
       "id": "ca-1785929471027-b247nk",
@@ -499,36 +454,6 @@
       "relevanceScore": 2
     },
     {
-      "id": "ca-1785930225179-c0huke",
-      "title": "Parliament Monsoon Session Day 13 Live: Rajya Sabha adjourned for day after passing Bill to increase SC judges",
-      "content": "",
-      "source": "Indian Express (India)",
-      "tier": 1,
-      "date": "2026-08-05T03:31:52.000Z",
-      "link": "https://indianexpress.com/article/india/parliament-monsoon-session-live-updates-lok-sabha-to-take-up-bankers-books-evidence-bill-taxation-amendment-bill-fcra-10818340/",
-      "subject": "Polity & Governance",
-      "secondarySubject": "Environment & Ecology",
-      "tags": [
-        "Polity & Governance"
-      ],
-      "relevanceScore": 2
-    },
-    {
-      "id": "ca-1785930827787-wf5fe2",
-      "title": "Parliament Monsoon Session Day 13 highlights: Rajya Sabha clears SC Judges' Bill; Lok Sabha adjourned for the day",
-      "content": "Lok Sabha passes the Bankers’ Books Evidence Bill without debate; Kiren Rijiju hits out at Opposition protests over Ram Temple donations 'scam'",
-      "source": "The Hindu (National)",
-      "tier": 1,
-      "date": "2026-08-05T11:40:49.000Z",
-      "link": "https://www.thehindu.com/news/national/parliament-monsoon-session-lok-sabha-rajya-sabha-day-13-live-updates-bankers-books-evidence-bill-taxation-amendment-bill-august-5-2026/article71307974.ece",
-      "subject": "Polity & Governance",
-      "secondarySubject": "Environment & Ecology",
-      "tags": [
-        "Polity & Governance"
-      ],
-      "relevanceScore": 3
-    },
-    {
       "id": "ca-1785931913996-qmm83k",
       "title": "China announces ‘countermeasures’ after U.S. trade sanctions",
       "content": "Beijing’s measures include suspending factory follow-up inspections by Chinese certification bodies, blacklisting U.S. compliance testing companies, and launching national security investigations into imports of office printers and copiers, according to the Commerce Ministry",
@@ -621,21 +546,6 @@
       "relevanceScore": 2
     },
     {
-      "id": "ca-1785935952969-1ajf5h",
-      "title": "Supersede BCC if it doesn't pass resolution supporting Mahajan commission: Vatal Nagaraj",
-      "content": "He says that Kannada organisations have decided to go ahead with the Karnataka bandh on August 13 against releasing water to Tamil Nadu, despite the appeal by Chief Minister D.K. Shivakumar and other leaders to not do so.",
-      "source": "The Hindu (National)",
-      "tier": 1,
-      "date": "2026-08-05T13:15:38.000Z",
-      "link": "https://www.thehindu.com/news/national/karnataka/supersede-bcc-if-it-doesnt-pass-resolution-supporting-mahajan-commission-vatal-nagaraj/article71309150.ece",
-      "subject": "Polity & Governance",
-      "secondarySubject": "History & Culture",
-      "tags": [
-        "Polity & Governance"
-      ],
-      "relevanceScore": 2
-    },
-    {
       "id": "ca-1785935952969-aw5eez",
       "title": "Top official reviews Independence Day arrangements at Parade Grounds in Amaravati",
       "content": "Emphasising inter-departmental coordination, Syamala Rao says that all agencies should work in close coordination to ensure smooth and successful conduct of the celebrations",
@@ -643,7 +553,7 @@
       "tier": 1,
       "date": "2026-08-05T13:13:10.000Z",
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/top-official-reviews-independence-day-arrangements-at-parade-grounds-in-amaravati/article71309131.ece",
-      "subject": "History & Culture",
+      "subject": "Polity & Governance",
       "secondarySubject": null,
       "tags": [
         "History & Culture"
@@ -680,36 +590,6 @@
         "Environment & Ecology"
       ],
       "relevanceScore": 2
-    },
-    {
-      "id": "ca-1785943603497-g7n1xw",
-      "title": "Jagan has no moral right to speak about tobacco farmers’ plight, says MP Sana Satish",
-      "content": "The coalition government has stood by the farmers from seed to sale, despite challenges arising from the global tobacco market, he says",
-      "source": "The Hindu (National)",
-      "tier": 1,
-      "date": "2026-08-05T15:14:01.000Z",
-      "link": "https://www.thehindu.com/news/national/andhra-pradesh/jagan-has-no-moral-right-to-speak-about-tobacco-farmers-plight-says-mp-sana-satish/article71309798.ece",
-      "subject": "Economy",
-      "secondarySubject": "Geography",
-      "tags": [
-        "Economy"
-      ],
-      "relevanceScore": 2
-    },
-    {
-      "id": "ca-1785943603497-icbwpy",
-      "title": "CJP backs Jharkhand students’ protest, will work as a pressure group: Dipke",
-      "content": "Abhijieet Dipke says people have “lost faith” in institutions and the credibility of the judiciary, the media and the Election Commission has been eroded",
-      "source": "The Hindu (National)",
-      "tier": 1,
-      "date": "2026-08-05T15:14:00.000Z",
-      "link": "https://www.thehindu.com/news/national/cjp-meeting-updates-abhijeet-dipke-jharkhand-protests-pressure-group/article71308582.ece",
-      "subject": "Polity & Governance",
-      "secondarySubject": null,
-      "tags": [
-        "Polity & Governance"
-      ],
-      "relevanceScore": 4
     },
     {
       "id": "ca-1785943603498-sfhrik",
@@ -779,40 +659,10 @@
       "tier": 1,
       "date": "2026-08-05T15:23:46.000Z",
       "link": "https://www.thehindu.com/news/national/kerala/kerala-govt-sanctions-312-cr-more-for-addressing-imbalance-in-urban-rural-allocation/article71310036.ece",
-      "subject": "International Relations",
+      "subject": "Polity & Governance",
       "secondarySubject": null,
       "tags": [
         "International Relations"
-      ],
-      "relevanceScore": 2
-    },
-    {
-      "id": "ca-1785960000244-vvaiq1",
-      "title": "Rijiju meets Rahul in bid to end Parliament logjam",
-      "content": "Parliamentary Affairs Minister says there is no proposal to hold Special Session to push through women’s quota and delimitation Bills; Cong. presses for Shah’s statement, debate on donation row",
-      "source": "The Hindu (National)",
-      "tier": 1,
-      "date": "2026-08-05T18:52:54.000Z",
-      "link": "https://www.thehindu.com/news/national/rijiju-meets-rahul-in-bid-to-end-parliament-logjam/article71310184.ece",
-      "subject": "Polity & Governance",
-      "secondarySubject": null,
-      "tags": [
-        "Polity & Governance"
-      ],
-      "relevanceScore": 2
-    },
-    {
-      "id": "ca-1785960000244-l6gnsa",
-      "title": "Bihar Governor appoints Upendra Kushwaha’s son Deepak Prakash as MLC",
-      "content": "BJP MLC Devesh Kumar resigned after the Supreme Court asked the Bihar government how Prakash could remain an unelected Minister even after six months in office",
-      "source": "The Hindu (National)",
-      "tier": 1,
-      "date": "2026-08-05T18:14:07.000Z",
-      "link": "https://www.thehindu.com/news/national/bihar/bihar-governor-appoints-upendra-kushwahas-son-deepak-prakash-as-mlc/article71310651.ece",
-      "subject": "Polity & Governance",
-      "secondarySubject": null,
-      "tags": [
-        "Polity & Governance"
       ],
       "relevanceScore": 2
     },
@@ -832,21 +682,6 @@
       "relevanceScore": 3
     },
     {
-      "id": "ca-1785996894102-zuss31",
-      "title": "Parliament Monsoon Session Day 14 LIVE: Lok Sabha pays homage to Hiroshima-Nagasaki atomic bombing victims; Opposition continues protest in Rajya Sabha",
-      "content": "Lok Sabha adjourned till 2 p.m.; Nirmala Sitharaman to move Taxation and Other Laws (Amendment) Bill in Lok Sabha",
-      "source": "The Hindu (National)",
-      "tier": 1,
-      "date": "2026-08-06T06:06:30.000Z",
-      "link": "https://www.thehindu.com/news/national/parliament-monsoon-session-day-14-nirmala-sitharaman-to-move-taxation-and-other-laws-amendment-bill-in-lok-sabha-rajya-sabha-live-updates-august-6-2026/article71312092.ece",
-      "subject": "Polity & Governance",
-      "secondarySubject": "Environment & Ecology",
-      "tags": [
-        "Polity & Governance"
-      ],
-      "relevanceScore": 4
-    },
-    {
       "id": "ca-1785996894102-m7kkkq",
       "title": "On day of Agriculture Budget, DMK MLAs wear black over TVK-led government’s ‘failure’ on Cauvery issue",
       "content": "The Agri Budget was presented by Minister R. Vinoth, who waxed eloquent about Chief Minister C. Joseph Vijay and the TVK government",
@@ -862,21 +697,6 @@
       "relevanceScore": 2
     },
     {
-      "id": "ca-1785996894103-fxjirz",
-      "title": "Karnataka: Kodagu district receives below-normal rainfall; Minister hopeful of rains in August",
-      "content": "Kodagu district is considered to be the primary catchment for KRS reservoir, which is the lifeline of Mysuru and Mandya districts, providing irrigation to thousands of acres of farmland and drinking water for the region, including Bengaluru",
-      "source": "The Hindu (National)",
-      "tier": 1,
-      "date": "2026-08-06T05:59:36.000Z",
-      "link": "https://www.thehindu.com/news/national/karnataka/karnataka-rain-kodagu-district-receives-below-normal-rainfall-minister-hopeful-of-rains-in-august/article71312022.ece",
-      "subject": "Geography",
-      "secondarySubject": null,
-      "tags": [
-        "Geography"
-      ],
-      "relevanceScore": 2
-    },
-    {
       "id": "ca-1785996894103-sb6yev",
       "title": "T.N. Agriculture Budget | Contingency plans drawn up for districts to cope with Super El Niño impacts: Minister",
       "content": "Presenting the Agriculture Budget in the Assembly, R. Vinoth said while severe climatic impacts were anticipated across the country during the current year, particularly in the Kuruvai season, 12 districts in Tamil Nadu were expected to be severely affected",
@@ -886,21 +706,6 @@
       "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-agriculture-budget-contingency-plans-drawn-up-for-districts-to-cope-with-super-el-nino-impacts-minister/article71312267.ece",
       "subject": "Economy",
       "secondarySubject": "Polity & Governance",
-      "tags": [
-        "Economy"
-      ],
-      "relevanceScore": 2
-    },
-    {
-      "id": "ca-1785996894103-dpzu99",
-      "title": "Out of work and outraged",
-      "content": "While the immediate trigger for the students’ protest at Jantar Mantar was the repeated paper leaks, disillusionment among the youth runs much deeper. India has a significant youth population; however, unemployment remains high. Additionally, access to quality education has become limited due to a number of factors",
-      "source": "The Hindu (National)",
-      "tier": 1,
-      "date": "2026-08-06T05:41:10.000Z",
-      "link": "https://www.thehindu.com/education/out-of-work-and-outraged/article71306838.ece",
-      "subject": "Economy",
-      "secondarySubject": "Geography",
       "tags": [
         "Economy"
       ],
@@ -997,21 +802,6 @@
       "relevanceScore": 2
     },
     {
-      "id": "ca-1786000452699-nyxpyt",
-      "title": "Parliament Monsoon Session Day 14 LIVE: RS MP Manoj Jha asks about steps taken to ensure representation of judges from SC and ST communities in the judiciary",
-      "content": "Lok Sabha adjourned till 2 p.m.; Nirmala Sitharaman to move Taxation and Other Laws (Amendment) Bill in Lok Sabha",
-      "source": "The Hindu (National)",
-      "tier": 1,
-      "date": "2026-08-06T07:12:06.000Z",
-      "link": "https://www.thehindu.com/news/national/parliament-monsoon-session-day-14-nirmala-sitharaman-to-move-taxation-and-other-laws-amendment-bill-in-lok-sabha-rajya-sabha-live-updates-august-6-2026/article71312092.ece",
-      "subject": "Polity & Governance",
-      "secondarySubject": "Environment & Ecology",
-      "tags": [
-        "Polity & Governance"
-      ],
-      "relevanceScore": 4
-    },
-    {
       "id": "ca-1786000452699-ftwlyj",
       "title": "Election Commission's transparency unparalleled: Gyanesh Kumar",
       "content": "Commenting on the Special Intensive Revision (SIR) of electoral rolls, Mr. Kumar said the exercise has already been completed for around 700 million voters, while verification of another 350 million voters is underway.",
@@ -1027,21 +817,6 @@
       "relevanceScore": 3
     },
     {
-      "id": "ca-1786000452700-6vfza1",
-      "title": "On day of Tamil Nadu Agriculture Budget, DMK MLAs wear black over TVK-led government’s ‘failure’ on Cauvery issue",
-      "content": "The Agri Budget was presented by Minister R. Vinoth, who waxed eloquent about Chief Minister C. Joseph Vijay and the TVK government",
-      "source": "The Hindu (National)",
-      "tier": 1,
-      "date": "2026-08-06T06:59:58.000Z",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/on-day-of-agriculture-budget-dmk-mlas-wear-black-over-tvk-led-governments-failure-on-cauvery-issue/article71312193.ece",
-      "subject": "Economy",
-      "secondarySubject": "International Relations",
-      "tags": [
-        "Economy"
-      ],
-      "relevanceScore": 2
-    },
-    {
       "id": "ca-1786000452700-vzek4v",
       "title": "Tamil Nadu Agriculture Budget: Eco-friendly liquid repellent to help farmers tackle wild boars",
       "content": "To further reduce crop losses caused not only by wild boars but also by elephants, gaurs, and deer, the government will install solar-powered electric fencing systems at subsidised rates",
@@ -1055,51 +830,6 @@
         "Economy"
       ],
       "relevanceScore": 3
-    },
-    {
-      "id": "ca-1786000452700-05ymh8",
-      "title": "Karnataka rain Minister Sharan Prakash Patil reviews drought and drinking water crisis in Yadgir",
-      "content": "Dr. Patil directed Revenue and Agriculture Department officials to submit a comprehensive report on crop damage caused by prolonged dry spells so the district administration could initiate relief measures immediately",
-      "source": "The Hindu (National)",
-      "tier": 1,
-      "date": "2026-08-06T06:48:37.000Z",
-      "link": "https://www.thehindu.com/news/national/karnataka/karnataka-rain-minister-sharan-prakash-patil-reviews-drought-and-drinking-water-crisis-in-yadgir/article71310434.ece",
-      "subject": "Geography",
-      "secondarySubject": "Economy",
-      "tags": [
-        "Geography"
-      ],
-      "relevanceScore": 3
-    },
-    {
-      "id": "ca-1786001983039-wwxreu",
-      "title": "Parliament Monsoon Session Day 14 LIVE: Rajya Sabha adjourned till 2:15 p.m.; Opposition demands answers from Amit Shah",
-      "content": "Lok Sabha adjourned till 2 p.m.; Nirmala Sitharaman to move Taxation and Other Laws (Amendment) Bill in Lok Sabha",
-      "source": "The Hindu (National)",
-      "tier": 1,
-      "date": "2026-08-06T07:34:18.000Z",
-      "link": "https://www.thehindu.com/news/national/parliament-monsoon-session-day-14-nirmala-sitharaman-to-move-taxation-and-other-laws-amendment-bill-in-lok-sabha-rajya-sabha-live-updates-august-6-2026/article71312092.ece",
-      "subject": "Polity & Governance",
-      "secondarySubject": "Environment & Ecology",
-      "tags": [
-        "Polity & Governance"
-      ],
-      "relevanceScore": 4
-    },
-    {
-      "id": "ca-1786001983039-rlqtg6",
-      "title": "Supreme Court stays arrest of Abhishek Banerjee's aide Sumit Roy in Salboni land-grabbing case",
-      "content": "On August 3, the Calcutta High Court rejected the anticipatory bail plea of Mr. Roy in connection with the alleged government land fraud case being investigated by the Salboni Police.",
-      "source": "The Hindu (National)",
-      "tier": 1,
-      "date": "2026-08-06T07:32:27.000Z",
-      "link": "https://www.thehindu.com/news/national/west-bengal/supreme-court-stays-arrest-of-abhishek-banerjees-aide-sumit-roy-in-salboni-land-grabbing-case/article71312567.ece",
-      "subject": "Polity & Governance",
-      "secondarySubject": null,
-      "tags": [
-        "Polity & Governance"
-      ],
-      "relevanceScore": 2
     },
     {
       "id": "ca-1786002734899-c1dyxb",
@@ -1252,22 +982,6 @@
       "relevanceScore": 2
     },
     {
-      "id": "ca-1786023751190-mogxyh",
-      "title": "Parliament Monsoon Session Day 14 updates: Rajya Sabha approves Appropriation (No.3) Bill; Lok Sabha passes Taxation Bill without debate",
-      "content": "Rajya Sabha Chairman C.P. Radhakrishnan asked Parliamentary Affairs Minister Kiren Rijiju to convey the Opposition's demand for a statement to Home Minister Amit Shah on police violence against students, after Leader of Opposition in the RS Mallikarjun Kharge demanded a statement from Mr. Shah in the House",
-      "source": "The Hindu (National)",
-      "tier": 1,
-      "date": "2026-08-06T13:15:00.000Z",
-      "link": "https://www.thehindu.com/news/national/parliament-monsoon-session-day-14-nirmala-sitharaman-to-move-taxation-and-other-laws-amendment-bill-in-lok-sabha-rajya-sabha-live-updates-august-6-2026/article71312092.ece",
-      "subject": "Polity & Governance",
-      "secondarySubject": null,
-      "tags": [
-        "Polity & Governance"
-      ],
-      "relevanceScore": 3,
-      "classifiedBy": "keyword"
-    },
-    {
       "id": "ca-1786023751294-wpwm48",
       "title": "Fiscal federalism, efficiency versus equity concerns",
       "content": "The Sixteenth Finance Commission risks moving away from its core mandate of acting as an equalising force within the federation",
@@ -1282,24 +996,8 @@
       ],
       "relevanceScore": 2,
       "classifiedBy": "keyword"
-    },
-    {
-      "id": "ca-1786023751345-a8365d",
-      "title": "Parliament Monsoon Session Day 14 Live: Lok Sabha passes Taxation Bill to promote domestic electronic manufacturing amid din",
-      "content": "",
-      "source": "Indian Express (India)",
-      "tier": 1,
-      "date": "2026-08-06T04:54:59.000Z",
-      "link": "https://indianexpress.com/article/india/parliament-monsoon-session-day-14-live-lok-sabha-to-take-up-new-law-for-changes-to-income-tax-10820036/",
-      "subject": "Polity & Governance",
-      "secondarySubject": null,
-      "tags": [
-        "Polity & Governance"
-      ],
-      "relevanceScore": 2,
-      "classifiedBy": "keyword"
     }
   ],
   "lastUpdated": "2026-08-06T13:42:35.765Z",
-  "totalArticles": 86
+  "totalArticles": 66
 }
