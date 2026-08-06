@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-06T08:00:01.463Z",
-  "totalArticles": 39,
+  "lastUpdated": "2026-08-06T12:35:48.270Z",
+  "totalArticles": 36,
   "sources": [
     "The Hindu (National)",
     "The Hindu (International)",
@@ -12,8 +12,7 @@
     "PIB (Press Information Bureau)",
     "Down to Earth",
     "Down to Earth (Environment)",
-    "LiveMint (Economy)",
-    "NDTV"
+    "LiveMint (Economy)"
   ],
   "errors": [
     {
@@ -26,132 +25,134 @@
     }
   ],
   "bySubject": {
-    "Geography": [
+    "Social Issues": [
       {
-        "id": "ca-1786003200197-e5z8tu",
-        "title": "West Bengal Govt failed to protect tribal interests in mining land acquisition, says CAG report",
-        "content": "The audit covered 66 land acquisition cases between 2017-18 and 2021-22 involving Eastern Coalfields Limited's (ECL's) Salanpur, Sripur, Kunustoria and Parbelia areas and Bharat Coking Coal Limited's (BCCL's) Barakar area.",
+        "id": "ca-1786017600050-njyvuf",
+        "title": "Centre passes buck to M.P. govt. over tribals’ displacement due to Ken-Betwa project",
+        "content": "This comes even as locals and tribal communities in the State’s Chhatarpur district have been protesting against the project for months, accusing authorities of forcibly evicting families even before the full compensation process has been completed",
         "source": "The Hindu (National)",
         "tier": 1,
-        "date": "2026-08-06T07:53:55.000Z",
-        "link": "https://www.thehindu.com/news/national/west-bengal/west-bengal-govt-failed-to-protect-tribal-interests-in-mining-land-acquisition-says-cag-report/article71312603.ece",
-        "subject": "Geography",
+        "date": "2026-08-06T11:54:45.000Z",
+        "link": "https://www.thehindu.com/news/national/centre-passes-buck-to-mp-govt-over-tribals-displacement-due-to-ken-betwa-project/article71313152.ece",
+        "subject": "Social Issues",
+        "secondarySubject": "Security & Defense",
+        "tags": [
+          "International Relations"
+        ],
+        "relevanceScore": 2
+      }
+    ],
+    "Environment & Ecology": [
+      {
+        "id": "ca-1786017600050-ukdmrm",
+        "title": "Gauhati High Court seeks status quo on encroachment in Manas Tiger Reserve",
+        "content": "One of the major encroachers is a seed farm under the Bodoland Territorial Council’s Agriculture Department, the petition by green activist Rohit Choudhury says",
+        "source": "The Hindu (National)",
+        "tier": 1,
+        "date": "2026-08-06T11:53:44.000Z",
+        "link": "https://www.thehindu.com/news/national/assam/gauhati-high-court-seeks-status-quo-on-encroachment-in-manas-tiger-reserve/article71312943.ece",
+        "subject": "Environment & Ecology",
         "secondarySubject": "Polity & Governance",
         "tags": [
-          "Geography"
+          "Environment & Ecology"
         ],
         "relevanceScore": 2
       },
       {
-        "id": "ca-1786003200199-3zrjzj",
-        "title": "Karnataka rain Minister Sharan Prakash Patil reviews drought and drinking water crisis in Yadgir",
-        "content": "Dr. Patil directed Revenue and Agriculture Department officials to submit a comprehensive report on crop damage caused by prolonged dry spells so the district administration could initiate relief measures immediately",
+        "id": "ca-1786017600051-f2m4z0",
+        "title": "Tamil Nadu Budget 2026: TN-SHORE project offers fillip to mangrove afforestation, restoration in Kanniyakumari",
+        "content": "The mangrove ecosystem at Manakudy estuary is a vital ecological habitat, supporting a rich diversity of aquatic species while serving as a seasonal refuge for several local and migratory birds.",
         "source": "The Hindu (National)",
         "tier": 1,
-        "date": "2026-08-06T06:48:37.000Z",
-        "link": "https://www.thehindu.com/news/national/karnataka/karnataka-rain-minister-sharan-prakash-patil-reviews-drought-and-drinking-water-crisis-in-yadgir/article71310434.ece",
-        "subject": "Geography",
-        "secondarySubject": "Economy",
+        "date": "2026-08-06T11:53:41.000Z",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-budget-2026-tn-shore-project-offers-fillip-to-mangrove-afforestation-restoration-in-kanniyakumari/article71309832.ece",
+        "subject": "Environment & Ecology",
+        "secondarySubject": "Polity & Governance",
         "tags": [
-          "Geography"
+          "Environment & Ecology"
         ],
         "relevanceScore": 3
       },
       {
-        "id": "ca-1786003200276-kkec0m",
-        "title": "Why lab-grown diamonds are a sustainable alternative to mined stones",
-        "content": "Natural diamond mining is facing dwindling supplies while remaining associated with environmental damage, forced labour, conflict and pollution; lab-grown diamonds offer a more affordable, traceable and sustainable alternative, with India investing in indigenous production and research",
-        "source": "The Hindu (Science)",
+        "id": "ca-1786017600051-z1ibxo",
+        "title": "Bombay HC clarifies PoP idol immersion case limited to environmental impact",
+        "content": "Court states litigation does not seek to interfere with religious practices; when the Bench asked the counsel if he could place any old Hindu scripture that mandated an idol of Ganesh must be made of PoP, he responded that when the scriptures were being written, PoP was not discovered",
+        "source": "The Hindu (National)",
         "tier": 1,
-        "date": "2026-08-03T18:05:39.000Z",
-        "link": "https://www.thehindu.com/sci-tech/science/why-lab-grown-diamonds-are-a-sustainable-alternative-to-mined-stones/article71301201.ece",
-        "subject": "Geography",
-        "secondarySubject": "Economy",
+        "date": "2026-08-06T11:31:40.000Z",
+        "link": "https://www.thehindu.com/news/national/bombay-hc-clarifies-pop-idol-immersion-case-limited-to-environmental-impact/article71312665.ece",
+        "subject": "Environment & Ecology",
+        "secondarySubject": null,
         "tags": [
-          "Geography"
+          "International Relations"
         ],
         "relevanceScore": 2
       },
       {
-        "id": "ca-1786003200322-sdnjfe",
-        "title": "Coal production increased 7.5% in July, dispatches surge 17.3% on higher power demand",
-        "content": "India\u2019s consumption of power rose in July owing to lower-than-normal monsoons",
-        "source": "The Hindu (Economy)",
+        "id": "ca-1786017600173-5wsdct",
+        "title": "27,000 in flood relief camps: How one climate disaster in Kerala is worsening the next",
+        "content": "",
+        "source": "Indian Express (Explained)",
         "tier": 1,
-        "date": "2026-08-02T10:37:46.000Z",
-        "link": "https://www.thehindu.com/business/Economy/coal-production-increased-75-in-july-dispatches-surge-173-on-higher-power-demand/article71297444.ece",
-        "subject": "Geography",
-        "secondarySubject": "Environment & Ecology",
+        "date": "2026-08-05T11:08:53.000Z",
+        "link": "https://indianexpress.com/article/explained/explained-climate/kerala-floods-explained-silted-rivers-wetlands-10819189/",
+        "subject": "Environment & Ecology",
+        "secondarySubject": "Geography",
         "tags": [
-          "Geography"
+          "Environment & Ecology"
+        ],
+        "relevanceScore": 2
+      },
+      {
+        "id": "ca-1786017600894-zittje",
+        "title": "Viksit Bharat 2047 under threat? World Bank says extreme heat costs South Asia 31 million jobs every year",
+        "content": "Without adaptation, the report said, rising heat could leave South Asia's GDP close to 7 per cent smaller by 2050—the steepest projected loss of any developing region in the world.",
+        "source": "LiveMint (Economy)",
+        "tier": 2,
+        "date": "2026-08-01T10:40:39.000Z",
+        "link": "https://www.livemint.com/economy/viksit-bharat-2047-under-threat-world-bank-says-extreme-heat-costs-south-asia-31-million-jobs-every-year-11785577550033.html",
+        "subject": "Environment & Ecology",
+        "secondarySubject": "History & Culture",
+        "tags": [
+          "Economy"
         ],
         "relevanceScore": 2
       }
     ],
     "Polity & Governance": [
       {
-        "id": "ca-1786003200198-lm1xnc",
-        "title": "Parliament Monsoon Session Day 14 LIVE: Rajya Sabha adjourned till 2:15 p.m.; Opposition demands answers from Amit Shah",
-        "content": "Lok Sabha adjourned till 2 p.m.; Nirmala Sitharaman to move Taxation and Other Laws (Amendment) Bill in Lok Sabha",
+        "id": "ca-1786017600051-5zya4j",
+        "title": "Tamil Nadu Budget launches CM’s integrated urban mission to reshape cities in State by 2031",
+        "content": "According to the Budget, the Mission will bring under one roof urban infrastructure, water supply, underground sewerage system, integrated solid waste management, city roads, urban transport, expansion of green spaces, protection of urban waterbodies.",
         "source": "The Hindu (National)",
         "tier": 1,
-        "date": "2026-08-06T07:45:59.000Z",
-        "link": "https://www.thehindu.com/news/national/parliament-monsoon-session-day-14-nirmala-sitharaman-to-move-taxation-and-other-laws-amendment-bill-in-lok-sabha-rajya-sabha-live-updates-august-6-2026/article71312092.ece",
+        "date": "2026-08-06T11:39:33.000Z",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-budget-launches-2117-crore-cms-integrated-urban-mission-to-reshape-cities-by-2031/article71309594.ece",
         "subject": "Polity & Governance",
-        "secondarySubject": "Environment & Ecology",
+        "secondarySubject": "International Relations",
         "tags": [
-          "Polity & Governance"
-        ],
-        "relevanceScore": 4
-      },
-      {
-        "id": "ca-1786003200198-p5imj7",
-        "title": "Supreme Court stays arrest of Abhishek Banerjee's aide Sumit Roy in Salboni land-grabbing case",
-        "content": "On August 3, the Calcutta High Court rejected the anticipatory bail plea of Mr. Roy in connection with the alleged government land fraud case being investigated by the Salboni Police.",
-        "source": "The Hindu (National)",
-        "tier": 1,
-        "date": "2026-08-06T07:32:27.000Z",
-        "link": "https://www.thehindu.com/news/national/west-bengal/supreme-court-stays-arrest-of-abhishek-banerjees-aide-sumit-roy-in-salboni-land-grabbing-case/article71312567.ece",
-        "subject": "Polity & Governance",
-        "secondarySubject": null,
-        "tags": [
-          "Polity & Governance"
+          "Economy"
         ],
         "relevanceScore": 2
       },
       {
-        "id": "ca-1786003200198-l7hoxw",
-        "title": "Election Commission's transparency unparalleled: Gyanesh Kumar",
-        "content": "Commenting on the Special Intensive Revision (SIR) of electoral rolls, Mr. Kumar said the exercise has already been completed for around 700 million voters, while verification of another 350 million voters is underway.",
+        "id": "ca-1786017600051-r0lt3m",
+        "title": "Lok Sabha passes Bill to authorise Govt. to permit banks to levy charges on UPI transactions",
+        "content": "The Taxation and other Laws (Amendment) Bill was passed without a debate due to persistent sloganeering by the Opposition over various issues",
         "source": "The Hindu (National)",
         "tier": 1,
-        "date": "2026-08-06T07:08:56.000Z",
-        "link": "https://www.thehindu.com/news/national/election-commissions-transparency-unparalleled-gyanesh-kumar/article71311933.ece",
+        "date": "2026-08-06T11:29:38.000Z",
+        "link": "https://www.thehindu.com/news/national/parliament-monsoon-session-lok-sabha-clears-bills-taxation-upi-transactions-charges/article71313208.ece",
         "subject": "Polity & Governance",
         "secondarySubject": "Economy",
         "tags": [
           "Polity & Governance"
         ],
-        "relevanceScore": 3
-      },
-      {
-        "id": "ca-1786003200354-3fvewz",
-        "title": "Parliament Monsoon Session Day 14 Live: \u2018Disruption is part of democracy,\u2019 says Kharge as Rijiju cites Rajya Sabha rules",
-        "content": "",
-        "source": "Indian Express (India)",
-        "tier": 1,
-        "date": "2026-08-06T04:54:59.000Z",
-        "link": "https://indianexpress.com/article/india/parliament-monsoon-session-day-14-live-lok-sabha-to-take-up-new-law-for-changes-to-income-tax-10820036/",
-        "subject": "Polity & Governance",
-        "secondarySubject": "Environment & Ecology",
-        "tags": [
-          "Polity & Governance"
-        ],
         "relevanceScore": 2
       },
       {
-        "id": "ca-1786003200383-g7fz83",
-        "title": "Money Bill passed to increase judges\u2019 number: Why this route faces legal challenge",
+        "id": "ca-1786017600173-f726ih",
+        "title": "Money Bill passed to increase judges’ number: Why this route faces legal challenge",
         "content": "",
         "source": "Indian Express (Explained)",
         "tier": 1,
@@ -165,7 +166,7 @@
         "relevanceScore": 2
       },
       {
-        "id": "ca-1786003200355-lvn3el",
+        "id": "ca-1786017600147-tazygy",
         "title": "Rajya Sabha passes judges Bill; Opposition raises ordinance route, diversity deficit",
         "content": "",
         "source": "Indian Express (India)",
@@ -180,7 +181,7 @@
         "relevanceScore": 3
       },
       {
-        "id": "ca-1786003200322-b30zu8",
+        "id": "ca-1786017600112-1uxh1u",
         "title": "Government proposes to ease tax relief conditions for offshore funds",
         "content": "The Bill, which has been circulated by the Government among the members of Parliament, is expected to be introduced by Finance Minister Nirmala Sitharaman in the Lok Sabha soon.",
         "source": "The Hindu (Economy)",
@@ -195,56 +196,41 @@
         "relevanceScore": 2
       }
     ],
-    "Environment & Ecology": [
+    "International Relations": [
       {
-        "id": "ca-1786003200198-qde6es",
-        "title": "Operation intensified to capture tiger on the prowl in Eluru region of Andhra",
-        "content": "Nearly 350 personnel from territorial and wildlife divisions, along with villagers, have been involved in the operation; experts and experienced personnel from tiger reserves and six trained tranquiliser shooters roped in",
-        "source": "The Hindu (National)",
+        "id": "ca-1786017600075-rfy5zx",
+        "title": "Hiroshima marks 81st atomic bomb anniversary as Mayor deplores pursuit of nuclear weapons",
+        "content": "Prime Minister Sanae Takaichi, who attended the memorial for the first time as Prime Minister, said she will take “a realistic approach” toward achieving a world where nuclear weapons are never used, within the framework of the United Nations' treaty to prevent the spread of nuclear weapons",
+        "source": "The Hindu (International)",
         "tier": 1,
-        "date": "2026-08-06T07:45:13.000Z",
-        "link": "https://www.thehindu.com/news/national/andhra-pradesh/operation-intensified-to-capture-tiger-on-the-prowl-in-eluru-region-of-ap/article71310013.ece",
-        "subject": "Environment & Ecology",
+        "date": "2026-08-06T08:21:50.000Z",
+        "link": "https://www.thehindu.com/news/international/hiroshima-marks-81st-atomic-bomb-anniversary-as-mayor-deplores-pursuit-of-nuclear-weapons/article71312178.ece",
+        "subject": "International Relations",
         "secondarySubject": null,
         "tags": [
-          "Environment & Ecology"
-        ],
-        "relevanceScore": 3
-      }
-    ],
-    "Economy": [
-      {
-        "id": "ca-1786003200198-uox136",
-        "title": "On day of Tamil Nadu Agriculture Budget, DMK MLAs wear black over TVK-led government\u2019s \u2018failure\u2019 on Cauvery issue",
-        "content": "The Agri Budget was presented by Minister R. Vinoth, who waxed eloquent about Chief Minister C. Joseph Vijay and the TVK government",
-        "source": "The Hindu (National)",
-        "tier": 1,
-        "date": "2026-08-06T06:59:58.000Z",
-        "link": "https://www.thehindu.com/news/national/tamil-nadu/on-day-of-agriculture-budget-dmk-mlas-wear-black-over-tvk-led-governments-failure-on-cauvery-issue/article71312193.ece",
-        "subject": "Economy",
-        "secondarySubject": "International Relations",
-        "tags": [
-          "Economy"
+          "International Relations"
         ],
         "relevanceScore": 2
       },
       {
-        "id": "ca-1786003200199-y5gsal",
-        "title": "Tamil Nadu Agriculture Budget: Eco-friendly liquid repellent to help farmers tackle wild boars",
-        "content": "To further reduce crop losses caused not only by wild boars but also by elephants, gaurs, and deer, the government will install solar-powered electric fencing systems at subsidised rates",
-        "source": "The Hindu (National)",
+        "id": "ca-1786017600076-hjidns",
+        "title": "Collapse of rules-based order calls for total ban on nuclear weapons",
+        "content": "Eighty-one years since the U.S. dropped an atom bomb on Hiroshima, the world seems to be on the brink of a similar mistake",
+        "source": "The Hindu (International)",
         "tier": 1,
-        "date": "2026-08-06T06:49:44.000Z",
-        "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-agriculture-budget-eco-friendly-liquid-repellent-to-help-farmers-tackle-wild-boar-menace/article71312375.ece",
-        "subject": "Economy",
-        "secondarySubject": "Environment & Ecology",
+        "date": "2026-08-06T04:17:08.000Z",
+        "link": "https://www.thehindu.com/opinion/collapse-of-rules-based-order-calls-for-total-ban-on-nuclear-weapons/article71310373.ece",
+        "subject": "International Relations",
+        "secondarySubject": null,
         "tags": [
-          "Economy"
+          "International Relations"
         ],
-        "relevanceScore": 3
-      },
+        "relevanceScore": 2
+      }
+    ],
+    "Economy": [
       {
-        "id": "ca-1786003200321-cp4f1c",
+        "id": "ca-1786017600111-yeqvc3",
         "title": "Highs and lows: On GST metrics",
         "content": "GST must be fuelled by domestic production, not inflation or imports",
         "source": "The Hindu (Economy)",
@@ -259,9 +245,9 @@
         "relevanceScore": 3
       },
       {
-        "id": "ca-1786003200321-b8ljhs",
+        "id": "ca-1786017600111-2ik0j1",
         "title": "RBI to issue polymer currency notes from beginning of next fiscal: Governor Sanjay Malhotra",
-        "content": "\u201cWe are still at a pilot [stage]. We will test, check as to how they [the polymer notes] perform in the Indian condition, climate and other infrastructure we have put in place,\u201d Sanjay Malhotra said",
+        "content": "“We are still at a pilot [stage]. We will test, check as to how they [the polymer notes] perform in the Indian condition, climate and other infrastructure we have put in place,” Sanjay Malhotra said",
         "source": "The Hindu (Economy)",
         "tier": 1,
         "date": "2026-08-05T09:50:15.000Z",
@@ -274,7 +260,7 @@
         "relevanceScore": 2
       },
       {
-        "id": "ca-1786003200321-ywdoo7",
+        "id": "ca-1786017600111-sx3k8h",
         "title": "RBI MPC keeps policy rate unchanged at 5.25%",
         "content": "The higher inflation is mostly on account of fuel and food, with little signs of generalisation of price pressures so far, the Monetary Policy Committee observed",
         "source": "The Hindu (Economy)",
@@ -289,7 +275,7 @@
         "relevanceScore": 3
       },
       {
-        "id": "ca-1786003200321-m4i5pf",
+        "id": "ca-1786017600112-40h850",
         "title": "RBI launches 3 key surveys to get input for monetary policy",
         "content": "The RBI also announced the launch of 'the July 2026 round of the Rural Consumer Confidence Survey'",
         "source": "The Hindu (Economy)",
@@ -304,7 +290,7 @@
         "relevanceScore": 2
       },
       {
-        "id": "ca-1786003200383-qib4em",
+        "id": "ca-1786017600173-luj89s",
         "title": "Why RBI kept repo rate unchanged at 5.25% despite inflation concerns",
         "content": "",
         "source": "Indian Express (Explained)",
@@ -319,7 +305,7 @@
         "relevanceScore": 2
       },
       {
-        "id": "ca-1786003200322-6br8di",
+        "id": "ca-1786017600112-a3gwm0",
         "title": "Govt introduces Bill aimed at easing doing business, attracting FDI & enhancing Make in India",
         "content": "The Taxation and Other Laws (Amendment) Bill, 2026 will amend the Payment and Settlement Systems Act, 2007, Income-tax Act, 2025, and the Finance Act, 2026.",
         "source": "The Hindu (Economy)",
@@ -334,7 +320,7 @@
         "relevanceScore": 2
       },
       {
-        "id": "ca-1786003200383-kpdiek",
+        "id": "ca-1786017600174-2nz70r",
         "title": "ExplainSpeaking: How RBI decides to do, or not do, anything in its monetary policy review",
         "content": "",
         "source": "Indian Express (Explained)",
@@ -349,9 +335,9 @@
         "relevanceScore": 2
       },
       {
-        "id": "ca-1786003200322-qbuvio",
+        "id": "ca-1786017600112-1k9mb5",
         "title": "India's manufacturing sector activity growth falls to 5-year low in July amid challenging market condition: PMI",
-        "content": "The HSBC India Manufacturing Purchasing Managers\u2019 Index (PMI) is a gauge of overall conditions derived from measures of new orders, output, employment, supplier delivery times and stocks of purchases.",
+        "content": "The HSBC India Manufacturing Purchasing Managers’ Index (PMI) is a gauge of overall conditions derived from measures of new orders, output, employment, supplier delivery times and stocks of purchases.",
         "source": "The Hindu (Economy)",
         "tier": 1,
         "date": "2026-08-03T16:22:49.000Z",
@@ -364,9 +350,24 @@
         "relevanceScore": 3
       },
       {
-        "id": "ca-1786003200322-x89dw4",
-        "title": "India\u2019s balancing act to attract more investment from China, U.S. and boost trade",
-        "content": "This balancing act has seen gradual and incremental relaxations in several long-held policies of the government \u2014 whether it has to do with FDI in e-commerce, allowing FDI from companies with Chinese ownership, or taking action against the dumping of goods in India by its trade partners.",
+        "id": "ca-1786017600112-77gn5h",
+        "title": "Coal production increased 7.5% in July, dispatches surge 17.3% on higher power demand",
+        "content": "India’s consumption of power rose in July owing to lower-than-normal monsoons",
+        "source": "The Hindu (Economy)",
+        "tier": 1,
+        "date": "2026-08-02T10:37:46.000Z",
+        "link": "https://www.thehindu.com/business/Economy/coal-production-increased-75-in-july-dispatches-surge-173-on-higher-power-demand/article71297444.ece",
+        "subject": "Economy",
+        "secondarySubject": "Environment & Ecology",
+        "tags": [
+          "Geography"
+        ],
+        "relevanceScore": 2
+      },
+      {
+        "id": "ca-1786017600113-lh0y31",
+        "title": "India’s balancing act to attract more investment from China, U.S. and boost trade",
+        "content": "This balancing act has seen gradual and incremental relaxations in several long-held policies of the government — whether it has to do with FDI in e-commerce, allowing FDI from companies with Chinese ownership, or taking action against the dumping of goods in India by its trade partners.",
         "source": "The Hindu (Economy)",
         "tier": 1,
         "date": "2026-08-01T13:38:15.000Z",
@@ -379,7 +380,7 @@
         "relevanceScore": 2
       },
       {
-        "id": "ca-1786003200406-nue9mp",
+        "id": "ca-1786017600198-6aqhjz",
         "title": "RBI has a playbook for a stronger rupee",
         "content": "",
         "source": "Indian Express (Opinion)",
@@ -394,9 +395,9 @@
         "relevanceScore": 2
       },
       {
-        "id": "ca-1786003201101-s9m7rm",
+        "id": "ca-1786017600893-hwjvzy",
         "title": "Centre sustains capex push in Q1 despite global trade disruptions, geopolitical uncertainty",
-        "content": "The infrastructure-led growth strategy has remained at the centre of India\u2019s fiscal policy over the past several years and economists assert that public investment in productive assets has a larger multiplier effect than revenue spending.",
+        "content": "The infrastructure-led growth strategy has remained at the centre of India’s fiscal policy over the past several years and economists assert that public investment in productive assets has a larger multiplier effect than revenue spending.",
         "source": "LiveMint (Economy)",
         "tier": 2,
         "date": "2026-08-05T16:05:50.000Z",
@@ -409,8 +410,8 @@
         "relevanceScore": 3
       },
       {
-        "id": "ca-1786003200406-259wli",
-        "title": "RBI sees inflation risks \u2014 but growth comes first",
+        "id": "ca-1786017600198-dvdjmh",
+        "title": "RBI sees inflation risks — but growth comes first",
         "content": "",
         "source": "Indian Express (Opinion)",
         "tier": 2,
@@ -424,7 +425,7 @@
         "relevanceScore": 2
       },
       {
-        "id": "ca-1786003201101-uzedmq",
+        "id": "ca-1786017600893-w4s5an",
         "title": "RBI to let special forex deposit window close on schedule despite strong flows, sees healthy BoP surplus in FY27",
         "content": "Governor Sanjay Malhotra said $40.8 billion in rapid dollar inflows have fortified external buffers, boosting confidence in the rupee and expanding the FY27 balance of payments outlook.",
         "source": "LiveMint (Economy)",
@@ -440,22 +441,7 @@
         "relevanceScore": 5
       },
       {
-        "id": "ca-1786003201101-g81oli",
-        "title": "Yen at 40-year low reveals Japan\u2019s deepening monetary policy constraints",
-        "content": "Driven by interest rate gaps, high energy import costs, and massive national debt, the Japanese yen has fallen to historic lows, limiting Tokyo's ability to raise rates to defend it.",
-        "source": "LiveMint (Economy)",
-        "tier": 2,
-        "date": "2026-08-05T05:45:44.000Z",
-        "link": "https://www.livemint.com/economy/japanese-yen-japan-bank-of-japan-boj-us-federal-reserve-us-dollar-dollar-yen-exchange-rate-carry-trade-11785902945630.html",
-        "subject": "Economy",
-        "secondarySubject": null,
-        "tags": [
-          "Economy"
-        ],
-        "relevanceScore": 2
-      },
-      {
-        "id": "ca-1786003201101-jdadvk",
+        "id": "ca-1786017600893-6bnhw1",
         "title": "Mint Explainer | What is fuelling the surge in GST collections?",
         "content": "GST collections have grown faster than nominal GDP in recent years, reflecting not only higher economic activity but also improvements in tax administration.",
         "source": "LiveMint (Economy)",
@@ -470,7 +456,7 @@
         "relevanceScore": 2
       },
       {
-        "id": "ca-1786003201102-8zf9if",
+        "id": "ca-1786017600894-jyh104",
         "title": "India's manufacturing activity slips to near five-year low in July but signals solid growth",
         "content": "A sharp moderation in new orders curbed input purchasing, even as export demand strengthened and inflationary pressures moderated, showed HSBC India Manufacturing PMI&nbsp;",
         "source": "LiveMint (Economy)",
@@ -485,9 +471,9 @@
         "relevanceScore": 2
       },
       {
-        "id": "ca-1786003201102-hb2oix",
+        "id": "ca-1786017600894-snpxz8",
         "title": "Will a repo rate pause make RBI fall behind the curve?",
-        "content": "Facing rising inflation risks from the West Asia war and El Ni\u00f1o, the RBI faces dilemma over whether to hold repo rates or hike them to curb mounting price pressures.",
+        "content": "Facing rising inflation risks from the West Asia war and El Niño, the RBI faces dilemma over whether to hold repo rates or hike them to curb mounting price pressures.",
         "source": "LiveMint (Economy)",
         "tier": 2,
         "date": "2026-08-03T04:29:59.000Z",
@@ -500,7 +486,7 @@
         "relevanceScore": 2
       },
       {
-        "id": "ca-1786003201102-5uzq3k",
+        "id": "ca-1786017600894-0puoub",
         "title": "RBI set to hold rates on 5 Aug as global risks cloud outlook: Mint poll",
         "content": "Economists expect the RBI to keep the repo rate and policy stance unchanged, with markets watching its guidance on inflation, growth, the rupee and the timing of any future rate moves.",
         "source": "LiveMint (Economy)",
@@ -515,88 +501,41 @@
         "relevanceScore": 3
       },
       {
-        "id": "ca-1786003201102-3gpicj",
-        "title": "Viksit Bharat 2047 under threat? World Bank says extreme heat costs South Asia 31 million jobs every year",
-        "content": "Without adaptation, the report said, rising heat could leave South Asia's GDP close to 7 per cent smaller by 2050\u2014the steepest projected loss of any developing region in the world.",
-        "source": "LiveMint (Economy)",
-        "tier": 2,
-        "date": "2026-08-01T10:40:39.000Z",
-        "link": "https://www.livemint.com/economy/viksit-bharat-2047-under-threat-world-bank-says-extreme-heat-costs-south-asia-31-million-jobs-every-year-11785577550033.html",
+        "id": "ca-1786017601205-39lf9v",
+        "title": "Tax Amendment Bill Explained: FDI Push, Jobs, UPI Charges. What Changes?",
+        "content": "The amendments in the new Bill point towards a policy objective of attracting global capital and business activity into India, say experts.",
+        "source": "NDTV",
+        "tier": 3,
+        "date": "2026-08-06T09:32:04.000Z",
+        "link": "https://www.ndtv.com/business-news/tax-amendment-bill-explained-lok-sabha-fdi-foreign-investment-jobs-upi-charges-11873939#publisher=newsstand",
         "subject": "Economy",
-        "secondarySubject": "History & Culture",
+        "secondarySubject": "Polity & Governance",
         "tags": [
           "Economy"
         ],
         "relevanceScore": 2
       }
     ],
-    "International Relations": [
-      {
-        "id": "ca-1786003200235-fgbrau",
-        "title": "Hiroshima marks 81st atomic bomb anniversary as Mayor deplores pursuit of nuclear weapons",
-        "content": "Prime Minister Sanae Takaichi, who attended the memorial for the first time as Prime Minister, said she will take \u201ca realistic approach\u201d toward achieving a world where nuclear weapons are never used, within the framework of the United Nations' treaty to prevent the spread of nuclear weapons",
-        "source": "The Hindu (International)",
-        "tier": 1,
-        "date": "2026-08-06T05:18:05.000Z",
-        "link": "https://www.thehindu.com/news/international/hiroshima-marks-81st-atomic-bomb-anniversary-as-mayor-deplores-pursuit-of-nuclear-weapons/article71312178.ece",
-        "subject": "International Relations",
-        "secondarySubject": null,
-        "tags": [
-          "International Relations"
-        ],
-        "relevanceScore": 2
-      },
-      {
-        "id": "ca-1786003200235-jvu9k8",
-        "title": "Collapse of rules-based order calls for total ban on nuclear weapons",
-        "content": "Eighty-one years since the U.S. dropped an atom bomb on Hiroshima, the world seems to be on the brink of a similar mistake",
-        "source": "The Hindu (International)",
-        "tier": 1,
-        "date": "2026-08-06T04:17:08.000Z",
-        "link": "https://www.thehindu.com/opinion/collapse-of-rules-based-order-calls-for-total-ban-on-nuclear-weapons/article71310373.ece",
-        "subject": "International Relations",
-        "secondarySubject": null,
-        "tags": [
-          "International Relations"
-        ],
-        "relevanceScore": 2
-      }
-    ],
     "Science & Technology": [
       {
-        "id": "ca-1786003200275-hl75vy",
-        "title": "SpaceX rocket stage believed to have slammed into Moon",
-        "content": "While there is not yet official confirmation that the Falcon 9 upper stage struck the lunar surface, it had been expected to make impact at approximately 0635 GMT",
+        "id": "ca-1786017600093-vvkbep",
+        "title": "Why lab-grown diamonds are a sustainable alternative to mined stones",
+        "content": "Natural diamond mining is facing dwindling supplies while remaining associated with environmental damage, forced labour, conflict and pollution; lab-grown diamonds offer a more affordable, traceable and sustainable alternative, with India investing in indigenous production and research",
         "source": "The Hindu (Science)",
         "tier": 1,
-        "date": "2026-08-05T14:16:38.000Z",
-        "link": "https://www.thehindu.com/sci-tech/science/spacex-rocket-stage-believed-to-have-slammed-into-moon/article71309751.ece",
+        "date": "2026-08-03T18:05:39.000Z",
+        "link": "https://www.thehindu.com/sci-tech/science/why-lab-grown-diamonds-are-a-sustainable-alternative-to-mined-stones/article71301201.ece",
         "subject": "Science & Technology",
-        "secondarySubject": null,
+        "secondarySubject": "Economy",
         "tags": [
-          "Science & Technology"
+          "Geography"
         ],
         "relevanceScore": 2
       },
       {
-        "id": "ca-1786003200276-5i3i4r",
-        "title": "As SpaceX rocket stage is about to hit moon, astronomers prepare",
-        "content": "The rocket stage is currently expected to hit near Einstein crater on the moon on August 5 at 12:05 pm IST",
-        "source": "The Hindu (Science)",
-        "tier": 1,
-        "date": "2026-08-04T06:10:07.000Z",
-        "link": "https://www.thehindu.com/sci-tech/science/astronomers-prepare-as-spacex-rocket-stage-nears-moon-strike/article71303796.ece",
-        "subject": "Science & Technology",
-        "secondarySubject": null,
-        "tags": [
-          "Science & Technology"
-        ],
-        "relevanceScore": 2
-      },
-      {
-        "id": "ca-1786003200276-3r205h",
+        "id": "ca-1786017600093-zhr7zd",
         "title": "ISRO issues memo to curb exodus of scientists and engineers from Gaganyaan and other key missions",
-        "content": "Won\u2019t accept any request for voluntary retirement or resignation from scientific and technical personnel of Group \u2018A\u2019 associated with the Gaganyaan, or other important missions or projects till their realisation",
+        "content": "Won’t accept any request for voluntary retirement or resignation from scientific and technical personnel of Group ‘A’ associated with the Gaganyaan, or other important missions or projects till their realisation",
         "source": "The Hindu (Science)",
         "tier": 1,
         "date": "2026-08-03T08:08:40.000Z",
@@ -609,9 +548,9 @@
         "relevanceScore": 2
       },
       {
-        "id": "ca-1786003200276-hnz1t8",
+        "id": "ca-1786017600094-5p583x",
         "title": "Science must become priority of space missions, we need more money for it: ISRO chief Somanath",
-        "content": "ISRO chief says the agency\u2019s role is to mentor and develop the industry ecosystem in India, and the new space policy will aid private companies",
+        "content": "ISRO chief says the agency’s role is to mentor and develop the industry ecosystem in India, and the new space policy will aid private companies",
         "source": "The Hindu (Science)",
         "tier": 1,
         "date": "2026-08-03T07:58:16.000Z",
@@ -623,93 +562,80 @@
         ],
         "relevanceScore": 2
       }
+    ],
+    "Security & Defense": [
+      {
+        "id": "ca-1786018753555-6hpkh2",
+        "title": "Tenure of coastal police wardens extended",
+        "content": "These wardens were drawn from the fishing community and they had played an indispensable role in rescuing people from accidents at sea and during other maritime emergencies.",
+        "source": "The Hindu (National)",
+        "tier": 1,
+        "date": "2026-08-06T12:12:43.000Z",
+        "link": "https://www.thehindu.com/news/national/kerala/tenure-of-coastal-police-wardens-extended/article71313369.ece",
+        "subject": "Security & Defense",
+        "secondarySubject": "Geography",
+        "tags": [
+          "Security & Defense"
+        ],
+        "relevanceScore": 2
+      }
     ]
   },
   "articles": [
     {
-      "id": "ca-1786003200197-e5z8tu",
-      "title": "West Bengal Govt failed to protect tribal interests in mining land acquisition, says CAG report",
-      "content": "The audit covered 66 land acquisition cases between 2017-18 and 2021-22 involving Eastern Coalfields Limited's (ECL's) Salanpur, Sripur, Kunustoria and Parbelia areas and Bharat Coking Coal Limited's (BCCL's) Barakar area.",
+      "id": "ca-1786017600050-njyvuf",
+      "title": "Centre passes buck to M.P. govt. over tribals’ displacement due to Ken-Betwa project",
+      "content": "This comes even as locals and tribal communities in the State’s Chhatarpur district have been protesting against the project for months, accusing authorities of forcibly evicting families even before the full compensation process has been completed",
       "source": "The Hindu (National)",
       "tier": 1,
-      "date": "2026-08-06T07:53:55.000Z",
-      "link": "https://www.thehindu.com/news/national/west-bengal/west-bengal-govt-failed-to-protect-tribal-interests-in-mining-land-acquisition-says-cag-report/article71312603.ece",
-      "subject": "Geography",
-      "secondarySubject": "Polity & Governance",
+      "date": "2026-08-06T11:54:45.000Z",
+      "link": "https://www.thehindu.com/news/national/centre-passes-buck-to-mp-govt-over-tribals-displacement-due-to-ken-betwa-project/article71313152.ece",
+      "subject": "Social Issues",
+      "secondarySubject": "Security & Defense",
       "tags": [
-        "Geography"
+        "International Relations"
       ],
       "relevanceScore": 2
     },
     {
-      "id": "ca-1786003200198-lm1xnc",
-      "title": "Parliament Monsoon Session Day 14 LIVE: Rajya Sabha adjourned till 2:15 p.m.; Opposition demands answers from Amit Shah",
-      "content": "Lok Sabha adjourned till 2 p.m.; Nirmala Sitharaman to move Taxation and Other Laws (Amendment) Bill in Lok Sabha",
+      "id": "ca-1786017600050-ukdmrm",
+      "title": "Gauhati High Court seeks status quo on encroachment in Manas Tiger Reserve",
+      "content": "One of the major encroachers is a seed farm under the Bodoland Territorial Council’s Agriculture Department, the petition by green activist Rohit Choudhury says",
       "source": "The Hindu (National)",
       "tier": 1,
-      "date": "2026-08-06T07:45:59.000Z",
-      "link": "https://www.thehindu.com/news/national/parliament-monsoon-session-day-14-nirmala-sitharaman-to-move-taxation-and-other-laws-amendment-bill-in-lok-sabha-rajya-sabha-live-updates-august-6-2026/article71312092.ece",
-      "subject": "Polity & Governance",
-      "secondarySubject": "Environment & Ecology",
+      "date": "2026-08-06T11:53:44.000Z",
+      "link": "https://www.thehindu.com/news/national/assam/gauhati-high-court-seeks-status-quo-on-encroachment-in-manas-tiger-reserve/article71312943.ece",
+      "subject": "Environment & Ecology",
+      "secondarySubject": "Polity & Governance",
       "tags": [
-        "Polity & Governance"
+        "Environment & Ecology"
       ],
-      "relevanceScore": 4
+      "relevanceScore": 2
     },
     {
-      "id": "ca-1786003200198-qde6es",
-      "title": "Operation intensified to capture tiger on the prowl in Eluru region of Andhra",
-      "content": "Nearly 350 personnel from territorial and wildlife divisions, along with villagers, have been involved in the operation; experts and experienced personnel from tiger reserves and six trained tranquiliser shooters roped in",
+      "id": "ca-1786017600051-f2m4z0",
+      "title": "Tamil Nadu Budget 2026: TN-SHORE project offers fillip to mangrove afforestation, restoration in Kanniyakumari",
+      "content": "The mangrove ecosystem at Manakudy estuary is a vital ecological habitat, supporting a rich diversity of aquatic species while serving as a seasonal refuge for several local and migratory birds.",
       "source": "The Hindu (National)",
       "tier": 1,
-      "date": "2026-08-06T07:45:13.000Z",
-      "link": "https://www.thehindu.com/news/national/andhra-pradesh/operation-intensified-to-capture-tiger-on-the-prowl-in-eluru-region-of-ap/article71310013.ece",
+      "date": "2026-08-06T11:53:41.000Z",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-budget-2026-tn-shore-project-offers-fillip-to-mangrove-afforestation-restoration-in-kanniyakumari/article71309832.ece",
       "subject": "Environment & Ecology",
-      "secondarySubject": null,
+      "secondarySubject": "Polity & Governance",
       "tags": [
         "Environment & Ecology"
       ],
       "relevanceScore": 3
     },
     {
-      "id": "ca-1786003200198-p5imj7",
-      "title": "Supreme Court stays arrest of Abhishek Banerjee's aide Sumit Roy in Salboni land-grabbing case",
-      "content": "On August 3, the Calcutta High Court rejected the anticipatory bail plea of Mr. Roy in connection with the alleged government land fraud case being investigated by the Salboni Police.",
+      "id": "ca-1786017600051-5zya4j",
+      "title": "Tamil Nadu Budget launches CM’s integrated urban mission to reshape cities in State by 2031",
+      "content": "According to the Budget, the Mission will bring under one roof urban infrastructure, water supply, underground sewerage system, integrated solid waste management, city roads, urban transport, expansion of green spaces, protection of urban waterbodies.",
       "source": "The Hindu (National)",
       "tier": 1,
-      "date": "2026-08-06T07:32:27.000Z",
-      "link": "https://www.thehindu.com/news/national/west-bengal/supreme-court-stays-arrest-of-abhishek-banerjees-aide-sumit-roy-in-salboni-land-grabbing-case/article71312567.ece",
+      "date": "2026-08-06T11:39:33.000Z",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-budget-launches-2117-crore-cms-integrated-urban-mission-to-reshape-cities-by-2031/article71309594.ece",
       "subject": "Polity & Governance",
-      "secondarySubject": null,
-      "tags": [
-        "Polity & Governance"
-      ],
-      "relevanceScore": 2
-    },
-    {
-      "id": "ca-1786003200198-l7hoxw",
-      "title": "Election Commission's transparency unparalleled: Gyanesh Kumar",
-      "content": "Commenting on the Special Intensive Revision (SIR) of electoral rolls, Mr. Kumar said the exercise has already been completed for around 700 million voters, while verification of another 350 million voters is underway.",
-      "source": "The Hindu (National)",
-      "tier": 1,
-      "date": "2026-08-06T07:08:56.000Z",
-      "link": "https://www.thehindu.com/news/national/election-commissions-transparency-unparalleled-gyanesh-kumar/article71311933.ece",
-      "subject": "Polity & Governance",
-      "secondarySubject": "Economy",
-      "tags": [
-        "Polity & Governance"
-      ],
-      "relevanceScore": 3
-    },
-    {
-      "id": "ca-1786003200198-uox136",
-      "title": "On day of Tamil Nadu Agriculture Budget, DMK MLAs wear black over TVK-led government\u2019s \u2018failure\u2019 on Cauvery issue",
-      "content": "The Agri Budget was presented by Minister R. Vinoth, who waxed eloquent about Chief Minister C. Joseph Vijay and the TVK government",
-      "source": "The Hindu (National)",
-      "tier": 1,
-      "date": "2026-08-06T06:59:58.000Z",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/on-day-of-agriculture-budget-dmk-mlas-wear-black-over-tvk-led-governments-failure-on-cauvery-issue/article71312193.ece",
-      "subject": "Economy",
       "secondarySubject": "International Relations",
       "tags": [
         "Economy"
@@ -717,42 +643,42 @@
       "relevanceScore": 2
     },
     {
-      "id": "ca-1786003200199-y5gsal",
-      "title": "Tamil Nadu Agriculture Budget: Eco-friendly liquid repellent to help farmers tackle wild boars",
-      "content": "To further reduce crop losses caused not only by wild boars but also by elephants, gaurs, and deer, the government will install solar-powered electric fencing systems at subsidised rates",
+      "id": "ca-1786017600051-z1ibxo",
+      "title": "Bombay HC clarifies PoP idol immersion case limited to environmental impact",
+      "content": "Court states litigation does not seek to interfere with religious practices; when the Bench asked the counsel if he could place any old Hindu scripture that mandated an idol of Ganesh must be made of PoP, he responded that when the scriptures were being written, PoP was not discovered",
       "source": "The Hindu (National)",
       "tier": 1,
-      "date": "2026-08-06T06:49:44.000Z",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-agriculture-budget-eco-friendly-liquid-repellent-to-help-farmers-tackle-wild-boar-menace/article71312375.ece",
-      "subject": "Economy",
-      "secondarySubject": "Environment & Ecology",
+      "date": "2026-08-06T11:31:40.000Z",
+      "link": "https://www.thehindu.com/news/national/bombay-hc-clarifies-pop-idol-immersion-case-limited-to-environmental-impact/article71312665.ece",
+      "subject": "Environment & Ecology",
+      "secondarySubject": null,
       "tags": [
-        "Economy"
+        "International Relations"
       ],
-      "relevanceScore": 3
+      "relevanceScore": 2
     },
     {
-      "id": "ca-1786003200199-3zrjzj",
-      "title": "Karnataka rain Minister Sharan Prakash Patil reviews drought and drinking water crisis in Yadgir",
-      "content": "Dr. Patil directed Revenue and Agriculture Department officials to submit a comprehensive report on crop damage caused by prolonged dry spells so the district administration could initiate relief measures immediately",
+      "id": "ca-1786017600051-r0lt3m",
+      "title": "Lok Sabha passes Bill to authorise Govt. to permit banks to levy charges on UPI transactions",
+      "content": "The Taxation and other Laws (Amendment) Bill was passed without a debate due to persistent sloganeering by the Opposition over various issues",
       "source": "The Hindu (National)",
       "tier": 1,
-      "date": "2026-08-06T06:48:37.000Z",
-      "link": "https://www.thehindu.com/news/national/karnataka/karnataka-rain-minister-sharan-prakash-patil-reviews-drought-and-drinking-water-crisis-in-yadgir/article71310434.ece",
-      "subject": "Geography",
+      "date": "2026-08-06T11:29:38.000Z",
+      "link": "https://www.thehindu.com/news/national/parliament-monsoon-session-lok-sabha-clears-bills-taxation-upi-transactions-charges/article71313208.ece",
+      "subject": "Polity & Governance",
       "secondarySubject": "Economy",
       "tags": [
-        "Geography"
+        "Polity & Governance"
       ],
-      "relevanceScore": 3
+      "relevanceScore": 2
     },
     {
-      "id": "ca-1786003200235-fgbrau",
+      "id": "ca-1786017600075-rfy5zx",
       "title": "Hiroshima marks 81st atomic bomb anniversary as Mayor deplores pursuit of nuclear weapons",
-      "content": "Prime Minister Sanae Takaichi, who attended the memorial for the first time as Prime Minister, said she will take \u201ca realistic approach\u201d toward achieving a world where nuclear weapons are never used, within the framework of the United Nations' treaty to prevent the spread of nuclear weapons",
+      "content": "Prime Minister Sanae Takaichi, who attended the memorial for the first time as Prime Minister, said she will take “a realistic approach” toward achieving a world where nuclear weapons are never used, within the framework of the United Nations' treaty to prevent the spread of nuclear weapons",
       "source": "The Hindu (International)",
       "tier": 1,
-      "date": "2026-08-06T05:18:05.000Z",
+      "date": "2026-08-06T08:21:50.000Z",
       "link": "https://www.thehindu.com/news/international/hiroshima-marks-81st-atomic-bomb-anniversary-as-mayor-deplores-pursuit-of-nuclear-weapons/article71312178.ece",
       "subject": "International Relations",
       "secondarySubject": null,
@@ -762,22 +688,7 @@
       "relevanceScore": 2
     },
     {
-      "id": "ca-1786003200354-3fvewz",
-      "title": "Parliament Monsoon Session Day 14 Live: \u2018Disruption is part of democracy,\u2019 says Kharge as Rijiju cites Rajya Sabha rules",
-      "content": "",
-      "source": "Indian Express (India)",
-      "tier": 1,
-      "date": "2026-08-06T04:54:59.000Z",
-      "link": "https://indianexpress.com/article/india/parliament-monsoon-session-day-14-live-lok-sabha-to-take-up-new-law-for-changes-to-income-tax-10820036/",
-      "subject": "Polity & Governance",
-      "secondarySubject": "Environment & Ecology",
-      "tags": [
-        "Polity & Governance"
-      ],
-      "relevanceScore": 2
-    },
-    {
-      "id": "ca-1786003200321-cp4f1c",
+      "id": "ca-1786017600111-yeqvc3",
       "title": "Highs and lows: On GST metrics",
       "content": "GST must be fuelled by domestic production, not inflation or imports",
       "source": "The Hindu (Economy)",
@@ -792,7 +703,7 @@
       "relevanceScore": 3
     },
     {
-      "id": "ca-1786003200235-jvu9k8",
+      "id": "ca-1786017600076-hjidns",
       "title": "Collapse of rules-based order calls for total ban on nuclear weapons",
       "content": "Eighty-one years since the U.S. dropped an atom bomb on Hiroshima, the world seems to be on the brink of a similar mistake",
       "source": "The Hindu (International)",
@@ -807,8 +718,8 @@
       "relevanceScore": 2
     },
     {
-      "id": "ca-1786003200383-g7fz83",
-      "title": "Money Bill passed to increase judges\u2019 number: Why this route faces legal challenge",
+      "id": "ca-1786017600173-f726ih",
+      "title": "Money Bill passed to increase judges’ number: Why this route faces legal challenge",
       "content": "",
       "source": "Indian Express (Explained)",
       "tier": 1,
@@ -822,7 +733,7 @@
       "relevanceScore": 2
     },
     {
-      "id": "ca-1786003200355-lvn3el",
+      "id": "ca-1786017600147-tazygy",
       "title": "Rajya Sabha passes judges Bill; Opposition raises ordinance route, diversity deficit",
       "content": "",
       "source": "Indian Express (India)",
@@ -837,24 +748,24 @@
       "relevanceScore": 3
     },
     {
-      "id": "ca-1786003200275-hl75vy",
-      "title": "SpaceX rocket stage believed to have slammed into Moon",
-      "content": "While there is not yet official confirmation that the Falcon 9 upper stage struck the lunar surface, it had been expected to make impact at approximately 0635 GMT",
-      "source": "The Hindu (Science)",
+      "id": "ca-1786017600173-5wsdct",
+      "title": "27,000 in flood relief camps: How one climate disaster in Kerala is worsening the next",
+      "content": "",
+      "source": "Indian Express (Explained)",
       "tier": 1,
-      "date": "2026-08-05T14:16:38.000Z",
-      "link": "https://www.thehindu.com/sci-tech/science/spacex-rocket-stage-believed-to-have-slammed-into-moon/article71309751.ece",
-      "subject": "Science & Technology",
-      "secondarySubject": null,
+      "date": "2026-08-05T11:08:53.000Z",
+      "link": "https://indianexpress.com/article/explained/explained-climate/kerala-floods-explained-silted-rivers-wetlands-10819189/",
+      "subject": "Environment & Ecology",
+      "secondarySubject": "Geography",
       "tags": [
-        "Science & Technology"
+        "Environment & Ecology"
       ],
       "relevanceScore": 2
     },
     {
-      "id": "ca-1786003200321-b8ljhs",
+      "id": "ca-1786017600111-2ik0j1",
       "title": "RBI to issue polymer currency notes from beginning of next fiscal: Governor Sanjay Malhotra",
-      "content": "\u201cWe are still at a pilot [stage]. We will test, check as to how they [the polymer notes] perform in the Indian condition, climate and other infrastructure we have put in place,\u201d Sanjay Malhotra said",
+      "content": "“We are still at a pilot [stage]. We will test, check as to how they [the polymer notes] perform in the Indian condition, climate and other infrastructure we have put in place,” Sanjay Malhotra said",
       "source": "The Hindu (Economy)",
       "tier": 1,
       "date": "2026-08-05T09:50:15.000Z",
@@ -867,7 +778,7 @@
       "relevanceScore": 2
     },
     {
-      "id": "ca-1786003200321-ywdoo7",
+      "id": "ca-1786017600111-sx3k8h",
       "title": "RBI MPC keeps policy rate unchanged at 5.25%",
       "content": "The higher inflation is mostly on account of fuel and food, with little signs of generalisation of price pressures so far, the Monetary Policy Committee observed",
       "source": "The Hindu (Economy)",
@@ -882,7 +793,7 @@
       "relevanceScore": 3
     },
     {
-      "id": "ca-1786003200321-m4i5pf",
+      "id": "ca-1786017600112-40h850",
       "title": "RBI launches 3 key surveys to get input for monetary policy",
       "content": "The RBI also announced the launch of 'the July 2026 round of the Rural Consumer Confidence Survey'",
       "source": "The Hindu (Economy)",
@@ -897,7 +808,7 @@
       "relevanceScore": 2
     },
     {
-      "id": "ca-1786003200383-qib4em",
+      "id": "ca-1786017600173-luj89s",
       "title": "Why RBI kept repo rate unchanged at 5.25% despite inflation concerns",
       "content": "",
       "source": "Indian Express (Explained)",
@@ -912,7 +823,7 @@
       "relevanceScore": 2
     },
     {
-      "id": "ca-1786003200322-6br8di",
+      "id": "ca-1786017600112-a3gwm0",
       "title": "Govt introduces Bill aimed at easing doing business, attracting FDI & enhancing Make in India",
       "content": "The Taxation and Other Laws (Amendment) Bill, 2026 will amend the Payment and Settlement Systems Act, 2007, Income-tax Act, 2025, and the Finance Act, 2026.",
       "source": "The Hindu (Economy)",
@@ -927,7 +838,7 @@
       "relevanceScore": 2
     },
     {
-      "id": "ca-1786003200383-kpdiek",
+      "id": "ca-1786017600174-2nz70r",
       "title": "ExplainSpeaking: How RBI decides to do, or not do, anything in its monetary policy review",
       "content": "",
       "source": "Indian Express (Explained)",
@@ -942,29 +853,14 @@
       "relevanceScore": 2
     },
     {
-      "id": "ca-1786003200276-5i3i4r",
-      "title": "As SpaceX rocket stage is about to hit moon, astronomers prepare",
-      "content": "The rocket stage is currently expected to hit near Einstein crater on the moon on August 5 at 12:05 pm IST",
-      "source": "The Hindu (Science)",
-      "tier": 1,
-      "date": "2026-08-04T06:10:07.000Z",
-      "link": "https://www.thehindu.com/sci-tech/science/astronomers-prepare-as-spacex-rocket-stage-nears-moon-strike/article71303796.ece",
-      "subject": "Science & Technology",
-      "secondarySubject": null,
-      "tags": [
-        "Science & Technology"
-      ],
-      "relevanceScore": 2
-    },
-    {
-      "id": "ca-1786003200276-kkec0m",
+      "id": "ca-1786017600093-vvkbep",
       "title": "Why lab-grown diamonds are a sustainable alternative to mined stones",
       "content": "Natural diamond mining is facing dwindling supplies while remaining associated with environmental damage, forced labour, conflict and pollution; lab-grown diamonds offer a more affordable, traceable and sustainable alternative, with India investing in indigenous production and research",
       "source": "The Hindu (Science)",
       "tier": 1,
       "date": "2026-08-03T18:05:39.000Z",
       "link": "https://www.thehindu.com/sci-tech/science/why-lab-grown-diamonds-are-a-sustainable-alternative-to-mined-stones/article71301201.ece",
-      "subject": "Geography",
+      "subject": "Science & Technology",
       "secondarySubject": "Economy",
       "tags": [
         "Geography"
@@ -972,9 +868,9 @@
       "relevanceScore": 2
     },
     {
-      "id": "ca-1786003200322-qbuvio",
+      "id": "ca-1786017600112-1k9mb5",
       "title": "India's manufacturing sector activity growth falls to 5-year low in July amid challenging market condition: PMI",
-      "content": "The HSBC India Manufacturing Purchasing Managers\u2019 Index (PMI) is a gauge of overall conditions derived from measures of new orders, output, employment, supplier delivery times and stocks of purchases.",
+      "content": "The HSBC India Manufacturing Purchasing Managers’ Index (PMI) is a gauge of overall conditions derived from measures of new orders, output, employment, supplier delivery times and stocks of purchases.",
       "source": "The Hindu (Economy)",
       "tier": 1,
       "date": "2026-08-03T16:22:49.000Z",
@@ -987,7 +883,7 @@
       "relevanceScore": 3
     },
     {
-      "id": "ca-1786003200322-b30zu8",
+      "id": "ca-1786017600112-1uxh1u",
       "title": "Government proposes to ease tax relief conditions for offshore funds",
       "content": "The Bill, which has been circulated by the Government among the members of Parliament, is expected to be introduced by Finance Minister Nirmala Sitharaman in the Lok Sabha soon.",
       "source": "The Hindu (Economy)",
@@ -1002,9 +898,9 @@
       "relevanceScore": 2
     },
     {
-      "id": "ca-1786003200276-3r205h",
+      "id": "ca-1786017600093-zhr7zd",
       "title": "ISRO issues memo to curb exodus of scientists and engineers from Gaganyaan and other key missions",
-      "content": "Won\u2019t accept any request for voluntary retirement or resignation from scientific and technical personnel of Group \u2018A\u2019 associated with the Gaganyaan, or other important missions or projects till their realisation",
+      "content": "Won’t accept any request for voluntary retirement or resignation from scientific and technical personnel of Group ‘A’ associated with the Gaganyaan, or other important missions or projects till their realisation",
       "source": "The Hindu (Science)",
       "tier": 1,
       "date": "2026-08-03T08:08:40.000Z",
@@ -1017,9 +913,9 @@
       "relevanceScore": 2
     },
     {
-      "id": "ca-1786003200276-hnz1t8",
+      "id": "ca-1786017600094-5p583x",
       "title": "Science must become priority of space missions, we need more money for it: ISRO chief Somanath",
-      "content": "ISRO chief says the agency\u2019s role is to mentor and develop the industry ecosystem in India, and the new space policy will aid private companies",
+      "content": "ISRO chief says the agency’s role is to mentor and develop the industry ecosystem in India, and the new space policy will aid private companies",
       "source": "The Hindu (Science)",
       "tier": 1,
       "date": "2026-08-03T07:58:16.000Z",
@@ -1032,14 +928,14 @@
       "relevanceScore": 2
     },
     {
-      "id": "ca-1786003200322-sdnjfe",
+      "id": "ca-1786017600112-77gn5h",
       "title": "Coal production increased 7.5% in July, dispatches surge 17.3% on higher power demand",
-      "content": "India\u2019s consumption of power rose in July owing to lower-than-normal monsoons",
+      "content": "India’s consumption of power rose in July owing to lower-than-normal monsoons",
       "source": "The Hindu (Economy)",
       "tier": 1,
       "date": "2026-08-02T10:37:46.000Z",
       "link": "https://www.thehindu.com/business/Economy/coal-production-increased-75-in-july-dispatches-surge-173-on-higher-power-demand/article71297444.ece",
-      "subject": "Geography",
+      "subject": "Economy",
       "secondarySubject": "Environment & Ecology",
       "tags": [
         "Geography"
@@ -1047,9 +943,9 @@
       "relevanceScore": 2
     },
     {
-      "id": "ca-1786003200322-x89dw4",
-      "title": "India\u2019s balancing act to attract more investment from China, U.S. and boost trade",
-      "content": "This balancing act has seen gradual and incremental relaxations in several long-held policies of the government \u2014 whether it has to do with FDI in e-commerce, allowing FDI from companies with Chinese ownership, or taking action against the dumping of goods in India by its trade partners.",
+      "id": "ca-1786017600113-lh0y31",
+      "title": "India’s balancing act to attract more investment from China, U.S. and boost trade",
+      "content": "This balancing act has seen gradual and incremental relaxations in several long-held policies of the government — whether it has to do with FDI in e-commerce, allowing FDI from companies with Chinese ownership, or taking action against the dumping of goods in India by its trade partners.",
       "source": "The Hindu (Economy)",
       "tier": 1,
       "date": "2026-08-01T13:38:15.000Z",
@@ -1062,7 +958,7 @@
       "relevanceScore": 2
     },
     {
-      "id": "ca-1786003200406-nue9mp",
+      "id": "ca-1786017600198-6aqhjz",
       "title": "RBI has a playbook for a stronger rupee",
       "content": "",
       "source": "Indian Express (Opinion)",
@@ -1077,9 +973,9 @@
       "relevanceScore": 2
     },
     {
-      "id": "ca-1786003201101-s9m7rm",
+      "id": "ca-1786017600893-hwjvzy",
       "title": "Centre sustains capex push in Q1 despite global trade disruptions, geopolitical uncertainty",
-      "content": "The infrastructure-led growth strategy has remained at the centre of India\u2019s fiscal policy over the past several years and economists assert that public investment in productive assets has a larger multiplier effect than revenue spending.",
+      "content": "The infrastructure-led growth strategy has remained at the centre of India’s fiscal policy over the past several years and economists assert that public investment in productive assets has a larger multiplier effect than revenue spending.",
       "source": "LiveMint (Economy)",
       "tier": 2,
       "date": "2026-08-05T16:05:50.000Z",
@@ -1092,8 +988,8 @@
       "relevanceScore": 3
     },
     {
-      "id": "ca-1786003200406-259wli",
-      "title": "RBI sees inflation risks \u2014 but growth comes first",
+      "id": "ca-1786017600198-dvdjmh",
+      "title": "RBI sees inflation risks — but growth comes first",
       "content": "",
       "source": "Indian Express (Opinion)",
       "tier": 2,
@@ -1107,7 +1003,7 @@
       "relevanceScore": 2
     },
     {
-      "id": "ca-1786003201101-uzedmq",
+      "id": "ca-1786017600893-w4s5an",
       "title": "RBI to let special forex deposit window close on schedule despite strong flows, sees healthy BoP surplus in FY27",
       "content": "Governor Sanjay Malhotra said $40.8 billion in rapid dollar inflows have fortified external buffers, boosting confidence in the rupee and expanding the FY27 balance of payments outlook.",
       "source": "LiveMint (Economy)",
@@ -1123,22 +1019,7 @@
       "relevanceScore": 5
     },
     {
-      "id": "ca-1786003201101-g81oli",
-      "title": "Yen at 40-year low reveals Japan\u2019s deepening monetary policy constraints",
-      "content": "Driven by interest rate gaps, high energy import costs, and massive national debt, the Japanese yen has fallen to historic lows, limiting Tokyo's ability to raise rates to defend it.",
-      "source": "LiveMint (Economy)",
-      "tier": 2,
-      "date": "2026-08-05T05:45:44.000Z",
-      "link": "https://www.livemint.com/economy/japanese-yen-japan-bank-of-japan-boj-us-federal-reserve-us-dollar-dollar-yen-exchange-rate-carry-trade-11785902945630.html",
-      "subject": "Economy",
-      "secondarySubject": null,
-      "tags": [
-        "Economy"
-      ],
-      "relevanceScore": 2
-    },
-    {
-      "id": "ca-1786003201101-jdadvk",
+      "id": "ca-1786017600893-6bnhw1",
       "title": "Mint Explainer | What is fuelling the surge in GST collections?",
       "content": "GST collections have grown faster than nominal GDP in recent years, reflecting not only higher economic activity but also improvements in tax administration.",
       "source": "LiveMint (Economy)",
@@ -1153,7 +1034,7 @@
       "relevanceScore": 2
     },
     {
-      "id": "ca-1786003201102-8zf9if",
+      "id": "ca-1786017600894-jyh104",
       "title": "India's manufacturing activity slips to near five-year low in July but signals solid growth",
       "content": "A sharp moderation in new orders curbed input purchasing, even as export demand strengthened and inflationary pressures moderated, showed HSBC India Manufacturing PMI&nbsp;",
       "source": "LiveMint (Economy)",
@@ -1168,9 +1049,9 @@
       "relevanceScore": 2
     },
     {
-      "id": "ca-1786003201102-hb2oix",
+      "id": "ca-1786017600894-snpxz8",
       "title": "Will a repo rate pause make RBI fall behind the curve?",
-      "content": "Facing rising inflation risks from the West Asia war and El Ni\u00f1o, the RBI faces dilemma over whether to hold repo rates or hike them to curb mounting price pressures.",
+      "content": "Facing rising inflation risks from the West Asia war and El Niño, the RBI faces dilemma over whether to hold repo rates or hike them to curb mounting price pressures.",
       "source": "LiveMint (Economy)",
       "tier": 2,
       "date": "2026-08-03T04:29:59.000Z",
@@ -1183,7 +1064,7 @@
       "relevanceScore": 2
     },
     {
-      "id": "ca-1786003201102-5uzq3k",
+      "id": "ca-1786017600894-0puoub",
       "title": "RBI set to hold rates on 5 Aug as global risks cloud outlook: Mint poll",
       "content": "Economists expect the RBI to keep the repo rate and policy stance unchanged, with markets watching its guidance on inflation, growth, the rupee and the timing of any future rate moves.",
       "source": "LiveMint (Economy)",
@@ -1198,17 +1079,47 @@
       "relevanceScore": 3
     },
     {
-      "id": "ca-1786003201102-3gpicj",
+      "id": "ca-1786017600894-zittje",
       "title": "Viksit Bharat 2047 under threat? World Bank says extreme heat costs South Asia 31 million jobs every year",
-      "content": "Without adaptation, the report said, rising heat could leave South Asia's GDP close to 7 per cent smaller by 2050\u2014the steepest projected loss of any developing region in the world.",
+      "content": "Without adaptation, the report said, rising heat could leave South Asia's GDP close to 7 per cent smaller by 2050—the steepest projected loss of any developing region in the world.",
       "source": "LiveMint (Economy)",
       "tier": 2,
       "date": "2026-08-01T10:40:39.000Z",
       "link": "https://www.livemint.com/economy/viksit-bharat-2047-under-threat-world-bank-says-extreme-heat-costs-south-asia-31-million-jobs-every-year-11785577550033.html",
-      "subject": "Economy",
+      "subject": "Environment & Ecology",
       "secondarySubject": "History & Culture",
       "tags": [
         "Economy"
+      ],
+      "relevanceScore": 2
+    },
+    {
+      "id": "ca-1786017601205-39lf9v",
+      "title": "Tax Amendment Bill Explained: FDI Push, Jobs, UPI Charges. What Changes?",
+      "content": "The amendments in the new Bill point towards a policy objective of attracting global capital and business activity into India, say experts.",
+      "source": "NDTV",
+      "tier": 3,
+      "date": "2026-08-06T09:32:04.000Z",
+      "link": "https://www.ndtv.com/business-news/tax-amendment-bill-explained-lok-sabha-fdi-foreign-investment-jobs-upi-charges-11873939#publisher=newsstand",
+      "subject": "Economy",
+      "secondarySubject": "Polity & Governance",
+      "tags": [
+        "Economy"
+      ],
+      "relevanceScore": 2
+    },
+    {
+      "id": "ca-1786018753555-6hpkh2",
+      "title": "Tenure of coastal police wardens extended",
+      "content": "These wardens were drawn from the fishing community and they had played an indispensable role in rescuing people from accidents at sea and during other maritime emergencies.",
+      "source": "The Hindu (National)",
+      "tier": 1,
+      "date": "2026-08-06T12:12:43.000Z",
+      "link": "https://www.thehindu.com/news/national/kerala/tenure-of-coastal-police-wardens-extended/article71313369.ece",
+      "subject": "Security & Defense",
+      "secondarySubject": "Geography",
+      "tags": [
+        "Security & Defense"
       ],
       "relevanceScore": 2
     }

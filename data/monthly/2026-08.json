@@ -259,21 +259,6 @@
       "relevanceScore": 2
     },
     {
-      "id": "ca-1785929470952-u0y4f3",
-      "title": "As SpaceX rocket stage is about to hit moon, astronomers prepare",
-      "content": "The rocket stage is currently expected to hit near Einstein crater on the moon on August 5 at 12:05 pm IST",
-      "source": "The Hindu (Science)",
-      "tier": 1,
-      "date": "2026-08-04T06:10:07.000Z",
-      "link": "https://www.thehindu.com/sci-tech/science/astronomers-prepare-as-spacex-rocket-stage-nears-moon-strike/article71303796.ece",
-      "subject": "Science & Technology",
-      "secondarySubject": null,
-      "tags": [
-        "Science & Technology"
-      ],
-      "relevanceScore": 2
-    },
-    {
       "id": "ca-1785929470952-c3v0f8",
       "title": "Why lab-grown diamonds are a sustainable alternative to mined stones",
       "content": "Natural diamond mining is facing dwindling supplies while remaining associated with environmental damage, forced labour, conflict and pollution; lab-grown diamonds offer a more affordable, traceable and sustainable alternative, with India investing in indigenous production and research",
@@ -281,7 +266,7 @@
       "tier": 1,
       "date": "2026-08-03T18:05:39.000Z",
       "link": "https://www.thehindu.com/sci-tech/science/why-lab-grown-diamonds-are-a-sustainable-alternative-to-mined-stones/article71301201.ece",
-      "subject": "Geography",
+      "subject": "Science & Technology",
       "secondarySubject": "Economy",
       "tags": [
         "Geography"
@@ -356,7 +341,7 @@
       "tier": 1,
       "date": "2026-08-02T10:37:46.000Z",
       "link": "https://www.thehindu.com/business/Economy/coal-production-increased-75-in-july-dispatches-surge-173-on-higher-power-demand/article71297444.ece",
-      "subject": "Geography",
+      "subject": "Economy",
       "secondarySubject": "Environment & Ecology",
       "tags": [
         "Geography"
@@ -422,21 +407,6 @@
         "Geography"
       ],
       "relevanceScore": 3
-    },
-    {
-      "id": "ca-1785929472503-fut00y",
-      "title": "Yen at 40-year low reveals Japan’s deepening monetary policy constraints",
-      "content": "Driven by interest rate gaps, high energy import costs, and massive national debt, the Japanese yen has fallen to historic lows, limiting Tokyo's ability to raise rates to defend it.",
-      "source": "LiveMint (Economy)",
-      "tier": 2,
-      "date": "2026-08-05T05:45:44.000Z",
-      "link": "https://www.livemint.com/economy/japanese-yen-japan-bank-of-japan-boj-us-federal-reserve-us-dollar-dollar-yen-exchange-rate-carry-trade-11785902945630.html",
-      "subject": "Economy",
-      "secondarySubject": null,
-      "tags": [
-        "Economy"
-      ],
-      "relevanceScore": 2
     },
     {
       "id": "ca-1785929472503-gait6l",
@@ -506,7 +476,7 @@
       "tier": 2,
       "date": "2026-08-01T10:40:39.000Z",
       "link": "https://www.livemint.com/economy/viksit-bharat-2047-under-threat-world-bank-says-extreme-heat-costs-south-asia-31-million-jobs-every-year-11785577550033.html",
-      "subject": "Economy",
+      "subject": "Environment & Ecology",
       "secondarySubject": "History & Culture",
       "tags": [
         "Economy"
@@ -601,21 +571,6 @@
       "secondarySubject": "Economy",
       "tags": [
         "International Relations"
-      ],
-      "relevanceScore": 2
-    },
-    {
-      "id": "ca-1785929473039-z4i9lf",
-      "title": "Parliament Monsoon Session 2026 LIVE Updates: Lok Sabha Adjourned For Day",
-      "content": "Parliament Monsoon Session 2026 LIVE Updates: Union Finance Minister Nirmala Sitharaman moved The Bankers' Books Evidence Bill, 2026 in Lok Sabha.",
-      "source": "NDTV",
-      "tier": 3,
-      "date": "2026-08-05T09:03:20.000Z",
-      "link": "https://www.ndtv.com/india-news/parliament-monsoon-session-2026-live-updates-lok-sabha-rajya-sabha-proceedings-key-bills-and-opposition-protest-11867302#publisher=newsstand",
-      "subject": "Polity & Governance",
-      "secondarySubject": "Environment & Ecology",
-      "tags": [
-        "Polity & Governance"
       ],
       "relevanceScore": 2
     },
@@ -875,21 +830,6 @@
       "secondarySubject": "Geography",
       "tags": [
         "Environment & Ecology"
-      ],
-      "relevanceScore": 2
-    },
-    {
-      "id": "ca-1785940278823-uyyhbi",
-      "title": "SpaceX rocket stage believed to have slammed into Moon",
-      "content": "While there is not yet official confirmation that the Falcon 9 upper stage struck the lunar surface, it had been expected to make impact at approximately 0635 GMT",
-      "source": "The Hindu (Science)",
-      "tier": 1,
-      "date": "2026-08-05T14:16:38.000Z",
-      "link": "https://www.thehindu.com/sci-tech/science/spacex-rocket-stage-believed-to-have-slammed-into-moon/article71309751.ece",
-      "subject": "Science & Technology",
-      "secondarySubject": null,
-      "tags": [
-        "Science & Technology"
       ],
       "relevanceScore": 2
     },
@@ -1194,21 +1134,6 @@
       "relevanceScore": 2
     },
     {
-      "id": "ca-1785996894284-h4j5zj",
-      "title": "Parliament Monsoon Session Day 14 Live: Lok Sabha to take up new law for changes to Income Tax",
-      "content": "",
-      "source": "Indian Express (India)",
-      "tier": 1,
-      "date": "2026-08-06T04:54:59.000Z",
-      "link": "https://indianexpress.com/article/india/parliament-monsoon-session-day-14-live-lok-sabha-to-take-up-new-law-for-changes-to-income-tax-10820036/",
-      "subject": "Polity & Governance",
-      "secondarySubject": "Environment & Ecology",
-      "tags": [
-        "Polity & Governance"
-      ],
-      "relevanceScore": 2
-    },
-    {
       "id": "ca-1785996894229-st01uy",
       "title": "Highs and lows: On GST metrics",
       "content": "GST must be fuelled by domestic production, not inflation or imports",
@@ -1435,21 +1360,6 @@
       "relevanceScore": 3
     },
     {
-      "id": "ca-1786000452847-xoztwc",
-      "title": "Parliament Monsoon Session Day 14 Live: ‘Disruption is part of democracy,’ says Kharge as Rijiju cites Rajya Sabha rules",
-      "content": "",
-      "source": "Indian Express (India)",
-      "tier": 1,
-      "date": "2026-08-06T04:54:59.000Z",
-      "link": "https://indianexpress.com/article/india/parliament-monsoon-session-day-14-live-lok-sabha-to-take-up-new-law-for-changes-to-income-tax-10820036/",
-      "subject": "Polity & Governance",
-      "secondarySubject": "Environment & Ecology",
-      "tags": [
-        "Polity & Governance"
-      ],
-      "relevanceScore": 2
-    },
-    {
       "id": "ca-1786000454762-mhjbf8",
       "title": "Kerala Man Killed In Dubai Blast. He Was Planning To Bring Wife To UAE",
       "content": "The Indian consulate in Dubai confirmed Paul's death and said it was in touch with his family and local authorities to facilitate the repatriation of his mortal remains",
@@ -1523,8 +1433,143 @@
         "Geography"
       ],
       "relevanceScore": 2
+    },
+    {
+      "id": "ca-1786017600050-njyvuf",
+      "title": "Centre passes buck to M.P. govt. over tribals’ displacement due to Ken-Betwa project",
+      "content": "This comes even as locals and tribal communities in the State’s Chhatarpur district have been protesting against the project for months, accusing authorities of forcibly evicting families even before the full compensation process has been completed",
+      "source": "The Hindu (National)",
+      "tier": 1,
+      "date": "2026-08-06T11:54:45.000Z",
+      "link": "https://www.thehindu.com/news/national/centre-passes-buck-to-mp-govt-over-tribals-displacement-due-to-ken-betwa-project/article71313152.ece",
+      "subject": "Social Issues",
+      "secondarySubject": "Security & Defense",
+      "tags": [
+        "International Relations"
+      ],
+      "relevanceScore": 2
+    },
+    {
+      "id": "ca-1786017600050-ukdmrm",
+      "title": "Gauhati High Court seeks status quo on encroachment in Manas Tiger Reserve",
+      "content": "One of the major encroachers is a seed farm under the Bodoland Territorial Council’s Agriculture Department, the petition by green activist Rohit Choudhury says",
+      "source": "The Hindu (National)",
+      "tier": 1,
+      "date": "2026-08-06T11:53:44.000Z",
+      "link": "https://www.thehindu.com/news/national/assam/gauhati-high-court-seeks-status-quo-on-encroachment-in-manas-tiger-reserve/article71312943.ece",
+      "subject": "Environment & Ecology",
+      "secondarySubject": "Polity & Governance",
+      "tags": [
+        "Environment & Ecology"
+      ],
+      "relevanceScore": 2
+    },
+    {
+      "id": "ca-1786017600051-f2m4z0",
+      "title": "Tamil Nadu Budget 2026: TN-SHORE project offers fillip to mangrove afforestation, restoration in Kanniyakumari",
+      "content": "The mangrove ecosystem at Manakudy estuary is a vital ecological habitat, supporting a rich diversity of aquatic species while serving as a seasonal refuge for several local and migratory birds.",
+      "source": "The Hindu (National)",
+      "tier": 1,
+      "date": "2026-08-06T11:53:41.000Z",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-budget-2026-tn-shore-project-offers-fillip-to-mangrove-afforestation-restoration-in-kanniyakumari/article71309832.ece",
+      "subject": "Environment & Ecology",
+      "secondarySubject": "Polity & Governance",
+      "tags": [
+        "Environment & Ecology"
+      ],
+      "relevanceScore": 3
+    },
+    {
+      "id": "ca-1786017600051-5zya4j",
+      "title": "Tamil Nadu Budget launches CM’s integrated urban mission to reshape cities in State by 2031",
+      "content": "According to the Budget, the Mission will bring under one roof urban infrastructure, water supply, underground sewerage system, integrated solid waste management, city roads, urban transport, expansion of green spaces, protection of urban waterbodies.",
+      "source": "The Hindu (National)",
+      "tier": 1,
+      "date": "2026-08-06T11:39:33.000Z",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-budget-launches-2117-crore-cms-integrated-urban-mission-to-reshape-cities-by-2031/article71309594.ece",
+      "subject": "Polity & Governance",
+      "secondarySubject": "International Relations",
+      "tags": [
+        "Economy"
+      ],
+      "relevanceScore": 2
+    },
+    {
+      "id": "ca-1786017600051-z1ibxo",
+      "title": "Bombay HC clarifies PoP idol immersion case limited to environmental impact",
+      "content": "Court states litigation does not seek to interfere with religious practices; when the Bench asked the counsel if he could place any old Hindu scripture that mandated an idol of Ganesh must be made of PoP, he responded that when the scriptures were being written, PoP was not discovered",
+      "source": "The Hindu (National)",
+      "tier": 1,
+      "date": "2026-08-06T11:31:40.000Z",
+      "link": "https://www.thehindu.com/news/national/bombay-hc-clarifies-pop-idol-immersion-case-limited-to-environmental-impact/article71312665.ece",
+      "subject": "Environment & Ecology",
+      "secondarySubject": null,
+      "tags": [
+        "International Relations"
+      ],
+      "relevanceScore": 2
+    },
+    {
+      "id": "ca-1786017600051-r0lt3m",
+      "title": "Lok Sabha passes Bill to authorise Govt. to permit banks to levy charges on UPI transactions",
+      "content": "The Taxation and other Laws (Amendment) Bill was passed without a debate due to persistent sloganeering by the Opposition over various issues",
+      "source": "The Hindu (National)",
+      "tier": 1,
+      "date": "2026-08-06T11:29:38.000Z",
+      "link": "https://www.thehindu.com/news/national/parliament-monsoon-session-lok-sabha-clears-bills-taxation-upi-transactions-charges/article71313208.ece",
+      "subject": "Polity & Governance",
+      "secondarySubject": "Economy",
+      "tags": [
+        "Polity & Governance"
+      ],
+      "relevanceScore": 2
+    },
+    {
+      "id": "ca-1786017600173-5wsdct",
+      "title": "27,000 in flood relief camps: How one climate disaster in Kerala is worsening the next",
+      "content": "",
+      "source": "Indian Express (Explained)",
+      "tier": 1,
+      "date": "2026-08-05T11:08:53.000Z",
+      "link": "https://indianexpress.com/article/explained/explained-climate/kerala-floods-explained-silted-rivers-wetlands-10819189/",
+      "subject": "Environment & Ecology",
+      "secondarySubject": "Geography",
+      "tags": [
+        "Environment & Ecology"
+      ],
+      "relevanceScore": 2
+    },
+    {
+      "id": "ca-1786017601205-39lf9v",
+      "title": "Tax Amendment Bill Explained: FDI Push, Jobs, UPI Charges. What Changes?",
+      "content": "The amendments in the new Bill point towards a policy objective of attracting global capital and business activity into India, say experts.",
+      "source": "NDTV",
+      "tier": 3,
+      "date": "2026-08-06T09:32:04.000Z",
+      "link": "https://www.ndtv.com/business-news/tax-amendment-bill-explained-lok-sabha-fdi-foreign-investment-jobs-upi-charges-11873939#publisher=newsstand",
+      "subject": "Economy",
+      "secondarySubject": "Polity & Governance",
+      "tags": [
+        "Economy"
+      ],
+      "relevanceScore": 2
+    },
+    {
+      "id": "ca-1786018753555-6hpkh2",
+      "title": "Tenure of coastal police wardens extended",
+      "content": "These wardens were drawn from the fishing community and they had played an indispensable role in rescuing people from accidents at sea and during other maritime emergencies.",
+      "source": "The Hindu (National)",
+      "tier": 1,
+      "date": "2026-08-06T12:12:43.000Z",
+      "link": "https://www.thehindu.com/news/national/kerala/tenure-of-coastal-police-wardens-extended/article71313369.ece",
+      "subject": "Security & Defense",
+      "secondarySubject": "Geography",
+      "tags": [
+        "Security & Defense"
+      ],
+      "relevanceScore": 2
     }
   ],
-  "lastUpdated": "2026-08-06T08:00:01.463Z",
-  "totalArticles": 101
+  "lastUpdated": "2026-08-06T12:35:48.270Z",
+  "totalArticles": 104
 }
