@@ -587,3 +587,11 @@ app.post('/api/profiles/:name/reset', (req, res) => {
     fs.writeFileSync(profilePath, JSON.stringify(data, null, 2));
     res.json({ success: true });
 });
+
+app.delete('/api/profiles/:name', (req, res) => {
+    const safeName = req.params.name.toLowerCase().replace(/[^a-z0-9]/g, '-');
+    const profilePath = path.join(__dirname, 'data', 'profiles', `${safeName}.json`);
+    if (!fs.existsSync(profilePath)) return res.status(404).json({ error: 'Profile not found' });
+    fs.unlinkSync(profilePath);
+    res.json({ success: true, deleted: safeName });
+});

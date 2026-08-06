@@ -276,7 +276,7 @@ function CurrentAffairsMode() {
                             <p style={{color:'#64748b',fontSize:'0.75rem',marginTop:'4px'}}>Source: {a.source}</p>
                             <div style={{marginTop:'8px'}}>
                                 {a.link && <a href={a.link} target="_blank" rel="noopener" style={{color:'#60a5fa',fontSize:'0.8rem',marginRight:'12px'}}>Read full →</a>}
-                                <span style={{color: '#f97316',fontSize:'0.8rem',cursor:'pointer'}} onClick={(e) => {e.stopPropagation(); bookmarkAPI({id:a.id,type:'article',subject:a.subject,title:a.title,content:a.content,source:a.source}); e.target.textContent='✅ Bookmarked'}}>🔖 Bookmark</span>
+                                <span style={{color: '#f97316',fontSize:'0.8rem',cursor:'pointer'}} onClick={(e) => {e.stopPropagation(); bookmarkAPI({id:a.id,type:'article',subject:a.subject,title:a.title,content:a.content,source:a.source,link:a.link}); e.target.textContent='✅ Bookmarked'}}>🔖 Bookmark</span>
                             </div>
                         </div>
                     ) : <p style={{color:'#94a3b8',fontSize:'0.85rem',overflow:'hidden',textOverflow:'ellipsis',whiteSpace:'nowrap'}}>{a.content}</p>}
@@ -463,8 +463,10 @@ function RevisionMode() {
                             <span style={{color:'#ef4444',cursor:'pointer',fontSize:'0.8rem'}} onClick={() => {removeBookmarkAPI(b.id); reload();}}>Remove ✕</span>
                         </div>
                         <p style={{color:'#f1f5f9',fontSize:'0.95rem'}}>{b.question || b.title}</p>
-                        {b.content && <p style={{color:'#94a3b8',fontSize:'0.85rem',marginTop:'8px'}}>{b.content}</p>}
+                        {b.content && <p style={{color:'#94a3b8',fontSize:'0.85rem',marginTop:'8px',lineHeight:'1.5'}}>{b.content}</p>}
                         {b.explanation && <p style={{color:'#cbd5e1',fontSize:'0.85rem',marginTop:'8px',fontStyle:'italic'}}>{b.explanation}</p>}
+                        {b.source && <p style={{color:'#64748b',fontSize:'0.75rem',marginTop:'6px'}}>Source: {b.source}</p>}
+                        {b.link && <a href={b.link} target="_blank" rel="noopener" style={{color:'#60a5fa',fontSize:'0.8rem',marginTop:'6px',display:'inline-block'}}>Read full article →</a>}
                     </div>
                 ))}
                 {bookmarks.length === 0 && <p className="empty-msg">No bookmarks yet. Use 🔖 while practicing to save items.</p>}
@@ -779,18 +781,21 @@ ReactDOM.createRoot(document.getElementById('app')).render(<App />);
                             ${profiles.map(p => {
                                 const displayName = p.charAt(0).toUpperCase() + p.slice(1).replace(/-/g, ' ');
                                 const isLast = (p === savedProfile);
-                                return `<button class="profile-select-btn" data-profile="${p}" data-display="${displayName}" style="
-                                    padding:14px 20px;border-radius:12px;border:2px solid ${isLast ? '#f97316' : '#334155'};
-                                    background:${isLast ? '#1e293b' : '#0f172a'};color:#fff;cursor:pointer;font-size:1rem;
-                                    display:flex;align-items:center;gap:12px;transition:all 0.2s;
-                                ">
-                                    <span style="width:40px;height:40px;border-radius:50%;background:linear-gradient(135deg, #f97316, #eab308);display:flex;align-items:center;justify-content:center;font-size:1.2rem;font-weight:bold;">${displayName.charAt(0).toUpperCase()}</span>
-                                    <span style="flex:1;text-align:left;">
-                                        <span style="display:block;font-weight:600;">${displayName}</span>
-                                        ${isLast ? '<span style="font-size:0.75rem;color:#f97316;">Last used</span>' : ''}
-                                    </span>
-                                    <span style="color:#64748b;font-size:1.2rem;">→</span>
-                                </button>`;
+                                return `<div style="position:relative;">
+                                    <button class="profile-select-btn" data-profile="${p}" data-display="${displayName}" style="
+                                        width:100%;padding:14px 20px;border-radius:12px;border:2px solid ${isLast ? '#f97316' : '#334155'};
+                                        background:${isLast ? '#1e293b' : '#0f172a'};color:#fff;cursor:pointer;font-size:1rem;
+                                        display:flex;align-items:center;gap:12px;transition:all 0.2s;
+                                    ">
+                                        <span style="width:40px;height:40px;border-radius:50%;background:linear-gradient(135deg, #f97316, #eab308);display:flex;align-items:center;justify-content:center;font-size:1.2rem;font-weight:bold;">${displayName.charAt(0).toUpperCase()}</span>
+                                        <span style="flex:1;text-align:left;">
+                                            <span style="display:block;font-weight:600;">${displayName}</span>
+                                            ${isLast ? '<span style="font-size:0.75rem;color:#f97316;">Last used</span>' : ''}
+                                        </span>
+                                        <span style="color:#64748b;font-size:1.2rem;">→</span>
+                                    </button>
+                                    <span class="profile-delete-btn" data-profile="${p}" data-display="${displayName}" style="position:absolute;top:8px;right:8px;color:#ef4444;cursor:pointer;font-size:0.75rem;padding:4px 8px;border-radius:6px;background:#1e293b;border:1px solid #334155;z-index:1;">✕</span>
+                                </div>`;
                             }).join('')}
                         </div>
                     </div>
@@ -829,6 +834,24 @@ ReactDOM.createRoot(document.getElementById('app')).render(<App />);
                         localStorage.setItem('upsc_profile_display', display);
                         activateProfile(profile);
                         overlay.remove();
+                    };
+                });
+                
+                // Handle profile deletion
+                document.querySelectorAll('.profile-delete-btn').forEach(btn => {
+                    btn.onclick = async (e) => {
+                        e.stopPropagation();
+                        const profile = btn.dataset.profile;
+                        const display = btn.dataset.display;
+                        if (!confirm(`Delete profile "${display}"? All progress, bookmarks, and data will be permanently lost.`)) return;
+                        await fetch(`/api/profiles/${profile}`, { method: 'DELETE' });
+                        if (localStorage.getItem('upsc_profile') === profile) {
+                            localStorage.removeItem('upsc_profile');
+                            localStorage.removeItem('upsc_profile_display');
+                        }
+                        // Refresh the profile screen
+                        overlay.remove();
+                        showProfileScreen();
                     };
                 });
                 
