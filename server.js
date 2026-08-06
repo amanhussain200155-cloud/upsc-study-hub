@@ -141,7 +141,7 @@ app.get('/api/stats/detailed', (req, res) => {
 });
 
 // Get all prelims questions (merges all sources)
-app.get('/api/questions/prelims', (req, res) => {
+app.get('/api/questions/prelims', async (req, res) => {
     try {
         const questions = [];
         // Static files
@@ -169,6 +169,17 @@ app.get('/api/questions/prelims', (req, res) => {
                 questions.push(...(data.questions || []));
             }
         }
+        // MongoDB-stored AI-generated questions (persist across deploys)
+        try {
+            const { getGeneratedQuestions } = require('./src/db-storage');
+            const dbQuestions = await getGeneratedQuestions();
+            const existingIds = new Set(questions.map(q => q.id));
+            for (const q of dbQuestions) {
+                if (!existingIds.has(q.qid)) {
+                    questions.push({ id: q.qid, subject: q.source?.includes('Current Affairs') ? 'Current Affairs' : q.subject, question: q.question, options: q.options, answer: q.answer, explanation: q.explanation, source: q.source, sourceArticle: q.sourceArticle, articleLink: q.articleLink, articleContent: q.articleContent, articleSource: q.articleSource });
+                }
+            }
+        } catch(e) {}
         res.json({ section: 'prelims', totalQuestions: questions.length, questions });
     } catch(e) {
         res.status(500).json({ error: e.message });
@@ -186,33 +197,66 @@ app.get('/api/essays', (req, res) => {
 });
 
 // Get mains questions
-app.get('/api/questions/mains', (req, res) => {
+app.get('/api/questions/mains', async (req, res) => {
     const filePath = path.join(__dirname, 'data', 'mains.json');
+    let data = { questions: [] };
     if (fs.existsSync(filePath)) {
-        res.json(JSON.parse(fs.readFileSync(filePath, 'utf8')));
-    } else {
-        res.json({ questions: [] });
+        data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
     }
+    // Add MongoDB-stored mains questions
+    try {
+        const { getGeneratedMains } = require('./src/db-storage');
+        const dbMains = await getGeneratedMains();
+        const existingQs = new Set(data.questions.map(q => q.question?.substring(0,50)));
+        for (const q of dbMains) {
+            if (!existingQs.has(q.question?.substring(0,50))) {
+                data.questions.push({ id: q.mid, subject: q.subject, question: q.question, keyPoints: q.keyPoints, model_answer: q.model_answer, source: q.source });
+            }
+        }
+    } catch(e) {}
+    res.json(data);
 });
 
 // Get interview questions
-app.get('/api/questions/interview', (req, res) => {
+app.get('/api/questions/interview', async (req, res) => {
     const filePath = path.join(__dirname, 'data', 'interview.json');
+    let data = { questions: [] };
     if (fs.existsSync(filePath)) {
-        res.json(JSON.parse(fs.readFileSync(filePath, 'utf8')));
-    } else {
-        res.json({ questions: [] });
+        data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
     }
+    // Add MongoDB-stored interview questions
+    try {
+        const { getGeneratedInterview } = require('./src/db-storage');
+        const dbInt = await getGeneratedInterview();
+        const existingQs = new Set(data.questions.map(q => q.question?.substring(0,50)));
+        for (const q of dbInt) {
+            if (!existingQs.has(q.question?.substring(0,50))) {
+                data.questions.push({ id: q.iid, category: q.category, question: q.question, tips: q.tips, model_answer: q.model_answer, followUps: q.followUps, source: q.source });
+            }
+        }
+    } catch(e) {}
+    res.json(data);
 });
 
 // Get flashcards
-app.get('/api/flashcards', (req, res) => {
+app.get('/api/flashcards', async (req, res) => {
     const filePath = path.join(__dirname, 'data', 'flashcards.json');
+    let data = { prelims: [], mains: [], interview: [] };
     if (fs.existsSync(filePath)) {
-        res.json(JSON.parse(fs.readFileSync(filePath, 'utf8')));
-    } else {
-        res.json({ prelims: [], mains: [], interview: [] });
+        data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
     }
+    // Add MongoDB-stored flashcards
+    try {
+        const { getGeneratedFlashcards } = require('./src/db-storage');
+        const dbCards = await getGeneratedFlashcards();
+        const existingFronts = new Set((data.prelims||[]).map(c => c.front?.substring(0,40)));
+        for (const c of dbCards) {
+            if (!existingFronts.has(c.front?.substring(0,40))) {
+                data.prelims.push({ id: c.fid, subject: c.subject, front: c.front, back: c.back, source: c.source });
+            }
+        }
+    } catch(e) {}
+    res.json(data);
 });
 
 // Current affairs (auto-fetched)

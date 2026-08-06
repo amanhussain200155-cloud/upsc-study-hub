@@ -289,6 +289,10 @@ Return ONLY a valid JSON array (no other text):
         existing.llmEnabled = true;
 
         fs.writeFileSync(genPath, JSON.stringify(existing, null, 2));
+        
+        // Also save to MongoDB for persistence across deploys
+        try { const { saveGeneratedQuestions } = require('./db-storage'); await saveGeneratedQuestions(valid); } catch(e) {}
+        
         console.log(`[SYLLABUS-GEN] Generated ${valid.length} questions. Total bank: ${existing.totalQuestions}`);
 
         return { generated: valid.length, total: existing.totalQuestions };
@@ -346,6 +350,9 @@ Return ONLY a valid JSON array:
 
         existing.prelims.push(...valid);
         fs.writeFileSync(fcPath, JSON.stringify(existing, null, 2));
+        
+        // Also save to MongoDB for persistence
+        try { const { saveGeneratedFlashcards } = require('./db-storage'); await saveGeneratedFlashcards(valid); } catch(e) {}
 
         console.log(`[SYLLABUS-GEN] Generated ${valid.length} flashcards. Total: ${existing.prelims.length}`);
         return { generated: valid.length };

@@ -413,6 +413,10 @@ Return ONLY valid JSON array (if no articles are relevant, return empty array []
     existing.llmEnabled = isLLMAvailable();
 
     fs.writeFileSync(genPath, JSON.stringify(existing, null, 2));
+    
+    // Also save to MongoDB for persistence across deploys
+    try { const { saveGeneratedQuestions } = require('./db-storage'); await saveGeneratedQuestions(uniqueNew); } catch(e) {}
+    
     console.log(`[CA-MCQ] Added ${uniqueNew.length} new MCQs. Total: ${existing.totalQuestions}`);
 
     return existing;
