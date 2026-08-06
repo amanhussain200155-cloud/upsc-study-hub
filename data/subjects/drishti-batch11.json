@@ -1,12 +1,122 @@
-{"subject":"Current Affairs - Drishti Batch 11","questions":[
-{"id":"d11-1","subject":"International Relations","question":"Consider the following about India's BRICS Presidency 2026:\n1. India assumed BRICS Presidency in 2026 with theme focusing on 'Sustainability'\n2. BRICS+ expansion (2024) doubled the membership\n3. BRICS STI cooperation was formalized in the Sanya Declaration (2011)\n4. India led the BRICS Innovation Action Plan (2021-24)","options":["1, 2, 3 and 4","1, 2 and 3 only","1 and 4 only","All are correct"],"answer":3,"explanation":"All correct. India's BRICS Presidency 2026: prioritizes Science, Technology, Innovation (STI) and sustainability. BRICS expanded (Johannesburg 2023, effective Jan 2024): added Egypt, Ethiopia, Iran, Saudi Arabia, UAE. Sanya Declaration (3rd Summit, 2011) formalized STI cooperation. India led Innovation Action Plan 2021-24 through CSIR coordination. 2025 Rio Declaration focused on deep-tech. Annual S&T Ministers Meetings set priorities."},
-{"id":"d11-2","subject":"International Relations","question":"With reference to India-Finland Relations:\n1. Finland is a Nordic country that recently joined NATO (2023)\n2. India-Finland cooperation focuses on clean technology and digital solutions\n3. Finland is a leader in education technology (PISA rankings)\n4. India has a Comprehensive Economic Partnership Agreement with Finland","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 3 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — India does NOT have a bilateral CEPA/FTA with Finland. Trade/investment happens under broader India-EU framework (India-EU FTA under negotiation). Finland joined NATO April 2023 (ending non-alignment post Russia-Ukraine war). Cooperation areas: clean tech (paper, circular economy), 5G/6G (Nokia is Finnish), AI, education (Finnish education model studied globally), startup ecosystem. India-Finland JC on S&T, digital partnerships exist."},
-{"id":"d11-3","subject":"International Relations","question":"Consider the following about Agreements on Reciprocal Trade (ART):\n1. They are bilateral trade agreements where tariffs are mutually reduced\n2. India has proposed ART as alternative to comprehensive FTAs for select countries\n3. ART focuses on quick-win sectors without full tariff liberalization\n4. India's concern with comprehensive FTAs is trade deficit widening (as happened with ASEAN FTA)","options":["1, 2, 3 and 4","1, 2 and 4 only","1 and 4 only","All are correct"],"answer":3,"explanation":"All correct. ART approach: India's response to US 'reciprocal tariffs' concept and India's own FTA challenges. India-ASEAN FTA (2010) resulted in trade deficit widening (manufacturing imports surged without proportional export gains). ART allows: sector-specific reciprocal tariff reduction without committing to full liberalization. Pragmatic approach for markets where comprehensive FTA is politically/economically difficult. India has limited FTAs compared to competitors (only ~13 vs Vietnam's 15+, Singapore's 25+)."},
-{"id":"d11-4","subject":"Polity & Governance","question":"Consider the following about India's Maritime Strategy:\n1. India views the Indian Ocean Region (IOR) as its primary area of maritime interest\n2. SAGAR (Security and Growth for All in the Region) is India's maritime vision\n3. India has naval facilities in the Andaman and Nicobar Islands\n4. India's naval doctrine includes 'net security provider' role in the IOR","options":["1, 2, 3 and 4","1, 2 and 3 only","1 and 3 only","All are correct"],"answer":3,"explanation":"All correct. India's maritime strategy: IOR as primary (from Strait of Hormuz to Strait of Malacca). SAGAR (2015, PM Modi): cooperative security, maritime domain awareness, anti-piracy, HADR. Andaman & Nicobar: tri-service command (India's only), strategic location near Malacca Strait chokepoint. 'Net Security Provider': India provides maritime security assistance to neighbours (Maldives, Sri Lanka, Mauritius, Seychelles) — coastal radar network, patrol aircraft gifted. Also: IONS (Indian Ocean Naval Symposium), Milan exercise."},
-{"id":"d11-5","subject":"Polity & Governance","question":"With reference to Multi-Domain Deterrence (MDD) for India:\n1. MDD integrates land, sea, air, cyber, and space domains for strategic deterrence\n2. India established the Defence Space Agency in 2019\n3. India's Theatre Commands reorganization is part of MDD\n4. ARADO (All-domain Rapid Assessment for Defence Operations) aligns with MDD","options":["1, 2, 3 and 4","1, 2 and 3 only","1 and 2 only","All are correct"],"answer":3,"explanation":"All correct. MDD: modern warfare requires integrated response across all domains (land/sea/air/space/cyber/electromagnetic). India's steps: Defence Space Agency (2019), Defence Cyber Agency, planned Theatre Commands (integrating army/navy/air for specific theaters vs current service-centric commands). ARADO framework enables rapid multi-domain assessment and response. Context: China's PLA reorganized into theatre commands (2016); India responding to match capability through CDS-led reforms."},
-{"id":"d11-6","subject":"Polity & Governance","question":"Consider the following about India's Counter-Terrorism framework:\n1. UAPA (Unlawful Activities Prevention Act, 1967) is the primary anti-terror law\n2. NIA (National Investigation Agency) has pan-India jurisdiction without state permission\n3. UAPA allows designation of individuals as 'terrorists' (not just organizations)\n4. UAPA has been criticized for low conviction rates and prolonged detention","options":["1, 2, 3 and 4","1, 2 and 3 only","1 and 2 only","All are correct"],"answer":3,"explanation":"All correct. UAPA (amended multiple times, major 2019 amendment): allows designation of INDIVIDUALS as terrorists (earlier only organizations). NIA Act 2008: pan-India jurisdiction for terror cases (no state government consent needed — unlike CBI). Criticism: conviction rate under UAPA is only ~2-3% (97% cases pending/acquitted), accused languish in jail for years without bail (Section 43D(5) makes bail very difficult). SC in 2021 said mere membership of banned org isn't enough for UAPA charge."},
-{"id":"d11-7","subject":"Economics","question":"Consider the following about India's Capital Goods Sector:\n1. It includes machinery, equipment, and tools used in manufacturing\n2. India's capital goods sector contributes approximately 12% to manufacturing GDP\n3. National Capital Goods Policy (2016) targets increasing production to ₹7.5 lakh crore by 2025\n4. Capital goods imports indicate industrial investment activity","options":["1, 2, 3 and 4","1, 3 and 4 only","1 and 4 only","All are correct"],"answer":3,"explanation":"All correct. Capital goods: plant/machinery/equipment for production (machine tools, textile machinery, power equipment, construction machinery). ~12% of manufacturing GDP. National CG Policy (2016): target ₹7.5 lakh crore by 2025 (from ₹2.3 lakh crore), create 21 lakh additional jobs. Higher capital goods imports = more industrial investment (positive signal). India imports ~35-40% of capital goods needs. PLI for capital goods aims to reduce import dependence in machine tools, electrical equipment."},
-{"id":"d11-8","subject":"Economics","question":"With reference to India's Fisheries Sector:\n1. India is the 3rd largest fish producing country globally\n2. Pradhan Mantri Matsya Sampada Yojana (PMMSY) aims to double fisheries exports\n3. India's marine fisheries are regulated under the Marine Fishing Regulation Acts of coastal states\n4. Aquaculture contributes more than marine capture to India's fish production","options":["1, 2, 3 and 4","1, 3 and 4 only","1 and 2 only","All are correct"],"answer":3,"explanation":"All correct. India: 3rd largest fish producer (after China, Indonesia), 2nd in aquaculture. PMMSY (₹20,050 crore, 2020-25): targets additional 70 lakh tonnes production, double exports to ₹1 lakh crore. Marine fisheries regulated by state MFRAs (maritime zones: 0-12 nm territorial waters under state jurisdiction). Inland aquaculture (~65% of production) exceeds marine capture (~35%). Key species: shrimp (largest export item), hilsa, tuna, Pangasius."},
-{"id":"d11-9","subject":"Polity & Governance","question":"Consider the following about the Punjab-Rajasthan Water Dispute:\n1. It involves sharing of Ravi-Beas river waters\n2. The Sutlej Yamuna Link (SYL) Canal is at the center of the dispute\n3. Punjab refuses to complete SYL citing riparian rights\n4. The dispute has been adjudicated by the Supreme Court multiple times","options":["1, 2, 3 and 4","2, 3 and 4 only","1 and 2 only","All are correct"],"answer":3,"explanation":"All correct. One of India's most intractable inter-state water disputes. Background: 1966 reorganization — waters allocated between Punjab, Haryana, Rajasthan. SYL Canal (designed to carry Punjab's allocated water to Haryana/Rajasthan): Punjab denotified land (2004), refuses construction claiming insufficient water. SC directed completion but Punjab resists citing: reduced water availability, riparian rights, farmer needs. Article 262 and Interstate Water Disputes Act apply. Eradi Tribunal (1987) allocated waters but implementation stalled."},
-{"id":"d11-10","subject":"Polity & Governance","question":"With reference to Judicial Diversity in India:\n1. SC has never had more than one woman judge simultaneously until recently\n2. Diversity in judiciary includes representation of women, SC/ST, OBC, minorities\n3. A Private Member's Bill was introduced seeking mandatory diversity in judicial appointments\n4. India's higher judiciary is predominantly male and upper-caste","options":["1, 2, 3 and 4","2, 3 and 4 only","2 and 4 only","All are correct"],"answer":1,"explanation":"2, 3, 4 correct. Statement 1 WRONG — SC has had more than one woman judge simultaneously multiple times (currently has 3 sitting women judges, at one point had 4). However, in its 75-year history, only ~11 women have been SC judges (out of 200+ total appointments). Statement 4: Higher judiciary remains largely male (~12% women judges in HCs), predominantly upper-caste (no comprehensive data but observed pattern). The Private Member's Bill proposes mandatory diversity criteria in Collegium recommendations."}
-]}
+{
+  "subject": "Current Affairs - Drishti Batch 11",
+  "questions": [
+    {
+      "id": "d11-2",
+      "subject": "International Relations",
+      "question": "With reference to India-Finland Relations:\n1. Finland is a Nordic country that recently joined NATO (2023)\n2. India-Finland cooperation focuses on clean technology and digital solutions\n3. Finland is a leader in education technology (PISA rankings)\n4. India has a Comprehensive Economic Partnership Agreement with Finland",
+      "options": [
+        "1 and 3 only",
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only",
+        "All are correct"
+      ],
+      "answer": 2,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — India does NOT have a bilateral CEPA/FTA with Finland. Trade/investment happens under broader India-EU framework (India-EU FTA under negotiation). Finland joined NATO April 2023 (ending non-alignment post Russia-Ukraine war). Cooperation areas: clean tech (paper, circular economy), 5G/6G (Nokia is Finnish), AI, education (Finnish education model studied globally), startup ecosystem. India-Finland JC on S&T, digital partnerships exist."
+    },
+    {
+      "id": "d11-3",
+      "subject": "International Relations",
+      "question": "Consider the following about Agreements on Reciprocal Trade (ART):\n1. They are bilateral trade agreements where tariffs are mutually reduced\n2. India has proposed ART as alternative to comprehensive FTAs for select countries\n3. ART focuses on quick-win sectors without full tariff liberalization\n4. India's concern with comprehensive FTAs is trade deficit widening (as happened with ASEAN FTA)",
+      "options": [
+        "1, 2, 3 and 4",
+        "1 and 4 only",
+        "All are correct",
+        "1, 2 and 4 only"
+      ],
+      "answer": 2,
+      "explanation": "All correct. ART approach: India's response to US 'reciprocal tariffs' concept and India's own FTA challenges. India-ASEAN FTA (2010) resulted in trade deficit widening (manufacturing imports surged without proportional export gains). ART allows: sector-specific reciprocal tariff reduction without committing to full liberalization. Pragmatic approach for markets where comprehensive FTA is politically/economically difficult. India has limited FTAs compared to competitors (only ~13 vs Vietnam's 15+, Singapore's 25+)."
+    },
+    {
+      "id": "d11-4",
+      "subject": "Polity & Governance",
+      "question": "Consider the following about India's Maritime Strategy:\n1. India views the Indian Ocean Region (IOR) as its primary area of maritime interest\n2. SAGAR (Security and Growth for All in the Region) is India's maritime vision\n3. India has naval facilities in the Andaman and Nicobar Islands\n4. India's naval doctrine includes 'net security provider' role in the IOR",
+      "options": [
+        "All are correct",
+        "1, 2 and 3 only",
+        "1 and 3 only",
+        "1, 2, 3 and 4"
+      ],
+      "answer": 0,
+      "explanation": "All correct. India's maritime strategy: IOR as primary (from Strait of Hormuz to Strait of Malacca). SAGAR (2015, PM Modi): cooperative security, maritime domain awareness, anti-piracy, HADR. Andaman & Nicobar: tri-service command (India's only), strategic location near Malacca Strait chokepoint. 'Net Security Provider': India provides maritime security assistance to neighbours (Maldives, Sri Lanka, Mauritius, Seychelles) — coastal radar network, patrol aircraft gifted. Also: IONS (Indian Ocean Naval Symposium), Milan exercise."
+    },
+    {
+      "id": "d11-5",
+      "subject": "Polity & Governance",
+      "question": "With reference to Multi-Domain Deterrence (MDD) for India:\n1. MDD integrates land, sea, air, cyber, and space domains for strategic deterrence\n2. India established the Defence Space Agency in 2019\n3. India's Theatre Commands reorganization is part of MDD\n4. ARADO (All-domain Rapid Assessment for Defence Operations) aligns with MDD",
+      "options": [
+        "1, 2 and 3 only",
+        "1 and 2 only",
+        "All are correct",
+        "1, 2, 3 and 4"
+      ],
+      "answer": 2,
+      "explanation": "All correct. MDD: modern warfare requires integrated response across all domains (land/sea/air/space/cyber/electromagnetic). India's steps: Defence Space Agency (2019), Defence Cyber Agency, planned Theatre Commands (integrating army/navy/air for specific theaters vs current service-centric commands). ARADO framework enables rapid multi-domain assessment and response. Context: China's PLA reorganized into theatre commands (2016); India responding to match capability through CDS-led reforms."
+    },
+    {
+      "id": "d11-6",
+      "subject": "Polity & Governance",
+      "question": "Consider the following about India's Counter-Terrorism framework:\n1. UAPA (Unlawful Activities Prevention Act, 1967) is the primary anti-terror law\n2. NIA (National Investigation Agency) has pan-India jurisdiction without state permission\n3. UAPA allows designation of individuals as 'terrorists' (not just organizations)\n4. UAPA has been criticized for low conviction rates and prolonged detention",
+      "options": [
+        "All are correct",
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only",
+        "1 and 2 only"
+      ],
+      "answer": 0,
+      "explanation": "All correct. UAPA (amended multiple times, major 2019 amendment): allows designation of INDIVIDUALS as terrorists (earlier only organizations). NIA Act 2008: pan-India jurisdiction for terror cases (no state government consent needed — unlike CBI). Criticism: conviction rate under UAPA is only ~2-3% (97% cases pending/acquitted), accused languish in jail for years without bail (Section 43D(5) makes bail very difficult). SC in 2021 said mere membership of banned org isn't enough for UAPA charge."
+    },
+    {
+      "id": "d11-7",
+      "subject": "Economics",
+      "question": "Consider the following about India's Capital Goods Sector:\n1. It includes machinery, equipment, and tools used in manufacturing\n2. India's capital goods sector contributes approximately 12% to manufacturing GDP\n3. National Capital Goods Policy (2016) targets increasing production to ₹7.5 lakh crore by 2025\n4. Capital goods imports indicate industrial investment activity",
+      "options": [
+        "All are correct",
+        "1, 2, 3 and 4",
+        "1, 3 and 4 only",
+        "1 and 4 only"
+      ],
+      "answer": 0,
+      "explanation": "All correct. Capital goods: plant/machinery/equipment for production (machine tools, textile machinery, power equipment, construction machinery). ~12% of manufacturing GDP. National CG Policy (2016): target ₹7.5 lakh crore by 2025 (from ₹2.3 lakh crore), create 21 lakh additional jobs. Higher capital goods imports = more industrial investment (positive signal). India imports ~35-40% of capital goods needs. PLI for capital goods aims to reduce import dependence in machine tools, electrical equipment."
+    },
+    {
+      "id": "d11-8",
+      "subject": "Economics",
+      "question": "With reference to India's Fisheries Sector:\n1. India is the 3rd largest fish producing country globally\n2. Pradhan Mantri Matsya Sampada Yojana (PMMSY) aims to double fisheries exports\n3. India's marine fisheries are regulated under the Marine Fishing Regulation Acts of coastal states\n4. Aquaculture contributes more than marine capture to India's fish production",
+      "options": [
+        "1, 2, 3 and 4",
+        "1 and 2 only",
+        "1, 3 and 4 only",
+        "All are correct"
+      ],
+      "answer": 3,
+      "explanation": "All correct. India: 3rd largest fish producer (after China, Indonesia), 2nd in aquaculture. PMMSY (₹20,050 crore, 2020-25): targets additional 70 lakh tonnes production, double exports to ₹1 lakh crore. Marine fisheries regulated by state MFRAs (maritime zones: 0-12 nm territorial waters under state jurisdiction). Inland aquaculture (~65% of production) exceeds marine capture (~35%). Key species: shrimp (largest export item), hilsa, tuna, Pangasius."
+    },
+    {
+      "id": "d11-9",
+      "subject": "Polity & Governance",
+      "question": "Consider the following about the Punjab-Rajasthan Water Dispute:\n1. It involves sharing of Ravi-Beas river waters\n2. The Sutlej Yamuna Link (SYL) Canal is at the center of the dispute\n3. Punjab refuses to complete SYL citing riparian rights\n4. The dispute has been adjudicated by the Supreme Court multiple times",
+      "options": [
+        "1, 2, 3 and 4",
+        "1 and 2 only",
+        "All are correct",
+        "2, 3 and 4 only"
+      ],
+      "answer": 2,
+      "explanation": "All correct. One of India's most intractable inter-state water disputes. Background: 1966 reorganization — waters allocated between Punjab, Haryana, Rajasthan. SYL Canal (designed to carry Punjab's allocated water to Haryana/Rajasthan): Punjab denotified land (2004), refuses construction claiming insufficient water. SC directed completion but Punjab resists citing: reduced water availability, riparian rights, farmer needs. Article 262 and Interstate Water Disputes Act apply. Eradi Tribunal (1987) allocated waters but implementation stalled."
+    },
+    {
+      "id": "d11-10",
+      "subject": "Polity & Governance",
+      "question": "With reference to Judicial Diversity in India:\n1. SC has never had more than one woman judge simultaneously until recently\n2. Diversity in judiciary includes representation of women, SC/ST, OBC, minorities\n3. A Private Member's Bill was introduced seeking mandatory diversity in judicial appointments\n4. India's higher judiciary is predominantly male and upper-caste",
+      "options": [
+        "1, 2, 3 and 4",
+        "2 and 4 only",
+        "All are correct",
+        "2, 3 and 4 only"
+      ],
+      "answer": 3,
+      "explanation": "2, 3, 4 correct. Statement 1 WRONG — SC has had more than one woman judge simultaneously multiple times (currently has 3 sitting women judges, at one point had 4). However, in its 75-year history, only ~11 women have been SC judges (out of 200+ total appointments). Statement 4: Higher judiciary remains largely male (~12% women judges in HCs), predominantly upper-caste (no comprehensive data but observed pattern). The Private Member's Bill proposes mandatory diversity criteria in Collegium recommendations."
+    }
+  ]
+}

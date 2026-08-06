@@ -1,19 +1,226 @@
-{"subject":"Final Push to 50","questions":[
-{"id":"fp1","subject":"Internal Security","question":"Consider the following about India's Unlawful Activities (Prevention) Act and its criticism:\n1. Conviction rate under UAPA is approximately 2-3%\n2. 97% of cases remain pending for years while accused stay in jail\n3. Bail provisions (Section 43D(5)) make it nearly impossible to get bail\n4. SC has held that mere association with a banned organization is sufficient for conviction","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 3 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — SC in Arup Bhuyan case (2011) and Raneef case held that MERE MEMBERSHIP of a banned organization is NOT sufficient for conviction. The prosecution must prove active participation in unlawful activities. Passive/nominal membership alone ≠ guilt. However, in practice, the low bail provisions mean accused languish in jail for years even without conviction. NCRB data: 97%+ UAPA cases pending, 2-3% conviction rate — raises due process concerns."},
-{"id":"fp2","subject":"Internal Security","question":"With reference to India's submarine cable infrastructure and security:\n1. 95%+ of India's international internet traffic flows through submarine cables\n2. India has multiple submarine cable landing points (Mumbai, Chennai, Kochi, Trivandrum)\n3. Damage to submarine cables can disrupt India's internet connectivity\n4. India has a dedicated submarine cable protection force","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — India does NOT have a dedicated submarine cable protection force. Cable security relies on: Indian Navy general surveillance, international law (UN Convention on High Seas), agreements with cable operators, and routing redundancy. 95%+ international traffic via cables (satellite is backup only). Vulnerability: cables can be cut by anchors, fishing trawlers, or deliberate sabotage. India has 17+ submarine cable landing stations. Chennai and Mumbai are critical hubs — any disruption there could severely impact connectivity."},
-{"id":"fp3","subject":"Internal Security","question":"Consider the following about India's counter-drone strategy:\n1. The Jammu Air Force Station attack (2021) was India's first drone attack on military\n2. India has deployed anti-drone systems using laser, RF jammers, and net-catching drones\n3. BSF has detected multiple drone intrusions from Pakistan carrying weapons/drugs\n4. India has no policy framework for counter-drone operations","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 3 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — India HAS counter-drone frameworks: DRDO developed anti-drone system (deployed at Republic Day, PM events), MHA guidelines for drone detection/neutralization at airports and VIP events, BSF empowered to shoot down hostile drones. Jammu attack (June 2021): 2 drones dropped IEDs on IAF station — wake-up call. Since then: 200+ drone intrusions detected from Pakistan (drugs, weapons, currency). Counter-measures: radar detection, RF jammers, directed energy (laser), GPS spoofing, net-catching interceptor drones."},
-{"id":"fp4","subject":"Internal Security","question":"With reference to the National Counter Terrorism Centre (NCTC) debate:\n1. NCTC was proposed after 26/11 to coordinate counter-terrorism across agencies\n2. States opposed NCTC fearing it would override their police powers\n3. The proposed NCTC was modeled on the US NCTC\n4. NCTC has been fully established and is operational","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — NCTC has NOT been established/operationalized. Proposed by Home Minister P. Chidambaram (2012) under IB — but states (including BJP-ruled states at the time) opposed it as: encroachment on State List (Police/Public Order), potential for misuse against political opponents, bypassing state DGPs. Shelved due to political opposition. India still lacks a single unified counter-terrorism body coordinating intelligence + operations. NIA handles investigation; coordination happens through Multi-Agency Centre (MAC) under IB."},
-{"id":"fp5","subject":"Internal Security","question":"Consider the following about Proxy Wars and Grey Zone Warfare against India:\n1. Pakistan uses non-state actors as proxies against India (JeM, LeT, Hizbul)\n2. Grey zone warfare includes: information warfare, cyber attacks, economic coercion below armed conflict threshold\n3. China's Xiaokang villages and salami-slicing on LAC are examples of grey zone tactics\n4. India has no strategy to counter grey zone threats","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — India IS developing grey zone responses: enhanced border infrastructure (Vibrant Villages, road building near LAC), Information Warfare (countering Pakistani/Chinese narratives), cyber deterrence (offensive cyber capabilities), economic instruments (banning Chinese apps, restricting FDI from border countries). 'Multi-Domain Deterrence' doctrine addresses grey zone. Challenge: grey zone operates BELOW the threshold of armed conflict — traditional military responses don't fit. Requires whole-of-government approach integrating: diplomatic, information, military, economic instruments."},
-{"id":"fp6","subject":"Government Schemes","question":"Consider the following about MUDRA Yojana (Micro Units Development and Refinance Agency):\n1. It provides loans up to ₹10 lakh without collateral for micro-enterprises\n2. Three categories: Shishu (₹50,000), Kishore (₹50K-5L), Tarun (₹5L-10L)\n3. Over 70% of MUDRA loans go to women borrowers\n4. Default rate on MUDRA loans is zero","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — MUDRA loans do have defaults/NPAs (approximately 3-4% NPA rate). While lower than expected for collateral-free micro-loans, it's not zero. RBI flagged rising MUDRA NPAs as a concern. 46 crore+ loans worth ₹27+ lakh crore sanctioned. 70%+ women borrowers. Criticism: average loan size (Shishu ~₹50,000) too small for enterprise creation, may be used for consumption. But supporters argue: doorstep credit access for first-time borrowers is transformative."},
-{"id":"fp7","subject":"Government Schemes","question":"With reference to Samagra Shiksha Abhiyan:\n1. It is an integrated scheme covering pre-school to Class 12\n2. It subsumes: Sarva Shiksha Abhiyan, Rashtriya Madhyamik Shiksha Abhiyan, and Teacher Education\n3. It provides for: school infrastructure, teacher training, ICT, inclusive education\n4. It has made India 100% literate","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 3 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — India is NOT 100% literate. Literacy: ~77.7% (Census 2011, likely 80-82% now). Samagra Shiksha (2018): merged 3 schemes for holistic school education (pre-school → Class 12). Components: quality education, bridge courses for dropouts, KGBV hostels for girls, ICT labs, sports/art equipment, special focus on educationally backward blocks. Centrally Sponsored Scheme (60:40 Centre:State, 90:10 for NE/hills). Aligned with NEP 2020 vision of universal foundational literacy by 2025."},
-{"id":"fp8","subject":"Government Schemes","question":"Consider the following about PM Matsya Sampada Yojana (PMMSY):\n1. It targets additional 70 lakh tonnes fish production over 5 years\n2. It aims to double fisheries exports to ₹1 lakh crore\n3. It promotes: aquaculture intensification, cold chain, seaweed cultivation\n4. India is the world's largest fish producing country","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — India is the 3rd largest fish producer (after China and Indonesia), and 2nd largest in aquaculture (after China). NOT the largest overall. PMMSY (₹20,050 crore, 2020-25): comprehensive fisheries development — both marine and inland. Key components: fishing harbour modernization, cold chain, Sagar Mitras (fish extension workers), Kisan Credit Cards for fishers, ornamental fisheries. Target: fish production from 16.25 MMT to 22 MMT. Shrimp: India's largest marine export (~$5 billion)."},
-{"id":"fp9","subject":"Government Schemes","question":"With reference to the Ayushman Bharat Digital Mission (ABDM):\n1. It creates a digital health ecosystem with unique Health IDs for citizens\n2. Health records of patients are stored and shareable digitally (consent-based)\n3. Hospitals, labs, pharmacies are registered on Health Facility Registry\n4. It replaces all physical hospitals with telemedicine-only services","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 3 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — ABDM does NOT replace physical hospitals. It DIGITIZES health records alongside existing physical infrastructure. Components: ABHA (Ayushman Bharat Health Account — 14-digit unique health ID), Health Information Exchange (HIE), Health Facility Registry (HFR), Health Professionals Registry (HPR), Personal Health Records (PHR). Benefits: continuity of care (records follow patient across hospitals), reduce duplicate tests, enable telemedicine (supplement, not replace physical care), health analytics at population level."},
-{"id":"fp10","subject":"Government Schemes","question":"Consider the following about National Education Policy 2020 implementation:\n1. New 5+3+3+4 structure replacing 10+2\n2. Academic Bank of Credits (ABC) allows credit accumulation across institutions\n3. Multiple entry-exit in higher education with certificate/diploma at each stage\n4. All recommendations of NEP 2020 have been fully implemented across India","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 3 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — NEP 2020 implementation is ONGOING and far from complete. Many states haven't adopted all provisions. Challenges: teacher retraining for 5+3+3+4, infrastructure for pre-school (Foundational Stage), multilingual education materials unavailable, HECI legislation pending, state resistance to some provisions. ABC launched but adoption limited. Multiple entry-exit: only a few universities offer it fully. NEP is a POLICY (advisory) — states must implement through their own legislation and rules."},
-{"id":"fp11","subject":"Interdisciplinary","question":"Consider the following about India's urban governance challenges:\n1. 74th Amendment (1992) devolved 18 functions to municipalities\n2. Most municipalities remain financially dependent on state/centre (own revenue <50%)\n3. Municipal elections are frequently delayed by state governments\n4. India has successfully achieved 'Smart City' status for all its cities","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — Smart Cities Mission covered only 100 selected cities and many projects are incomplete/delayed. 74th Amendment: devolved 18 functions (12th Schedule: urban planning, water supply, public health, slum improvement etc.) but states haven't truly empowered ULBs. Most municipalities: weak tax base (property tax collection poor), dependent on state grants. Elections delayed: Bihar didn't hold municipal elections for years, other states also delay. Result: India's cities are poorly governed despite urbanization acceleration."},
-{"id":"fp12","subject":"Interdisciplinary","question":"With reference to India's critical mineral strategy:\n1. India released a Critical Minerals list with 30 minerals including lithium, cobalt, rare earths\n2. KABIL (Khanij Bidesh India Ltd) acquires overseas mineral assets\n3. India signed critical minerals partnerships with Australia, Chile, Argentina\n4. India is self-sufficient in all 30 critical minerals","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — India is NOT self-sufficient in critical minerals. India imports: lithium 100%, cobalt 100%, nickel 90%+, rare earths (has reserves but limited processing). Critical minerals are essential for: EV batteries, solar panels, wind turbines, semiconductors, defence equipment. KABIL (JV of NALCO/HCL/MECL) mandate: acquire lithium/cobalt mines abroad (Argentina, Chile, Australia). Domestic: J&K lithium (5.9 MT discovered 2023, not yet operational), beach sand minerals (monazite/ilmenite in Kerala/TN)."},
-{"id":"fp13","subject":"Interdisciplinary","question":"Consider the following about India's transition to natural gas economy:\n1. India targets 15% share of natural gas in energy mix (from current ~6%)\n2. City Gas Distribution networks being expanded to 300+ Geographical Areas\n3. India imports ~50% of its natural gas (mainly LNG)\n4. Gas pricing has been completely deregulated through market-linked pricing","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — gas pricing is NOT completely deregulated. APM gas (from ONGC/OIL's nomination fields) is still under government pricing formula (linked to international gas hubs but with a ceiling). Only new/difficult field gas has market-determined pricing. 'Gas-based economy' push: PNG (piped gas) for cooking, CNG for transport, industrial fuel switching from coal/oil to gas. India's LNG imports: from Qatar, USA, Australia. Challenges: infrastructure (pipeline coverage limited), pricing distortion, global LNG price volatility."},
-{"id":"fp14","subject":"Interdisciplinary","question":"With reference to India's circular economy initiatives:\n1. Extended Producer Responsibility (EPR) applies to plastics, e-waste, batteries, tyres\n2. GOBAR-DHAN converts bio-waste to biogas and bio-CNG\n3. Vehicle Scrappage Policy incentivizes old polluting vehicles' retirement\n4. India has achieved zero-waste status in all major cities","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 3 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — NO Indian city has achieved zero-waste status. Solid waste management remains a massive challenge: 62 million tonnes/year generated, only 20-25% processed/treated. EPR: producers responsible for collecting/recycling their products post-use (Plastic Waste Management Rules 2016/2022, E-Waste Rules 2022, Battery Waste Rules 2022). GOBAR-DHAN: 500+ biogas plants from cattle dung/agricultural waste. Scrappage: fitness-based deregistration for vehicles >15-20 years. Circular economy target: $218 billion value by 2030 (Ellen MacArthur/FICCI)."},
-{"id":"fp15","subject":"Social Issues","question":"Consider the following about India's LGBTQ+ rights:\n1. Section 377 was partially struck down by SC in Navtej Singh Johar case (2018)\n2. Same-sex marriage is NOT legally recognized in India (SC declined in 2023)\n3. Transgender Persons Act 2019 provides for identity certificates\n4. India has always been supportive of LGBTQ+ rights throughout history","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — India's legal history was HOSTILE to LGBTQ+ rights. Section 377 (British colonial era, 1860) criminalized homosexuality for 158 years. Delhi HC decriminalized (2009) → SC recriminalized (Suresh Kumar Koushal, 2013) → SC finally struck down (Navtej, 2018). Same-sex marriage: SC (2023, Supriyo vs Union) declined to legalize but gave observations on civil union rights. Transgender Act 2019: criticized for not fully implementing NALSA judgment's self-identification principle (requires DM certificate)."},
-{"id":"fp16","subject":"Social Issues","question":"With reference to India's maternal and child health indicators:\n1. India's Maternal Mortality Ratio (MMR) declined from 167 (2013) to 97 (2020)\n2. Janani Suraksha Yojana (JSY) promotes institutional deliveries\n3. Infant Mortality Rate (IMR) has declined to approximately 28 per 1000 live births\n4. India has achieved universal institutional delivery rate (100%)","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — institutional delivery is NOT 100%. NFHS-5: ~89% institutional delivery (up from 79% in NFHS-4) — significant improvement but not universal. Rural/tribal areas still have gaps. MMR 97 (SRS 2018-20): target <70 by 2030 (SDG). JSY: cash incentive (₹1,400 rural/₹1,000 urban) for institutional delivery. IMR ~28 (down from 50 in 2009). Challenges remain: neonatal mortality (first 28 days = 70% of infant deaths), anaemia (57% women), malnutrition, quality of care at delivery points."},
-{"id":"fp17","subject":"Social Issues","question":"Consider the following about India's child labour situation:\n1. Child and Adolescent Labour (Prohibition and Regulation) Act was amended in 2016\n2. The amendment allows children to work in family enterprises and entertainment\n3. Census 2011 counted approximately 1 crore child labourers (5-14 years)\n4. PENCIL portal enables complaint registration against child labour","options":["1, 2, 3 and 4","1, 3 and 4 only","1 and 3 only","All are correct"],"answer":3,"explanation":"All correct. Child Labour Act (amended 2016): banned employment of children (<14) in ALL occupations EXCEPT family enterprises (non-hazardous) and entertainment (with conditions). This exception was criticized as a loophole (family business = many occupations). Adolescents (14-18): banned only in hazardous occupations. Census 2011: 1.01 crore child labourers. PENCIL (Platform for Effective Enforcement for No Child Labour): online complaint, tracking, rehabilitation. NCLP (National Child Labour Project): identifies/rescues/rehabilitates child labourers through bridge education."}
-]}
+{
+  "subject": "Final Push to 50",
+  "questions": [
+    {
+      "id": "fp1",
+      "subject": "Internal Security",
+      "question": "Consider the following about India's Unlawful Activities (Prevention) Act and its criticism:\n1. Conviction rate under UAPA is approximately 2-3%\n2. 97% of cases remain pending for years while accused stay in jail\n3. Bail provisions (Section 43D(5)) make it nearly impossible to get bail\n4. SC has held that mere association with a banned organization is sufficient for conviction",
+      "options": [
+        "1, 2, 3 and 4",
+        "1 and 3 only",
+        "All are correct",
+        "1, 2 and 3 only"
+      ],
+      "answer": 3,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — SC in Arup Bhuyan case (2011) and Raneef case held that MERE MEMBERSHIP of a banned organization is NOT sufficient for conviction. The prosecution must prove active participation in unlawful activities. Passive/nominal membership alone ≠ guilt. However, in practice, the low bail provisions mean accused languish in jail for years even without conviction. NCRB data: 97%+ UAPA cases pending, 2-3% conviction rate — raises due process concerns."
+    },
+    {
+      "id": "fp2",
+      "subject": "Internal Security",
+      "question": "With reference to India's submarine cable infrastructure and security:\n1. 95%+ of India's international internet traffic flows through submarine cables\n2. India has multiple submarine cable landing points (Mumbai, Chennai, Kochi, Trivandrum)\n3. Damage to submarine cables can disrupt India's internet connectivity\n4. India has a dedicated submarine cable protection force",
+      "options": [
+        "1 and 2 only",
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only",
+        "All are correct"
+      ],
+      "answer": 2,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — India does NOT have a dedicated submarine cable protection force. Cable security relies on: Indian Navy general surveillance, international law (UN Convention on High Seas), agreements with cable operators, and routing redundancy. 95%+ international traffic via cables (satellite is backup only). Vulnerability: cables can be cut by anchors, fishing trawlers, or deliberate sabotage. India has 17+ submarine cable landing stations. Chennai and Mumbai are critical hubs — any disruption there could severely impact connectivity."
+    },
+    {
+      "id": "fp3",
+      "subject": "Internal Security",
+      "question": "Consider the following about India's counter-drone strategy:\n1. The Jammu Air Force Station attack (2021) was India's first drone attack on military\n2. India has deployed anti-drone systems using laser, RF jammers, and net-catching drones\n3. BSF has detected multiple drone intrusions from Pakistan carrying weapons/drugs\n4. India has no policy framework for counter-drone operations",
+      "options": [
+        "All are correct",
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "1 and 3 only"
+      ],
+      "answer": 1,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — India HAS counter-drone frameworks: DRDO developed anti-drone system (deployed at Republic Day, PM events), MHA guidelines for drone detection/neutralization at airports and VIP events, BSF empowered to shoot down hostile drones. Jammu attack (June 2021): 2 drones dropped IEDs on IAF station — wake-up call. Since then: 200+ drone intrusions detected from Pakistan (drugs, weapons, currency). Counter-measures: radar detection, RF jammers, directed energy (laser), GPS spoofing, net-catching interceptor drones."
+    },
+    {
+      "id": "fp4",
+      "subject": "Internal Security",
+      "question": "With reference to the National Counter Terrorism Centre (NCTC) debate:\n1. NCTC was proposed after 26/11 to coordinate counter-terrorism across agencies\n2. States opposed NCTC fearing it would override their police powers\n3. The proposed NCTC was modeled on the US NCTC\n4. NCTC has been fully established and is operational",
+      "options": [
+        "All are correct",
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "1 and 2 only"
+      ],
+      "answer": 1,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — NCTC has NOT been established/operationalized. Proposed by Home Minister P. Chidambaram (2012) under IB — but states (including BJP-ruled states at the time) opposed it as: encroachment on State List (Police/Public Order), potential for misuse against political opponents, bypassing state DGPs. Shelved due to political opposition. India still lacks a single unified counter-terrorism body coordinating intelligence + operations. NIA handles investigation; coordination happens through Multi-Agency Centre (MAC) under IB."
+    },
+    {
+      "id": "fp5",
+      "subject": "Internal Security",
+      "question": "Consider the following about Proxy Wars and Grey Zone Warfare against India:\n1. Pakistan uses non-state actors as proxies against India (JeM, LeT, Hizbul)\n2. Grey zone warfare includes: information warfare, cyber attacks, economic coercion below armed conflict threshold\n3. China's Xiaokang villages and salami-slicing on LAC are examples of grey zone tactics\n4. India has no strategy to counter grey zone threats",
+      "options": [
+        "1, 2, 3 and 4",
+        "1 and 2 only",
+        "1, 2 and 3 only",
+        "All are correct"
+      ],
+      "answer": 2,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — India IS developing grey zone responses: enhanced border infrastructure (Vibrant Villages, road building near LAC), Information Warfare (countering Pakistani/Chinese narratives), cyber deterrence (offensive cyber capabilities), economic instruments (banning Chinese apps, restricting FDI from border countries). 'Multi-Domain Deterrence' doctrine addresses grey zone. Challenge: grey zone operates BELOW the threshold of armed conflict — traditional military responses don't fit. Requires whole-of-government approach integrating: diplomatic, information, military, economic instruments."
+    },
+    {
+      "id": "fp6",
+      "subject": "Government Schemes",
+      "question": "Consider the following about MUDRA Yojana (Micro Units Development and Refinance Agency):\n1. It provides loans up to ₹10 lakh without collateral for micro-enterprises\n2. Three categories: Shishu (₹50,000), Kishore (₹50K-5L), Tarun (₹5L-10L)\n3. Over 70% of MUDRA loans go to women borrowers\n4. Default rate on MUDRA loans is zero",
+      "options": [
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only",
+        "All are correct",
+        "1 and 2 only"
+      ],
+      "answer": 1,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — MUDRA loans do have defaults/NPAs (approximately 3-4% NPA rate). While lower than expected for collateral-free micro-loans, it's not zero. RBI flagged rising MUDRA NPAs as a concern. 46 crore+ loans worth ₹27+ lakh crore sanctioned. 70%+ women borrowers. Criticism: average loan size (Shishu ~₹50,000) too small for enterprise creation, may be used for consumption. But supporters argue: doorstep credit access for first-time borrowers is transformative."
+    },
+    {
+      "id": "fp7",
+      "subject": "Government Schemes",
+      "question": "With reference to Samagra Shiksha Abhiyan:\n1. It is an integrated scheme covering pre-school to Class 12\n2. It subsumes: Sarva Shiksha Abhiyan, Rashtriya Madhyamik Shiksha Abhiyan, and Teacher Education\n3. It provides for: school infrastructure, teacher training, ICT, inclusive education\n4. It has made India 100% literate",
+      "options": [
+        "All are correct",
+        "1 and 3 only",
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4"
+      ],
+      "answer": 2,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — India is NOT 100% literate. Literacy: ~77.7% (Census 2011, likely 80-82% now). Samagra Shiksha (2018): merged 3 schemes for holistic school education (pre-school → Class 12). Components: quality education, bridge courses for dropouts, KGBV hostels for girls, ICT labs, sports/art equipment, special focus on educationally backward blocks. Centrally Sponsored Scheme (60:40 Centre:State, 90:10 for NE/hills). Aligned with NEP 2020 vision of universal foundational literacy by 2025."
+    },
+    {
+      "id": "fp8",
+      "subject": "Government Schemes",
+      "question": "Consider the following about PM Matsya Sampada Yojana (PMMSY):\n1. It targets additional 70 lakh tonnes fish production over 5 years\n2. It aims to double fisheries exports to ₹1 lakh crore\n3. It promotes: aquaculture intensification, cold chain, seaweed cultivation\n4. India is the world's largest fish producing country",
+      "options": [
+        "1, 2, 3 and 4",
+        "1 and 2 only",
+        "All are correct",
+        "1, 2 and 3 only"
+      ],
+      "answer": 3,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — India is the 3rd largest fish producer (after China and Indonesia), and 2nd largest in aquaculture (after China). NOT the largest overall. PMMSY (₹20,050 crore, 2020-25): comprehensive fisheries development — both marine and inland. Key components: fishing harbour modernization, cold chain, Sagar Mitras (fish extension workers), Kisan Credit Cards for fishers, ornamental fisheries. Target: fish production from 16.25 MMT to 22 MMT. Shrimp: India's largest marine export (~$5 billion)."
+    },
+    {
+      "id": "fp9",
+      "subject": "Government Schemes",
+      "question": "With reference to the Ayushman Bharat Digital Mission (ABDM):\n1. It creates a digital health ecosystem with unique Health IDs for citizens\n2. Health records of patients are stored and shareable digitally (consent-based)\n3. Hospitals, labs, pharmacies are registered on Health Facility Registry\n4. It replaces all physical hospitals with telemedicine-only services",
+      "options": [
+        "1, 2, 3 and 4",
+        "1 and 3 only",
+        "1, 2 and 3 only",
+        "All are correct"
+      ],
+      "answer": 2,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — ABDM does NOT replace physical hospitals. It DIGITIZES health records alongside existing physical infrastructure. Components: ABHA (Ayushman Bharat Health Account — 14-digit unique health ID), Health Information Exchange (HIE), Health Facility Registry (HFR), Health Professionals Registry (HPR), Personal Health Records (PHR). Benefits: continuity of care (records follow patient across hospitals), reduce duplicate tests, enable telemedicine (supplement, not replace physical care), health analytics at population level."
+    },
+    {
+      "id": "fp10",
+      "subject": "Government Schemes",
+      "question": "Consider the following about National Education Policy 2020 implementation:\n1. New 5+3+3+4 structure replacing 10+2\n2. Academic Bank of Credits (ABC) allows credit accumulation across institutions\n3. Multiple entry-exit in higher education with certificate/diploma at each stage\n4. All recommendations of NEP 2020 have been fully implemented across India",
+      "options": [
+        "1 and 3 only",
+        "All are correct",
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4"
+      ],
+      "answer": 2,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — NEP 2020 implementation is ONGOING and far from complete. Many states haven't adopted all provisions. Challenges: teacher retraining for 5+3+3+4, infrastructure for pre-school (Foundational Stage), multilingual education materials unavailable, HECI legislation pending, state resistance to some provisions. ABC launched but adoption limited. Multiple entry-exit: only a few universities offer it fully. NEP is a POLICY (advisory) — states must implement through their own legislation and rules."
+    },
+    {
+      "id": "fp11",
+      "subject": "Interdisciplinary",
+      "question": "Consider the following about India's urban governance challenges:\n1. 74th Amendment (1992) devolved 18 functions to municipalities\n2. Most municipalities remain financially dependent on state/centre (own revenue <50%)\n3. Municipal elections are frequently delayed by state governments\n4. India has successfully achieved 'Smart City' status for all its cities",
+      "options": [
+        "1, 2, 3 and 4",
+        "All are correct",
+        "1 and 2 only",
+        "1, 2 and 3 only"
+      ],
+      "answer": 3,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — Smart Cities Mission covered only 100 selected cities and many projects are incomplete/delayed. 74th Amendment: devolved 18 functions (12th Schedule: urban planning, water supply, public health, slum improvement etc.) but states haven't truly empowered ULBs. Most municipalities: weak tax base (property tax collection poor), dependent on state grants. Elections delayed: Bihar didn't hold municipal elections for years, other states also delay. Result: India's cities are poorly governed despite urbanization acceleration."
+    },
+    {
+      "id": "fp12",
+      "subject": "Interdisciplinary",
+      "question": "With reference to India's critical mineral strategy:\n1. India released a Critical Minerals list with 30 minerals including lithium, cobalt, rare earths\n2. KABIL (Khanij Bidesh India Ltd) acquires overseas mineral assets\n3. India signed critical minerals partnerships with Australia, Chile, Argentina\n4. India is self-sufficient in all 30 critical minerals",
+      "options": [
+        "1, 2, 3 and 4",
+        "1 and 2 only",
+        "All are correct",
+        "1, 2 and 3 only"
+      ],
+      "answer": 3,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — India is NOT self-sufficient in critical minerals. India imports: lithium 100%, cobalt 100%, nickel 90%+, rare earths (has reserves but limited processing). Critical minerals are essential for: EV batteries, solar panels, wind turbines, semiconductors, defence equipment. KABIL (JV of NALCO/HCL/MECL) mandate: acquire lithium/cobalt mines abroad (Argentina, Chile, Australia). Domestic: J&K lithium (5.9 MT discovered 2023, not yet operational), beach sand minerals (monazite/ilmenite in Kerala/TN)."
+    },
+    {
+      "id": "fp13",
+      "subject": "Interdisciplinary",
+      "question": "Consider the following about India's transition to natural gas economy:\n1. India targets 15% share of natural gas in energy mix (from current ~6%)\n2. City Gas Distribution networks being expanded to 300+ Geographical Areas\n3. India imports ~50% of its natural gas (mainly LNG)\n4. Gas pricing has been completely deregulated through market-linked pricing",
+      "options": [
+        "1 and 2 only",
+        "All are correct",
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only"
+      ],
+      "answer": 3,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — gas pricing is NOT completely deregulated. APM gas (from ONGC/OIL's nomination fields) is still under government pricing formula (linked to international gas hubs but with a ceiling). Only new/difficult field gas has market-determined pricing. 'Gas-based economy' push: PNG (piped gas) for cooking, CNG for transport, industrial fuel switching from coal/oil to gas. India's LNG imports: from Qatar, USA, Australia. Challenges: infrastructure (pipeline coverage limited), pricing distortion, global LNG price volatility."
+    },
+    {
+      "id": "fp14",
+      "subject": "Interdisciplinary",
+      "question": "With reference to India's circular economy initiatives:\n1. Extended Producer Responsibility (EPR) applies to plastics, e-waste, batteries, tyres\n2. GOBAR-DHAN converts bio-waste to biogas and bio-CNG\n3. Vehicle Scrappage Policy incentivizes old polluting vehicles' retirement\n4. India has achieved zero-waste status in all major cities",
+      "options": [
+        "All are correct",
+        "1, 2, 3 and 4",
+        "1 and 3 only",
+        "1, 2 and 3 only"
+      ],
+      "answer": 3,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — NO Indian city has achieved zero-waste status. Solid waste management remains a massive challenge: 62 million tonnes/year generated, only 20-25% processed/treated. EPR: producers responsible for collecting/recycling their products post-use (Plastic Waste Management Rules 2016/2022, E-Waste Rules 2022, Battery Waste Rules 2022). GOBAR-DHAN: 500+ biogas plants from cattle dung/agricultural waste. Scrappage: fitness-based deregistration for vehicles >15-20 years. Circular economy target: $218 billion value by 2030 (Ellen MacArthur/FICCI)."
+    },
+    {
+      "id": "fp15",
+      "subject": "Social Issues",
+      "question": "Consider the following about India's LGBTQ+ rights:\n1. Section 377 was partially struck down by SC in Navtej Singh Johar case (2018)\n2. Same-sex marriage is NOT legally recognized in India (SC declined in 2023)\n3. Transgender Persons Act 2019 provides for identity certificates\n4. India has always been supportive of LGBTQ+ rights throughout history",
+      "options": [
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only",
+        "All are correct",
+        "1 and 2 only"
+      ],
+      "answer": 1,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — India's legal history was HOSTILE to LGBTQ+ rights. Section 377 (British colonial era, 1860) criminalized homosexuality for 158 years. Delhi HC decriminalized (2009) → SC recriminalized (Suresh Kumar Koushal, 2013) → SC finally struck down (Navtej, 2018). Same-sex marriage: SC (2023, Supriyo vs Union) declined to legalize but gave observations on civil union rights. Transgender Act 2019: criticized for not fully implementing NALSA judgment's self-identification principle (requires DM certificate)."
+    },
+    {
+      "id": "fp16",
+      "subject": "Social Issues",
+      "question": "With reference to India's maternal and child health indicators:\n1. India's Maternal Mortality Ratio (MMR) declined from 167 (2013) to 97 (2020)\n2. Janani Suraksha Yojana (JSY) promotes institutional deliveries\n3. Infant Mortality Rate (IMR) has declined to approximately 28 per 1000 live births\n4. India has achieved universal institutional delivery rate (100%)",
+      "options": [
+        "1 and 2 only",
+        "1, 2 and 3 only",
+        "All are correct",
+        "1, 2, 3 and 4"
+      ],
+      "answer": 1,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — institutional delivery is NOT 100%. NFHS-5: ~89% institutional delivery (up from 79% in NFHS-4) — significant improvement but not universal. Rural/tribal areas still have gaps. MMR 97 (SRS 2018-20): target <70 by 2030 (SDG). JSY: cash incentive (₹1,400 rural/₹1,000 urban) for institutional delivery. IMR ~28 (down from 50 in 2009). Challenges remain: neonatal mortality (first 28 days = 70% of infant deaths), anaemia (57% women), malnutrition, quality of care at delivery points."
+    },
+    {
+      "id": "fp17",
+      "subject": "Social Issues",
+      "question": "Consider the following about India's child labour situation:\n1. Child and Adolescent Labour (Prohibition and Regulation) Act was amended in 2016\n2. The amendment allows children to work in family enterprises and entertainment\n3. Census 2011 counted approximately 1 crore child labourers (5-14 years)\n4. PENCIL portal enables complaint registration against child labour",
+      "options": [
+        "1, 2, 3 and 4",
+        "1 and 3 only",
+        "All are correct",
+        "1, 3 and 4 only"
+      ],
+      "answer": 2,
+      "explanation": "All correct. Child Labour Act (amended 2016): banned employment of children (<14) in ALL occupations EXCEPT family enterprises (non-hazardous) and entertainment (with conditions). This exception was criticized as a loophole (family business = many occupations). Adolescents (14-18): banned only in hazardous occupations. Census 2011: 1.01 crore child labourers. PENCIL (Platform for Effective Enforcement for No Child Labour): online complaint, tracking, rehabilitation. NCLP (National Child Labour Project): identifies/rescues/rehabilitates child labourers through bridge education."
+    }
+  ]
+}

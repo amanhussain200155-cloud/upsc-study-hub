@@ -1,11 +1,122 @@
-{"subject":"Interdisciplinary Batch 2","questions":[
-{"id":"id13","subject":"Interdisciplinary","question":"Consider the following about India's electric vehicle (EV) ecosystem:\n1. FAME-II scheme subsidizes purchase of electric 2-wheelers, 3-wheelers, and buses\n2. India targets 30% EV penetration in private cars by 2030\n3. Battery Waste Management Rules 2022 mandate Extended Producer Responsibility\n4. India has abundant domestic lithium reserves meeting 100% of EV battery needs","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 3 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — India does NOT have abundant lithium meeting 100% needs. J&K discovery (5.9 MT, 2023) is significant but not yet operational. India imports nearly all lithium, cobalt, nickel for batteries. FAME-II (₹10,000 crore, extended): demand incentives for EVs. Battery Waste Rules 2022: EPR for battery manufacturers (collection, recycling, safe disposal). India's EV sales growing rapidly but from low base (~5% of 2-wheelers, <2% of cars in 2024)."},
-{"id":"id14","subject":"Interdisciplinary","question":"With reference to the intersection of technology and agriculture in India:\n1. Kisan Drones are promoted for pesticide spraying and crop monitoring\n2. e-NAM (electronic National Agriculture Market) connects 1,000+ mandis digitally\n3. India Stack for Agriculture uses Aadhaar + soil health cards + weather data\n4. AI-based pest prediction models have been deployed in all Indian states","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — AI-based pest prediction is NOT deployed in ALL states. It's in pilot/limited deployment (ICAR trials, Microsoft-ICRISAT collaboration in AP/Karnataka, IBM weather models). Not pan-India operational. Kisan Drones: Budget 2022-23 promoted for precision agriculture. e-NAM (2016): integrates 1,361 mandis across 23 states — transparent price discovery. Digital Agriculture Mission combines: soil health data + weather advisories + market prices + satellite imagery for farmer advisory."},
-{"id":"id15","subject":"Interdisciplinary","question":"Consider the following about India's Space Economy:\n1. India's space economy is approximately $8 billion (targeting $44 billion by 2033)\n2. IN-SPACe authorizes private sector space activities\n3. Indian space startups have increased from 1 (2014) to 250+ (2024)\n4. Space sector contributes primarily through communication and earth observation satellites","options":["1, 2, 3 and 4","1, 2 and 3 only","2 and 3 only","All are correct"],"answer":3,"explanation":"All correct. India's space economy: ~$8 billion (2% of global $400 billion). Target: $44 billion by 2033 (Indian Space Policy 2023). IN-SPACe (2020): single-window authorization for private players. Startups: explosive growth — Skyroot, Agnikul, Pixxel, Dhruva Space, Bellatrix etc. Revenue streams: satellite communication (broadcast, broadband), earth observation (agriculture, disaster monitoring, urban planning), launch services (PSLV commercial), and growing downstream applications (GPS, mapping, insurance)."},
-{"id":"id16","subject":"Interdisciplinary","question":"With reference to India's gig economy and platform workers:\n1. India has approximately 7.7 million gig workers (NITI Aayog estimate)\n2. Social Security Code 2020 includes provisions for gig/platform workers for the first time\n3. Platforms like Zomato, Swiggy, Ola, Urban Company employ gig workers\n4. Gig workers enjoy the same benefits as permanent employees under Indian labour law","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 3 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — gig workers do NOT enjoy same benefits as permanent employees. They are classified as 'platform workers' not 'employees' — no PF, ESI, paid leave, minimum wage guarantee, job security. SS Code 2020 PROPOSES: life/disability insurance, health insurance, maternity benefits for gig workers — but implementation rules pending. Rajasthan Platform Based Gig Workers Act 2023 was first state law. Key issue: misclassification — companies treat workers as 'partners' not employees to avoid labour law obligations."},
-{"id":"id17","subject":"Interdisciplinary","question":"Consider the following about India's digital public infrastructure (DPI) and financial inclusion:\n1. Jan Dhan accounts crossed 52 crore (world's largest financial inclusion programme)\n2. UPI processes 12+ billion transactions monthly\n3. Aadhaar covers 99%+ of adult Indian population\n4. India's DPI model is being studied but NOT adopted by any other country","options":["1, 2 and 3 only","1, 2, 3 and 4","1, 3 and 4","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — India's DPI IS being adopted/studied by multiple countries. UPI-like systems: Singapore (PayNow linked), UAE, France, Sri Lanka, Nepal. Aadhaar model: studied by Philippines, Morocco, Nigeria. India Stack: G20 DPI initiative (India's 2023 presidency) promoted global adoption. 'Modular Open Source Identity Platform' (MOSIP) — India-origin — adopted by 11+ countries (Philippines, Morocco, Ethiopia etc.). India is EXPORTING DPI as a model."},
-{"id":"id18","subject":"Interdisciplinary","question":"With reference to the Water-Energy-Food Nexus:\n1. Agriculture consumes approximately 80%+ of India's freshwater\n2. Free electricity for agriculture encourages groundwater over-exploitation\n3. Drip irrigation saves both water and energy compared to flood irrigation\n4. India has successfully resolved all conflicts between water, energy, and food sectors","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — India has NOT resolved nexus conflicts. Tensions persist: free electricity → over-pumping groundwater → falling water tables → more energy needed for deeper pumps. Solar irrigation (PM-KUSUM) may worsen groundwater extraction if not managed. Food security (rice cultivation) demands massive water (paddy is water-intensive). Climate change intensifying all three pressures. Solutions being explored: crop diversification (rice → millets), micro-irrigation, solar with metering, water pricing reform."},
-{"id":"id19","subject":"Interdisciplinary","question":"Consider the following about India's logistics sector:\n1. Logistics cost in India is approximately 14-16% of GDP (vs 8-10% in developed nations)\n2. National Logistics Policy (2022) targets reducing logistics cost to single digits\n3. PM Gati Shakti Master Plan integrates 16 ministries on a single digital platform\n4. Dedicated Freight Corridors (Eastern and Western) are fully operational","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 3 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 is PARTIALLY WRONG — Western DFC (1,506 km, Dadri-JNPT) is largely operational but Eastern DFC (1,337 km, Ludhiana-Dankuni) is NOT fully complete (delays in some sections). India's high logistics cost = inefficiency (poor last-mile, fragmented warehousing, modal imbalance — 65% road vs 27% rail). NLP targets: Unified Logistics Interface Platform (ULIP), Ease of Logistics portal. Gati Shakti: ensures infrastructure projects (road/rail/port/waterway) are planned cohesively."},
-{"id":"id20","subject":"Interdisciplinary","question":"With reference to the One Health approach:\n1. It integrates human health, animal health, and environmental health\n2. COVID-19 pandemic highlighted the need for One Health (zoonotic origin)\n3. India has established a National One Health Mission\n4. 75% of emerging infectious diseases are zoonotic in origin","options":["1, 2, 3 and 4","1, 2 and 4 only","1 and 2 only","All are correct"],"answer":3,"explanation":"All correct. One Health: collaborative, multisectoral approach recognizing interconnection between humans-animals-environment. COVID-19 (likely zoonotic — bat origin), Nipah (bat → pig → human), Avian Flu, Ebola — all zoonotic. India's National One Health Mission (PM announced): ICMR + ICAR + MoEFCC + NCDC collaboration. 75% emerging infectious diseases ARE zoonotic (WHO data). India particularly vulnerable: dense population, livestock proximity, wildlife habitat encroachment, antimicrobial resistance in animals entering human food chain."},
-{"id":"id21","subject":"Interdisciplinary","question":"Consider the following about India's Bioeconomy:\n1. India's bioeconomy reached approximately $130 billion (2024)\n2. BioE3 (Biotechnology for Economy, Environment, Employment) policy promotes it\n3. It covers: bio-pharma, bio-agriculture, bio-industry, and bioinformatics\n4. India has no biotechnology startups or research infrastructure","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 3 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — India has 6,000+ biotech startups, strong research infra (DBT institutes, IISc, CCMB, NCBS, IITs). Bioeconomy: $130 billion (target $300 billion by 2030). BioE3 policy (2024): promotes bio-manufacturing using renewable biological resources. India's biotech strengths: vaccines (60% of global supply), biosimilars (Biocon), agricultural biotech, biofuels (ethanol blending 20%). Genome India Project, Biobank initiatives, and COVID vaccine development (Covaxin/Covishield) demonstrate capability."}
-]}
+{
+  "subject": "Interdisciplinary Batch 2",
+  "questions": [
+    {
+      "id": "id13",
+      "subject": "Interdisciplinary",
+      "question": "Consider the following about India's electric vehicle (EV) ecosystem:\n1. FAME-II scheme subsidizes purchase of electric 2-wheelers, 3-wheelers, and buses\n2. India targets 30% EV penetration in private cars by 2030\n3. Battery Waste Management Rules 2022 mandate Extended Producer Responsibility\n4. India has abundant domestic lithium reserves meeting 100% of EV battery needs",
+      "options": [
+        "All are correct",
+        "1 and 3 only",
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only"
+      ],
+      "answer": 3,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — India does NOT have abundant lithium meeting 100% needs. J&K discovery (5.9 MT, 2023) is significant but not yet operational. India imports nearly all lithium, cobalt, nickel for batteries. FAME-II (₹10,000 crore, extended): demand incentives for EVs. Battery Waste Rules 2022: EPR for battery manufacturers (collection, recycling, safe disposal). India's EV sales growing rapidly but from low base (~5% of 2-wheelers, <2% of cars in 2024)."
+    },
+    {
+      "id": "id14",
+      "subject": "Interdisciplinary",
+      "question": "With reference to the intersection of technology and agriculture in India:\n1. Kisan Drones are promoted for pesticide spraying and crop monitoring\n2. e-NAM (electronic National Agriculture Market) connects 1,000+ mandis digitally\n3. India Stack for Agriculture uses Aadhaar + soil health cards + weather data\n4. AI-based pest prediction models have been deployed in all Indian states",
+      "options": [
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only",
+        "1 and 2 only",
+        "All are correct"
+      ],
+      "answer": 1,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — AI-based pest prediction is NOT deployed in ALL states. It's in pilot/limited deployment (ICAR trials, Microsoft-ICRISAT collaboration in AP/Karnataka, IBM weather models). Not pan-India operational. Kisan Drones: Budget 2022-23 promoted for precision agriculture. e-NAM (2016): integrates 1,361 mandis across 23 states — transparent price discovery. Digital Agriculture Mission combines: soil health data + weather advisories + market prices + satellite imagery for farmer advisory."
+    },
+    {
+      "id": "id15",
+      "subject": "Interdisciplinary",
+      "question": "Consider the following about India's Space Economy:\n1. India's space economy is approximately $8 billion (targeting $44 billion by 2033)\n2. IN-SPACe authorizes private sector space activities\n3. Indian space startups have increased from 1 (2014) to 250+ (2024)\n4. Space sector contributes primarily through communication and earth observation satellites",
+      "options": [
+        "2 and 3 only",
+        "All are correct",
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only"
+      ],
+      "answer": 1,
+      "explanation": "All correct. India's space economy: ~$8 billion (2% of global $400 billion). Target: $44 billion by 2033 (Indian Space Policy 2023). IN-SPACe (2020): single-window authorization for private players. Startups: explosive growth — Skyroot, Agnikul, Pixxel, Dhruva Space, Bellatrix etc. Revenue streams: satellite communication (broadcast, broadband), earth observation (agriculture, disaster monitoring, urban planning), launch services (PSLV commercial), and growing downstream applications (GPS, mapping, insurance)."
+    },
+    {
+      "id": "id16",
+      "subject": "Interdisciplinary",
+      "question": "With reference to India's gig economy and platform workers:\n1. India has approximately 7.7 million gig workers (NITI Aayog estimate)\n2. Social Security Code 2020 includes provisions for gig/platform workers for the first time\n3. Platforms like Zomato, Swiggy, Ola, Urban Company employ gig workers\n4. Gig workers enjoy the same benefits as permanent employees under Indian labour law",
+      "options": [
+        "1 and 3 only",
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only",
+        "All are correct"
+      ],
+      "answer": 2,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — gig workers do NOT enjoy same benefits as permanent employees. They are classified as 'platform workers' not 'employees' — no PF, ESI, paid leave, minimum wage guarantee, job security. SS Code 2020 PROPOSES: life/disability insurance, health insurance, maternity benefits for gig workers — but implementation rules pending. Rajasthan Platform Based Gig Workers Act 2023 was first state law. Key issue: misclassification — companies treat workers as 'partners' not employees to avoid labour law obligations."
+    },
+    {
+      "id": "id17",
+      "subject": "Interdisciplinary",
+      "question": "Consider the following about India's digital public infrastructure (DPI) and financial inclusion:\n1. Jan Dhan accounts crossed 52 crore (world's largest financial inclusion programme)\n2. UPI processes 12+ billion transactions monthly\n3. Aadhaar covers 99%+ of adult Indian population\n4. India's DPI model is being studied but NOT adopted by any other country",
+      "options": [
+        "All are correct",
+        "1, 3 and 4",
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4"
+      ],
+      "answer": 2,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — India's DPI IS being adopted/studied by multiple countries. UPI-like systems: Singapore (PayNow linked), UAE, France, Sri Lanka, Nepal. Aadhaar model: studied by Philippines, Morocco, Nigeria. India Stack: G20 DPI initiative (India's 2023 presidency) promoted global adoption. 'Modular Open Source Identity Platform' (MOSIP) — India-origin — adopted by 11+ countries (Philippines, Morocco, Ethiopia etc.). India is EXPORTING DPI as a model."
+    },
+    {
+      "id": "id18",
+      "subject": "Interdisciplinary",
+      "question": "With reference to the Water-Energy-Food Nexus:\n1. Agriculture consumes approximately 80%+ of India's freshwater\n2. Free electricity for agriculture encourages groundwater over-exploitation\n3. Drip irrigation saves both water and energy compared to flood irrigation\n4. India has successfully resolved all conflicts between water, energy, and food sectors",
+      "options": [
+        "1, 2 and 3 only",
+        "1 and 2 only",
+        "All are correct",
+        "1, 2, 3 and 4"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — India has NOT resolved nexus conflicts. Tensions persist: free electricity → over-pumping groundwater → falling water tables → more energy needed for deeper pumps. Solar irrigation (PM-KUSUM) may worsen groundwater extraction if not managed. Food security (rice cultivation) demands massive water (paddy is water-intensive). Climate change intensifying all three pressures. Solutions being explored: crop diversification (rice → millets), micro-irrigation, solar with metering, water pricing reform."
+    },
+    {
+      "id": "id19",
+      "subject": "Interdisciplinary",
+      "question": "Consider the following about India's logistics sector:\n1. Logistics cost in India is approximately 14-16% of GDP (vs 8-10% in developed nations)\n2. National Logistics Policy (2022) targets reducing logistics cost to single digits\n3. PM Gati Shakti Master Plan integrates 16 ministries on a single digital platform\n4. Dedicated Freight Corridors (Eastern and Western) are fully operational",
+      "options": [
+        "1 and 3 only",
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only",
+        "All are correct"
+      ],
+      "answer": 2,
+      "explanation": "1, 2, 3 correct. Statement 4 is PARTIALLY WRONG — Western DFC (1,506 km, Dadri-JNPT) is largely operational but Eastern DFC (1,337 km, Ludhiana-Dankuni) is NOT fully complete (delays in some sections). India's high logistics cost = inefficiency (poor last-mile, fragmented warehousing, modal imbalance — 65% road vs 27% rail). NLP targets: Unified Logistics Interface Platform (ULIP), Ease of Logistics portal. Gati Shakti: ensures infrastructure projects (road/rail/port/waterway) are planned cohesively."
+    },
+    {
+      "id": "id20",
+      "subject": "Interdisciplinary",
+      "question": "With reference to the One Health approach:\n1. It integrates human health, animal health, and environmental health\n2. COVID-19 pandemic highlighted the need for One Health (zoonotic origin)\n3. India has established a National One Health Mission\n4. 75% of emerging infectious diseases are zoonotic in origin",
+      "options": [
+        "1 and 2 only",
+        "1, 2, 3 and 4",
+        "All are correct",
+        "1, 2 and 4 only"
+      ],
+      "answer": 2,
+      "explanation": "All correct. One Health: collaborative, multisectoral approach recognizing interconnection between humans-animals-environment. COVID-19 (likely zoonotic — bat origin), Nipah (bat → pig → human), Avian Flu, Ebola — all zoonotic. India's National One Health Mission (PM announced): ICMR + ICAR + MoEFCC + NCDC collaboration. 75% emerging infectious diseases ARE zoonotic (WHO data). India particularly vulnerable: dense population, livestock proximity, wildlife habitat encroachment, antimicrobial resistance in animals entering human food chain."
+    },
+    {
+      "id": "id21",
+      "subject": "Interdisciplinary",
+      "question": "Consider the following about India's Bioeconomy:\n1. India's bioeconomy reached approximately $130 billion (2024)\n2. BioE3 (Biotechnology for Economy, Environment, Employment) policy promotes it\n3. It covers: bio-pharma, bio-agriculture, bio-industry, and bioinformatics\n4. India has no biotechnology startups or research infrastructure",
+      "options": [
+        "1 and 3 only",
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "All are correct"
+      ],
+      "answer": 1,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — India has 6,000+ biotech startups, strong research infra (DBT institutes, IISc, CCMB, NCBS, IITs). Bioeconomy: $130 billion (target $300 billion by 2030). BioE3 policy (2024): promotes bio-manufacturing using renewable biological resources. India's biotech strengths: vaccines (60% of global supply), biosimilars (Biocon), agricultural biotech, biofuels (ethanol blending 20%). Genome India Project, Biobank initiatives, and COVID vaccine development (Covaxin/Covishield) demonstrate capability."
+    }
+  ]
+}

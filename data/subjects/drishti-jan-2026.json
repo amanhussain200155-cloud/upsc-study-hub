@@ -6,25 +6,25 @@
       "subject": "Polity & Governance",
       "question": "Consider the following statements about the Central Vigilance Commission (CVC):\n1. It was set up in 1964 on the Santhanam Committee recommendations\n2. It gained statutory status under the CVC Act, 2003\n3. It is composed of one Central Vigilance Commissioner and up to two Vigilance Commissioners\n4. It can directly prosecute corrupt officials without government permission",
       "options": [
+        "All are correct",
         "1, 2 and 3 only",
-        "1, 2, 3 and 4",
         "1 and 2 only",
-        "All are correct"
+        "1, 2, 3 and 4"
       ],
-      "answer": 0,
-      "explanation": "1, 2, 3 correct. Statement 4 WRONG \u2014 CVC cannot directly prosecute. It can only recommend action, superintend investigations by CBI, and advise government departments. Prosecution requires government sanction. CVC's role is advisory and supervisory, not prosecutorial. Appointment by President on recommendation of committee (PM as Chair, Home Minister, Leader of Opposition in LS)."
+      "answer": 1,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — CVC cannot directly prosecute. It can only recommend action, superintend investigations by CBI, and advise government departments. Prosecution requires government sanction. CVC's role is advisory and supervisory, not prosecutorial. Appointment by President on recommendation of committee (PM as Chair, Home Minister, Leader of Opposition in LS)."
     },
     {
       "id": "jan26-2",
       "subject": "Polity & Governance",
       "question": "With reference to the MS Sahoo Committee on NPS reforms:\n1. It was constituted to review the National Pension System\n2. Its recommendations led to the Unified Pension Scheme (UPS)\n3. NPS is administered by PFRDA under the PFRDA Act\n4. UPS guarantees 50% of average basic pay as pension",
       "options": [
-        "1, 2, 3 and 4",
-        "1, 3 and 4 only",
+        "All are correct",
         "2 and 3 only",
-        "All are correct"
+        "1, 3 and 4 only",
+        "1, 2, 3 and 4"
       ],
-      "answer": 3,
+      "answer": 0,
       "explanation": "All correct. MS Sahoo Committee reviewed NPS and recommended changes leading to UPS. NPS is under PFRDA (Pension Fund Regulatory and Development Authority). UPS (announced 2024, effective April 2025) guarantees assured pension of 50% of average basic pay of last 12 months for those with 25+ years of service. This was a response to demand for reverting to Old Pension Scheme (OPS)."
     },
     {
@@ -32,13 +32,13 @@
       "subject": "Polity & Governance",
       "question": "The Viksit Bharat Shiksha Adhishthan Bill 2025 aims to:\n1. Replace UGC, AICTE, and NCTE with a single regulatory body\n2. Implement the National Education Policy 2020's higher education reforms\n3. Create the Higher Education Commission of India (HECI)\n4. Make all universities autonomous from government control",
       "options": [
-        "1, 2 and 3 only",
         "1 and 2 only",
-        "1, 2, 3 and 4",
-        "All are correct"
+        "1, 2 and 3 only",
+        "All are correct",
+        "1, 2, 3 and 4"
       ],
-      "answer": 0,
-      "explanation": "1, 2, 3 correct. Statement 4 WRONG \u2014 the Bill doesn't make universities 'autonomous from government control'. It restructures the regulatory architecture by merging UGC/AICTE/NCTE into HECI as envisaged by NEP 2020, but government retains significant control through appointments, funding, and policy direction. The Bill is about regulatory consolidation, not deregulation."
+      "answer": 1,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — the Bill doesn't make universities 'autonomous from government control'. It restructures the regulatory architecture by merging UGC/AICTE/NCTE into HECI as envisaged by NEP 2020, but government retains significant control through appointments, funding, and policy direction. The Bill is about regulatory consolidation, not deregulation."
     },
     {
       "id": "jan26-4",
@@ -46,11 +46,11 @@
       "question": "Consider the following about NATGRID-NPR Integration:\n1. NATGRID is a counter-terrorism data sharing network\n2. It connects databases of multiple security and intelligence agencies\n3. NPR (National Population Register) data will be linked with NATGRID\n4. NATGRID was conceptualized after the 26/11 Mumbai attacks",
       "options": [
         "1, 2, 3 and 4",
+        "All are correct",
         "1, 2 and 4 only",
-        "1 and 4 only",
-        "All are correct"
+        "1 and 4 only"
       ],
-      "answer": 3,
+      "answer": 1,
       "explanation": "All correct. NATGRID (National Intelligence Grid) was conceptualized after 26/11 (2008 Mumbai attacks) to enable seamless sharing of data between security agencies (IB, RAW, CBI, ED, CBDT, CBIC etc.). It links 21 databases. NPR-NATGRID integration enables population data to be cross-referenced for security purposes. This raises privacy concerns which are debated."
     },
     {
@@ -59,11 +59,11 @@
       "question": "With reference to the Demographic Dividend and India's narrowing window:\n1. India's working-age population (15-64) currently exceeds dependents\n2. India's TFR has fallen below replacement level (2.1)\n3. Southern states will face aging problems before northern states\n4. The demographic dividend window is estimated to close by 2055-2060",
       "options": [
         "1, 2, 3 and 4",
+        "All are correct",
         "1, 2 and 3 only",
-        "1 and 4 only",
-        "All are correct"
+        "1 and 4 only"
       ],
-      "answer": 3,
+      "answer": 1,
       "explanation": "All correct. India's working-age population is ~68% (demographic dividend phase). TFR is 2.0 (NFHS-5). Southern states (Kerala TFR 1.8, TN 1.8) are aging faster than northern states (Bihar 3.0, UP 2.4). The dividend window narrows as working-age population peaks and dependency ratio starts rising (estimated 2055-60). Challenge: converting demographic dividend into economic dividend requires skilling and employment."
     },
     {
@@ -71,61 +71,61 @@
       "subject": "Economics",
       "question": "Consider the following about OMO Purchases and Dollar-Rupee Swap:\n1. OMO purchase means RBI buys government securities, injecting liquidity\n2. Dollar-Rupee swap means RBI sells dollars and buys rupees\n3. Both tools are used for liquidity management\n4. OMO purchases increase money supply in the economy",
       "options": [
+        "All are correct",
         "1, 3 and 4 only",
-        "1, 2, 3 and 4",
         "1 and 4 only",
-        "All are correct"
+        "1, 2, 3 and 4"
       ],
-      "answer": 0,
-      "explanation": "1, 3, 4 correct. Statement 2 is WRONG \u2014 in a Dollar-Rupee swap for liquidity injection, RBI BUYS dollars from banks (gives them rupees), not sells dollars. This injects rupee liquidity while RBI accumulates forex reserves. When RBI wants to absorb liquidity, it does the reverse (sells dollars, absorbs rupees). Both OMO and swaps are liquidity management tools."
+      "answer": 1,
+      "explanation": "1, 3, 4 correct. Statement 2 is WRONG — in a Dollar-Rupee swap for liquidity injection, RBI BUYS dollars from banks (gives them rupees), not sells dollars. This injects rupee liquidity while RBI accumulates forex reserves. When RBI wants to absorb liquidity, it does the reverse (sells dollars, absorbs rupees). Both OMO and swaps are liquidity management tools."
     },
     {
       "id": "jan26-7",
       "subject": "Economics",
-      "question": "With reference to Central Bank Digital Currency (CBDC/e\u20b9):\n1. It is issued by RBI as a legal tender\n2. It is the same as cryptocurrency like Bitcoin\n3. India has launched both wholesale (e\u20b9-W) and retail (e\u20b9-R) pilots\n4. CBDC reduces the cost of printing and managing physical currency",
+      "question": "With reference to Central Bank Digital Currency (CBDC/e₹):\n1. It is issued by RBI as a legal tender\n2. It is the same as cryptocurrency like Bitcoin\n3. India has launched both wholesale (e₹-W) and retail (e₹-R) pilots\n4. CBDC reduces the cost of printing and managing physical currency",
       "options": [
-        "1, 3 and 4 only",
+        "All are correct",
         "1, 2, 3 and 4",
-        "1 and 3 only",
-        "All are correct"
+        "1, 3 and 4 only",
+        "1 and 3 only"
       ],
-      "answer": 0,
-      "explanation": "1, 3, 4 correct. Statement 2 WRONG \u2014 CBDC is fundamentally different from cryptocurrency. CBDC is centralized (issued/controlled by RBI), has sovereign backing, is legal tender. Cryptocurrency is decentralized, not legal tender, no sovereign guarantee. India launched e\u20b9-W (wholesale, for interbank settlement) and e\u20b9-R (retail, for public use via banks) pilots in 2022-23."
+      "answer": 2,
+      "explanation": "1, 3, 4 correct. Statement 2 WRONG — CBDC is fundamentally different from cryptocurrency. CBDC is centralized (issued/controlled by RBI), has sovereign backing, is legal tender. Cryptocurrency is decentralized, not legal tender, no sovereign guarantee. India launched e₹-W (wholesale, for interbank settlement) and e₹-R (retail, for public use via banks) pilots in 2022-23."
     },
     {
       "id": "jan26-8",
       "subject": "Economics",
       "question": "Consider the following about Infrastructure Bonds in India:\n1. They are issued by Infrastructure Development Finance Companies (IDFCs)\n2. They have tax benefits under Section 80CCF of Income Tax Act\n3. They help finance long-term infrastructure projects\n4. RBI has relaxed norms allowing banks to issue infrastructure bonds exempt from CRR/SLR",
       "options": [
-        "3 and 4 only",
         "1, 2, 3 and 4",
+        "All are correct",
         "1 and 3 only",
-        "All are correct"
+        "3 and 4 only"
       ],
-      "answer": 0,
-      "explanation": "3 and 4 correct. Statement 1 is outdated/incorrect \u2014 infrastructure bonds are now issued by various entities (banks, NBFCs, IIFCL) not just IDFCs. Statement 2 is WRONG \u2014 Section 80CCF tax benefit for infrastructure bonds was available only for a few years (2010-12) and is NO longer available. Current relevance is RBI's 2024 relaxation allowing bank-issued infra bonds exempt from CRR/SLR, making long-term lending cheaper."
+      "answer": 3,
+      "explanation": "3 and 4 correct. Statement 1 is outdated/incorrect — infrastructure bonds are now issued by various entities (banks, NBFCs, IIFCL) not just IDFCs. Statement 2 is WRONG — Section 80CCF tax benefit for infrastructure bonds was available only for a few years (2010-12) and is NO longer available. Current relevance is RBI's 2024 relaxation allowing bank-issued infra bonds exempt from CRR/SLR, making long-term lending cheaper."
     },
     {
       "id": "jan26-9",
       "subject": "International Relations",
       "question": "With reference to India-EU Free Trade Agreement (FTA) negotiations:\n1. Negotiations were relaunched in 2022 after being stalled since 2013\n2. Key Indian concerns include EU's Carbon Border Adjustment Mechanism (CBAM)\n3. EU is India's largest trading partner\n4. Data adequacy requirements are a major non-tariff barrier",
       "options": [
-        "1, 2 and 4 only",
-        "1, 2, 3 and 4",
+        "All are correct",
         "1 and 2 only",
-        "All are correct"
+        "1, 2, 3 and 4",
+        "1, 2 and 4 only"
       ],
-      "answer": 0,
-      "explanation": "1, 2, 4 correct. Statement 3 WRONG \u2014 EU is India's 2nd or 3rd largest trading partner (after US and sometimes UAE), NOT the largest. Negotiations originally started 2007, stalled 2013, relaunched June 2022. Indian concerns: CBAM (carbon tax on exports), data localization vs EU adequacy, labor/environment standards. EU concerns: Indian tariffs on dairy, automobiles, wines."
+      "answer": 3,
+      "explanation": "1, 2, 4 correct. Statement 3 WRONG — EU is India's 2nd or 3rd largest trading partner (after US and sometimes UAE), NOT the largest. Negotiations originally started 2007, stalled 2013, relaunched June 2022. Indian concerns: CBAM (carbon tax on exports), data localization vs EU adequacy, labor/environment standards. EU concerns: Indian tariffs on dairy, automobiles, wines."
     },
     {
       "id": "jan26-10",
       "subject": "International Relations",
       "question": "Consider the following about India-UAE relations:\n1. Bilateral trade reached approximately $100 billion in 2024-25\n2. UAE is India's 3rd largest trading partner\n3. India-UAE CEPA (Comprehensive Economic Partnership Agreement) was signed in 2022\n4. UAE investments in India stand at approximately $20-21 billion",
       "options": [
-        "1, 2, 3 and 4",
-        "1, 3 and 4 only",
         "1 and 3 only",
+        "1, 3 and 4 only",
+        "1, 2, 3 and 4",
         "All are correct"
       ],
       "answer": 3,
@@ -137,12 +137,12 @@
       "question": "The term 'Pax Silica' refers to:\n1. A new global order shaped by semiconductor supply chain dominance\n2. India's inclusion in global chip manufacturing alliances\n3. Peace maintained through silicon/tech superiority rather than military power\n4. A UN resolution on digital governance",
       "options": [
         "1 and 3 only",
-        "1, 2 and 3 only",
         "4 only",
-        "All are correct"
+        "All are correct",
+        "1, 2 and 3 only"
       ],
-      "answer": 1,
-      "explanation": "1, 2, 3 correct. Statement 4 WRONG \u2014 'Pax Silica' is not a UN resolution. It's a geopolitical concept (analogous to Pax Americana/Pax Britannica) suggesting that control over semiconductor supply chains will determine global power dynamics. India's semiconductor mission and inclusion in Chip 4 Alliance discussions relate to India's attempt to be part of this new order. Taiwan (TSMC), South Korea (Samsung), and the US currently dominate."
+      "answer": 3,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — 'Pax Silica' is not a UN resolution. It's a geopolitical concept (analogous to Pax Americana/Pax Britannica) suggesting that control over semiconductor supply chains will determine global power dynamics. India's semiconductor mission and inclusion in Chip 4 Alliance discussions relate to India's attempt to be part of this new order. Taiwan (TSMC), South Korea (Samsung), and the US currently dominate."
     },
     {
       "id": "jan26-12",
@@ -150,24 +150,24 @@
       "question": "With reference to the Western Ghats Ecology Expert Panel (WGEEP) headed by Madhav Gadgil:\n1. It recommended declaring the entire Western Ghats as Ecologically Sensitive Area (ESA)\n2. The Kasturirangan Committee provided a less restrictive alternative\n3. Gadgil report recommended banning mining and new thermal power plants in ESA\n4. Both reports have been fully implemented by the government",
       "options": [
         "1, 2 and 3 only",
-        "1, 2, 3 and 4",
+        "All are correct",
         "1 and 2 only",
-        "All are correct"
+        "1, 2, 3 and 4"
       ],
       "answer": 0,
-      "explanation": "1, 2, 3 correct. Statement 4 WRONG \u2014 NEITHER report has been fully implemented. The Gadgil report (2011) was considered too restrictive by states. Kasturirangan (2013) reduced ESA to ~37% of Western Ghats (vs Gadgil's 100%). Even Kasturirangan's recommendations face resistance from states (Kerala, Karnataka, Goa) due to concerns about development restrictions. Final ESA notification still pending in many areas."
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — NEITHER report has been fully implemented. The Gadgil report (2011) was considered too restrictive by states. Kasturirangan (2013) reduced ESA to ~37% of Western Ghats (vs Gadgil's 100%). Even Kasturirangan's recommendations face resistance from states (Kerala, Karnataka, Goa) due to concerns about development restrictions. Final ESA notification still pending in many areas."
     },
     {
       "id": "jan26-13",
       "subject": "Environment & Ecology",
       "question": "Consider the following about Climate-Resilient Agriculture in India:\n1. It involves developing drought-resistant and flood-tolerant crop varieties\n2. The National Mission for Sustainable Agriculture (NMSA) is the key policy framework\n3. Zero Budget Natural Farming (ZBNF) is promoted as a climate-resilient practice\n4. India's agriculture contributes approximately 14% of national GHG emissions",
       "options": [
-        "1, 2, 3 and 4",
-        "1, 2 and 3 only",
+        "All are correct",
         "1 and 2 only",
-        "All are correct"
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4"
       ],
-      "answer": 3,
+      "answer": 0,
       "explanation": "All correct. Climate-resilient agriculture includes: drought/flood-tolerant varieties (ICAR development), precision irrigation, agroforestry, soil carbon sequestration. NMSA (under NAPCC) is the policy framework. ZBNF (promoted in AP/Karnataka) reduces chemical inputs and improves soil health. Agriculture contributes ~14% of India's GHG (mainly methane from rice paddies and livestock, N2O from fertilizers)."
     },
     {
@@ -175,26 +175,26 @@
       "subject": "Science & Technology",
       "question": "With reference to PSLV failures and implications for India's space programme:\n1. PSLV is ISRO's most reliable workhorse rocket\n2. It has had very few failures in 50+ launches\n3. PSLV failures can impact India's commercial launch credibility\n4. PSLV uses solid fuel in first and third stages, liquid in second and fourth",
       "options": [
-        "1, 2, 3 and 4",
+        "All are correct",
         "1 and 3 only",
-        "1, 2 and 3 only",
-        "All are correct"
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only"
       ],
-      "answer": 3,
+      "answer": 0,
       "explanation": "All correct. PSLV (operational since 1993) has had 55+ launches with ~95% success rate (only 2-3 failures/partial failures). It's ISRO's commercial workhorse (launched 300+ foreign satellites). Any failure impacts credibility in competitive commercial launch market (SpaceX, Arianespace). PSLV is a 4-stage rocket: Stage 1 (solid), Stage 2 (liquid - Vikas engine), Stage 3 (solid), Stage 4 (liquid - twin engines)."
     },
     {
       "id": "jan26-15",
       "subject": "Science & Technology",
-      "question": "Consider the following about the IndiaAI Mission:\n1. It aims to build a comprehensive AI ecosystem in India\n2. It includes development of indigenous AI compute infrastructure\n3. The mission has an outlay of over \u20b910,000 crore\n4. It focuses only on government use of AI, not private sector",
+      "question": "Consider the following about the IndiaAI Mission:\n1. It aims to build a comprehensive AI ecosystem in India\n2. It includes development of indigenous AI compute infrastructure\n3. The mission has an outlay of over ₹10,000 crore\n4. It focuses only on government use of AI, not private sector",
       "options": [
-        "1, 2 and 3 only",
-        "1, 2, 3 and 4",
         "1 and 2 only",
-        "All are correct"
+        "All are correct",
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only"
       ],
-      "answer": 0,
-      "explanation": "1, 2, 3 correct. Statement 4 WRONG \u2014 IndiaAI Mission is NOT limited to government use. It covers the entire ecosystem: compute infrastructure (10,000+ GPU capacity), foundational AI models, datasets platform, application development, skilling (FutureSkills PRIME), and startup financing. It explicitly supports private sector AI startups and research institutions. Budget: ~\u20b910,372 crore."
+      "answer": 3,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — IndiaAI Mission is NOT limited to government use. It covers the entire ecosystem: compute infrastructure (10,000+ GPU capacity), foundational AI models, datasets platform, application development, skilling (FutureSkills PRIME), and startup financing. It explicitly supports private sector AI startups and research institutions. Budget: ~₹10,372 crore."
     }
   ]
 }

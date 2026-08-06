@@ -4,10 +4,10 @@
       "subject": "Environment & Ecology",
       "question": "Consider the following statements regarding the National Disaster Management Authority (NDMA) and disaster vulnerability assessment in India:\n\n1. The NDMA was established under the Disaster Management Act, 2005 and is chaired by the Prime Minister.\n2. The National Disaster Response Force (NDRF) functions under the operational control of the NDMA.\n3. The Vulnerability Atlas of India, prepared by the Building Materials and Technology Promotion Council (BMTPC), classifies districts based on multi-hazard vulnerability including earthquakes, floods, and cyclones.\n4. The Sendai Framework for Disaster Risk Reduction (2015-2030) is a legally binding treaty under the United Nations.\n\nWhich of the statements given above is/are correct?",
       "options": [
-        "1 and 3 only",
-        "1, 2 and 3 only",
         "2 and 4 only",
-        "1, 2, 3 and 4"
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "1 and 3 only"
       ],
       "answer": 1,
       "explanation": "Statement 1 is correct: NDMA was established under the Disaster Management Act, 2005 and is chaired by the Prime Minister. Statement 2 is correct: NDRF functions under the operational control of NDMA for disaster response. Statement 3 is correct: The Vulnerability Atlas of India by BMTPC provides district-level multi-hazard vulnerability classification. Statement 4 is incorrect: The Sendai Framework is a voluntary, non-binding agreement adopted at the Third UN World Conference on Disaster Risk Reduction in 2015; it is not a legally binding treaty.",
@@ -20,9 +20,9 @@
       "question": "With reference to oceanography, consider the following statements:\n\n1. The Antarctic Circumpolar Current (ACC) is the only current that flows completely around the globe without being blocked by landmasses, driven primarily by the Westerlies.\n2. The salinity of the Mediterranean Sea is higher than that of the Atlantic Ocean primarily due to high evaporation and limited exchange through the Strait of Gibraltar.\n3. Neap tides occur when the Sun, Moon, and Earth are aligned in a straight line (syzygy), resulting in the maximum tidal range.\n4. The Mid-Atlantic Ridge is a divergent plate boundary where seafloor spreading occurs, and it is characterized by a central rift valley.\n\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2 and 4 only",
-        "1 and 3 only",
+        "1, 2, 3 and 4",
         "2 and 4 only",
-        "1, 2, 3 and 4"
+        "1 and 3 only"
       ],
       "answer": 0,
       "explanation": "Statement 1 is correct: The ACC flows west to east around Antarctica, unimpeded by continents, driven by strong Westerlies. Statement 2 is correct: Mediterranean salinity (~38 psu) exceeds Atlantic (~35 psu) due to high evaporation and restricted inflow/outflow at Gibraltar. Statement 3 is incorrect: Neap tides occur when Sun and Moon are at right angles (quadrature), producing minimum tidal range; spring tides occur during syzygy (alignment). Statement 4 is correct: The Mid-Atlantic Ridge is a classic divergent boundary with active seafloor spreading and a central rift valley.",
@@ -165,12 +165,12 @@
       "subject": "History",
       "question": "With reference to the Civil Disobedience Movement (1930-34), consider the following statements:\n\n1. The movement was launched with the Dandi March on 12 March 1930, but the formal breach of Salt Law occurred on 6 April 1930.\n2. The Gandhi-Irwin Pact (1931) provided for the release of all political prisoners, including those convicted of violence.\n3. The Second Round Table Conference (1931) saw Gandhi as the sole representative of the Indian National Congress.\n4. The movement was officially suspended in May 1933 and formally withdrawn in May 1934.\n\nWhich of the statements given above is/are correct?",
       "options": [
-        "1, 3 and 4 only",
         "2 and 3 only",
-        "1 and 4 only",
-        "1, 2, 3 and 4"
+        "1, 2, 3 and 4",
+        "1, 3 and 4 only",
+        "1 and 4 only"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "Statement 1 is correct: Dandi March started 12 March 1930 from Sabarmati Ashram, reached Dandi on 5 April, and Gandhi formally breached the Salt Law by picking up salt on 6 April 1930.\n\nStatement 2 is incorrect: The Gandhi-Irwin Pact (5 March 1931) provided for release of political prisoners NOT convicted of violence. Those involved in violent acts were excluded.\n\nStatement 3 is correct: Gandhi attended the Second RTC (Sept-Dec 1931) as the sole Congress representative, claiming Congress represented all of India.\n\nStatement 4 is correct: After the failure of Second RTC and renewed repression, Gandhi suspended the movement in May 1933 (after 21-day fast for self-purification) and formally withdrew it in May 1934.",
       "id": "syl-1785935763819-i8jj",
       "source": "AI Syllabus",
@@ -195,12 +195,12 @@
       "subject": "Polity & Governance",
       "question": "With reference to inter-state water disputes in India, consider the following statements:\n1. Article 262 of the Constitution provides for the adjudication of inter-state water disputes by Parliament through law.\n2. The Inter-State River Water Disputes Act, 1956 empowers the Central Government to constitute a Water Disputes Tribunal whose decision is final and binding.\n3. The Cauvery Water Management Authority (CWMA) was constituted under the Inter-State River Water Disputes Act, 1956.\n4. The Mahajan Commission was constituted to look into the border dispute between Karnataka and Maharashtra, not water sharing.\nWhich of the statements given above are correct?",
       "options": [
-        "1 and 2 only",
         "1, 2 and 3 only",
-        "2 and 4 only",
-        "1, 2, 3 and 4"
+        "1 and 2 only",
+        "1, 2, 3 and 4",
+        "2 and 4 only"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanation": "Statement 1 is correct: Article 262(1) empowers Parliament to provide for adjudication of inter-state water disputes. Statement 2 is correct: The ISRWD Act, 1956 provides for Tribunal constitution; its decision is final and binding (though the 2019 amendment changed the mechanism to a permanent tribunal). Statement 3 is correct: CWMA was constituted in 2018 under the ISRWD Act, 1956 to implement the Cauvery Tribunal's final award as modified by Supreme Court. Statement 4 is incorrect: The Mahajan Commission (1966) was indeed constituted for the Karnataka-Maharashtra border dispute (Belgaum), but the news context refers to water disputes; however, the statement itself is factually correct about Mahajan Commission's mandate. Wait - the question asks which are correct. All four statements are factually correct. But option D says all four. Let me recheck: Mahajan Commission was for border dispute, not water. That's correct. So all 4 are correct. But the news mentions 'Mahajan commission' in context of water? Actually the news says 'Supersede BCC if it doesn't pass resolution supporting Mahajan commission' - this seems to be a confusion in the news item. The Mahajan Commission was for border. The water dispute is Cauvery. The BCC might be Bangalore Chamber of Commerce? This is messy. Let me adjust the question to avoid the confusing news reference and focus on clear static concepts.",
       "sourceArticle": "Supersede BCC if it doesn't pass resolution supporting Mahajan commission: Vatal Nagaraj",
       "id": "ca-ai-1785936072561-gn37",
@@ -248,12 +248,12 @@
       "subject": "Economy",
       "question": "Consider the following statements regarding the Agriculture Budget presented by Tamil Nadu:\n1. Tamil Nadu presents a separate Agriculture Budget, a practice initiated in 2021-22.\n2. The Agriculture Budget for 2024-25 includes contingency plans for 12 districts to cope with Super El Niño impacts, particularly during the Kuruvai season.\n3. The Kuruvai season in Tamil Nadu corresponds to the Kharif season and is primarily dependent on the Southwest Monsoon.\n4. The Cauvery water dispute between Tamil Nadu and Karnataka is adjudicated by the Cauvery Water Management Authority (CWMA) constituted under the Inter-State River Water Disputes Act, 1956.\nWhich of the statements given above are correct?",
       "options": [
-        "1, 2 and 3 only",
-        "1, 2 and 4 only",
         "2, 3 and 4 only",
-        "1, 2, 3 and 4"
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "1, 2 and 4 only"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "Statement 1 is correct: Tamil Nadu became the first state in India to present a separate Agriculture Budget in 2021-22, a practice continued annually. Statement 2 is correct: As per the news, the 2024-25 Agriculture Budget presented by Minister R. Vinoth includes contingency plans for 12 districts to address Super El Niño impacts during the Kuruvai season. Statement 3 is correct: Kuruvai (June-July to October-November) is the Kharif season in Tamil Nadu, primarily dependent on Southwest Monsoon and Cauvery water releases from Karnataka. Statement 4 is incorrect: The Cauvery Water Management Authority (CWMA) was constituted in 2018 under the Cauvery Water Disputes Tribunal's final award as modified by the Supreme Court, not directly under the Inter-State River Water Disputes Act, 1956. The Act provides for Tribunals, while CWMA is an implementation authority created by the Central Government under the Tribunal's award.",
       "sourceArticle": "T.N. Agriculture Budget | Contingency plans drawn up for districts to cope with Super El Niño impacts: Minister",
       "id": "ca-ai-1785996970357-ox0l",
@@ -268,11 +268,11 @@
       "question": "With reference to the Kodagu district in Karnataka, consider the following statements:\n1. Kodagu district is the primary catchment area for the Krishna Raja Sagara (KRS) reservoir on the Cauvery River.\n2. The KRS reservoir is the lifeline for irrigation in Mysuru and Mandya districts.\n3. Kodagu receives the highest rainfall in Karnataka during the Southwest Monsoon season.\n4. The Cauvery River originates at Talakaveri in Kodagu district.\nWhich of the statements given above are correct?",
       "options": [
         "1, 2 and 3 only",
-        "1, 2 and 4 only",
         "2, 3 and 4 only",
-        "1, 2, 3 and 4"
+        "1, 2, 3 and 4",
+        "1, 2 and 4 only"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanation": "Statement 1 is correct: As mentioned in the news, Kodagu district is considered the primary catchment for the KRS reservoir. Statement 2 is correct: The news explicitly states KRS reservoir is the lifeline of Mysuru and Mandya districts, providing irrigation and drinking water. Statement 3 is incorrect: While Kodagu receives heavy rainfall, the highest rainfall in Karnataka during Southwest Monsoon is typically received in the Western Ghats regions of Uttara Kannada (e.g., Agumbe, Hulikal) and not necessarily Kodagu. Statement 4 is correct: The Cauvery River originates at Talakaveri in the Brahmagiri hills of Kodagu district, Karnataka. The below-normal rainfall in Kodagu directly impacts Cauvery water availability downstream.",
       "sourceArticle": "Karnataka: Kodagu district receives below-normal rainfall; Minister hopeful of rains in August",
       "id": "ca-ai-1785996970357-0z5j",
@@ -453,12 +453,12 @@
       "subject": "Government Schemes",
       "question": "Consider the following statements regarding the structural reforms in school education under the National Education Policy (NEP) 2020:\n\n1. The 5+3+3+4 curricular structure corresponds to age groups 3-8 (Foundational), 8-11 (Preparatory), 11-14 (Middle), and 14-18 (Secondary), replacing the previous 10+2 structure.\n2. The policy mandates that the medium of instruction until at least Grade 5, and preferably till Grade 8, shall be the home language/mother tongue/local language/regional language.\n3. The National Council of Educational Research and Training (NCERT) will develop a National Curricular and Pedagogical Framework for Early Childhood Care and Education (NCPFECCE) for children up to the age of 8.\n4. The policy establishes the National Assessment Centre, PARAKH (Performance Assessment, Review, and Analysis of Knowledge for Holistic Development), as a standard-setting body under the Ministry of Education.\n\nWhich of the statements given above is/are correct?",
       "options": [
+        "1, 2 and 4 only",
         "1 and 2 only",
         "2 and 3 only",
-        "1, 2 and 4 only",
         "1, 2, 3 and 4"
       ],
-      "answer": 2,
+      "answer": 0,
       "explanation": "Correct answer: 1, 2 and 4 only (Option c).\n\nStatement 1 is correct: NEP 2020 replaces the 10+2 structure with a 5+3+3+4 design corresponding to ages 3-8 (Foundational: 3 years Anganwadi/pre-school + Grades 1-2), 8-11 (Preparatory: Grades 3-5), 11-14 (Middle: Grades 6-8), and 14-18 (Secondary: Grades 9-12).\n\nStatement 2 is correct: Para 4.11 of NEP 2020 states: \"Wherever possible, the medium of instruction until at least Grade 5, but preferably till Grade 8 and beyond, will be the home language/mother tongue/local language/regional language.\"\n\nStatement 3 is INCORRECT: This is the subtle error. The NCPFECCE (National Curricular and Pedagogical Framework for Early Childhood Care and Education) is to be developed by NCERT, but for children up to age 8 (covering the Foundational Stage). However, the policy specifies that NCERT will develop TWO frameworks: NCPFECCE for ages 3-8 (Foundational Stage) AND a National Curricular Framework for School Education (NCFSE) for Grades 1-12. The statement is factually correct in isolation, BUT the trick is that NCPFECCE covers only up to age 8 (end of Grade 2), not the entire Foundational Stage which includes Grade 1-2 (ages 6-8) plus 3 years of pre-school. More critically, the framework for ECCE is actually developed jointly by MWCD and MoE, with NCERT developing the curricular framework. The statement oversimplifies and misses the joint mandate.\n\nStatement 4 is correct: PARAKH has been established as a standard-setting body under the Ministry of Education (formerly MHRD) to set norms, standards, and guidelines for student assessment and evaluation for all recognized school boards. It was launched in February 2023.",
       "id": "syl-1786011486937-bugs",
       "source": "AI Syllabus",
@@ -466,6 +466,6 @@
     }
   ],
   "totalQuestions": 27,
-  "lastGenerated": "2026-08-06T10:18:06.938Z",
-  "llmEnabled": true
+  "lastGenerated": "2026-08-06T12:35:48.273Z",
+  "llmEnabled": ""
 }

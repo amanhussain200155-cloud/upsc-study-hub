@@ -32,7 +32,7 @@
         "Shimla - Mussoorie - Darjeeling - Nainital"
       ],
       "answer": 0,
-      "explanation": "North to South along the Himalayas: Shimla (31.1\u00b0N, HP) \u2192 Mussoorie (30.4\u00b0N, Uttarakhand) \u2192 Nainital (29.4\u00b0N, Uttarakhand) \u2192 Darjeeling (27.0\u00b0N, West Bengal). Darjeeling is the southernmost as it's in the Eastern Himalayas. Shimla is the northernmost among these options.",
+      "explanation": "North to South along the Himalayas: Shimla (31.1°N, HP) → Mussoorie (30.4°N, Uttarakhand) → Nainital (29.4°N, Uttarakhand) → Darjeeling (27.0°N, West Bengal). Darjeeling is the southernmost as it's in the Eastern Himalayas. Shimla is the northernmost among these options.",
       "mapData": {
         "type": "locations",
         "points": [
@@ -44,7 +44,7 @@
           {
             "name": "Mussoorie",
             "lat": 30.4,
-            "lng": 78.0
+            "lng": 78
           },
           {
             "name": "Nainital",
@@ -53,7 +53,7 @@
           },
           {
             "name": "Darjeeling",
-            "lat": 27.0,
+            "lat": 27,
             "lng": 88.2
           }
         ]
@@ -114,7 +114,7 @@
         "Meghna"
       ],
       "answer": 2,
-      "explanation": "Brahmaputra: Tsangpo (Tibet) \u2192 Dihang/Siang (Arunachal) \u2192 Brahmaputra (Assam) \u2192 Jamuna (Bangladesh). It creates Majuli (world's largest river island, Assam). It's an antecedent river (older than Himalayas). Male river name (Brahma+putra = son of Brahma). Highly braided in Assam, causing frequent floods.",
+      "explanation": "Brahmaputra: Tsangpo (Tibet) → Dihang/Siang (Arunachal) → Brahmaputra (Assam) → Jamuna (Bangladesh). It creates Majuli (world's largest river island, Assam). It's an antecedent river (older than Himalayas). Male river name (Brahma+putra = son of Brahma). Highly braided in Assam, causing frequent floods.",
       "mapData": {
         "type": "river",
         "highlight": "brahmaputra",

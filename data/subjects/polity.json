@@ -19,12 +19,12 @@
       "subject": "Polity & Governance",
       "question": "Which of the following are features borrowed from the British Constitution?\n1. Parliamentary system\n2. Rule of Law\n3. Fundamental Rights\n4. Single Citizenship",
       "options": [
-        "1, 2 and 4 only",
         "1 and 2 only",
         "1, 2, 3 and 4",
+        "1, 2 and 4 only",
         "1, 3 and 4 only"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "From Britain: Parliamentary system, Rule of law, Single citizenship, Cabinet system, Bicameralism, Speaker. Fundamental Rights were borrowed from USA. Directive Principles from Ireland."
     },
     {
@@ -45,12 +45,12 @@
       "subject": "Polity & Governance",
       "question": "With reference to Directive Principles of State Policy:\n1. They are non-justiciable\n2. They were taken from the Irish Constitution\n3. Article 39A deals with equal justice and free legal aid\n4. They override Fundamental Rights in case of conflict",
       "options": [
-        "1, 2 and 3 only",
         "1, 2, 3 and 4",
         "1 and 2 only",
+        "1, 2 and 3 only",
         "All are correct"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "1, 2, 3 correct. Statement 4 is nuanced - DPSPs do NOT automatically override FRs. After Minerva Mills (1980), there must be a BALANCE between FRs and DPSPs. However, Article 31C provides limited protection to laws implementing certain DPSPs."
     },
     {
@@ -175,12 +175,12 @@
       "subject": "Polity & Governance",
       "question": "With reference to CAG (Comptroller and Auditor General):\n1. CAG is appointed by the President\n2. CAG can be removed only by impeachment process similar to SC judge\n3. CAG audits both Central and State accounts\n4. CAG submits reports to Parliament",
       "options": [
-        "1, 2 and 3 only",
-        "1, 2, 3 and 4",
         "1 and 4 only",
-        "All are correct"
+        "1, 2 and 3 only",
+        "All are correct",
+        "1, 2, 3 and 4"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanation": "All correct. CAG (Article 148-151): appointed by President, removed like SC judge (proved misbehavior/incapacity, address by Parliament), audits all accounts of Union and States, submits reports which are laid before Parliament/State Legislature."
     },
     {
@@ -188,12 +188,12 @@
       "subject": "Polity & Governance",
       "question": "The concept of 'Basic Structure' includes which of the following?\n1. Supremacy of the Constitution\n2. Republican and democratic form of government\n3. Federal character\n4. Parliamentary system\nWhich is/are part of basic structure?",
       "options": [
-        "1, 2 and 3 only",
         "1, 2, 3 and 4",
+        "All are correct",
         "1 and 2 only",
-        "All are correct"
+        "1, 2 and 3 only"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanation": "All four are considered part of basic structure as established through various judgments (Kesavananda Bharati 1973, Minerva Mills 1980, etc.). Parliamentary system was specifically held as basic structure in Kihoto Hollohan case."
     }
   ]

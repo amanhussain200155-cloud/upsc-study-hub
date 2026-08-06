@@ -1,22 +1,265 @@
-{"subject":"Remaining Targets Batch 1","questions":[
-{"id":"rt1","subject":"Art & Culture","question":"Consider the following about Chola Bronze sculptures:\n1. The Nataraja (Dancing Shiva) is the most iconic Chola bronze\n2. Lost-wax (cire perdue) technique was used for casting\n3. Chola bronzes date from 9th-13th century CE\n4. They were mass-produced in factories using modern machinery","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — Chola bronzes were handcrafted using lost-wax technique (wax model → clay mould → molten metal poured → wax melts out). Each piece unique. No factories/machinery. The Nataraja represents cosmic dance of creation-destruction (Ananda Tandava). Chola bronzes: finest metal sculptures in world art history. Found mainly in Thanjavur/Kumbakonam region. Many stolen/smuggled to Western museums — ongoing repatriation efforts."},
-{"id":"rt2","subject":"Art & Culture","question":"With reference to Indian textiles and their techniques:\n1. Bandhani (tie-dye) is practiced in Gujarat and Rajasthan\n2. Chikankari (white embroidery on muslin) is from Lucknow\n3. Phulkari (flower work) embroidery is from Punjab\n4. Jamdani (fine muslin weaving) originates from Japan","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 3 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — Jamdani is from BENGAL (Dhaka/Bangladesh historically, now also West Bengal), NOT Japan. It's a fine muslin weaving technique where patterns are woven directly (not printed/embroidered) — UNESCO Intangible Heritage. Bandhani: tie-resist dyeing creating dot patterns. Chikankari: delicate white-on-white hand embroidery, 36+ stitches. Phulkari: geometric flower patterns in silk thread on handspun cotton (associated with Punjabi women's craft traditions)."},
-{"id":"rt3","subject":"Art & Culture","question":"Consider the following about UNESCO World Heritage Sites in India:\n1. India has 42 UNESCO World Heritage Sites (33 Cultural + 7 Natural + 1 Mixed + 1 transnational)\n2. Khangchendzonga National Park is India's only Mixed Heritage site\n3. The Western Ghats is inscribed as a Natural site (serial nomination across states)\n4. Rani ki Vav (Gujarat) is a stepwell inscribed as Cultural Heritage","options":["1, 2, 3 and 4","2, 3 and 4 only","1 and 3 only","All are correct"],"answer":3,"explanation":"All correct. India: 42 WHS (as of 2024). Cultural: Taj Mahal, Red Fort, Hampi, Ajanta/Ellora, Sanchi, Khajuraho, Fatehpur Sikri, Humayun's Tomb etc. Natural: Kaziranga, Manas, Sundarbans, Nanda Devi, Western Ghats, Great Himalayan NP. Mixed: Khangchendzonga (meets both cultural+natural criteria — sacred landscape + biodiversity). Rani ki Vav (Patan, Gujarat, 2014): 11th century stepwell, inverted temple architecture, 7 levels with 500+ sculptures. Transnational: Silk Roads (shared with other countries)."},
-{"id":"rt4","subject":"Art & Culture","question":"With reference to Indian puppetry traditions:\n1. Kathputli (string puppets) is from Rajasthan\n2. Tholu Bommalata (shadow puppets) is from Andhra Pradesh\n3. Pavakoothu (glove puppets) is from Kerala\n4. All Indian puppetry traditions have been discontinued and no longer practiced","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — Indian puppetry traditions are still ALIVE (though facing challenges from electronic media). Kathputli (Bhatt community, Rajasthan): string puppets, heroic tales. Tholu Bommalata (AP/Telangana): translucent leather shadow puppets (Ramayana stories), UNESCO heritage. Pavakoothu (Kerala): glove puppets in temple festivals. Others: Togalu Gombeyaata (Karnataka shadow), Bommalattam (TN rod puppets), Putul Nautch (Bengal/Odisha). Government and Sangeet Natak Akademi support revival. Puppetry also: Rod (Yampuri, Rajasthan), Shadow (Ravanachhaya, Odisha)."},
-{"id":"rt5","subject":"Art & Culture","question":"Consider the following about the Nalanda Mahavihara:\n1. It was a Buddhist university functioning from 5th to 12th century CE\n2. It had students from China, Korea, Tibet, Central Asia studying there\n3. Hiuen Tsang studied at Nalanda and described it in detail\n4. It was established during the Mughal period","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 3 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — Nalanda was established during the GUPTA period (5th century CE, Kumaragupta I), NOT Mughal period. It was destroyed in 1193 by Bakhtiyar Khalji — 300+ years BEFORE Mughal empire began (Babur 1526). At its peak: 10,000 students, 2,000 teachers, 9-storey library (Dharmaganja), subjects: Buddhist philosophy, logic, grammar, medicine, astronomy. Hiuen Tsang (7th century): studied and taught here for 5 years. UNESCO WHS (2016). New Nalanda University established nearby (2010, operational 2014)."},
-{"id":"rt6","subject":"Art & Culture","question":"With reference to Indian cinema and its milestones:\n1. Dadasaheb Phalke made India's first full-length feature film 'Raja Harishchandra' (1913)\n2. 'Alam Ara' (1931) was India's first talkie (sound film)\n3. Satyajit Ray's 'Pather Panchali' (1955) brought Indian cinema international recognition\n4. India produces the largest number of films annually in the world","options":["1, 2, 3 and 4","1, 2 and 3 only","1 and 4 only","All are correct"],"answer":3,"explanation":"All correct. Phalke (Father of Indian Cinema): Raja Harishchandra (1913, silent, Marathi). Alam Ara (Ardeshir Irani, 1931): first Indian talkie. Pather Panchali (Ray, 1955): won Best Human Document at Cannes — launched parallel/art cinema movement. India: produces 1,500-2,000 films/year (largest by volume — Bollywood + regional: Tamil, Telugu, Malayalam, Kannada, Bengali etc.). Dadasaheb Phalke Award: India's highest cinema honour (given annually since 1969). National Film Awards recognize artistic merit across languages."},
-{"id":"rt7","subject":"Art & Culture","question":"Consider the following about Indian philosophical schools (Darshanas):\n1. Sankhya (Kapila), Yoga (Patanjali), Nyaya (Gautama) are orthodox (Astika) schools\n2. Vedanta (Badarayana), Mimamsa (Jaimini), Vaisheshika (Kanada) complete the 6 Astika schools\n3. Buddhism, Jainism, and Charvaka are heterodox (Nastika) schools\n4. Astika schools accept the authority of the Vedas; Nastika reject it","options":["1, 2, 3 and 4","1, 2 and 3 only","1 and 4 only","All are correct"],"answer":3,"explanation":"All correct. 6 Orthodox (Astika) Darshanas: Sankhya (dualistic — Purusha+Prakriti), Yoga (practical discipline), Nyaya (logic/epistemology), Vaisheshika (atomic theory), Mimamsa (ritual interpretation), Vedanta (Upanishadic philosophy — sub-schools: Advaita-Shankara, Vishishtadvaita-Ramanuja, Dvaita-Madhva). 3 Heterodox (Nastika): Buddhism (Four Noble Truths, Eightfold Path), Jainism (Anekantavada, non-violence), Charvaka/Lokayata (materialism, rejected afterlife/karma). Key distinction: Astika accepts Vedic authority; Nastika doesn't."},
-{"id":"rt8","subject":"Science & Technology","question":"Consider the following about India's Unified Payments Interface (UPI) technology:\n1. UPI uses IMPS (Immediate Payment Service) rails for real-time settlement\n2. Virtual Payment Address (VPA) eliminates need to share bank account details\n3. UPI 2.0 introduced: overdraft facility, one-time mandate, and invoice in GST\n4. UPI has zero transaction limit — any amount can be transferred","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — UPI has transaction LIMITS (currently ₹1 lakh per transaction for most use cases; ₹2 lakh for specific categories like tax, insurance; ₹5 lakh for IPO/RBI bonds). Not unlimited. Technical architecture: UPI sits on IMPS infrastructure (enables 24/7 real-time bank-to-bank transfer). VPA (like username@bank): privacy-preserving, no need to expose account number/IFSC. UPI 2.0 features enhanced security and functionality."},
-{"id":"rt9","subject":"Science & Technology","question":"With reference to India's BrahMos missile:\n1. It is a joint India-Russia venture (BrahMaputra + Moscow)\n2. It is a supersonic cruise missile with speed of Mach 2.8-3\n3. BrahMos-II (hypersonic, Mach 7+) is under development\n4. It can be launched from land, sea, submarine, and air platforms","options":["1, 2, 3 and 4","1, 2 and 3 only","1 and 4 only","All are correct"],"answer":3,"explanation":"All correct. BrahMos (JV: India's DRDO + Russia's NPOM, 1998): world's fastest supersonic cruise missile in service. Speed: Mach 2.8 (nearly 3x speed of sound). Range: 290 km (extended to 450 km after MTCR membership). Launch platforms: land-based TELs, Navy ships (INS Rajput first), submarine (vertical launch), air (Su-30MKI — world's heaviest weapon on a fighter). BrahMos-II: hypersonic variant (Mach 7+, scramjet technology) under development. Export: Philippines first buyer (2022). BrahMos Aerospace HQ: New Delhi."},
-{"id":"rt10","subject":"Science & Technology","question":"Consider the following about India's Digital Health Mission (ABDM):\n1. ABHA (Ayushman Bharat Health Account) provides unique health ID\n2. It enables interoperable health records across hospitals\n3. Health Professionals Registry and Health Facility Registry are components\n4. It requires mandatory genetic testing of all citizens","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 3 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — ABDM does NOT require mandatory genetic testing. It's a VOLUNTARY digital health record system. ABHA: 14-digit unique ID (can link Aadhaar or not). Components: Health Information Exchange (share records between hospitals with consent), HPR (verified doctor/nurse database), HFR (hospital/clinic registry). Benefits: patient carries digital records across facilities, reduces duplicate tests, enables telemedicine, supports public health analytics. Privacy: consent-based data sharing under DPDP Act framework."},
-{"id":"rt11","subject":"Environment & Ecology","question":"Consider the following about India's Forest Conservation Act amendments:\n1. FCA 1980 requires Central government approval for diversion of forest land\n2. The 2023 Amendment renamed it 'Van (Sanrakshan Evam Samvardhan) Adhiniyam'\n3. It exempts certain strategic/security projects near borders from prior approval\n4. All environmental groups welcomed the 2023 amendment without objection","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — the 2023 amendment was CRITICIZED by environmental groups for: exempting border areas (100 km from LAC/LoC) from forest clearance, exempting zoos/safari parks, potentially weakening protections. Also: land recorded as 'forest' only in government records would fall under Act (not Godavarman-type deemed forests). Concerns: could open forest land for development without adequate safeguards. The border exemption: strategic necessity (India-China infrastructure race) vs environmental protection trade-off."},
-{"id":"rt12","subject":"Environment & Ecology","question":"With reference to India's mangrove conservation:\n1. India has ~4,975 sq km of mangrove cover (FSI 2021)\n2. Sundarbans (West Bengal) has the largest mangrove area in India\n3. Mangroves act as bio-shields against cyclones and tsunamis\n4. Mangrove cover in India has been consistently declining","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 3 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — India's mangrove cover has actually been INCREASING in recent years (from 4,740 sq km in 2017 to 4,975 sq km in 2021 — FSI data). Government efforts (Mangrove Initiative for Shoreline Habitats & Tangible Incomes - MISHTI, Budget 2023) + awareness + legal protection contributing. Sundarbans: ~2,100 sq km (43% of India's mangroves). Other significant areas: Gujarat (1,177 sq km), A&N (617 sq km), Maharashtra (320 sq km). Mangroves: 3-5x carbon storage vs tropical forests ('blue carbon'), nursery for fish, coastal erosion prevention."},
-{"id":"rt13","subject":"International Relations","question":"Consider the following about India-Bangladesh relations:\n1. India and Bangladesh share the longest land border (~4,096 km)\n2. Teesta water sharing agreement remains unresolved\n3. India provided critical support during Bangladesh's Liberation War (1971)\n4. Trade between India and Bangladesh is completely balanced with no deficit for either side","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 3 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — trade is NOT balanced. India has a significant trade SURPLUS with Bangladesh (~$10 billion Indian exports vs ~$2 billion Bangladeshi exports to India). Bangladesh's concern: high trade deficit with India. Teesta: water sharing MoU ready since 2011 but West Bengal government (CM Mamata Banerjee) opposes it. Border: 4,096 km, largest for India. 1971: India's military intervention (Mukti Bahini support, Dec 1971 war) led to Bangladesh independence. Current issues: NRC-CAA (Bangladesh concern), enclaves (resolved 2015 Land Boundary Agreement), connectivity (Maitri Express, inland waterways)."},
-{"id":"rt14","subject":"International Relations","question":"With reference to India's Indo-Pacific strategy:\n1. India defines Indo-Pacific as extending from shores of Africa to Americas\n2. SAGAR (Security and Growth for All in the Region) is India's maritime vision\n3. India participates in QUAD, IORA, and Indian Ocean Naval Symposium (IONS)\n4. India's Indo-Pacific strategy is identical to the US 'Free and Open Indo-Pacific' in all aspects","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — India's Indo-Pacific concept is NOT identical to USA's. Key differences: India emphasizes INCLUSIVITY (not anti-China military alliance), India includes ASEAN centrality (US more bilateral/AUKUS), India avoids 'containment' language, India engages with BOTH QUAD and SCO/BRICS. India's PM: 'Indo-Pacific is for something, not against somebody.' India's approach: cooperative security, rules-based order, freedom of navigation, connectivity — but without the US-style military alliance overtones. IORA (Indian Ocean Rim Association): 23 members, India is key player."},
-{"id":"rt15","subject":"International Relations","question":"Consider the following about India's vaccine diplomacy:\n1. India supplied COVID vaccines to 100+ countries under 'Vaccine Maitri'\n2. India produces 60% of global vaccine supply (by volume)\n3. Serum Institute of India is the world's largest vaccine manufacturer by doses\n4. India exported vaccines ONLY for commercial profit with no humanitarian component","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 3 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — Vaccine Maitri had a SIGNIFICANT humanitarian/grant component (not purely commercial). India provided: grants (free supplies to SAARC, African, Caribbean, Pacific nations), commercial supplies, and COVAX contributions. India's approach: 'pharmacy of the world' as soft power tool. SII (Pune): produces 1.5 billion+ doses/year. India: 60% of global vaccines (DPT, BCG, Measles, COVID). Diplomatic gains: goodwill in Global South, counter to China's vaccine diplomacy, strengthened India's case for UNSC seat. Also: Quad Vaccine Partnership (India manufacturing, US/Japan/Australia funding/logistics)."},
-{"id":"rt16","subject":"History","question":"Consider the following about the Indian National Movement's economic critique of colonial rule:\n1. Dadabhai Naoroji estimated annual drain at £200-300 million in 'Poverty and Un-British Rule in India'\n2. MG Ranade advocated industrialization as the solution to Indian poverty\n3. RC Dutt documented economic impact in 'Economic History of India' (1901-03)\n4. The economic critique was the ONLY dimension of the national movement","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 3 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — the national movement had MULTIPLE dimensions: economic (drain theory, swadeshi), political (self-governance demand, constitutional reforms), social (caste reform, women's education, widow remarriage), cultural (revivalism, pride in heritage), and military/revolutionary (Bhagat Singh, INA). Economic critique was the EARLIEST and most unifying strand — but not the only one. Moderates emphasized economic arguments; Extremists added cultural nationalism; Gandhi combined economic (spinning wheel) + moral + mass political action."},
-{"id":"rt17","subject":"History","question":"With reference to the Peasant Movements in colonial India:\n1. Indigo Revolt (1859-60, Bengal): ryots refused to grow indigo for British planters\n2. Deccan Riots (1875, Maharashtra): moneylenders attacked by indebted peasants\n3. Champaran (1917): Gandhi's first satyagraha against tinkathia system\n4. All peasant movements were led exclusively by the Indian National Congress","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 3 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — NOT all peasant movements were led by Congress. Many were: spontaneous (Indigo Revolt, Deccan Riots), led by local leaders (Moplah Rebellion 1921 — turned communal), led by communists (Tebhaga 1946, Telangana 1946-51), or by peasant organizations (Kisan Sabha). Congress LATER adopted some peasant causes (Champaran, Kheda, Bardoli) but didn't initiate all. In fact, Congress leadership was often from landlord/lawyer classes — tension existed between Congress and radical peasant movements."},
-{"id":"rt18","subject":"History","question":"Consider the following about the formation of Indian states:\n1. States Reorganization Commission (SRC, 1953-55) recommended linguistic basis for states\n2. Andhra Pradesh was the first state formed on linguistic basis (1953, from Madras)\n3. Bombay was divided into Maharashtra and Gujarat in 1960\n4. All Indian states were formed peacefully without any agitation","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — many states formed after INTENSE agitation, violence, self-immolation. Potti Sriramulu fasted to death (1952) for separate Andhra — triggered creation. Samyukta Maharashtra movement (violent protests). Punjab-Haryana separation (1966) after Akali agitation. Telangana (2014): decades of agitation. Jharkhand/Chhattisgarh/Uttarakhand (2000): long movements. Current demands: Vidarbha, Gorkhaland, Bodoland. SRC (Fazal Ali Commission): recommended 16 states + 3 UTs based on language + administrative viability + financial self-sufficiency."},
-{"id":"rt19","subject":"History","question":"With reference to the Constituent Assembly of India:\n1. It was elected (indirectly) in July 1946 based on Cabinet Mission Plan\n2. Dr. Rajendra Prasad was elected permanent President of the Constituent Assembly\n3. Dr. BR Ambedkar chaired the Drafting Committee\n4. The Constitution was adopted on November 26, 1949 and came into force on January 26, 1950","options":["1, 2, 3 and 4","1, 2 and 3 only","2, 3 and 4 only","All are correct"],"answer":3,"explanation":"All correct. CA: elected July 1946 (indirect election by provincial assemblies, broadly proportional representation). Members: 389 initially → 299 after partition. Sachidananda Sinha: temporary President → Rajendra Prasad: permanent President. BN Rau: Constitutional Advisor (prepared initial draft). Drafting Committee: Ambedkar (Chair) + 6 members. Sessions: 11 sessions, 2 years 11 months 18 days. Constitution: 395 articles, 8 schedules (originally). Adopted: Nov 26, 1949 (Law Day). Effective: Jan 26, 1950 (Republic Day — chosen to commemorate 1930 Purna Swaraj declaration)."},
-{"id":"rt20","subject":"History","question":"Consider the following about tribal revolts against British rule:\n1. Santhal Rebellion (1855-56): Santhals rose against diku (outsiders/moneylenders) exploitation\n2. Birsa Munda movement (1899-1900): 'Ulgulan' (Great Tumult) in Chotanagpur\n3. Rampa Rebellion (1922-24, Andhra): Alluri Sitarama Raju led tribals against forest restrictions\n4. Tribal revolts had purely religious motivations with no economic/land grievances","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — tribal revolts were primarily driven by ECONOMIC/LAND grievances: displacement from ancestral land, forest laws restricting access (Criminal Tribes Act, Forest Acts), exploitation by moneylenders/zamindars (diku), forced labour (begar). Religious elements were present (millenarian movements, claiming divine protection) but as MOBILIZING TOOLS, not primary motivation. Santhal: fought against indigo planters + moneylenders. Birsa: 'Birsa Raj' aimed to expel dikus and reclaim land rights. Rampa: against forest restrictions on podu (shifting) cultivation."}
-]}
+{
+  "subject": "Remaining Targets Batch 1",
+  "questions": [
+    {
+      "id": "rt1",
+      "subject": "Art & Culture",
+      "question": "Consider the following about Chola Bronze sculptures:\n1. The Nataraja (Dancing Shiva) is the most iconic Chola bronze\n2. Lost-wax (cire perdue) technique was used for casting\n3. Chola bronzes date from 9th-13th century CE\n4. They were mass-produced in factories using modern machinery",
+      "options": [
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only",
+        "All are correct",
+        "1 and 2 only"
+      ],
+      "answer": 1,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — Chola bronzes were handcrafted using lost-wax technique (wax model → clay mould → molten metal poured → wax melts out). Each piece unique. No factories/machinery. The Nataraja represents cosmic dance of creation-destruction (Ananda Tandava). Chola bronzes: finest metal sculptures in world art history. Found mainly in Thanjavur/Kumbakonam region. Many stolen/smuggled to Western museums — ongoing repatriation efforts."
+    },
+    {
+      "id": "rt2",
+      "subject": "Art & Culture",
+      "question": "With reference to Indian textiles and their techniques:\n1. Bandhani (tie-dye) is practiced in Gujarat and Rajasthan\n2. Chikankari (white embroidery on muslin) is from Lucknow\n3. Phulkari (flower work) embroidery is from Punjab\n4. Jamdani (fine muslin weaving) originates from Japan",
+      "options": [
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only",
+        "1 and 3 only",
+        "All are correct"
+      ],
+      "answer": 1,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — Jamdani is from BENGAL (Dhaka/Bangladesh historically, now also West Bengal), NOT Japan. It's a fine muslin weaving technique where patterns are woven directly (not printed/embroidered) — UNESCO Intangible Heritage. Bandhani: tie-resist dyeing creating dot patterns. Chikankari: delicate white-on-white hand embroidery, 36+ stitches. Phulkari: geometric flower patterns in silk thread on handspun cotton (associated with Punjabi women's craft traditions)."
+    },
+    {
+      "id": "rt3",
+      "subject": "Art & Culture",
+      "question": "Consider the following about UNESCO World Heritage Sites in India:\n1. India has 42 UNESCO World Heritage Sites (33 Cultural + 7 Natural + 1 Mixed + 1 transnational)\n2. Khangchendzonga National Park is India's only Mixed Heritage site\n3. The Western Ghats is inscribed as a Natural site (serial nomination across states)\n4. Rani ki Vav (Gujarat) is a stepwell inscribed as Cultural Heritage",
+      "options": [
+        "All are correct",
+        "2, 3 and 4 only",
+        "1, 2, 3 and 4",
+        "1 and 3 only"
+      ],
+      "answer": 0,
+      "explanation": "All correct. India: 42 WHS (as of 2024). Cultural: Taj Mahal, Red Fort, Hampi, Ajanta/Ellora, Sanchi, Khajuraho, Fatehpur Sikri, Humayun's Tomb etc. Natural: Kaziranga, Manas, Sundarbans, Nanda Devi, Western Ghats, Great Himalayan NP. Mixed: Khangchendzonga (meets both cultural+natural criteria — sacred landscape + biodiversity). Rani ki Vav (Patan, Gujarat, 2014): 11th century stepwell, inverted temple architecture, 7 levels with 500+ sculptures. Transnational: Silk Roads (shared with other countries)."
+    },
+    {
+      "id": "rt4",
+      "subject": "Art & Culture",
+      "question": "With reference to Indian puppetry traditions:\n1. Kathputli (string puppets) is from Rajasthan\n2. Tholu Bommalata (shadow puppets) is from Andhra Pradesh\n3. Pavakoothu (glove puppets) is from Kerala\n4. All Indian puppetry traditions have been discontinued and no longer practiced",
+      "options": [
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only",
+        "1 and 2 only",
+        "All are correct"
+      ],
+      "answer": 1,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — Indian puppetry traditions are still ALIVE (though facing challenges from electronic media). Kathputli (Bhatt community, Rajasthan): string puppets, heroic tales. Tholu Bommalata (AP/Telangana): translucent leather shadow puppets (Ramayana stories), UNESCO heritage. Pavakoothu (Kerala): glove puppets in temple festivals. Others: Togalu Gombeyaata (Karnataka shadow), Bommalattam (TN rod puppets), Putul Nautch (Bengal/Odisha). Government and Sangeet Natak Akademi support revival. Puppetry also: Rod (Yampuri, Rajasthan), Shadow (Ravanachhaya, Odisha)."
+    },
+    {
+      "id": "rt5",
+      "subject": "Art & Culture",
+      "question": "Consider the following about the Nalanda Mahavihara:\n1. It was a Buddhist university functioning from 5th to 12th century CE\n2. It had students from China, Korea, Tibet, Central Asia studying there\n3. Hiuen Tsang studied at Nalanda and described it in detail\n4. It was established during the Mughal period",
+      "options": [
+        "1, 2, 3 and 4",
+        "1 and 3 only",
+        "1, 2 and 3 only",
+        "All are correct"
+      ],
+      "answer": 2,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — Nalanda was established during the GUPTA period (5th century CE, Kumaragupta I), NOT Mughal period. It was destroyed in 1193 by Bakhtiyar Khalji — 300+ years BEFORE Mughal empire began (Babur 1526). At its peak: 10,000 students, 2,000 teachers, 9-storey library (Dharmaganja), subjects: Buddhist philosophy, logic, grammar, medicine, astronomy. Hiuen Tsang (7th century): studied and taught here for 5 years. UNESCO WHS (2016). New Nalanda University established nearby (2010, operational 2014)."
+    },
+    {
+      "id": "rt6",
+      "subject": "Art & Culture",
+      "question": "With reference to Indian cinema and its milestones:\n1. Dadasaheb Phalke made India's first full-length feature film 'Raja Harishchandra' (1913)\n2. 'Alam Ara' (1931) was India's first talkie (sound film)\n3. Satyajit Ray's 'Pather Panchali' (1955) brought Indian cinema international recognition\n4. India produces the largest number of films annually in the world",
+      "options": [
+        "1, 2 and 3 only",
+        "All are correct",
+        "1 and 4 only",
+        "1, 2, 3 and 4"
+      ],
+      "answer": 1,
+      "explanation": "All correct. Phalke (Father of Indian Cinema): Raja Harishchandra (1913, silent, Marathi). Alam Ara (Ardeshir Irani, 1931): first Indian talkie. Pather Panchali (Ray, 1955): won Best Human Document at Cannes — launched parallel/art cinema movement. India: produces 1,500-2,000 films/year (largest by volume — Bollywood + regional: Tamil, Telugu, Malayalam, Kannada, Bengali etc.). Dadasaheb Phalke Award: India's highest cinema honour (given annually since 1969). National Film Awards recognize artistic merit across languages."
+    },
+    {
+      "id": "rt7",
+      "subject": "Art & Culture",
+      "question": "Consider the following about Indian philosophical schools (Darshanas):\n1. Sankhya (Kapila), Yoga (Patanjali), Nyaya (Gautama) are orthodox (Astika) schools\n2. Vedanta (Badarayana), Mimamsa (Jaimini), Vaisheshika (Kanada) complete the 6 Astika schools\n3. Buddhism, Jainism, and Charvaka are heterodox (Nastika) schools\n4. Astika schools accept the authority of the Vedas; Nastika reject it",
+      "options": [
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only",
+        "1 and 4 only",
+        "All are correct"
+      ],
+      "answer": 3,
+      "explanation": "All correct. 6 Orthodox (Astika) Darshanas: Sankhya (dualistic — Purusha+Prakriti), Yoga (practical discipline), Nyaya (logic/epistemology), Vaisheshika (atomic theory), Mimamsa (ritual interpretation), Vedanta (Upanishadic philosophy — sub-schools: Advaita-Shankara, Vishishtadvaita-Ramanuja, Dvaita-Madhva). 3 Heterodox (Nastika): Buddhism (Four Noble Truths, Eightfold Path), Jainism (Anekantavada, non-violence), Charvaka/Lokayata (materialism, rejected afterlife/karma). Key distinction: Astika accepts Vedic authority; Nastika doesn't."
+    },
+    {
+      "id": "rt8",
+      "subject": "Science & Technology",
+      "question": "Consider the following about India's Unified Payments Interface (UPI) technology:\n1. UPI uses IMPS (Immediate Payment Service) rails for real-time settlement\n2. Virtual Payment Address (VPA) eliminates need to share bank account details\n3. UPI 2.0 introduced: overdraft facility, one-time mandate, and invoice in GST\n4. UPI has zero transaction limit — any amount can be transferred",
+      "options": [
+        "1 and 2 only",
+        "All are correct",
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4"
+      ],
+      "answer": 2,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — UPI has transaction LIMITS (currently ₹1 lakh per transaction for most use cases; ₹2 lakh for specific categories like tax, insurance; ₹5 lakh for IPO/RBI bonds). Not unlimited. Technical architecture: UPI sits on IMPS infrastructure (enables 24/7 real-time bank-to-bank transfer). VPA (like username@bank): privacy-preserving, no need to expose account number/IFSC. UPI 2.0 features enhanced security and functionality."
+    },
+    {
+      "id": "rt9",
+      "subject": "Science & Technology",
+      "question": "With reference to India's BrahMos missile:\n1. It is a joint India-Russia venture (BrahMaputra + Moscow)\n2. It is a supersonic cruise missile with speed of Mach 2.8-3\n3. BrahMos-II (hypersonic, Mach 7+) is under development\n4. It can be launched from land, sea, submarine, and air platforms",
+      "options": [
+        "1, 2 and 3 only",
+        "1 and 4 only",
+        "All are correct",
+        "1, 2, 3 and 4"
+      ],
+      "answer": 2,
+      "explanation": "All correct. BrahMos (JV: India's DRDO + Russia's NPOM, 1998): world's fastest supersonic cruise missile in service. Speed: Mach 2.8 (nearly 3x speed of sound). Range: 290 km (extended to 450 km after MTCR membership). Launch platforms: land-based TELs, Navy ships (INS Rajput first), submarine (vertical launch), air (Su-30MKI — world's heaviest weapon on a fighter). BrahMos-II: hypersonic variant (Mach 7+, scramjet technology) under development. Export: Philippines first buyer (2022). BrahMos Aerospace HQ: New Delhi."
+    },
+    {
+      "id": "rt10",
+      "subject": "Science & Technology",
+      "question": "Consider the following about India's Digital Health Mission (ABDM):\n1. ABHA (Ayushman Bharat Health Account) provides unique health ID\n2. It enables interoperable health records across hospitals\n3. Health Professionals Registry and Health Facility Registry are components\n4. It requires mandatory genetic testing of all citizens",
+      "options": [
+        "1, 2 and 3 only",
+        "All are correct",
+        "1 and 3 only",
+        "1, 2, 3 and 4"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — ABDM does NOT require mandatory genetic testing. It's a VOLUNTARY digital health record system. ABHA: 14-digit unique ID (can link Aadhaar or not). Components: Health Information Exchange (share records between hospitals with consent), HPR (verified doctor/nurse database), HFR (hospital/clinic registry). Benefits: patient carries digital records across facilities, reduces duplicate tests, enables telemedicine, supports public health analytics. Privacy: consent-based data sharing under DPDP Act framework."
+    },
+    {
+      "id": "rt11",
+      "subject": "Environment & Ecology",
+      "question": "Consider the following about India's Forest Conservation Act amendments:\n1. FCA 1980 requires Central government approval for diversion of forest land\n2. The 2023 Amendment renamed it 'Van (Sanrakshan Evam Samvardhan) Adhiniyam'\n3. It exempts certain strategic/security projects near borders from prior approval\n4. All environmental groups welcomed the 2023 amendment without objection",
+      "options": [
+        "1 and 2 only",
+        "All are correct",
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only"
+      ],
+      "answer": 3,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — the 2023 amendment was CRITICIZED by environmental groups for: exempting border areas (100 km from LAC/LoC) from forest clearance, exempting zoos/safari parks, potentially weakening protections. Also: land recorded as 'forest' only in government records would fall under Act (not Godavarman-type deemed forests). Concerns: could open forest land for development without adequate safeguards. The border exemption: strategic necessity (India-China infrastructure race) vs environmental protection trade-off."
+    },
+    {
+      "id": "rt12",
+      "subject": "Environment & Ecology",
+      "question": "With reference to India's mangrove conservation:\n1. India has ~4,975 sq km of mangrove cover (FSI 2021)\n2. Sundarbans (West Bengal) has the largest mangrove area in India\n3. Mangroves act as bio-shields against cyclones and tsunamis\n4. Mangrove cover in India has been consistently declining",
+      "options": [
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only",
+        "All are correct",
+        "1 and 3 only"
+      ],
+      "answer": 1,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — India's mangrove cover has actually been INCREASING in recent years (from 4,740 sq km in 2017 to 4,975 sq km in 2021 — FSI data). Government efforts (Mangrove Initiative for Shoreline Habitats & Tangible Incomes - MISHTI, Budget 2023) + awareness + legal protection contributing. Sundarbans: ~2,100 sq km (43% of India's mangroves). Other significant areas: Gujarat (1,177 sq km), A&N (617 sq km), Maharashtra (320 sq km). Mangroves: 3-5x carbon storage vs tropical forests ('blue carbon'), nursery for fish, coastal erosion prevention."
+    },
+    {
+      "id": "rt13",
+      "subject": "International Relations",
+      "question": "Consider the following about India-Bangladesh relations:\n1. India and Bangladesh share the longest land border (~4,096 km)\n2. Teesta water sharing agreement remains unresolved\n3. India provided critical support during Bangladesh's Liberation War (1971)\n4. Trade between India and Bangladesh is completely balanced with no deficit for either side",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "All are correct",
+        "1 and 3 only"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — trade is NOT balanced. India has a significant trade SURPLUS with Bangladesh (~$10 billion Indian exports vs ~$2 billion Bangladeshi exports to India). Bangladesh's concern: high trade deficit with India. Teesta: water sharing MoU ready since 2011 but West Bengal government (CM Mamata Banerjee) opposes it. Border: 4,096 km, largest for India. 1971: India's military intervention (Mukti Bahini support, Dec 1971 war) led to Bangladesh independence. Current issues: NRC-CAA (Bangladesh concern), enclaves (resolved 2015 Land Boundary Agreement), connectivity (Maitri Express, inland waterways)."
+    },
+    {
+      "id": "rt14",
+      "subject": "International Relations",
+      "question": "With reference to India's Indo-Pacific strategy:\n1. India defines Indo-Pacific as extending from shores of Africa to Americas\n2. SAGAR (Security and Growth for All in the Region) is India's maritime vision\n3. India participates in QUAD, IORA, and Indian Ocean Naval Symposium (IONS)\n4. India's Indo-Pacific strategy is identical to the US 'Free and Open Indo-Pacific' in all aspects",
+      "options": [
+        "1, 2, 3 and 4",
+        "1 and 2 only",
+        "1, 2 and 3 only",
+        "All are correct"
+      ],
+      "answer": 2,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — India's Indo-Pacific concept is NOT identical to USA's. Key differences: India emphasizes INCLUSIVITY (not anti-China military alliance), India includes ASEAN centrality (US more bilateral/AUKUS), India avoids 'containment' language, India engages with BOTH QUAD and SCO/BRICS. India's PM: 'Indo-Pacific is for something, not against somebody.' India's approach: cooperative security, rules-based order, freedom of navigation, connectivity — but without the US-style military alliance overtones. IORA (Indian Ocean Rim Association): 23 members, India is key player."
+    },
+    {
+      "id": "rt15",
+      "subject": "International Relations",
+      "question": "Consider the following about India's vaccine diplomacy:\n1. India supplied COVID vaccines to 100+ countries under 'Vaccine Maitri'\n2. India produces 60% of global vaccine supply (by volume)\n3. Serum Institute of India is the world's largest vaccine manufacturer by doses\n4. India exported vaccines ONLY for commercial profit with no humanitarian component",
+      "options": [
+        "1 and 3 only",
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "All are correct"
+      ],
+      "answer": 1,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — Vaccine Maitri had a SIGNIFICANT humanitarian/grant component (not purely commercial). India provided: grants (free supplies to SAARC, African, Caribbean, Pacific nations), commercial supplies, and COVAX contributions. India's approach: 'pharmacy of the world' as soft power tool. SII (Pune): produces 1.5 billion+ doses/year. India: 60% of global vaccines (DPT, BCG, Measles, COVID). Diplomatic gains: goodwill in Global South, counter to China's vaccine diplomacy, strengthened India's case for UNSC seat. Also: Quad Vaccine Partnership (India manufacturing, US/Japan/Australia funding/logistics)."
+    },
+    {
+      "id": "rt16",
+      "subject": "History",
+      "question": "Consider the following about the Indian National Movement's economic critique of colonial rule:\n1. Dadabhai Naoroji estimated annual drain at £200-300 million in 'Poverty and Un-British Rule in India'\n2. MG Ranade advocated industrialization as the solution to Indian poverty\n3. RC Dutt documented economic impact in 'Economic History of India' (1901-03)\n4. The economic critique was the ONLY dimension of the national movement",
+      "options": [
+        "1, 2 and 3 only",
+        "All are correct",
+        "1 and 3 only",
+        "1, 2, 3 and 4"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — the national movement had MULTIPLE dimensions: economic (drain theory, swadeshi), political (self-governance demand, constitutional reforms), social (caste reform, women's education, widow remarriage), cultural (revivalism, pride in heritage), and military/revolutionary (Bhagat Singh, INA). Economic critique was the EARLIEST and most unifying strand — but not the only one. Moderates emphasized economic arguments; Extremists added cultural nationalism; Gandhi combined economic (spinning wheel) + moral + mass political action."
+    },
+    {
+      "id": "rt17",
+      "subject": "History",
+      "question": "With reference to the Peasant Movements in colonial India:\n1. Indigo Revolt (1859-60, Bengal): ryots refused to grow indigo for British planters\n2. Deccan Riots (1875, Maharashtra): moneylenders attacked by indebted peasants\n3. Champaran (1917): Gandhi's first satyagraha against tinkathia system\n4. All peasant movements were led exclusively by the Indian National Congress",
+      "options": [
+        "1, 2, 3 and 4",
+        "1 and 3 only",
+        "1, 2 and 3 only",
+        "All are correct"
+      ],
+      "answer": 2,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — NOT all peasant movements were led by Congress. Many were: spontaneous (Indigo Revolt, Deccan Riots), led by local leaders (Moplah Rebellion 1921 — turned communal), led by communists (Tebhaga 1946, Telangana 1946-51), or by peasant organizations (Kisan Sabha). Congress LATER adopted some peasant causes (Champaran, Kheda, Bardoli) but didn't initiate all. In fact, Congress leadership was often from landlord/lawyer classes — tension existed between Congress and radical peasant movements."
+    },
+    {
+      "id": "rt18",
+      "subject": "History",
+      "question": "Consider the following about the formation of Indian states:\n1. States Reorganization Commission (SRC, 1953-55) recommended linguistic basis for states\n2. Andhra Pradesh was the first state formed on linguistic basis (1953, from Madras)\n3. Bombay was divided into Maharashtra and Gujarat in 1960\n4. All Indian states were formed peacefully without any agitation",
+      "options": [
+        "1, 2, 3 and 4",
+        "1 and 2 only",
+        "All are correct",
+        "1, 2 and 3 only"
+      ],
+      "answer": 3,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — many states formed after INTENSE agitation, violence, self-immolation. Potti Sriramulu fasted to death (1952) for separate Andhra — triggered creation. Samyukta Maharashtra movement (violent protests). Punjab-Haryana separation (1966) after Akali agitation. Telangana (2014): decades of agitation. Jharkhand/Chhattisgarh/Uttarakhand (2000): long movements. Current demands: Vidarbha, Gorkhaland, Bodoland. SRC (Fazal Ali Commission): recommended 16 states + 3 UTs based on language + administrative viability + financial self-sufficiency."
+    },
+    {
+      "id": "rt19",
+      "subject": "History",
+      "question": "With reference to the Constituent Assembly of India:\n1. It was elected (indirectly) in July 1946 based on Cabinet Mission Plan\n2. Dr. Rajendra Prasad was elected permanent President of the Constituent Assembly\n3. Dr. BR Ambedkar chaired the Drafting Committee\n4. The Constitution was adopted on November 26, 1949 and came into force on January 26, 1950",
+      "options": [
+        "All are correct",
+        "2, 3 and 4 only",
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4"
+      ],
+      "answer": 0,
+      "explanation": "All correct. CA: elected July 1946 (indirect election by provincial assemblies, broadly proportional representation). Members: 389 initially → 299 after partition. Sachidananda Sinha: temporary President → Rajendra Prasad: permanent President. BN Rau: Constitutional Advisor (prepared initial draft). Drafting Committee: Ambedkar (Chair) + 6 members. Sessions: 11 sessions, 2 years 11 months 18 days. Constitution: 395 articles, 8 schedules (originally). Adopted: Nov 26, 1949 (Law Day). Effective: Jan 26, 1950 (Republic Day — chosen to commemorate 1930 Purna Swaraj declaration)."
+    },
+    {
+      "id": "rt20",
+      "subject": "History",
+      "question": "Consider the following about tribal revolts against British rule:\n1. Santhal Rebellion (1855-56): Santhals rose against diku (outsiders/moneylenders) exploitation\n2. Birsa Munda movement (1899-1900): 'Ulgulan' (Great Tumult) in Chotanagpur\n3. Rampa Rebellion (1922-24, Andhra): Alluri Sitarama Raju led tribals against forest restrictions\n4. Tribal revolts had purely religious motivations with no economic/land grievances",
+      "options": [
+        "All are correct",
+        "1, 2 and 3 only",
+        "1 and 2 only",
+        "1, 2, 3 and 4"
+      ],
+      "answer": 1,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — tribal revolts were primarily driven by ECONOMIC/LAND grievances: displacement from ancestral land, forest laws restricting access (Criminal Tribes Act, Forest Acts), exploitation by moneylenders/zamindars (diku), forced labour (begar). Religious elements were present (millenarian movements, claiming divine protection) but as MOBILIZING TOOLS, not primary motivation. Santhal: fought against indigo planters + moneylenders. Birsa: 'Birsa Raj' aimed to expel dikus and reclaim land rights. Rampa: against forest restrictions on podu (shifting) cultivation."
+    }
+  ]
+}

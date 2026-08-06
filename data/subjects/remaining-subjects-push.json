@@ -1,17 +1,200 @@
-{"subject":"Remaining Subjects Push","questions":[
-{"id":"rsp1","subject":"Science & Technology","question":"Consider the following about India's Deep Ocean Mission:\n1. It aims to explore depths up to 6,000 metres using manned submersible 'Matsya 6000'\n2. It targets polymetallic nodules (manganese, nickel, cobalt) on ocean floor\n3. Ocean Thermal Energy Conversion (OTEC) is another component\n4. India has already commercially mined deep-sea minerals","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — India has NOT commercially mined deep-sea minerals yet. The mission (₹4,077 crore, 5 years) is in EXPLORATION phase. India has exploration rights (ISA-allocated) in Central Indian Ocean (75,000 sq km) for polymetallic nodules. Matsya 6000: indigenous submersible for 3 crew to 6 km depth (testing phase). OTEC: generating electricity from temperature difference between warm surface and cold deep water. Also: deep-sea biodiversity documentation, underwater robotics, and climate change research."},
-{"id":"rsp2","subject":"Science & Technology","question":"With reference to India's 6G vision:\n1. India formed a 6G Task Force (Bharat 6G Alliance) in 2023\n2. 6G is expected to offer speeds 100x faster than 5G\n3. It may integrate AI, satellite, and terrestrial networks seamlessly\n4. India has already deployed commercial 6G networks nationwide","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 3 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — 6G is NOT deployed anywhere globally (expected 2030+). India still rolling out 5G. Bharat 6G Alliance (2023): pre-standard research, indigenous IPR development. 6G features: terahertz spectrum, holographic communication, digital twins, sub-millisecond latency, integrated sensing+communication, AI-native network design. India's strategy: unlike 5G (late adopter, imported technology), India wants to be among 6G technology CREATORS (standards, patents). IITs, C-DOT, industry collaboration. Global: China, South Korea, Japan also competing for 6G leadership."},
-{"id":"rsp3","subject":"Science & Technology","question":"Consider the following about CRISPR and gene editing regulation in India:\n1. CRISPR-Cas9 allows precise modification of DNA sequences\n2. India's GEAC regulates GM organisms under Environment Protection Act\n3. Only Bt Cotton is approved for commercial cultivation among GM crops\n4. India permits unrestricted human germline gene editing","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — India does NOT permit unrestricted human germline editing. ICMR National Ethical Guidelines (2017) and DBT guidelines restrict human germline modification (changes that pass to offspring). Somatic cell therapy research is permitted with approvals. GEAC (under MoEFCC): apex body for GMO approval. Bt Cotton (Monsanto/Mahyco, 2002): only commercial GM crop. GM Mustard (DMH-11): approved by GEAC but pending final government clearance (political controversy). CRISPR applications in India: disease research, crop improvement research (not yet commercial GMO via CRISPR)."},
-{"id":"rsp4","subject":"Science & Technology","question":"With reference to India's supercomputing mission:\n1. National Supercomputing Mission aims to build 73 supercomputers across India\n2. PARAM series are India's indigenous supercomputers\n3. India has developed indigenous processor chips for some supercomputers\n4. India's fastest supercomputer ranks #1 globally on TOP500 list","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — India's supercomputers do NOT rank #1 globally. US (Frontier), Japan (Fugaku) lead. India's fastest: in top 100-200 range on TOP500. NSM (₹4,500 crore, 2015): build HPC ecosystem — 73 systems across IITs/IISc/CSIR/IISER. PARAM (C-DAC): series includes PARAM Siddhi-AI (Nvidia-based), PARAM Ganga, etc. Indigenous: some use Shakti/Vega processors (IIT Madras). Applications: weather forecasting, drug discovery, materials science, AI training, nuclear simulations. Target: exascale computing capability."},
-{"id":"rsp5","subject":"Science & Technology","question":"Consider the following about India's Gaganyaan mission:\n1. It will send 3 Indian astronauts to Low Earth Orbit (400 km) for 3 days\n2. Test Vehicle Abort mission (TV-D1) was successfully conducted in 2023\n3. ISRO's Human Space Flight Centre (HSFC) manages the programme\n4. India will become the 2nd country to independently send humans to space","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 3 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — India will become the 4th country (not 2nd) to independently send humans to space (after USSR/Russia 1961, USA 1961, China 2003). Gaganyaan: LVM3 rocket, 3 crew, 400 km orbit, 3 days duration. TV-D1 (Oct 2023): tested Crew Escape System at Mach 1.2. Vyommitra: half-humanoid robot for uncrewed test flights. Astronaut training: IAF test pilots trained in Russia. Indian Space Station planned after Gaganyaan. Budget: ~₹12,000 crore. Timeline: crewed flight targeted after multiple test missions."},
-{"id":"rsp6","subject":"Environment & Ecology","question":"Consider the following about India's tiger conservation:\n1. Project Tiger (1973) started with 9 reserves; now 53 reserves covering 75,000+ sq km\n2. India's tiger population: 1,411 (2006) → 2,967 (2018) → 3,167+ (2022)\n3. National Tiger Conservation Authority (NTCA) was created after the Sariska crisis (2005)\n4. Tiger corridors connecting reserves are fully protected with zero human activity","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — tiger corridors are NOT fully protected with zero human activity. Many corridors pass through: revenue lands, agricultural areas, highways, railway lines. Human-tiger conflict in corridors is a major concern. Linear infrastructure (roads, railways) fragments corridors. NTCA: established under Wildlife (Protection) Act amendment 2006, after tigers disappeared from Sariska (poaching). Corridor challenges: Kanha-Pench, Ranthambore-Sariska, Kaziranga-Nameri corridors all face development pressure. Solutions: wildlife overpasses/underpasses, corridor land acquisition (limited), community engagement."},
-{"id":"rsp7","subject":"Environment & Ecology","question":"With reference to Environmental Impact Assessment (EIA) in India:\n1. EIA is mandatory for certain categories of projects under EPA 1986\n2. EIA Notification 2006 classifies projects into Category A (central) and B (state)\n3. Public hearing is a mandatory step in the EIA process for Category A projects\n4. EIA 2020 draft notification was universally welcomed without any criticism","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 3 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — EIA 2020 draft was HEAVILY criticized by environmentalists, academics, and tribal groups. Criticisms: post-facto clearance (legalized violations by paying fine), reduced public consultation period (20 days from 30), expanded exemptions, diluted compliance reporting. Public hearing exemptions for some B2 projects. It was NOT universally welcomed. EIA process: Screening → Scoping → Public Hearing → Expert Appraisal → Decision. Challenge: many projects begin construction before EIA completion (regularized later — violates precautionary principle)."},
-{"id":"rsp8","subject":"Environment & Ecology","question":"Consider the following about India's Compensatory Afforestation Fund (CAMPA):\n1. It collects funds from projects that divert forest land for non-forest purposes\n2. Over ₹50,000 crore has been collected under CAMPA\n3. The fund is meant for afforestation, forest conservation, and wildlife protection\n4. All CAMPA funds have been fully utilized for forest regeneration","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 3 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — CAMPA funds are notoriously UNDERUTILIZED. Only 30-40% has been spent despite ₹50,000+ crore collected. SC repeatedly criticized states for not using funds. Issues: bureaucratic delays, lack of suitable land for plantation, states using funds for non-forest purposes, poor survival rates of planted trees. CAF Act 2016: formalized fund management (National + State Compensatory Afforestation Funds). For every hectare of forest diverted (mining, dam, highway), equivalent afforestation + net present value must be deposited."},
-{"id":"rsp9","subject":"International Relations","question":"Consider the following about India-Japan Special Strategic Partnership:\n1. 2+2 Ministerial Dialogue (Foreign + Defence Ministers) has been institutionalized\n2. Japan is the largest bilateral donor to India (ODA loans for Delhi Metro, bullet train, NE roads)\n3. Quad partnership further strengthened India-Japan security cooperation\n4. Japan has no economic concerns about India (trade/investment frictionless)","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — Japan DOES have economic concerns: slow project implementation in India (Mumbai-Ahmedabad bullet train delayed by years), regulatory uncertainty, land acquisition delays, labour law complexity, difficulty of doing business. Japan's FDI in India is below potential. Japan is India's: largest ODA donor (₹3.5 lakh crore cumulative), Quad partner, nuclear deal partner (2017 agreement), defense equipment partner (US-2 amphibian aircraft discussions). But commercial trade (~$22 billion) is modest compared to India-China ($100+ billion)."},
-{"id":"rsp10","subject":"International Relations","question":"With reference to India's relationship with Africa:\n1. India-Africa Forum Summit is the institutional framework for engagement\n2. India provides Lines of Credit (~$12 billion committed) for African development\n3. Indian diaspora in Africa numbers approximately 3 million\n4. India has no strategic interests in Africa","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 3 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — India has MAJOR strategic interests in Africa: critical minerals (lithium in Zimbabwe, cobalt in DRC), energy (oil from Nigeria/Angola), maritime security (anti-piracy, Indian Ocean islands), UNSC reform support (54 African votes), counter-China influence (China's BRI/debt-trap in Africa), food security (agricultural cooperation), and pharmaceutical market (India provides 50%+ of Africa's medicines). IAFS summits: 2008, 2011, 2015. Pan-Africa e-Network (telemedicine, tele-education): unique Indian initiative."},
-{"id":"rsp11","subject":"International Relations","question":"Consider the following about India-Russia relations in the changing world order:\n1. India-Russia have a 'Special and Privileged Strategic Partnership'\n2. Russia is India's largest defence equipment supplier historically\n3. India continued purchasing Russian oil despite Western sanctions (2022 onwards)\n4. India-Russia bilateral trade has decreased significantly post-2022","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — India-Russia trade actually INCREASED post-2022 (due to massive Russian oil imports at discounted prices). Bilateral trade: jumped from ~$13 billion (2021) to $65+ billion (2023-24), primarily oil. India: bought discounted Russian crude (despite Western pressure — 'strategic autonomy'). Defence: S-400, Sukhoi, T-90, BrahMos — Russia remains #1 historical supplier. Challenge: payment mechanism (rupee-ruble), over-dependence on Russian defence (spare parts/upgrades), balancing Russia relationship with USA/West relationship."},
-{"id":"rsp12","subject":"History","question":"Consider the following about the Revolt of 1857 and its aftermath:\n1. Queen Victoria's Proclamation (1858) promised non-interference in religious matters\n2. The Indian Councils Act 1861 introduced Indian members to the Governor-General's council\n3. The doctrine of lapse was abolished after the revolt\n4. The revolt had NO impact on British administrative policy in India","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 3 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — the revolt had MASSIVE impact on British policy: end of Company rule (Crown took over), Queen's Proclamation (religious tolerance, absorb Indian princes), army reorganization (reduced Indian:British ratio, disarmed many groups), policy of 'divide and rule' institutionalized, no more social reform attempts (burned by perception that reforms triggered revolt). Indian Councils Act 1861: first step toward Indian participation (though minimal). Doctrine of Lapse abandoned — princes now secure but subordinate."},
-{"id":"rsp13","subject":"History","question":"With reference to the Home Rule Movement (1916-18):\n1. Two Home Rule Leagues: one by Tilak (April 1916) and one by Annie Besant (September 1916)\n2. They demanded self-government/home rule within the British Empire (not complete independence)\n3. The movement spread political awareness beyond educated elite\n4. It was immediately successful and India got Home Rule in 1917","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — India did NOT get Home Rule in 1917. What came was the Montague Declaration (August 1917): 'progressive realization of responsible government' — a PROMISE, not actual self-government. Montagu-Chelmsford Reforms (1919) gave only Dyarchy (limited Indian participation in transferred subjects). Full self-government/dominion status was still 30 years away. But the movement's significance: revitalized national politics between 1915-1916 (when Congress was dormant), created network of activists that Gandhi later utilized."},
-{"id":"rsp14","subject":"History","question":"Consider the following about the Drain of Wealth theory:\n1. Dadabhai Naoroji first articulated it in 'Poverty and Un-British Rule in India' (1901)\n2. R.C. Dutt provided statistical evidence in 'Economic History of India' (1901-03)\n3. 'Drain' referred to wealth flowing from India to Britain with no economic return\n4. British economists unanimously accepted the Drain theory","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 3 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — British economists did NOT unanimously accept the Drain theory. Many (like John Strachey, Theodore Morrison) contested it, arguing: British investments in railways/irrigation benefited India, India gained from modern administration/law. The debate continues among economic historians. Naoroji (1867 onwards, formally 1901): estimated drain at £200-300 million/year. Mechanisms: Home Charges, pensions paid in Britain, profits repatriated by British companies, interest on Indian debt, military expenditure. R.C. Dutt gave detailed statistical backing."},
-{"id":"rsp15","subject":"History","question":"With reference to the Quit India Movement (1942) and parallel governments:\n1. Satara (Maharashtra) had a 'Prati Sarkar' (parallel government) under Nana Patil\n2. Midnapore (Bengal) had Tamralipta Jatiya Sarkar\n3. Ballia (UP) briefly overthrew British authority\n4. These parallel governments functioned for decades after 1947","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — parallel governments did NOT function after 1947 (they existed only during Quit India 1942-44, until British suppressed them). Prati Sarkar (Satara, 1943-46): established parallel administration — courts, schools, revenue collection — under Nana Patil until British regained control. Tamralipta Jatiya Sarkar (Midnapore, 1942-44): declared independence, had own army ('Vidyut Bahini'), collected taxes. Ballia: briefly liberated the district (freed prisoners). These show QIM's mass character — it wasn't just urban demonstrations but genuine attempts at self-governance."}
-]}
+{
+  "subject": "Remaining Subjects Push",
+  "questions": [
+    {
+      "id": "rsp1",
+      "subject": "Science & Technology",
+      "question": "Consider the following about India's Deep Ocean Mission:\n1. It aims to explore depths up to 6,000 metres using manned submersible 'Matsya 6000'\n2. It targets polymetallic nodules (manganese, nickel, cobalt) on ocean floor\n3. Ocean Thermal Energy Conversion (OTEC) is another component\n4. India has already commercially mined deep-sea minerals",
+      "options": [
+        "1 and 2 only",
+        "1, 2 and 3 only",
+        "All are correct",
+        "1, 2, 3 and 4"
+      ],
+      "answer": 1,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — India has NOT commercially mined deep-sea minerals yet. The mission (₹4,077 crore, 5 years) is in EXPLORATION phase. India has exploration rights (ISA-allocated) in Central Indian Ocean (75,000 sq km) for polymetallic nodules. Matsya 6000: indigenous submersible for 3 crew to 6 km depth (testing phase). OTEC: generating electricity from temperature difference between warm surface and cold deep water. Also: deep-sea biodiversity documentation, underwater robotics, and climate change research."
+    },
+    {
+      "id": "rsp2",
+      "subject": "Science & Technology",
+      "question": "With reference to India's 6G vision:\n1. India formed a 6G Task Force (Bharat 6G Alliance) in 2023\n2. 6G is expected to offer speeds 100x faster than 5G\n3. It may integrate AI, satellite, and terrestrial networks seamlessly\n4. India has already deployed commercial 6G networks nationwide",
+      "options": [
+        "1 and 3 only",
+        "1, 2, 3 and 4",
+        "All are correct",
+        "1, 2 and 3 only"
+      ],
+      "answer": 3,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — 6G is NOT deployed anywhere globally (expected 2030+). India still rolling out 5G. Bharat 6G Alliance (2023): pre-standard research, indigenous IPR development. 6G features: terahertz spectrum, holographic communication, digital twins, sub-millisecond latency, integrated sensing+communication, AI-native network design. India's strategy: unlike 5G (late adopter, imported technology), India wants to be among 6G technology CREATORS (standards, patents). IITs, C-DOT, industry collaboration. Global: China, South Korea, Japan also competing for 6G leadership."
+    },
+    {
+      "id": "rsp3",
+      "subject": "Science & Technology",
+      "question": "Consider the following about CRISPR and gene editing regulation in India:\n1. CRISPR-Cas9 allows precise modification of DNA sequences\n2. India's GEAC regulates GM organisms under Environment Protection Act\n3. Only Bt Cotton is approved for commercial cultivation among GM crops\n4. India permits unrestricted human germline gene editing",
+      "options": [
+        "All are correct",
+        "1 and 2 only",
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only"
+      ],
+      "answer": 3,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — India does NOT permit unrestricted human germline editing. ICMR National Ethical Guidelines (2017) and DBT guidelines restrict human germline modification (changes that pass to offspring). Somatic cell therapy research is permitted with approvals. GEAC (under MoEFCC): apex body for GMO approval. Bt Cotton (Monsanto/Mahyco, 2002): only commercial GM crop. GM Mustard (DMH-11): approved by GEAC but pending final government clearance (political controversy). CRISPR applications in India: disease research, crop improvement research (not yet commercial GMO via CRISPR)."
+    },
+    {
+      "id": "rsp4",
+      "subject": "Science & Technology",
+      "question": "With reference to India's supercomputing mission:\n1. National Supercomputing Mission aims to build 73 supercomputers across India\n2. PARAM series are India's indigenous supercomputers\n3. India has developed indigenous processor chips for some supercomputers\n4. India's fastest supercomputer ranks #1 globally on TOP500 list",
+      "options": [
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only",
+        "1 and 2 only",
+        "All are correct"
+      ],
+      "answer": 1,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — India's supercomputers do NOT rank #1 globally. US (Frontier), Japan (Fugaku) lead. India's fastest: in top 100-200 range on TOP500. NSM (₹4,500 crore, 2015): build HPC ecosystem — 73 systems across IITs/IISc/CSIR/IISER. PARAM (C-DAC): series includes PARAM Siddhi-AI (Nvidia-based), PARAM Ganga, etc. Indigenous: some use Shakti/Vega processors (IIT Madras). Applications: weather forecasting, drug discovery, materials science, AI training, nuclear simulations. Target: exascale computing capability."
+    },
+    {
+      "id": "rsp5",
+      "subject": "Science & Technology",
+      "question": "Consider the following about India's Gaganyaan mission:\n1. It will send 3 Indian astronauts to Low Earth Orbit (400 km) for 3 days\n2. Test Vehicle Abort mission (TV-D1) was successfully conducted in 2023\n3. ISRO's Human Space Flight Centre (HSFC) manages the programme\n4. India will become the 2nd country to independently send humans to space",
+      "options": [
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only",
+        "1 and 3 only",
+        "All are correct"
+      ],
+      "answer": 1,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — India will become the 4th country (not 2nd) to independently send humans to space (after USSR/Russia 1961, USA 1961, China 2003). Gaganyaan: LVM3 rocket, 3 crew, 400 km orbit, 3 days duration. TV-D1 (Oct 2023): tested Crew Escape System at Mach 1.2. Vyommitra: half-humanoid robot for uncrewed test flights. Astronaut training: IAF test pilots trained in Russia. Indian Space Station planned after Gaganyaan. Budget: ~₹12,000 crore. Timeline: crewed flight targeted after multiple test missions."
+    },
+    {
+      "id": "rsp6",
+      "subject": "Environment & Ecology",
+      "question": "Consider the following about India's tiger conservation:\n1. Project Tiger (1973) started with 9 reserves; now 53 reserves covering 75,000+ sq km\n2. India's tiger population: 1,411 (2006) → 2,967 (2018) → 3,167+ (2022)\n3. National Tiger Conservation Authority (NTCA) was created after the Sariska crisis (2005)\n4. Tiger corridors connecting reserves are fully protected with zero human activity",
+      "options": [
+        "1, 2 and 3 only",
+        "All are correct",
+        "1, 2, 3 and 4",
+        "1 and 2 only"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — tiger corridors are NOT fully protected with zero human activity. Many corridors pass through: revenue lands, agricultural areas, highways, railway lines. Human-tiger conflict in corridors is a major concern. Linear infrastructure (roads, railways) fragments corridors. NTCA: established under Wildlife (Protection) Act amendment 2006, after tigers disappeared from Sariska (poaching). Corridor challenges: Kanha-Pench, Ranthambore-Sariska, Kaziranga-Nameri corridors all face development pressure. Solutions: wildlife overpasses/underpasses, corridor land acquisition (limited), community engagement."
+    },
+    {
+      "id": "rsp7",
+      "subject": "Environment & Ecology",
+      "question": "With reference to Environmental Impact Assessment (EIA) in India:\n1. EIA is mandatory for certain categories of projects under EPA 1986\n2. EIA Notification 2006 classifies projects into Category A (central) and B (state)\n3. Public hearing is a mandatory step in the EIA process for Category A projects\n4. EIA 2020 draft notification was universally welcomed without any criticism",
+      "options": [
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only",
+        "1 and 3 only",
+        "All are correct"
+      ],
+      "answer": 1,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — EIA 2020 draft was HEAVILY criticized by environmentalists, academics, and tribal groups. Criticisms: post-facto clearance (legalized violations by paying fine), reduced public consultation period (20 days from 30), expanded exemptions, diluted compliance reporting. Public hearing exemptions for some B2 projects. It was NOT universally welcomed. EIA process: Screening → Scoping → Public Hearing → Expert Appraisal → Decision. Challenge: many projects begin construction before EIA completion (regularized later — violates precautionary principle)."
+    },
+    {
+      "id": "rsp8",
+      "subject": "Environment & Ecology",
+      "question": "Consider the following about India's Compensatory Afforestation Fund (CAMPA):\n1. It collects funds from projects that divert forest land for non-forest purposes\n2. Over ₹50,000 crore has been collected under CAMPA\n3. The fund is meant for afforestation, forest conservation, and wildlife protection\n4. All CAMPA funds have been fully utilized for forest regeneration",
+      "options": [
+        "All are correct",
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only",
+        "1 and 3 only"
+      ],
+      "answer": 2,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — CAMPA funds are notoriously UNDERUTILIZED. Only 30-40% has been spent despite ₹50,000+ crore collected. SC repeatedly criticized states for not using funds. Issues: bureaucratic delays, lack of suitable land for plantation, states using funds for non-forest purposes, poor survival rates of planted trees. CAF Act 2016: formalized fund management (National + State Compensatory Afforestation Funds). For every hectare of forest diverted (mining, dam, highway), equivalent afforestation + net present value must be deposited."
+    },
+    {
+      "id": "rsp9",
+      "subject": "International Relations",
+      "question": "Consider the following about India-Japan Special Strategic Partnership:\n1. 2+2 Ministerial Dialogue (Foreign + Defence Ministers) has been institutionalized\n2. Japan is the largest bilateral donor to India (ODA loans for Delhi Metro, bullet train, NE roads)\n3. Quad partnership further strengthened India-Japan security cooperation\n4. Japan has no economic concerns about India (trade/investment frictionless)",
+      "options": [
+        "All are correct",
+        "1 and 2 only",
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only"
+      ],
+      "answer": 3,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — Japan DOES have economic concerns: slow project implementation in India (Mumbai-Ahmedabad bullet train delayed by years), regulatory uncertainty, land acquisition delays, labour law complexity, difficulty of doing business. Japan's FDI in India is below potential. Japan is India's: largest ODA donor (₹3.5 lakh crore cumulative), Quad partner, nuclear deal partner (2017 agreement), defense equipment partner (US-2 amphibian aircraft discussions). But commercial trade (~$22 billion) is modest compared to India-China ($100+ billion)."
+    },
+    {
+      "id": "rsp10",
+      "subject": "International Relations",
+      "question": "With reference to India's relationship with Africa:\n1. India-Africa Forum Summit is the institutional framework for engagement\n2. India provides Lines of Credit (~$12 billion committed) for African development\n3. Indian diaspora in Africa numbers approximately 3 million\n4. India has no strategic interests in Africa",
+      "options": [
+        "All are correct",
+        "1, 2 and 3 only",
+        "1 and 3 only",
+        "1, 2, 3 and 4"
+      ],
+      "answer": 1,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — India has MAJOR strategic interests in Africa: critical minerals (lithium in Zimbabwe, cobalt in DRC), energy (oil from Nigeria/Angola), maritime security (anti-piracy, Indian Ocean islands), UNSC reform support (54 African votes), counter-China influence (China's BRI/debt-trap in Africa), food security (agricultural cooperation), and pharmaceutical market (India provides 50%+ of Africa's medicines). IAFS summits: 2008, 2011, 2015. Pan-Africa e-Network (telemedicine, tele-education): unique Indian initiative."
+    },
+    {
+      "id": "rsp11",
+      "subject": "International Relations",
+      "question": "Consider the following about India-Russia relations in the changing world order:\n1. India-Russia have a 'Special and Privileged Strategic Partnership'\n2. Russia is India's largest defence equipment supplier historically\n3. India continued purchasing Russian oil despite Western sanctions (2022 onwards)\n4. India-Russia bilateral trade has decreased significantly post-2022",
+      "options": [
+        "1 and 2 only",
+        "1, 2, 3 and 4",
+        "All are correct",
+        "1, 2 and 3 only"
+      ],
+      "answer": 3,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — India-Russia trade actually INCREASED post-2022 (due to massive Russian oil imports at discounted prices). Bilateral trade: jumped from ~$13 billion (2021) to $65+ billion (2023-24), primarily oil. India: bought discounted Russian crude (despite Western pressure — 'strategic autonomy'). Defence: S-400, Sukhoi, T-90, BrahMos — Russia remains #1 historical supplier. Challenge: payment mechanism (rupee-ruble), over-dependence on Russian defence (spare parts/upgrades), balancing Russia relationship with USA/West relationship."
+    },
+    {
+      "id": "rsp12",
+      "subject": "History",
+      "question": "Consider the following about the Revolt of 1857 and its aftermath:\n1. Queen Victoria's Proclamation (1858) promised non-interference in religious matters\n2. The Indian Councils Act 1861 introduced Indian members to the Governor-General's council\n3. The doctrine of lapse was abolished after the revolt\n4. The revolt had NO impact on British administrative policy in India",
+      "options": [
+        "1, 2 and 3 only",
+        "All are correct",
+        "1 and 3 only",
+        "1, 2, 3 and 4"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — the revolt had MASSIVE impact on British policy: end of Company rule (Crown took over), Queen's Proclamation (religious tolerance, absorb Indian princes), army reorganization (reduced Indian:British ratio, disarmed many groups), policy of 'divide and rule' institutionalized, no more social reform attempts (burned by perception that reforms triggered revolt). Indian Councils Act 1861: first step toward Indian participation (though minimal). Doctrine of Lapse abandoned — princes now secure but subordinate."
+    },
+    {
+      "id": "rsp13",
+      "subject": "History",
+      "question": "With reference to the Home Rule Movement (1916-18):\n1. Two Home Rule Leagues: one by Tilak (April 1916) and one by Annie Besant (September 1916)\n2. They demanded self-government/home rule within the British Empire (not complete independence)\n3. The movement spread political awareness beyond educated elite\n4. It was immediately successful and India got Home Rule in 1917",
+      "options": [
+        "1, 2 and 3 only",
+        "All are correct",
+        "1 and 2 only",
+        "1, 2, 3 and 4"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — India did NOT get Home Rule in 1917. What came was the Montague Declaration (August 1917): 'progressive realization of responsible government' — a PROMISE, not actual self-government. Montagu-Chelmsford Reforms (1919) gave only Dyarchy (limited Indian participation in transferred subjects). Full self-government/dominion status was still 30 years away. But the movement's significance: revitalized national politics between 1915-1916 (when Congress was dormant), created network of activists that Gandhi later utilized."
+    },
+    {
+      "id": "rsp14",
+      "subject": "History",
+      "question": "Consider the following about the Drain of Wealth theory:\n1. Dadabhai Naoroji first articulated it in 'Poverty and Un-British Rule in India' (1901)\n2. R.C. Dutt provided statistical evidence in 'Economic History of India' (1901-03)\n3. 'Drain' referred to wealth flowing from India to Britain with no economic return\n4. British economists unanimously accepted the Drain theory",
+      "options": [
+        "All are correct",
+        "1 and 3 only",
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4"
+      ],
+      "answer": 2,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — British economists did NOT unanimously accept the Drain theory. Many (like John Strachey, Theodore Morrison) contested it, arguing: British investments in railways/irrigation benefited India, India gained from modern administration/law. The debate continues among economic historians. Naoroji (1867 onwards, formally 1901): estimated drain at £200-300 million/year. Mechanisms: Home Charges, pensions paid in Britain, profits repatriated by British companies, interest on Indian debt, military expenditure. R.C. Dutt gave detailed statistical backing."
+    },
+    {
+      "id": "rsp15",
+      "subject": "History",
+      "question": "With reference to the Quit India Movement (1942) and parallel governments:\n1. Satara (Maharashtra) had a 'Prati Sarkar' (parallel government) under Nana Patil\n2. Midnapore (Bengal) had Tamralipta Jatiya Sarkar\n3. Ballia (UP) briefly overthrew British authority\n4. These parallel governments functioned for decades after 1947",
+      "options": [
+        "1, 2, 3 and 4",
+        "1 and 2 only",
+        "1, 2 and 3 only",
+        "All are correct"
+      ],
+      "answer": 2,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — parallel governments did NOT function after 1947 (they existed only during Quit India 1942-44, until British suppressed them). Prati Sarkar (Satara, 1943-46): established parallel administration — courts, schools, revenue collection — under Nana Patil until British regained control. Tamralipta Jatiya Sarkar (Midnapore, 1942-44): declared independence, had own army ('Vidyut Bahini'), collected taxes. Ballia: briefly liberated the district (freed prisoners). These show QIM's mass character — it wasn't just urban demonstrations but genuine attempts at self-governance."
+    }
+  ]
+}

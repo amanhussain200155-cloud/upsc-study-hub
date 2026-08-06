@@ -6,12 +6,12 @@
       "subject": "Science & Technology",
       "question": "With reference to genetic engineering:\n1. GMO stands for Genetically Modified Organism\n2. Bt Cotton is the only GM crop approved for commercial cultivation in India\n3. GEAC is the apex body for approving GM crops in India\n4. Terminator technology makes seeds sterile",
       "options": [
+        "All are correct",
         "1, 2 and 3 only",
         "1, 2, 3 and 4",
-        "1, 3 and 4 only",
-        "All are correct"
+        "1, 3 and 4 only"
       ],
-      "answer": 3,
+      "answer": 0,
       "explanation": "All correct. GMO = Genetically Modified Organism. Only Bt Cotton is approved commercially (Bt Brinjal was shelved). GEAC (Genetic Engineering Appraisal Committee) under MoEFCC approves GMOs. Terminator (GURT) technology produces sterile seeds."
     },
     {
@@ -19,12 +19,12 @@
       "subject": "Science & Technology",
       "question": "Consider the following about nuclear energy:\n1. Pressurized Heavy Water Reactors use natural uranium\n2. India has signed the Nuclear Non-Proliferation Treaty\n3. Thorium is more abundant than uranium in India\n4. Kudankulam uses Russian VVER reactors",
       "options": [
-        "1, 3 and 4 only",
-        "1, 2, 3 and 4",
         "1 and 3 only",
-        "All except 2"
+        "All except 2",
+        "1, 3 and 4 only",
+        "1, 2, 3 and 4"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "1, 3, 4 correct. India has NOT signed the NPT (Statement 2 wrong). PHWRs use natural uranium with heavy water as moderator. India has 25% of world's thorium (Monazite sands in Kerala). Kudankulam (Tamil Nadu) uses Russian VVER-1000 reactors under India-Russia agreement."
     },
     {
@@ -32,12 +32,12 @@
       "subject": "Science & Technology",
       "question": "Consider the following diseases and their causes:\n1. Malaria - Protozoa (Plasmodium)\n2. Dengue - Virus\n3. Tuberculosis - Bacteria\n4. Ringworm - Fungus",
       "options": [
-        "1, 2 and 3 only",
+        "All are correct",
         "1, 2, 3 and 4",
         "1 and 3 only",
-        "All are correct"
+        "1, 2 and 3 only"
       ],
-      "answer": 3,
+      "answer": 0,
       "explanation": "All correctly matched. Malaria: Plasmodium (protozoa), transmitted by female Anopheles mosquito. Dengue: virus, transmitted by Aedes aegypti. TB: Mycobacterium tuberculosis (bacteria). Ringworm: dermatophyte fungi (despite the name, it's not a worm)."
     },
     {
@@ -45,12 +45,12 @@
       "subject": "Science & Technology",
       "question": "With reference to India's space programme:\n1. IRNSS provides regional navigation over India\n2. GAGAN is GPS-aided navigation for aviation\n3. INSAT series are communication satellites\n4. IRS series are remote sensing satellites",
       "options": [
-        "1, 2 and 3 only",
-        "1, 2, 3 and 4",
         "1 and 4 only",
-        "All are correct"
+        "1, 2 and 3 only",
+        "All are correct",
+        "1, 2, 3 and 4"
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "All correct. IRNSS/NavIC: 7-satellite regional navigation (India + 1500 km). GAGAN: GPS augmentation for civil aviation. INSAT: geostationary communication/weather satellites. IRS (Indian Remote Sensing): Earth observation in sun-synchronous/polar orbits."
     },
     {
@@ -59,9 +59,9 @@
       "question": "Consider the following about Wetlands in India:\n1. Wetlands are regulated under the Wetlands (Conservation and Management) Rules, 2017\n2. The Central Wetlands Regulatory Authority identifies wetlands for conservation\n3. Mangroves are a type of wetland\n4. India has the highest number of Ramsar sites in the world",
       "options": [
         "1 and 3 only",
-        "1, 3 and 4 only",
         "1, 2 and 3 only",
-        "All are correct"
+        "All are correct",
+        "1, 3 and 4 only"
       ],
       "answer": 0,
       "explanation": "1 and 3 correct. Statement 2 wrong - there is no Central Wetlands Regulatory Authority; State Wetlands Authorities identify and manage wetlands. Statement 4 wrong - UK has the most Ramsar sites globally; India has most in South Asia."
@@ -71,25 +71,25 @@
       "subject": "Environment & Ecology",
       "question": "Consider the following regarding Indian National Parks:\n1. No human activity is permitted in a National Park\n2. A Biosphere Reserve can contain National Parks within it\n3. Tiger Reserves are designated under Project Tiger\n4. Buffer zones allow limited human activity",
       "options": [
-        "2, 3 and 4 only",
-        "1, 2, 3 and 4",
         "2 and 4 only",
-        "All are correct"
+        "1, 2, 3 and 4",
+        "All are correct",
+        "2, 3 and 4 only"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "2, 3, 4 correct. Statement 1 is wrong - While NPs have strict protection, Forest Rights Act 2006 recognizes certain rights of forest-dwelling communities. Also, CWLW can permit certain activities. Biosphere Reserves (UNESCO) have core, buffer, transition zones and can encompass NPs (e.g., Nilgiri BR contains Bandipur NP)."
     },
     {
       "id": "sci9",
       "subject": "Environment & Ecology",
-      "question": "The 'Paris Agreement' targets:\n1. Limiting global temperature rise to well below 2\u00b0C above pre-industrial levels\n2. Pursuing efforts to limit to 1.5\u00b0C\n3. Legally binding emission reduction targets for all countries\n4. Developed countries to provide $100 billion/year to developing nations",
+      "question": "The 'Paris Agreement' targets:\n1. Limiting global temperature rise to well below 2°C above pre-industrial levels\n2. Pursuing efforts to limit to 1.5°C\n3. Legally binding emission reduction targets for all countries\n4. Developed countries to provide $100 billion/year to developing nations",
       "options": [
+        "All are correct",
         "1, 2 and 4 only",
-        "1, 2, 3 and 4",
         "1 and 2 only",
-        "All are correct"
+        "1, 2, 3 and 4"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "1, 2, 4 correct. Statement 3 wrong - NDCs (Nationally Determined Contributions) are NOT legally binding targets; they are voluntary pledges. The Agreement itself is legally binding but specific emission targets are self-determined. $100 billion climate finance target from developed to developing nations."
     },
     {
@@ -97,12 +97,12 @@
       "subject": "Environment & Ecology",
       "question": "Which of the following species are correctly categorized as per IUCN Red List?\n1. Indian Rhinoceros - Vulnerable\n2. Snow Leopard - Vulnerable\n3. Bengal Tiger - Endangered\n4. Gangetic Dolphin - Endangered",
       "options": [
+        "All are correct",
         "1, 2 and 3 only",
-        "1, 2, 3 and 4",
         "2 and 3 only",
-        "All are correct"
+        "1, 2, 3 and 4"
       ],
-      "answer": 3,
+      "answer": 0,
       "explanation": "All correct as per current IUCN classifications. Indian Rhino: Vulnerable. Snow Leopard: Vulnerable (downlisted from Endangered in 2017). Bengal Tiger: Endangered. Gangetic Dolphin: Endangered. These are commonly asked in UPSC."
     },
     {
@@ -111,11 +111,11 @@
       "question": "Consider the following about carbon markets:\n1. Carbon credit = 1 tonne of CO2 equivalent\n2. India has launched Carbon Credit Trading Scheme (CCTS)\n3. Clean Development Mechanism was under Kyoto Protocol\n4. Article 6 of Paris Agreement deals with carbon markets",
       "options": [
         "1, 3 and 4 only",
-        "1, 2, 3 and 4",
+        "All are correct",
         "1 and 3 only",
-        "All are correct"
+        "1, 2, 3 and 4"
       ],
-      "answer": 3,
+      "answer": 1,
       "explanation": "All correct. 1 Carbon credit = 1 tonne CO2e. India launched CCTS under Energy Conservation (Amendment) Act 2022. CDM was under Kyoto Protocol allowing developed nations to earn credits from developing nation projects. Paris Agreement Article 6 creates new carbon market mechanism."
     },
     {
@@ -129,19 +129,19 @@
         "All are correct"
       ],
       "answer": 3,
-      "explanation": "All correct. Corals need warm (20-21\u00b0C+), shallow, clear water. 4 major coral regions in India: Andaman & Nicobar, Lakshadweep, Gulf of Mannar, Gulf of Kutch. Bleaching: stressed corals expel symbiotic algae (zooxanthellae) when water warms, turning white."
+      "explanation": "All correct. Corals need warm (20-21°C+), shallow, clear water. 4 major coral regions in India: Andaman & Nicobar, Lakshadweep, Gulf of Mannar, Gulf of Kutch. Bleaching: stressed corals expel symbiotic algae (zooxanthellae) when water warms, turning white."
     },
     {
       "id": "sci13",
       "subject": "Science & Technology",
       "question": "With reference to stem cells:\n1. Embryonic stem cells are pluripotent\n2. Adult stem cells are found in bone marrow\n3. iPSCs are reprogrammed adult cells\n4. India bans all stem cell research",
       "options": [
-        "1, 2 and 3 only",
+        "All are correct",
         "1, 2, 3 and 4",
         "1 and 2 only",
-        "All are correct"
+        "1, 2 and 3 only"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "1, 2, 3 correct. Statement 4 wrong - India does NOT ban stem cell research. ICMR guidelines regulate it. Embryonic stem cells (pluripotent, can become any cell type), Adult stem cells (multipotent, in bone marrow/blood), iPSCs (induced Pluripotent Stem Cells, Yamanaka 2006 Nobel)."
     },
     {
@@ -149,13 +149,13 @@
       "subject": "Science & Technology",
       "question": "Consider the following about semiconductor technology:\n1. Silicon is the most commonly used semiconductor material\n2. India's semiconductor mission aims at chip fabrication\n3. Transistors are made from semiconductor materials\n4. Chips below 7nm require EUV lithography",
       "options": [
-        "1, 2 and 3 only",
-        "1, 2, 3 and 4",
         "1 and 3 only",
-        "All are correct"
+        "All are correct",
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4"
       ],
-      "answer": 3,
-      "explanation": "All correct. Silicon dominates semiconductor industry. India Semiconductor Mission (ISM, \u20b976,000 crore) aims at fabrication facilities. Transistors use semiconductor properties (controlled conductivity). Sub-7nm chips need Extreme Ultraviolet (EUV) lithography - only ASML makes these machines."
+      "answer": 1,
+      "explanation": "All correct. Silicon dominates semiconductor industry. India Semiconductor Mission (ISM, ₹76,000 crore) aims at fabrication facilities. Transistors use semiconductor properties (controlled conductivity). Sub-7nm chips need Extreme Ultraviolet (EUV) lithography - only ASML makes these machines."
     }
   ]
 }

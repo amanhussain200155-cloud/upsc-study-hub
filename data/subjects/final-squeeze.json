@@ -1,18 +1,213 @@
-{"subject":"Final Squeeze","questions":[
-{"id":"fs1","subject":"Environment & Ecology","question":"Consider the following about Kigali Amendment to Montreal Protocol:\n1. It targets phase-down of HFCs (hydrofluorocarbons)\n2. HFCs replaced CFCs but are potent greenhouse gases\n3. India committed to freeze HFC production by 2028 (developed nations by 2036)\n4. Montreal Protocol originally dealt only with ozone-depleting substances","options":["1, 2 and 4 only","1, 2, 3 and 4","1 and 4 only","All are correct"],"answer":0,"explanation":"1, 2, 4 correct. Statement 3 has REVERSED timeline — DEVELOPED nations freeze by 2019/2024; DEVELOPING nations (India) freeze by 2028/2032 (two groups). India is in Group 2 developing nations: baseline 2024-26, freeze 2028, 85% reduction by 2047. Montreal Protocol (1987): ozone layer (CFCs/HCFCs). Kigali Amendment (2016, effective 2019): extended Montreal to cover HFCs — climate co-benefits (HFCs are 1000-9000x more potent GHGs than CO2). India ratified 2021."},
-{"id":"fs2","subject":"Environment & Ecology","question":"With reference to India's Green Credit Programme:\n1. It is a market-based mechanism to incentivize voluntary environmental actions\n2. Activities like tree planting, water conservation, waste management can earn Green Credits\n3. Credits can be traded on a domestic platform\n4. It is a mandatory programme with penalties for non-participation","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 3 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — Green Credit Programme (Oct 2023, under EPA 1986) is VOLUNTARY, not mandatory. Individuals, communities, companies can earn credits through: tree plantation, water management, sustainable agriculture, waste management, air pollution reduction. Credits tradeable on domestic platform (administered by ICFRE). Difference from carbon credits: broader scope (not just carbon), complements India's CCTS (compliance carbon market). Encourages: private sector, individuals to contribute beyond regulatory requirements."},
-{"id":"fs3","subject":"Environment & Ecology","question":"Consider the following about India's Biological Diversity Act, 2002:\n1. It established National Biodiversity Authority (NBA), State Biodiversity Boards, and local BMCs\n2. It regulates access to biological resources and associated traditional knowledge\n3. It implements India's obligations under the Convention on Biological Diversity\n4. Foreign entities can freely access India's biological resources without any permission","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 3 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — foreign entities CANNOT freely access. They need PRIOR APPROVAL of NBA. Indian entities: need approval of SBB for commercial use. Act addresses: biopiracy prevention (neem, turmeric, basmati cases), access and benefit sharing (ABS) with local communities, protection of traditional knowledge. BMCs (Biodiversity Management Committees): at local body level, prepare People's Biodiversity Registers. 2023 Amendment: decriminalized certain offences, simplified benefit sharing."},
-{"id":"fs4","subject":"Environment & Ecology","question":"With reference to Wetland Conservation Rules, 2017:\n1. They replaced the earlier Wetlands (Conservation and Management) Rules, 2010\n2. State Wetland Authorities identify and notify wetlands for protection\n3. SC in 2024 directed review of these rules for better protection\n4. All water bodies in India are automatically protected as wetlands","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — NOT all water bodies are automatically wetlands. Wetlands must be IDENTIFIED and NOTIFIED by State Wetland Authorities for protection under these rules. Many urban lakes, ponds, marshes remain unnotified (hence unprotected from encroachment). SC (2024) expressed concern over weaknesses in the 2017 Rules (no penal provisions, delayed notification by states). Ramsar sites get international recognition but domestic protection depends on state-level notification. Rules cover: permitted/restricted activities, wise use principle, grievance redressal."},
-{"id":"fs5","subject":"Environment & Ecology","question":"Consider the following about India's Emission Trading Scheme (ETS) pilot:\n1. Gujarat was the first state to pilot a Particulate Matter ETS (2019)\n2. It sets a cap on total emissions and allows polluters to trade permits\n3. It was developed with support from the Energy Policy Institute at University of Chicago\n4. India's ETS covers ALL greenhouse gases including CO2, methane, and N2O","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — Gujarat's pilot ETS covers only PARTICULATE MATTER (local air pollutant), not greenhouse gases. It's the world's first PM-based ETS (unique — most ETS globally cover CO2). The separate Carbon Credit Trading Scheme (CCTS, 2023) will cover CO2/GHGs. Gujarat ETS: Surat pilot — industries get PM emission permits, can trade them. If total cap met, air quality improves while giving flexibility to individual polluters. EPIC (University of Chicago): provided technical design support. Potential: scale to other states/pollutants."},
-{"id":"fs6","subject":"Environment & Ecology","question":"With reference to India's National Hydrogen Mission:\n1. Green hydrogen is produced using renewable energy for electrolysis\n2. Grey hydrogen (from natural gas) currently dominates India's hydrogen production\n3. India aims to be a global green hydrogen export hub\n4. Hydrogen has no role in India's steel decarbonization strategy","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 3 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — hydrogen has a KEY role in steel decarbonization. Green hydrogen can replace coking coal in Direct Reduced Iron (DRI) process — this is critical because steel sector contributes ~7% of India's CO2 emissions. India's National Green Hydrogen Mission specifically targets hard-to-abate sectors (steel, refineries, heavy transport, ammonia). Green: renewable electrolysis. Grey: steam methane reforming (90% of current production). Blue: grey + carbon capture. India: targets transition from grey to green, making steel/refinery/fertilizer greener."},
-{"id":"fs7","subject":"Science & Technology","question":"Consider the following about India's Tejas Light Combat Aircraft:\n1. It is India's indigenous single-engine multirole fighter developed by HAL/ADA\n2. Tejas Mark 1A features AESA radar, electronic warfare suite, and BVR missiles\n3. India has ordered 83 Tejas Mark 1A for the Indian Air Force\n4. Tejas has been exported to 10+ countries","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 3 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — Tejas has NOT been exported to 10+ countries. It's been offered/in discussions with several (Malaysia, Argentina, Egypt, Nigeria) but NO confirmed export order as of 2026. Tejas Mk1A: upgraded with EL/M-2052 AESA radar, comprehensive EW suite, ASRAAM/Derby BVR capability, higher maintainability. India's defence export target: $5 billion — Tejas is key potential export platform. Development: 4 decades from LCA programme (1983) to operational IOC (2014) to FOC (2019) to Mk1A production. Tejas Mk2 (Medium Weight Fighter): under development."},
-{"id":"fs8","subject":"Science & Technology","question":"With reference to India's Quantum Communication:\n1. ISRO demonstrated satellite-based quantum key distribution (Free Space QKD)\n2. C-DOT developed indigenous Quantum Key Distribution system\n3. Quantum communication provides theoretically unbreakable encryption\n4. India has already deployed nationwide quantum internet replacing classical internet","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 3 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — India has NOT deployed nationwide quantum internet. It's in early research/demonstration phase. ISRO: demonstrated free-space QKD over 300m (2021). C-DOT: developed indigenous QKD system (tested over optical fiber). National Quantum Mission (₹6,003 crore): targets quantum computing (50 qubits by 2026, 1000 by 2031), quantum communication (2000+ km QKD network), quantum sensing. Quantum internet: decades away globally. Current: point-to-point QKD links for ultra-secure government/defence communication (pilot stage)."},
-{"id":"fs9","subject":"Science & Technology","question":"Consider the following about India's Chandrayaan missions:\n1. Chandrayaan-1 (2008) discovered water molecules on the Moon\n2. Chandrayaan-2 (2019): Orbiter successful but Vikram lander crashed\n3. Chandrayaan-3 (2023): successfully soft-landed near lunar south pole\n4. India has already sent astronauts to the Moon","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 3 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — India has NOT sent astronauts to the Moon (or anywhere in space yet — Gaganyaan will be first crewed mission to LEO, not Moon). Chandrayaan-1: Moon Impact Probe + NASA's M3 instrument confirmed water/hydroxyl. Chandrayaan-2: Orbiter still operational (7+ year mission life), lander failed during soft landing. Chandrayaan-3: successful landing (Aug 23, 2023) at 69°S latitude — first at lunar south pole. Pragyan rover detected sulfur. India: 4th country to soft-land on Moon (after USSR, USA, China)."},
-{"id":"fs10","subject":"International Relations","question":"Consider the following about India's BIMSTEC engagement:\n1. BIMSTEC has 7 members: India, Bangladesh, Myanmar, Sri Lanka, Thailand, Nepal, Bhutan\n2. It connects South Asia and Southeast Asia around the Bay of Bengal\n3. India sees it as an alternative to SAARC (where Pakistan blocks progress)\n4. BIMSTEC has already achieved complete free trade among all members","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 3 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — BIMSTEC FTA is still under NEGOTIATION (framework signed but not operational). Despite being 27+ years old (1997), progress has been slow. India's BIMSTEC push: alternative to SAARC where Pakistan blocks every initiative. Advantages: no Pakistan, connects with ASEAN (Thailand), covers Bay of Bengal (maritime cooperation). 7 priority sectors including: trade, technology, energy, transport, fisheries, counter-terrorism, climate change. BIMSTEC Charter signed 2022 (finally, after 25 years). Challenge: organizational weakness, competing priorities of members."},
-{"id":"fs11","subject":"International Relations","question":"With reference to India's nuclear diplomacy:\n1. NSG waiver (2008) allowed India to engage in nuclear commerce despite not signing NPT\n2. India has nuclear cooperation agreements with USA, France, Russia, Australia\n3. India's Civil Nuclear Liability Act (2010) complicated supplier engagement\n4. India is a recognized Nuclear Weapon State under NPT","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 3 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — India is NOT a recognized Nuclear Weapon State under NPT. NPT recognizes only 5 NWS (US, Russia, UK, France, China — those who tested before 1967). India, Pakistan, Israel are de facto nuclear states but NOT NPT members and NOT recognized NWS. NSG waiver (2008): exceptional country-specific waiver allowing nuclear trade despite non-NPT status. This was a major diplomatic achievement (US lobbied for India). India argues: NPT is discriminatory — refuses to sign as non-NWS."},
-{"id":"fs12","subject":"International Relations","question":"Consider the following about India's position in SCO (Shanghai Cooperation Organisation):\n1. India became a full member of SCO in 2017 (along with Pakistan)\n2. SCO includes India, China, Russia, Pakistan + Central Asian states\n3. SCO focuses on counter-terrorism, trade, and connectivity\n4. India agrees with China and Pakistan on all SCO agendas without any friction","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — India has SIGNIFICANT friction with China and Pakistan within SCO. India opposes: BRI references in SCO declarations (India boycotts BRI), Pakistan's attempts to raise Kashmir bilaterally at SCO, Chinese dominance of SCO economic agenda. India's engagement: selective — counter-terrorism (RATS), Central Asia connectivity (via Iran's Chabahar, INSTC), energy cooperation, cultural exchanges. India does NOT support SCO becoming China's tool against Western-led order. Balancing act: engaging multilaterally while maintaining differences bilaterally."},
-{"id":"fs13","subject":"Art & Culture","question":"Consider the following about India's handloom sector:\n1. India has 31.7 lakh handloom worker households (4th Handloom Census)\n2. National Handloom Day is observed on August 7 (anniversary of Swadeshi Movement, 1905)\n3. Handloom Mark guarantees the product is genuinely handwoven\n4. Machine-made textiles and handloom products are equally valued by consumers","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — handloom products face stiff COMPETITION from cheaper machine-made textiles (power looms). This is handloom sector's biggest crisis: power looms produce similar-looking products at 1/3 cost. Many consumers can't distinguish. Handloom Mark (certification by Textile Committee): helps establish authenticity. Challenges: declining weavers (migration to other work), low wages (₹5,000-8,000/month), intermediary exploitation. Government support: NHDC credit, cluster development, GI protection, e-commerce push, design intervention. August 7: commemorates Swadeshi Movement launch (1905, partition of Bengal)."},
-{"id":"fs14","subject":"Art & Culture","question":"With reference to India's Intangible Cultural Heritage (ICH) and its protection:\n1. India signed the 2003 UNESCO Convention for Safeguarding of ICH\n2. India has 15+ elements on the UNESCO ICH Representative List\n3. Sangeet Natak Akademi documents and archives performing arts traditions\n4. All of India's folk traditions have been fully documented and preserved","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 3 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — vast majority of India's folk/tribal traditions remain UNDOCUMENTED and are rapidly disappearing. India has 700+ tribal groups, thousands of folk performance traditions — only a tiny fraction formally documented. Sangeet Natak Akademi: archives performances, but coverage is limited. Cultural mapping project underway but incomplete. ICH elements: Yoga, Kumbh Mela, Durga Puja, Garba, Ramlila, Kutiyattam, Chhau, Kalbelia, Mudiyettu, Sankirtana, Nowruz, Vedic Chanting etc. Many more deserve inscription but India has limited nominations per year (UNESCO cap)."},
-{"id":"fs15","subject":"Art & Culture","question":"Consider the following about India's museum sector:\n1. National Museum (Delhi) houses Indus Valley artifacts, Buddhist sculptures, and miniature paintings\n2. Indian Museum (Kolkata, 1814) is the oldest and largest museum in India\n3. Salar Jung Museum (Hyderabad) has one of the largest one-man collections globally\n4. India has no policy framework for museum development","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — India DOES have a policy: National Museum Policy (2022) and PRANAHMAN (Prime Minister's National Heritage, Art and Museum Mission) for modernizing museums. National Museum: Harappan gallery, Mauryan sculptures, manuscript collection. Indian Museum (oldest in Asia-Pacific): geological, archaeological, art, anthropological sections. Salar Jung (Nizam's PM's private collection): 43,000+ objects (Veiled Rebecca sculpture famous). India has 1,000+ museums but most are poorly maintained/funded — the new policy aims to revitalize them through technology, accessibility, and private partnership."},
-{"id":"fs16","subject":"History","question":"Consider the following about the Indian Press during the freedom movement:\n1. Vernacular Press Act (1878) targeted Indian-language newspapers critical of the government\n2. Tilak's Kesari (Marathi) and Mahratta (English) were sedition-charged newspapers\n3. The Indian Press Act 1910 gave government power to demand security deposits from presses\n4. Freedom of press was explicitly guaranteed as a separate Fundamental Right in the 1950 Constitution","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — freedom of press is NOT a separately listed Fundamental Right. It is DERIVED from Article 19(1)(a) (freedom of speech and expression). SC has repeatedly held that freedom of press is implicit in 19(1)(a) but it's not mentioned by name. Vernacular Press Act (1878, Lord Lytton): discriminatory — applied only to Indian language papers (English press exempt). Tilak: sentenced for sedition ('Swaraj is my birthright' in Kesari). Indian Press Act 1910: security deposit system — government could forfeit deposit and shut press."}
-]}
+{
+  "subject": "Final Squeeze",
+  "questions": [
+    {
+      "id": "fs1",
+      "subject": "Environment & Ecology",
+      "question": "Consider the following about Kigali Amendment to Montreal Protocol:\n1. It targets phase-down of HFCs (hydrofluorocarbons)\n2. HFCs replaced CFCs but are potent greenhouse gases\n3. India committed to freeze HFC production by 2028 (developed nations by 2036)\n4. Montreal Protocol originally dealt only with ozone-depleting substances",
+      "options": [
+        "1, 2 and 4 only",
+        "All are correct",
+        "1 and 4 only",
+        "1, 2, 3 and 4"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 4 correct. Statement 3 has REVERSED timeline — DEVELOPED nations freeze by 2019/2024; DEVELOPING nations (India) freeze by 2028/2032 (two groups). India is in Group 2 developing nations: baseline 2024-26, freeze 2028, 85% reduction by 2047. Montreal Protocol (1987): ozone layer (CFCs/HCFCs). Kigali Amendment (2016, effective 2019): extended Montreal to cover HFCs — climate co-benefits (HFCs are 1000-9000x more potent GHGs than CO2). India ratified 2021."
+    },
+    {
+      "id": "fs2",
+      "subject": "Environment & Ecology",
+      "question": "With reference to India's Green Credit Programme:\n1. It is a market-based mechanism to incentivize voluntary environmental actions\n2. Activities like tree planting, water conservation, waste management can earn Green Credits\n3. Credits can be traded on a domestic platform\n4. It is a mandatory programme with penalties for non-participation",
+      "options": [
+        "1, 2 and 3 only",
+        "All are correct",
+        "1, 2, 3 and 4",
+        "1 and 3 only"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — Green Credit Programme (Oct 2023, under EPA 1986) is VOLUNTARY, not mandatory. Individuals, communities, companies can earn credits through: tree plantation, water management, sustainable agriculture, waste management, air pollution reduction. Credits tradeable on domestic platform (administered by ICFRE). Difference from carbon credits: broader scope (not just carbon), complements India's CCTS (compliance carbon market). Encourages: private sector, individuals to contribute beyond regulatory requirements."
+    },
+    {
+      "id": "fs3",
+      "subject": "Environment & Ecology",
+      "question": "Consider the following about India's Biological Diversity Act, 2002:\n1. It established National Biodiversity Authority (NBA), State Biodiversity Boards, and local BMCs\n2. It regulates access to biological resources and associated traditional knowledge\n3. It implements India's obligations under the Convention on Biological Diversity\n4. Foreign entities can freely access India's biological resources without any permission",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "All are correct",
+        "1 and 3 only"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — foreign entities CANNOT freely access. They need PRIOR APPROVAL of NBA. Indian entities: need approval of SBB for commercial use. Act addresses: biopiracy prevention (neem, turmeric, basmati cases), access and benefit sharing (ABS) with local communities, protection of traditional knowledge. BMCs (Biodiversity Management Committees): at local body level, prepare People's Biodiversity Registers. 2023 Amendment: decriminalized certain offences, simplified benefit sharing."
+    },
+    {
+      "id": "fs4",
+      "subject": "Environment & Ecology",
+      "question": "With reference to Wetland Conservation Rules, 2017:\n1. They replaced the earlier Wetlands (Conservation and Management) Rules, 2010\n2. State Wetland Authorities identify and notify wetlands for protection\n3. SC in 2024 directed review of these rules for better protection\n4. All water bodies in India are automatically protected as wetlands",
+      "options": [
+        "All are correct",
+        "1 and 2 only",
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4"
+      ],
+      "answer": 2,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — NOT all water bodies are automatically wetlands. Wetlands must be IDENTIFIED and NOTIFIED by State Wetland Authorities for protection under these rules. Many urban lakes, ponds, marshes remain unnotified (hence unprotected from encroachment). SC (2024) expressed concern over weaknesses in the 2017 Rules (no penal provisions, delayed notification by states). Ramsar sites get international recognition but domestic protection depends on state-level notification. Rules cover: permitted/restricted activities, wise use principle, grievance redressal."
+    },
+    {
+      "id": "fs5",
+      "subject": "Environment & Ecology",
+      "question": "Consider the following about India's Emission Trading Scheme (ETS) pilot:\n1. Gujarat was the first state to pilot a Particulate Matter ETS (2019)\n2. It sets a cap on total emissions and allows polluters to trade permits\n3. It was developed with support from the Energy Policy Institute at University of Chicago\n4. India's ETS covers ALL greenhouse gases including CO2, methane, and N2O",
+      "options": [
+        "1 and 2 only",
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only",
+        "All are correct"
+      ],
+      "answer": 2,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — Gujarat's pilot ETS covers only PARTICULATE MATTER (local air pollutant), not greenhouse gases. It's the world's first PM-based ETS (unique — most ETS globally cover CO2). The separate Carbon Credit Trading Scheme (CCTS, 2023) will cover CO2/GHGs. Gujarat ETS: Surat pilot — industries get PM emission permits, can trade them. If total cap met, air quality improves while giving flexibility to individual polluters. EPIC (University of Chicago): provided technical design support. Potential: scale to other states/pollutants."
+    },
+    {
+      "id": "fs6",
+      "subject": "Environment & Ecology",
+      "question": "With reference to India's National Hydrogen Mission:\n1. Green hydrogen is produced using renewable energy for electrolysis\n2. Grey hydrogen (from natural gas) currently dominates India's hydrogen production\n3. India aims to be a global green hydrogen export hub\n4. Hydrogen has no role in India's steel decarbonization strategy",
+      "options": [
+        "1 and 3 only",
+        "All are correct",
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4"
+      ],
+      "answer": 2,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — hydrogen has a KEY role in steel decarbonization. Green hydrogen can replace coking coal in Direct Reduced Iron (DRI) process — this is critical because steel sector contributes ~7% of India's CO2 emissions. India's National Green Hydrogen Mission specifically targets hard-to-abate sectors (steel, refineries, heavy transport, ammonia). Green: renewable electrolysis. Grey: steam methane reforming (90% of current production). Blue: grey + carbon capture. India: targets transition from grey to green, making steel/refinery/fertilizer greener."
+    },
+    {
+      "id": "fs7",
+      "subject": "Science & Technology",
+      "question": "Consider the following about India's Tejas Light Combat Aircraft:\n1. It is India's indigenous single-engine multirole fighter developed by HAL/ADA\n2. Tejas Mark 1A features AESA radar, electronic warfare suite, and BVR missiles\n3. India has ordered 83 Tejas Mark 1A for the Indian Air Force\n4. Tejas has been exported to 10+ countries",
+      "options": [
+        "1 and 3 only",
+        "All are correct",
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only"
+      ],
+      "answer": 3,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — Tejas has NOT been exported to 10+ countries. It's been offered/in discussions with several (Malaysia, Argentina, Egypt, Nigeria) but NO confirmed export order as of 2026. Tejas Mk1A: upgraded with EL/M-2052 AESA radar, comprehensive EW suite, ASRAAM/Derby BVR capability, higher maintainability. India's defence export target: $5 billion — Tejas is key potential export platform. Development: 4 decades from LCA programme (1983) to operational IOC (2014) to FOC (2019) to Mk1A production. Tejas Mk2 (Medium Weight Fighter): under development."
+    },
+    {
+      "id": "fs8",
+      "subject": "Science & Technology",
+      "question": "With reference to India's Quantum Communication:\n1. ISRO demonstrated satellite-based quantum key distribution (Free Space QKD)\n2. C-DOT developed indigenous Quantum Key Distribution system\n3. Quantum communication provides theoretically unbreakable encryption\n4. India has already deployed nationwide quantum internet replacing classical internet",
+      "options": [
+        "1 and 3 only",
+        "1, 2 and 3 only",
+        "All are correct",
+        "1, 2, 3 and 4"
+      ],
+      "answer": 1,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — India has NOT deployed nationwide quantum internet. It's in early research/demonstration phase. ISRO: demonstrated free-space QKD over 300m (2021). C-DOT: developed indigenous QKD system (tested over optical fiber). National Quantum Mission (₹6,003 crore): targets quantum computing (50 qubits by 2026, 1000 by 2031), quantum communication (2000+ km QKD network), quantum sensing. Quantum internet: decades away globally. Current: point-to-point QKD links for ultra-secure government/defence communication (pilot stage)."
+    },
+    {
+      "id": "fs9",
+      "subject": "Science & Technology",
+      "question": "Consider the following about India's Chandrayaan missions:\n1. Chandrayaan-1 (2008) discovered water molecules on the Moon\n2. Chandrayaan-2 (2019): Orbiter successful but Vikram lander crashed\n3. Chandrayaan-3 (2023): successfully soft-landed near lunar south pole\n4. India has already sent astronauts to the Moon",
+      "options": [
+        "1, 2, 3 and 4",
+        "All are correct",
+        "1 and 3 only",
+        "1, 2 and 3 only"
+      ],
+      "answer": 3,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — India has NOT sent astronauts to the Moon (or anywhere in space yet — Gaganyaan will be first crewed mission to LEO, not Moon). Chandrayaan-1: Moon Impact Probe + NASA's M3 instrument confirmed water/hydroxyl. Chandrayaan-2: Orbiter still operational (7+ year mission life), lander failed during soft landing. Chandrayaan-3: successful landing (Aug 23, 2023) at 69°S latitude — first at lunar south pole. Pragyan rover detected sulfur. India: 4th country to soft-land on Moon (after USSR, USA, China)."
+    },
+    {
+      "id": "fs10",
+      "subject": "International Relations",
+      "question": "Consider the following about India's BIMSTEC engagement:\n1. BIMSTEC has 7 members: India, Bangladesh, Myanmar, Sri Lanka, Thailand, Nepal, Bhutan\n2. It connects South Asia and Southeast Asia around the Bay of Bengal\n3. India sees it as an alternative to SAARC (where Pakistan blocks progress)\n4. BIMSTEC has already achieved complete free trade among all members",
+      "options": [
+        "All are correct",
+        "1 and 3 only",
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4"
+      ],
+      "answer": 2,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — BIMSTEC FTA is still under NEGOTIATION (framework signed but not operational). Despite being 27+ years old (1997), progress has been slow. India's BIMSTEC push: alternative to SAARC where Pakistan blocks every initiative. Advantages: no Pakistan, connects with ASEAN (Thailand), covers Bay of Bengal (maritime cooperation). 7 priority sectors including: trade, technology, energy, transport, fisheries, counter-terrorism, climate change. BIMSTEC Charter signed 2022 (finally, after 25 years). Challenge: organizational weakness, competing priorities of members."
+    },
+    {
+      "id": "fs11",
+      "subject": "International Relations",
+      "question": "With reference to India's nuclear diplomacy:\n1. NSG waiver (2008) allowed India to engage in nuclear commerce despite not signing NPT\n2. India has nuclear cooperation agreements with USA, France, Russia, Australia\n3. India's Civil Nuclear Liability Act (2010) complicated supplier engagement\n4. India is a recognized Nuclear Weapon State under NPT",
+      "options": [
+        "All are correct",
+        "1 and 3 only",
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only"
+      ],
+      "answer": 3,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — India is NOT a recognized Nuclear Weapon State under NPT. NPT recognizes only 5 NWS (US, Russia, UK, France, China — those who tested before 1967). India, Pakistan, Israel are de facto nuclear states but NOT NPT members and NOT recognized NWS. NSG waiver (2008): exceptional country-specific waiver allowing nuclear trade despite non-NPT status. This was a major diplomatic achievement (US lobbied for India). India argues: NPT is discriminatory — refuses to sign as non-NWS."
+    },
+    {
+      "id": "fs12",
+      "subject": "International Relations",
+      "question": "Consider the following about India's position in SCO (Shanghai Cooperation Organisation):\n1. India became a full member of SCO in 2017 (along with Pakistan)\n2. SCO includes India, China, Russia, Pakistan + Central Asian states\n3. SCO focuses on counter-terrorism, trade, and connectivity\n4. India agrees with China and Pakistan on all SCO agendas without any friction",
+      "options": [
+        "1, 2, 3 and 4",
+        "All are correct",
+        "1 and 2 only",
+        "1, 2 and 3 only"
+      ],
+      "answer": 3,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — India has SIGNIFICANT friction with China and Pakistan within SCO. India opposes: BRI references in SCO declarations (India boycotts BRI), Pakistan's attempts to raise Kashmir bilaterally at SCO, Chinese dominance of SCO economic agenda. India's engagement: selective — counter-terrorism (RATS), Central Asia connectivity (via Iran's Chabahar, INSTC), energy cooperation, cultural exchanges. India does NOT support SCO becoming China's tool against Western-led order. Balancing act: engaging multilaterally while maintaining differences bilaterally."
+    },
+    {
+      "id": "fs13",
+      "subject": "Art & Culture",
+      "question": "Consider the following about India's handloom sector:\n1. India has 31.7 lakh handloom worker households (4th Handloom Census)\n2. National Handloom Day is observed on August 7 (anniversary of Swadeshi Movement, 1905)\n3. Handloom Mark guarantees the product is genuinely handwoven\n4. Machine-made textiles and handloom products are equally valued by consumers",
+      "options": [
+        "1 and 2 only",
+        "1, 2 and 3 only",
+        "All are correct",
+        "1, 2, 3 and 4"
+      ],
+      "answer": 1,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — handloom products face stiff COMPETITION from cheaper machine-made textiles (power looms). This is handloom sector's biggest crisis: power looms produce similar-looking products at 1/3 cost. Many consumers can't distinguish. Handloom Mark (certification by Textile Committee): helps establish authenticity. Challenges: declining weavers (migration to other work), low wages (₹5,000-8,000/month), intermediary exploitation. Government support: NHDC credit, cluster development, GI protection, e-commerce push, design intervention. August 7: commemorates Swadeshi Movement launch (1905, partition of Bengal)."
+    },
+    {
+      "id": "fs14",
+      "subject": "Art & Culture",
+      "question": "With reference to India's Intangible Cultural Heritage (ICH) and its protection:\n1. India signed the 2003 UNESCO Convention for Safeguarding of ICH\n2. India has 15+ elements on the UNESCO ICH Representative List\n3. Sangeet Natak Akademi documents and archives performing arts traditions\n4. All of India's folk traditions have been fully documented and preserved",
+      "options": [
+        "All are correct",
+        "1 and 3 only",
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only"
+      ],
+      "answer": 3,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — vast majority of India's folk/tribal traditions remain UNDOCUMENTED and are rapidly disappearing. India has 700+ tribal groups, thousands of folk performance traditions — only a tiny fraction formally documented. Sangeet Natak Akademi: archives performances, but coverage is limited. Cultural mapping project underway but incomplete. ICH elements: Yoga, Kumbh Mela, Durga Puja, Garba, Ramlila, Kutiyattam, Chhau, Kalbelia, Mudiyettu, Sankirtana, Nowruz, Vedic Chanting etc. Many more deserve inscription but India has limited nominations per year (UNESCO cap)."
+    },
+    {
+      "id": "fs15",
+      "subject": "Art & Culture",
+      "question": "Consider the following about India's museum sector:\n1. National Museum (Delhi) houses Indus Valley artifacts, Buddhist sculptures, and miniature paintings\n2. Indian Museum (Kolkata, 1814) is the oldest and largest museum in India\n3. Salar Jung Museum (Hyderabad) has one of the largest one-man collections globally\n4. India has no policy framework for museum development",
+      "options": [
+        "1, 2 and 3 only",
+        "1 and 2 only",
+        "1, 2, 3 and 4",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — India DOES have a policy: National Museum Policy (2022) and PRANAHMAN (Prime Minister's National Heritage, Art and Museum Mission) for modernizing museums. National Museum: Harappan gallery, Mauryan sculptures, manuscript collection. Indian Museum (oldest in Asia-Pacific): geological, archaeological, art, anthropological sections. Salar Jung (Nizam's PM's private collection): 43,000+ objects (Veiled Rebecca sculpture famous). India has 1,000+ museums but most are poorly maintained/funded — the new policy aims to revitalize them through technology, accessibility, and private partnership."
+    },
+    {
+      "id": "fs16",
+      "subject": "History",
+      "question": "Consider the following about the Indian Press during the freedom movement:\n1. Vernacular Press Act (1878) targeted Indian-language newspapers critical of the government\n2. Tilak's Kesari (Marathi) and Mahratta (English) were sedition-charged newspapers\n3. The Indian Press Act 1910 gave government power to demand security deposits from presses\n4. Freedom of press was explicitly guaranteed as a separate Fundamental Right in the 1950 Constitution",
+      "options": [
+        "1 and 2 only",
+        "All are correct",
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only"
+      ],
+      "answer": 3,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — freedom of press is NOT a separately listed Fundamental Right. It is DERIVED from Article 19(1)(a) (freedom of speech and expression). SC has repeatedly held that freedom of press is implicit in 19(1)(a) but it's not mentioned by name. Vernacular Press Act (1878, Lord Lytton): discriminatory — applied only to Indian language papers (English press exempt). Tilak: sentenced for sedition ('Swaraj is my birthright' in Kesari). Indian Press Act 1910: security deposit system — government could forfeit deposit and shut press."
+    }
+  ]
+}

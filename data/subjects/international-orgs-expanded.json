@@ -1,15 +1,174 @@
-{"subject":"International Organizations","questions":[
-{"id":"io11","subject":"International Relations","question":"Consider the following about the World Health Organization (WHO):\n1. It is headquartered in Geneva, Switzerland\n2. Its Director-General is elected by the World Health Assembly\n3. India is the largest contributor to WHO's budget\n4. WHO declared COVID-19 a 'Public Health Emergency of International Concern' (PHEIC) in January 2020","options":["1, 2 and 4 only","1, 2, 3 and 4","1 and 4 only","All are correct"],"answer":0,"explanation":"1, 2, 4 correct. Statement 3 WRONG — India is NOT the largest contributor. USA was historically the largest (before partial withdrawal), followed by Germany, Bill & Melinda Gates Foundation, UK. India contributes assessed dues (~$10-12 million/year) — relatively small. WHO: 194 member states, World Health Assembly (supreme decision-making body, all members), Executive Board (34 members). DG: Tedros Adhanom (elected 2017, re-elected 2022). PHEIC declared Jan 30, 2020 for COVID."},
-{"id":"io12","subject":"International Relations","question":"With reference to WHO's funding and governance:\n1. WHO is funded through Assessed Contributions (mandatory) and Voluntary Contributions\n2. Voluntary contributions (~80%) exceed assessed contributions (~20%)\n3. This makes WHO dependent on donor priorities rather than member-state decisions\n4. WHO has binding enforcement power to compel countries to follow health directives","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — WHO has NO binding enforcement power. It can only issue recommendations, guidelines, and declarations. Countries voluntarily comply (or don't). International Health Regulations (IHR 2005) create obligations for disease reporting but WHO cannot force compliance or impose sanctions. This weakness was exposed during COVID (delayed information sharing by some countries). Pandemic Treaty negotiations (post-COVID) aim to strengthen WHO's authority but remain contentious."},
-{"id":"io13","subject":"International Relations","question":"Consider the following about the International Labour Organization (ILO):\n1. India is a founding member of ILO (1919)\n2. ILO has a unique tripartite structure: governments + employers + workers\n3. India has ratified all 8 'Core/Fundamental' ILO Conventions\n4. ILO is headquartered in Geneva and is a UN specialized agency","options":["1, 2 and 4 only","1, 2, 3 and 4","1, 2 and 3 only","All are correct"],"answer":0,"explanation":"1, 2, 4 correct. Statement 3 WRONG — India has NOT ratified all 8 core conventions. India ratified 6 of 8 (as of 2024): ratified C29 (Forced Labour), C105 (Abolition of Forced Labour) — both in 2022 finally. Still NOT ratified: C87 (Freedom of Association) and C98 (Right to Organize/Collective Bargaining). Reason: India argues its trade union laws already cover these, but concerns about impact on special economic zones and industrial relations flexibility. Tripartite: unique among UN agencies — workers/employers have equal voice with governments."},
-{"id":"io14","subject":"Interdisciplinary","question":"With reference to ILO and India's labour standards:\n1. India ratified the Forced Labour Convention (C29) and its abolition (C105) in 2022\n2. ILO's 'Decent Work Agenda' covers: employment, social protection, rights, dialogue\n3. India's Labour Codes (2019-20) aim to align with ILO standards\n4. ILO rankings place India as the country with zero labour rights violations","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — India is NOT ranked as having zero violations. ITUC (International Trade Union Confederation) Global Rights Index rates India as category 5 ('No guarantee of rights') — among worst for workers' rights. Issues: informal sector unprotected, freedom of association restricted in practice, child labour persists. India's Labour Codes attempt reform but implementation pending. India ratified C29/C105 only in 2022 (73 years after independence) — shows slow progress on fundamental conventions."},
-{"id":"io15","subject":"International Relations","question":"Consider the following about ICJ (International Court of Justice):\n1. It is the principal judicial organ of the United Nations\n2. Only STATES can be parties to cases before ICJ (not individuals)\n3. ICJ judgments are binding but enforcement depends on UNSC\n4. ICJ and ICC are the same court with the same jurisdiction","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — ICJ and ICC are COMPLETELY different courts. ICJ (1945, The Hague): settles disputes BETWEEN STATES, advisory opinions for UN organs. ICC (2002, The Hague): prosecutes INDIVIDUALS for war crimes, genocide, crimes against humanity. India accepts ICJ jurisdiction but has NOT ratified the ICC Rome Statute (concerns about sovereignty, politically motivated prosecutions). India's ICJ cases: Kulbhushan Jadhav (vs Pakistan, 2019 — India won), Chagos Archipelago (advisory opinion)."},
-{"id":"io16","subject":"International Relations","question":"With reference to India and the ICJ:\n1. India successfully argued the Kulbhushan Jadhav case at ICJ (2019)\n2. ICJ ordered Pakistan to provide consular access to Jadhav\n3. India's Judge Dalveer Bhandari serves on the ICJ bench\n4. ICJ decisions can be vetoed by any UN member state","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — ICJ decisions CANNOT be vetoed by member states. ICJ judgments are binding on parties. However, ENFORCEMENT can be blocked at UNSC (where P5 can veto enforcement action). Nicaragua vs USA (1986): ICJ ruled against USA, but USA ignored the judgment and vetoed UNSC enforcement. Jadhav case: ICJ ruled Pakistan violated Vienna Convention (consular access), ordered effective review of conviction. Judge Bhandari: elected 2012, re-elected 2018 (India's representative on 15-judge bench)."},
-{"id":"io17","subject":"International Relations","question":"Consider the following about UNESCO:\n1. UNESCO's headquarters is in Paris, France\n2. It designates World Heritage Sites (Cultural, Natural, Mixed)\n3. India has 42 World Heritage Sites (as of 2024)\n4. UNESCO membership is mandatory for all UN member states","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 3 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — UNESCO membership is NOT mandatory. USA withdrew from UNESCO (2018, rejoined 2023) and Israel also withdrew. Countries can leave. UNESCO: 194 members. Functions: education, science, culture, communication. Key programmes: World Heritage (1972 Convention), Intangible Cultural Heritage (2003), Memory of the World, Man and Biosphere (MAB), Geoparks. India: active participant, 42 WHS, multiple ICH elements, Biosphere Reserves under MAB."},
-{"id":"io18","subject":"Art & Culture","question":"With reference to UNESCO designations related to India:\n1. World Heritage Sites require 'Outstanding Universal Value' (OUV)\n2. Intangible Cultural Heritage includes: Yoga, Kumbh Mela, Durga Puja, Garba\n3. Creative Cities Network includes Jaipur (Crafts), Varanasi (Music), Chennai (Music)\n4. All Indian monuments over 100 years old are automatically UNESCO World Heritage Sites","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — NOT automatic. UNESCO WHS requires: nomination by country → evaluation by ICOMOS (cultural) or IUCN (natural) → decision by World Heritage Committee. Only sites meeting strict OUV criteria are inscribed. India has 50+ sites on Tentative List (nominated but not yet inscribed). ASI-protected monuments (3,693) are domestically protected but most are NOT UNESCO WHS. Only 42 have achieved UNESCO inscription after rigorous evaluation process."},
-{"id":"io19","subject":"International Relations","question":"Consider the following about IAEA (International Atomic Energy Agency):\n1. It is the world's 'Atoms for Peace' organization promoting safe nuclear use\n2. It applies safeguards to ensure nuclear material isn't diverted to weapons\n3. India signed an India-specific safeguards agreement after the 2008 NSG waiver\n4. IAEA has inspected ALL of India's nuclear facilities including military ones","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — IAEA does NOT inspect India's MILITARY nuclear facilities. India's safeguards agreement is 'India-specific' — only CIVILIAN facilities under safeguards (14 reactors designated as civilian). Military reactors, enrichment plants, and weapons-related facilities are EXCLUDED from IAEA inspection. This separation plan (2006) was key to the Indo-US nuclear deal. Unlike NPT signatories who accept 'comprehensive safeguards', India has 'voluntary, facility-specific safeguards' on civilian facilities only."},
-{"id":"io20","subject":"International Relations","question":"With reference to OPCW (Organisation for Prohibition of Chemical Weapons):\n1. It implements the Chemical Weapons Convention (CWC, 1997)\n2. India is a signatory and has declared and destroyed its chemical weapons stockpile\n3. OPCW can conduct inspections of member states' chemical facilities\n4. All countries in the world are members of OPCW/CWC","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 3 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — NOT all countries are CWC members. Non-members include: Egypt, North Korea, South Sudan (as of 2024). Syria acceded in 2013 (after chemical attacks controversy). OPCW (HQ: The Hague): 193 member states. India: declared small CW stockpile (1997), completed verified destruction. OPCW Nobel Peace Prize 2013. India actively participates in OPCW's Scientific Advisory Board. Recent controversy: Novichok poisonings (Russia), Syria chemical attacks — challenged OPCW's role."},
-{"id":"io21","subject":"International Relations","question":"Consider the following about Interpol:\n1. It facilitates international police cooperation across 195 member countries\n2. Interpol issues 'Red Notices' (not arrest warrants) requesting member countries to locate/arrest fugitives\n3. India's CBI is the National Central Bureau (NCB) for Interpol in India\n4. Interpol can directly arrest criminals in any country","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — Interpol CANNOT directly arrest anyone. It has NO arrest powers, no police force, no jurisdiction to make arrests. It only facilitates information sharing and issues notices. Arrest is done by LOCAL police of the country where the fugitive is found. Red Notice: most famous (locate/arrest for extradition), but also: Blue (collect info), Green (warning), Yellow (missing persons), Black (unidentified bodies). India's NCB (CBI): coordinates with Interpol. India has sought Red Notices against: Dawood Ibrahim, Hafiz Saeed, various economic offenders."},
-{"id":"io22","subject":"Interdisciplinary","question":"With reference to multilateral development banks:\n1. World Bank (IBRD/IDA) was established at Bretton Woods (1944) alongside IMF\n2. ADB (Asian Development Bank) is headquartered in Manila, Philippines\n3. AIIB (Asian Infrastructure Investment Bank) was proposed by China, HQ in Beijing\n4. India has equal voting power to USA in World Bank","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 3 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — India does NOT have equal voting power to USA in World Bank. USA has ~15.6% voting share (largest, with effective veto over major decisions requiring 85% majority). India has ~3.04% (7th largest). World Bank: IBRD (middle-income countries, market-rate loans) + IDA (poorest countries, concessional/grant). ADB (1966): 68 members, Japan/USA largest shareholders. AIIB (2016): 100+ members, China 26.6% vote share, India 7.6% (2nd largest). India: 2nd largest borrower from BOTH World Bank and AIIB."},
-{"id":"io23","subject":"Interdisciplinary","question":"Consider the following about ADB vs AIIB vs NDB (New Development Bank):\n1. ADB (1966): Japan-led, focuses on poverty reduction in Asia-Pacific\n2. AIIB (2016): China-led, focuses on infrastructure financing\n3. NDB (2015): BRICS-led, equal voting (each founder ~20%), HQ in Shanghai\n4. All three have identical membership, governance structure, and lending policies","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — they have DIFFERENT memberships, governance, and policies. ADB: 68 members (US/Japan dominate governance), broad poverty/social focus. AIIB: 100+ members (China dominant ~26% votes), infrastructure focus, no political conditionality. NDB: 5 founding BRICS (equal votes), now expanded, focuses on sustainable development in emerging economies. Key difference from World Bank/ADB: AIIB and NDB don't impose Western governance conditionalities (democracy, human rights preconditions) — this is their selling point for developing countries."}
-]}
+{
+  "subject": "International Organizations",
+  "questions": [
+    {
+      "id": "io11",
+      "subject": "International Relations",
+      "question": "Consider the following about the World Health Organization (WHO):\n1. It is headquartered in Geneva, Switzerland\n2. Its Director-General is elected by the World Health Assembly\n3. India is the largest contributor to WHO's budget\n4. WHO declared COVID-19 a 'Public Health Emergency of International Concern' (PHEIC) in January 2020",
+      "options": [
+        "1, 2 and 4 only",
+        "1 and 4 only",
+        "1, 2, 3 and 4",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 4 correct. Statement 3 WRONG — India is NOT the largest contributor. USA was historically the largest (before partial withdrawal), followed by Germany, Bill & Melinda Gates Foundation, UK. India contributes assessed dues (~$10-12 million/year) — relatively small. WHO: 194 member states, World Health Assembly (supreme decision-making body, all members), Executive Board (34 members). DG: Tedros Adhanom (elected 2017, re-elected 2022). PHEIC declared Jan 30, 2020 for COVID."
+    },
+    {
+      "id": "io12",
+      "subject": "International Relations",
+      "question": "With reference to WHO's funding and governance:\n1. WHO is funded through Assessed Contributions (mandatory) and Voluntary Contributions\n2. Voluntary contributions (~80%) exceed assessed contributions (~20%)\n3. This makes WHO dependent on donor priorities rather than member-state decisions\n4. WHO has binding enforcement power to compel countries to follow health directives",
+      "options": [
+        "All are correct",
+        "1 and 2 only",
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4"
+      ],
+      "answer": 2,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — WHO has NO binding enforcement power. It can only issue recommendations, guidelines, and declarations. Countries voluntarily comply (or don't). International Health Regulations (IHR 2005) create obligations for disease reporting but WHO cannot force compliance or impose sanctions. This weakness was exposed during COVID (delayed information sharing by some countries). Pandemic Treaty negotiations (post-COVID) aim to strengthen WHO's authority but remain contentious."
+    },
+    {
+      "id": "io13",
+      "subject": "International Relations",
+      "question": "Consider the following about the International Labour Organization (ILO):\n1. India is a founding member of ILO (1919)\n2. ILO has a unique tripartite structure: governments + employers + workers\n3. India has ratified all 8 'Core/Fundamental' ILO Conventions\n4. ILO is headquartered in Geneva and is a UN specialized agency",
+      "options": [
+        "1, 2 and 3 only",
+        "All are correct",
+        "1, 2 and 4 only",
+        "1, 2, 3 and 4"
+      ],
+      "answer": 2,
+      "explanation": "1, 2, 4 correct. Statement 3 WRONG — India has NOT ratified all 8 core conventions. India ratified 6 of 8 (as of 2024): ratified C29 (Forced Labour), C105 (Abolition of Forced Labour) — both in 2022 finally. Still NOT ratified: C87 (Freedom of Association) and C98 (Right to Organize/Collective Bargaining). Reason: India argues its trade union laws already cover these, but concerns about impact on special economic zones and industrial relations flexibility. Tripartite: unique among UN agencies — workers/employers have equal voice with governments."
+    },
+    {
+      "id": "io14",
+      "subject": "Interdisciplinary",
+      "question": "With reference to ILO and India's labour standards:\n1. India ratified the Forced Labour Convention (C29) and its abolition (C105) in 2022\n2. ILO's 'Decent Work Agenda' covers: employment, social protection, rights, dialogue\n3. India's Labour Codes (2019-20) aim to align with ILO standards\n4. ILO rankings place India as the country with zero labour rights violations",
+      "options": [
+        "1, 2, 3 and 4",
+        "1 and 2 only",
+        "All are correct",
+        "1, 2 and 3 only"
+      ],
+      "answer": 3,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — India is NOT ranked as having zero violations. ITUC (International Trade Union Confederation) Global Rights Index rates India as category 5 ('No guarantee of rights') — among worst for workers' rights. Issues: informal sector unprotected, freedom of association restricted in practice, child labour persists. India's Labour Codes attempt reform but implementation pending. India ratified C29/C105 only in 2022 (73 years after independence) — shows slow progress on fundamental conventions."
+    },
+    {
+      "id": "io15",
+      "subject": "International Relations",
+      "question": "Consider the following about ICJ (International Court of Justice):\n1. It is the principal judicial organ of the United Nations\n2. Only STATES can be parties to cases before ICJ (not individuals)\n3. ICJ judgments are binding but enforcement depends on UNSC\n4. ICJ and ICC are the same court with the same jurisdiction",
+      "options": [
+        "1, 2, 3 and 4",
+        "All are correct",
+        "1, 2 and 3 only",
+        "1 and 2 only"
+      ],
+      "answer": 2,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — ICJ and ICC are COMPLETELY different courts. ICJ (1945, The Hague): settles disputes BETWEEN STATES, advisory opinions for UN organs. ICC (2002, The Hague): prosecutes INDIVIDUALS for war crimes, genocide, crimes against humanity. India accepts ICJ jurisdiction but has NOT ratified the ICC Rome Statute (concerns about sovereignty, politically motivated prosecutions). India's ICJ cases: Kulbhushan Jadhav (vs Pakistan, 2019 — India won), Chagos Archipelago (advisory opinion)."
+    },
+    {
+      "id": "io16",
+      "subject": "International Relations",
+      "question": "With reference to India and the ICJ:\n1. India successfully argued the Kulbhushan Jadhav case at ICJ (2019)\n2. ICJ ordered Pakistan to provide consular access to Jadhav\n3. India's Judge Dalveer Bhandari serves on the ICJ bench\n4. ICJ decisions can be vetoed by any UN member state",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "1 and 2 only",
+        "All are correct"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — ICJ decisions CANNOT be vetoed by member states. ICJ judgments are binding on parties. However, ENFORCEMENT can be blocked at UNSC (where P5 can veto enforcement action). Nicaragua vs USA (1986): ICJ ruled against USA, but USA ignored the judgment and vetoed UNSC enforcement. Jadhav case: ICJ ruled Pakistan violated Vienna Convention (consular access), ordered effective review of conviction. Judge Bhandari: elected 2012, re-elected 2018 (India's representative on 15-judge bench)."
+    },
+    {
+      "id": "io17",
+      "subject": "International Relations",
+      "question": "Consider the following about UNESCO:\n1. UNESCO's headquarters is in Paris, France\n2. It designates World Heritage Sites (Cultural, Natural, Mixed)\n3. India has 42 World Heritage Sites (as of 2024)\n4. UNESCO membership is mandatory for all UN member states",
+      "options": [
+        "1 and 3 only",
+        "All are correct",
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only"
+      ],
+      "answer": 3,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — UNESCO membership is NOT mandatory. USA withdrew from UNESCO (2018, rejoined 2023) and Israel also withdrew. Countries can leave. UNESCO: 194 members. Functions: education, science, culture, communication. Key programmes: World Heritage (1972 Convention), Intangible Cultural Heritage (2003), Memory of the World, Man and Biosphere (MAB), Geoparks. India: active participant, 42 WHS, multiple ICH elements, Biosphere Reserves under MAB."
+    },
+    {
+      "id": "io18",
+      "subject": "Art & Culture",
+      "question": "With reference to UNESCO designations related to India:\n1. World Heritage Sites require 'Outstanding Universal Value' (OUV)\n2. Intangible Cultural Heritage includes: Yoga, Kumbh Mela, Durga Puja, Garba\n3. Creative Cities Network includes Jaipur (Crafts), Varanasi (Music), Chennai (Music)\n4. All Indian monuments over 100 years old are automatically UNESCO World Heritage Sites",
+      "options": [
+        "All are correct",
+        "1 and 2 only",
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4"
+      ],
+      "answer": 2,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — NOT automatic. UNESCO WHS requires: nomination by country → evaluation by ICOMOS (cultural) or IUCN (natural) → decision by World Heritage Committee. Only sites meeting strict OUV criteria are inscribed. India has 50+ sites on Tentative List (nominated but not yet inscribed). ASI-protected monuments (3,693) are domestically protected but most are NOT UNESCO WHS. Only 42 have achieved UNESCO inscription after rigorous evaluation process."
+    },
+    {
+      "id": "io19",
+      "subject": "International Relations",
+      "question": "Consider the following about IAEA (International Atomic Energy Agency):\n1. It is the world's 'Atoms for Peace' organization promoting safe nuclear use\n2. It applies safeguards to ensure nuclear material isn't diverted to weapons\n3. India signed an India-specific safeguards agreement after the 2008 NSG waiver\n4. IAEA has inspected ALL of India's nuclear facilities including military ones",
+      "options": [
+        "1, 2 and 3 only",
+        "All are correct",
+        "1, 2, 3 and 4",
+        "1 and 2 only"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — IAEA does NOT inspect India's MILITARY nuclear facilities. India's safeguards agreement is 'India-specific' — only CIVILIAN facilities under safeguards (14 reactors designated as civilian). Military reactors, enrichment plants, and weapons-related facilities are EXCLUDED from IAEA inspection. This separation plan (2006) was key to the Indo-US nuclear deal. Unlike NPT signatories who accept 'comprehensive safeguards', India has 'voluntary, facility-specific safeguards' on civilian facilities only."
+    },
+    {
+      "id": "io20",
+      "subject": "International Relations",
+      "question": "With reference to OPCW (Organisation for Prohibition of Chemical Weapons):\n1. It implements the Chemical Weapons Convention (CWC, 1997)\n2. India is a signatory and has declared and destroyed its chemical weapons stockpile\n3. OPCW can conduct inspections of member states' chemical facilities\n4. All countries in the world are members of OPCW/CWC",
+      "options": [
+        "1, 2 and 3 only",
+        "All are correct",
+        "1 and 3 only",
+        "1, 2, 3 and 4"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — NOT all countries are CWC members. Non-members include: Egypt, North Korea, South Sudan (as of 2024). Syria acceded in 2013 (after chemical attacks controversy). OPCW (HQ: The Hague): 193 member states. India: declared small CW stockpile (1997), completed verified destruction. OPCW Nobel Peace Prize 2013. India actively participates in OPCW's Scientific Advisory Board. Recent controversy: Novichok poisonings (Russia), Syria chemical attacks — challenged OPCW's role."
+    },
+    {
+      "id": "io21",
+      "subject": "International Relations",
+      "question": "Consider the following about Interpol:\n1. It facilitates international police cooperation across 195 member countries\n2. Interpol issues 'Red Notices' (not arrest warrants) requesting member countries to locate/arrest fugitives\n3. India's CBI is the National Central Bureau (NCB) for Interpol in India\n4. Interpol can directly arrest criminals in any country",
+      "options": [
+        "1, 2, 3 and 4",
+        "All are correct",
+        "1, 2 and 3 only",
+        "1 and 2 only"
+      ],
+      "answer": 2,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — Interpol CANNOT directly arrest anyone. It has NO arrest powers, no police force, no jurisdiction to make arrests. It only facilitates information sharing and issues notices. Arrest is done by LOCAL police of the country where the fugitive is found. Red Notice: most famous (locate/arrest for extradition), but also: Blue (collect info), Green (warning), Yellow (missing persons), Black (unidentified bodies). India's NCB (CBI): coordinates with Interpol. India has sought Red Notices against: Dawood Ibrahim, Hafiz Saeed, various economic offenders."
+    },
+    {
+      "id": "io22",
+      "subject": "Interdisciplinary",
+      "question": "With reference to multilateral development banks:\n1. World Bank (IBRD/IDA) was established at Bretton Woods (1944) alongside IMF\n2. ADB (Asian Development Bank) is headquartered in Manila, Philippines\n3. AIIB (Asian Infrastructure Investment Bank) was proposed by China, HQ in Beijing\n4. India has equal voting power to USA in World Bank",
+      "options": [
+        "All are correct",
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only",
+        "1 and 3 only"
+      ],
+      "answer": 2,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — India does NOT have equal voting power to USA in World Bank. USA has ~15.6% voting share (largest, with effective veto over major decisions requiring 85% majority). India has ~3.04% (7th largest). World Bank: IBRD (middle-income countries, market-rate loans) + IDA (poorest countries, concessional/grant). ADB (1966): 68 members, Japan/USA largest shareholders. AIIB (2016): 100+ members, China 26.6% vote share, India 7.6% (2nd largest). India: 2nd largest borrower from BOTH World Bank and AIIB."
+    },
+    {
+      "id": "io23",
+      "subject": "Interdisciplinary",
+      "question": "Consider the following about ADB vs AIIB vs NDB (New Development Bank):\n1. ADB (1966): Japan-led, focuses on poverty reduction in Asia-Pacific\n2. AIIB (2016): China-led, focuses on infrastructure financing\n3. NDB (2015): BRICS-led, equal voting (each founder ~20%), HQ in Shanghai\n4. All three have identical membership, governance structure, and lending policies",
+      "options": [
+        "All are correct",
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only",
+        "1 and 2 only"
+      ],
+      "answer": 2,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — they have DIFFERENT memberships, governance, and policies. ADB: 68 members (US/Japan dominate governance), broad poverty/social focus. AIIB: 100+ members (China dominant ~26% votes), infrastructure focus, no political conditionality. NDB: 5 founding BRICS (equal votes), now expanded, focuses on sustainable development in emerging economies. Key difference from World Bank/ADB: AIIB and NDB don't impose Western governance conditionalities (democracy, human rights preconditions) — this is their selling point for developing countries."
+    }
+  ]
+}

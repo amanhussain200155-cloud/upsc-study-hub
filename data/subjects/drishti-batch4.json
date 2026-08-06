@@ -4,66 +4,66 @@
     {
       "id": "d4-1",
       "subject": "Economics",
-      "question": "Consider the following about RBI's Record Surplus Transfer (2025-26):\n1. RBI transferred \u20b92.87 lakh crore surplus to the government\n2. This helps the government in fiscal consolidation by reducing borrowing needs\n3. RBI surplus comes mainly from interest on forex reserves and OMO operations\n4. Higher RBI transfers have no implications for central bank independence",
+      "question": "Consider the following about RBI's Record Surplus Transfer (2025-26):\n1. RBI transferred ₹2.87 lakh crore surplus to the government\n2. This helps the government in fiscal consolidation by reducing borrowing needs\n3. RBI surplus comes mainly from interest on forex reserves and OMO operations\n4. Higher RBI transfers have no implications for central bank independence",
       "options": [
-        "1, 2 and 3 only",
-        "1, 2, 3 and 4",
         "1 and 2 only",
-        "All are correct"
+        "1, 2 and 3 only",
+        "All are correct",
+        "1, 2, 3 and 4"
       ],
-      "answer": 0,
-      "explanation": "1, 2, 3 correct. Statement 4 WRONG \u2014 higher RBI transfers DO raise concerns about central bank independence. Critics argue: government may become dependent on RBI dividends for fiscal management (fiscal dominance risk), pressure RBI to generate higher surpluses by taking more risk, compromise price stability mandate. The Jalan Committee recommended maintaining Contingency Risk Buffer (CRB) at 5.5-6.5% of balance sheet before transferring surplus."
+      "answer": 1,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — higher RBI transfers DO raise concerns about central bank independence. Critics argue: government may become dependent on RBI dividends for fiscal management (fiscal dominance risk), pressure RBI to generate higher surpluses by taking more risk, compromise price stability mandate. The Jalan Committee recommended maintaining Contingency Risk Buffer (CRB) at 5.5-6.5% of balance sheet before transferring surplus."
     },
     {
       "id": "d4-2",
       "subject": "Economics",
-      "question": "With reference to RBI's surplus transfer, consider:\n1. RBI surplus goes entirely to the Central Government (not shared with states)\n2. This is criticized as 'asymmetry in federalism'\n3. The Contingency Risk Buffer (CRB) protects RBI against future losses\n4. Earlier RBI surplus transfers ranged between \u20b930,000-50,000 crore",
+      "question": "With reference to RBI's surplus transfer, consider:\n1. RBI surplus goes entirely to the Central Government (not shared with states)\n2. This is criticized as 'asymmetry in federalism'\n3. The Contingency Risk Buffer (CRB) protects RBI against future losses\n4. Earlier RBI surplus transfers ranged between ₹30,000-50,000 crore",
       "options": [
         "1, 2, 3 and 4",
+        "All are correct",
         "1, 3 and 4 only",
-        "1 and 3 only",
-        "All are correct"
+        "1 and 3 only"
       ],
-      "answer": 3,
-      "explanation": "All correct. RBI surplus is non-tax revenue of the Centre \u2014 NOT shared with states through Finance Commission devolution formula (unlike income tax, GST). This creates 'federal blind spot' \u2014 states get no share despite being part of the economic system. CRB (currently 6.5%) is maintained before transferring surplus. Earlier transfers were \u20b930,000-50,000 crore; recent \u20b92.87 lakh crore is unprecedented due to expanded RBI balance sheet and forex gains."
+      "answer": 1,
+      "explanation": "All correct. RBI surplus is non-tax revenue of the Centre — NOT shared with states through Finance Commission devolution formula (unlike income tax, GST). This creates 'federal blind spot' — states get no share despite being part of the economic system. CRB (currently 6.5%) is maintained before transferring surplus. Earlier transfers were ₹30,000-50,000 crore; recent ₹2.87 lakh crore is unprecedented due to expanded RBI balance sheet and forex gains."
     },
     {
       "id": "d4-3",
       "subject": "Environment & Ecology",
       "question": "Consider the following about India's SDG Index 2026:\n1. India ranked 94th out of 167 countries in the UN SDG Index 2026\n2. India's forest cover rose from 21.34% to 21.76%\n3. India has 96 Ramsar sites (highest in Asia)\n4. India has achieved all 17 SDGs ahead of the 2030 target",
       "options": [
-        "1, 2 and 3 only",
+        "All are correct",
         "1, 2, 3 and 4",
-        "1 and 3 only",
-        "All are correct"
+        "1, 2 and 3 only",
+        "1 and 3 only"
       ],
-      "answer": 0,
-      "explanation": "1, 2, 3 correct. Statement 4 WRONG \u2014 India has NOT achieved all SDGs. Significant gaps remain in: SDG 2 (Zero Hunger), SDG 3 (Health), SDG 5 (Gender Equality), SDG 6 (Clean Water for all). India improved in SDG 7 (Energy), SDG 9 (Infrastructure), SDG 15 (Life on Land). 96 Ramsar sites is indeed highest in Asia. Kerala, Tamil Nadu lead among states on composite SDG score."
+      "answer": 2,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — India has NOT achieved all SDGs. Significant gaps remain in: SDG 2 (Zero Hunger), SDG 3 (Health), SDG 5 (Gender Equality), SDG 6 (Clean Water for all). India improved in SDG 7 (Energy), SDG 9 (Infrastructure), SDG 15 (Life on Land). 96 Ramsar sites is indeed highest in Asia. Kerala, Tamil Nadu lead among states on composite SDG score."
     },
     {
       "id": "d4-4",
       "subject": "Environment & Ecology",
       "question": "With reference to Invasive Alien Species (IAS) in India:\n1. Vilayati Kikar (Prosopis juliflora) is an invasive species in Rajasthan and Gujarat\n2. Water Hyacinth chokes aquatic ecosystems across India\n3. Invasive species contribute to 60% of global extinctions\n4. India has a comprehensive legislation specifically to control invasive species",
       "options": [
-        "1, 2 and 3 only",
         "1, 2, 3 and 4",
+        "1, 2 and 3 only",
         "1 and 2 only",
         "All are correct"
       ],
-      "answer": 0,
-      "explanation": "1, 2, 3 correct. Statement 4 WRONG \u2014 India does NOT have a dedicated comprehensive legislation specifically for invasive species management. It's handled through fragmented provisions under Wildlife Protection Act, Environment Protection Act, Biological Diversity Act, and Plant Quarantine Order. The Kunming-Montreal GBF (2022) Target 6 specifically addresses IAS. Key Indian IAS: Lantana camara, Prosopis juliflora, Water Hyacinth, Parthenium, Fall Armyworm."
+      "answer": 1,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — India does NOT have a dedicated comprehensive legislation specifically for invasive species management. It's handled through fragmented provisions under Wildlife Protection Act, Environment Protection Act, Biological Diversity Act, and Plant Quarantine Order. The Kunming-Montreal GBF (2022) Target 6 specifically addresses IAS. Key Indian IAS: Lantana camara, Prosopis juliflora, Water Hyacinth, Parthenium, Fall Armyworm."
     },
     {
       "id": "d4-5",
       "subject": "Science & Technology",
       "question": "Consider the following about NavIC (Navigation with Indian Constellation) satellite failure:\n1. An IRNSS satellite clock failure affected NavIC's accuracy\n2. NavIC uses a constellation of 7 satellites (3 GEO + 4 GSO)\n3. NVS series satellites are replacements with improved features\n4. NavIC provides both civilian (SPS) and military (RS) services",
       "options": [
-        "1, 2, 3 and 4",
-        "2, 3 and 4 only",
+        "All are correct",
         "1 and 2 only",
-        "All are correct"
+        "2, 3 and 4 only",
+        "1, 2, 3 and 4"
       ],
-      "answer": 3,
+      "answer": 0,
       "explanation": "All correct. NavIC had clock anomaly issues with some older IRNSS satellites affecting signal quality. NVS (Navigation Satellite-Next Generation) series being launched as replacements with: L1 band signal (compatible with civilian GPS receivers), longer mission life, indigenous rubidium atomic clocks. NVS-01 launched 2023, NVS-02 planned. NavIC mandatory in smartphones sold in India. Accuracy: <5m in Indian region (better than GPS over India)."
     },
     {
@@ -71,9 +71,9 @@
       "subject": "Environment & Ecology",
       "question": "With reference to India's National Biodiversity targets:\n1. India has over 3,167 tigers (highest global population)\n2. Project Tiger was launched in 1973 with 9 reserves\n3. India now has 53 tiger reserves covering ~75,000 sq km\n4. India's biodiversity assessment follows the IPBES framework",
       "options": [
+        "1 and 3 only",
         "1, 2, 3 and 4",
         "1, 2 and 3 only",
-        "1 and 3 only",
         "All are correct"
       ],
       "answer": 3,
@@ -84,26 +84,26 @@
       "subject": "International Relations",
       "question": "Consider the following about India's position on the US-Israel-Iran conflict (2026):\n1. India called for restraint and dialogue by all parties\n2. India's concerns include oil supply disruption through Strait of Hormuz\n3. India imports approximately 85% of its crude oil\n4. The conflict has no impact on India's diaspora in the Gulf region",
       "options": [
-        "1, 2 and 3 only",
         "1, 2, 3 and 4",
+        "1, 2 and 3 only",
         "1 and 3 only",
         "All are correct"
       ],
-      "answer": 0,
-      "explanation": "1, 2, 3 correct. Statement 4 WRONG \u2014 the conflict DOES impact India's 9+ million diaspora in the Gulf region (UAE, Saudi, Qatar, Oman, Kuwait, Bahrain). Their safety, remittances (~$90 billion/year), and potential evacuation needs are critical concerns. India's multi-alignment approach: maintaining ties with both Israel and Iran, prioritizing energy security (Strait of Hormuz handles 20% of global oil), and protecting diaspora. India opted for independent strategic decisions rather than taking sides."
+      "answer": 1,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — the conflict DOES impact India's 9+ million diaspora in the Gulf region (UAE, Saudi, Qatar, Oman, Kuwait, Bahrain). Their safety, remittances (~$90 billion/year), and potential evacuation needs are critical concerns. India's multi-alignment approach: maintaining ties with both Israel and Iran, prioritizing energy security (Strait of Hormuz handles 20% of global oil), and protecting diaspora. India opted for independent strategic decisions rather than taking sides."
     },
     {
       "id": "d4-8",
       "subject": "International Relations",
       "question": "With reference to India as gateway to ASEAN through the Northeast:\n1. India-Myanmar-Thailand Trilateral Highway is a key connectivity project\n2. Kaladan Multi-Modal Transit Transport connects Mizoram to Myanmar's Sittwe port\n3. Act East Policy emphasizes NE India's role in ASEAN connectivity\n4. All NE states share borders with Myanmar",
       "options": [
-        "1, 2 and 3 only",
-        "1, 2, 3 and 4",
         "1 and 3 only",
-        "All are correct"
+        "All are correct",
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4"
       ],
-      "answer": 0,
-      "explanation": "1, 2, 3 correct. Statement 4 WRONG \u2014 only 4 NE states share border with Myanmar: Arunachal Pradesh, Nagaland, Manipur, and Mizoram. Not all 8 NE states (Assam, Meghalaya, Tripura, Sikkim don't border Myanmar). Trilateral Highway (1,400 km, Moreh-Mae Sot): key Act East connectivity project. Kaladan (India-funded): connects Kolkata \u2192 Sittwe (sea) \u2192 Paletwa (river) \u2192 Mizoram (road). Both face delays but are strategically vital."
+      "answer": 2,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — only 4 NE states share border with Myanmar: Arunachal Pradesh, Nagaland, Manipur, and Mizoram. Not all 8 NE states (Assam, Meghalaya, Tripura, Sikkim don't border Myanmar). Trilateral Highway (1,400 km, Moreh-Mae Sot): key Act East connectivity project. Kaladan (India-funded): connects Kolkata → Sittwe (sea) → Paletwa (river) → Mizoram (road). Both face delays but are strategically vital."
     },
     {
       "id": "d4-9",
@@ -112,37 +112,37 @@
       "options": [
         "1, 2 and 4 only",
         "1, 2, 3 and 4",
-        "1 and 2 only",
-        "All are correct"
+        "All are correct",
+        "1 and 2 only"
       ],
       "answer": 0,
-      "explanation": "1, 2, 4 correct. Statement 3 WRONG \u2014 the number of SC judges is NOT fixed in the Constitution. It is determined by Parliament through legislation (Article 124(1): 'such other judges as Parliament may by law prescribe'). Original strength: 8 (including CJI). Increased over time: 11\u219214\u219218\u219226\u219231\u219234\u219238. This is a CLASSIC UPSC fact \u2014 SC judge numbers are statutory, not constitutional."
+      "explanation": "1, 2, 4 correct. Statement 3 WRONG — the number of SC judges is NOT fixed in the Constitution. It is determined by Parliament through legislation (Article 124(1): 'such other judges as Parliament may by law prescribe'). Original strength: 8 (including CJI). Increased over time: 11→14→18→26→31→34→38. This is a CLASSIC UPSC fact — SC judge numbers are statutory, not constitutional."
     },
     {
       "id": "d4-10",
       "subject": "Polity & Governance",
       "question": "With reference to Article 142 of the Constitution:\n1. It gives the Supreme Court power to pass any order for 'complete justice'\n2. The SC has used it in cases like Bhopal Gas Tragedy compensation, same-sex marriage observations\n3. It can be invoked only in cases already before the Supreme Court\n4. Article 142 powers are unlimited and cannot be restrained",
       "options": [
-        "1, 2 and 3 only",
         "1, 2, 3 and 4",
         "1 and 2 only",
+        "1, 2 and 3 only",
         "All are correct"
       ],
-      "answer": 0,
-      "explanation": "1, 2, 3 correct. Statement 4 WRONG \u2014 Article 142 powers are NOT unlimited. SC itself has held (Prem Chand Garg, Supreme Court Bar Association cases) that Article 142 cannot: override substantive statutory provisions, violate Fundamental Rights, or substitute legislation. It's supplementary to existing law, not a replacement. Used creatively in: pollution cases (closing industries), forest conservation, Babri Masjid title suit, coal block allocation cancellation."
+      "answer": 2,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — Article 142 powers are NOT unlimited. SC itself has held (Prem Chand Garg, Supreme Court Bar Association cases) that Article 142 cannot: override substantive statutory provisions, violate Fundamental Rights, or substitute legislation. It's supplementary to existing law, not a replacement. Used creatively in: pollution cases (closing industries), forest conservation, Babri Masjid title suit, coal block allocation cancellation."
     },
     {
       "id": "d4-11",
       "subject": "Polity & Governance",
       "question": "Consider the following about the Three-Language Formula:\n1. It was first proposed in the National Education Policy 1968\n2. NEP 2020 reaffirmed the three-language formula\n3. Hindi, English, and one modern Indian language is the standard formula\n4. All states have implemented the three-language formula uniformly",
       "options": [
-        "1 and 2 only",
         "1, 2 and 3 only",
         "1, 2, 3 and 4",
-        "All are correct"
+        "All are correct",
+        "1 and 2 only"
       ],
-      "answer": 0,
-      "explanation": "1 and 2 correct. Statement 3 is PARTIALLY WRONG \u2014 the formula is: mother tongue/regional language + Hindi (in non-Hindi states) or another modern Indian language (in Hindi states) + English. It's not rigidly 'Hindi + English + one language'. Statement 4 WRONG \u2014 implementation is NOT uniform. Tamil Nadu has consistently refused Hindi (follows two-language: Tamil + English). NE states have varying approaches. This is a major Centre-State friction point."
+      "answer": 3,
+      "explanation": "1 and 2 correct. Statement 3 is PARTIALLY WRONG — the formula is: mother tongue/regional language + Hindi (in non-Hindi states) or another modern Indian language (in Hindi states) + English. It's not rigidly 'Hindi + English + one language'. Statement 4 WRONG — implementation is NOT uniform. Tamil Nadu has consistently refused Hindi (follows two-language: Tamil + English). NE states have varying approaches. This is a major Centre-State friction point."
     },
     {
       "id": "d4-12",
@@ -150,24 +150,24 @@
       "question": "Consider the following about India's new GDP methodology (base year 2022-23):\n1. It uses formal sector data from GST filings extensively\n2. It may not fully capture the informal sector's contribution\n3. The new series gives higher GDP growth estimates than the old series\n4. GVA at basic prices is calculated alongside GDP at market prices",
       "options": [
         "1, 2 and 4 only",
-        "1, 2, 3 and 4",
+        "All are correct",
         "1 and 4 only",
-        "All are correct"
+        "1, 2, 3 and 4"
       ],
       "answer": 0,
-      "explanation": "1, 2, 4 correct. Statement 3 is NOT necessarily correct \u2014 whether new series gives higher or lower growth depends on the methodology changes. The concern is opposite: relying heavily on GST data (formal sector) may MISS informal sector activity (which constitutes ~50% of economy), potentially either inflating or deflating true GDP depending on the deflator used. MCA-21, GST, EPFO data improve formal coverage but informal sector measurement remains challenging."
+      "explanation": "1, 2, 4 correct. Statement 3 is NOT necessarily correct — whether new series gives higher or lower growth depends on the methodology changes. The concern is opposite: relying heavily on GST data (formal sector) may MISS informal sector activity (which constitutes ~50% of economy), potentially either inflating or deflating true GDP depending on the deflator used. MCA-21, GST, EPFO data improve formal coverage but informal sector measurement remains challenging."
     },
     {
       "id": "d4-13",
       "subject": "Environment & Ecology",
       "question": "With reference to India's submission of its 7th National Report to the CBD:\n1. CBD (Convention on Biological Diversity) was adopted at the Rio Earth Summit, 1992\n2. India is one of the 17 megadiverse countries\n3. The report assesses progress toward Aichi Biodiversity Targets\n4. The Kunming-Montreal GBF (2022) has replaced the Aichi Targets with new 2030 targets",
       "options": [
-        "1, 2 and 4 only",
-        "1, 2, 3 and 4",
+        "All are correct",
         "1, 2 and 3 only",
-        "All are correct"
+        "1, 2, 3 and 4",
+        "1, 2 and 4 only"
       ],
-      "answer": 3,
+      "answer": 0,
       "explanation": "All correct. CBD (1992, Rio): 196 parties. India is megadiverse (4 biodiversity hotspots, 8% of global species on 2.4% of land area). Earlier reports assessed Aichi Targets (2011-2020, largely unmet). Kunming-Montreal GBF (COP15, Dec 2022) set new targets: 30x30 (protect 30% land and ocean by 2030), reduce pesticide risk by 50%, eliminate harmful subsidies ($500 billion). India's 7th report transitions to new GBF monitoring framework."
     },
     {
@@ -176,25 +176,25 @@
       "question": "Consider the following about Sedition Law in India:\n1. Section 124A IPC dealt with sedition (now repealed)\n2. The SC suspended Section 124A in SG Vombatkere case (2022)\n3. The new Bharatiya Nyaya Sanhita (BNS) 2023 completely removed sedition\n4. BNS Section 152 deals with acts endangering sovereignty of India",
       "options": [
         "1, 2 and 4 only",
+        "All are correct",
         "1, 2, 3 and 4",
-        "1 and 2 only",
-        "All are correct"
+        "1 and 2 only"
       ],
       "answer": 0,
-      "explanation": "1, 2, 4 correct. Statement 3 is WRONG/MISLEADING \u2014 BNS did NOT 'completely remove' sedition. While the word 'sedition' was dropped, Section 152 of BNS (Acts endangering sovereignty, unity and integrity of India) is widely seen as a REPACKAGED version with broader scope. It covers: exciting secession, threatening sovereignty through words/signs/electronic communication. Critics argue it's sedition by another name with expanded reach. SC's suspension of 124A became moot after BNS replaced IPC (July 2024)."
+      "explanation": "1, 2, 4 correct. Statement 3 is WRONG/MISLEADING — BNS did NOT 'completely remove' sedition. While the word 'sedition' was dropped, Section 152 of BNS (Acts endangering sovereignty, unity and integrity of India) is widely seen as a REPACKAGED version with broader scope. It covers: exciting secession, threatening sovereignty through words/signs/electronic communication. Critics argue it's sedition by another name with expanded reach. SC's suspension of 124A became moot after BNS replaced IPC (July 2024)."
     },
     {
       "id": "d4-15",
       "subject": "Polity & Governance",
       "question": "With reference to the Poshan Tracker:\n1. It is a digital tool to monitor nutritional outcomes of beneficiaries\n2. It tracks services under ICDS (Integrated Child Development Services)\n3. It uses Aadhaar-based identification of beneficiaries\n4. India has fully eliminated malnutrition through Poshan Abhiyaan",
       "options": [
-        "1, 2 and 3 only",
         "1, 2, 3 and 4",
         "1 and 2 only",
+        "1, 2 and 3 only",
         "All are correct"
       ],
-      "answer": 0,
-      "explanation": "1, 2, 3 correct. Statement 4 WRONG \u2014 India has NOT eliminated malnutrition. NFHS-5 (2021) shows: 35.5% children under-5 stunted, 19.3% wasted, 32.1% underweight. While improvements have occurred, malnutrition remains a critical challenge. Poshan Tracker (replacing earlier ICDS-CAS): real-time monitoring of 8 crore+ beneficiaries (pregnant/lactating women, children 0-6). Poshan Abhiyaan (PM's Overarching Scheme for Holistic Nourishment) targets: reduce stunting, underweight by 2%/year."
+      "answer": 2,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — India has NOT eliminated malnutrition. NFHS-5 (2021) shows: 35.5% children under-5 stunted, 19.3% wasted, 32.1% underweight. While improvements have occurred, malnutrition remains a critical challenge. Poshan Tracker (replacing earlier ICDS-CAS): real-time monitoring of 8 crore+ beneficiaries (pregnant/lactating women, children 0-6). Poshan Abhiyaan (PM's Overarching Scheme for Holistic Nourishment) targets: reduce stunting, underweight by 2%/year."
     }
   ]
 }

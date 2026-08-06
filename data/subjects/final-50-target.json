@@ -1,18 +1,213 @@
-{"subject":"Final 50 Target","questions":[
-{"id":"ft1","subject":"Internal Security","question":"Consider the following about India's nuclear command structure:\n1. Nuclear Command Authority (NCA) has a Political Council (PM chairs) and Executive Council (NSA chairs)\n2. Only the Political Council can authorize a nuclear strike\n3. India maintains a 'No First Use' (NFU) and 'Credible Minimum Deterrence' policy\n4. Strategic Forces Command (SFC) manages India's nuclear arsenal","options":["1, 2, 3 and 4","1, 2 and 3 only","1 and 3 only","All are correct"],"answer":3,"explanation":"All correct. NCA (est. 2003): Political Council (PM + senior ministers) = sole authority to authorize nuclear use. Executive Council (NSA chairs + CDS + service chiefs) = provides inputs and executes orders. NFU: India won't use nuclear weapons first but will retaliate massively ('massive retaliation'). Credible Minimum Deterrence: maintain enough weapons to deter, not arms race. SFC (tri-service): manages delivery systems (Agni missiles, INS Arihant SLBMs, aircraft). India's triad: land (Agni), sea (K-series from SSBN), air (Mirage 2000/Jaguar)."},
-{"id":"ft2","subject":"Internal Security","question":"With reference to election security in India:\n1. Central Armed Police Forces (CAPFs) are deployed during elections\n2. ECI can requisition forces from Centre under Article 324\n3. VVPAT (Voter Verified Paper Audit Trail) provides physical verification of EVM votes\n4. India has completely eliminated booth capturing and electoral violence","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 3 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — while booth capturing has reduced dramatically (from widespread in 1980s-90s to rare now), electoral violence and intimidation haven't been COMPLETELY eliminated. Residual issues: money power, muscle power in some regions, voter intimidation in some areas. CAPFs: 500,000+ deployed for general elections. VVPAT: voter sees paper slip confirming choice, drops into sealed box — SC mandated VVPAT verification of 5 random machines per constituency (2019 order)."},
-{"id":"ft3","subject":"Internal Security","question":"Consider the following about India's counter-intelligence capabilities:\n1. IB (Intelligence Bureau) handles domestic counter-intelligence\n2. Counter-intelligence involves detecting and neutralizing foreign espionage\n3. India has exposed Chinese and Pakistani espionage networks operating in India\n4. India has never experienced any espionage-related security breach","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — India HAS experienced espionage breaches. Notable: ISRO spy case (1994, controversial), Navy War Room leak (2005-06, classified documents leaked), Rabinder Singh (RAW officer spying for CIA, 2004), multiple instances of Chinese honey-trapping of officials via social media. Counter-intelligence: detecting moles, protecting classified information, electronic counter-surveillance. IB leads domestically; RAW handles external CI. Recent focus: Chinese cyber espionage targeting Indian infrastructure, influence operations via social media."},
-{"id":"ft4","subject":"Internal Security","question":"With reference to India's disaster management and security:\n1. NDMA (National Disaster Management Authority) is headed by the Prime Minister\n2. NDRF (National Disaster Response Force) has 16 battalions for specialized rescue\n3. SDRF (State Disaster Response Force) operates at state level\n4. Disaster Management Act, 2005 provides the legal framework","options":["1, 2, 3 and 4","1, 2 and 4 only","1 and 4 only","All are correct"],"answer":3,"explanation":"All correct. NDMA (PM as chair): apex policy body. NDRF (16 battalions, ~18,000 personnel): drawn from CAPFs (BSF, CRPF, ITBP, CISF, SSB), trained in: collapse search/rescue, water rescue, CBRN (chemical/biological/radiological/nuclear), medical first response. SDRF: each state maintains own disaster force. DM Act 2005: NDMA + SDMA + DDMA (district level) structure. Recent additions: IFLOWS (Integrated Flood Warning System), Aapda Mitra volunteers, community-based disaster preparedness. India's disaster preparedness improved significantly — cyclone deaths reduced 90%+ compared to 1999."},
-{"id":"ft5","subject":"Internal Security","question":"Consider the following about separatism in India:\n1. Khalistan movement (Punjab) was largely contained by the 1990s\n2. Kashmir separatism has roots in both religious and political identity issues\n3. NE separatism involves multiple ethnic groups seeking autonomy/independence\n4. All separatist movements in India have been resolved permanently","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 3 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — NOT all separatist movements are permanently resolved. While intensity has reduced: Khalistan (largely dormant domestically but international elements remain — Canada/UK), Kashmir (reduced post-Article 370 abrogation but not eliminated), NE (multiple accords signed — Naga, Bodo, NLFT — but implementation/splinter groups persist). Causes vary: religious identity (Kashmir), ethnic identity (NE), perceived alienation (Punjab 1980s). India's approach: combination of security operations + political engagement + development + autonomy provisions (6th Schedule, special status)."},
-{"id":"ft6","subject":"Government Schemes","question":"Consider the following about Atal Pension Yojana (APY):\n1. It guarantees pension of ₹1,000-₹5,000/month after age 60\n2. It targets unorganized sector workers aged 18-40\n3. Government co-contributes 50% of total contribution for 5 years\n4. It is administered by PFRDA (Pension Fund Regulatory and Development Authority)","options":["1, 2, 3 and 4","1, 2 and 4 only","1 and 4 only","All are correct"],"answer":3,"explanation":"All correct. APY (2015, replacing Swavalamban): defined benefit pension for unorganized workers. Monthly contribution (varies by entry age and desired pension): ₹42-1,454/month. Government co-contribution: 50% of subscriber contribution or ₹1,000/year (whichever lower) for 5 years (for those joining 2015-16 without income tax liability). PFRDA administers under NPS architecture. 5.5 crore+ subscribers. Guaranteed pension: ₹1,000/2,000/3,000/4,000/5,000 per month depending on contribution level. Spouse gets same pension after subscriber's death; nominees get corpus."},
-{"id":"ft7","subject":"Government Schemes","question":"With reference to Pradhan Mantri Fasal Bima Yojana (PMFBY):\n1. It provides crop insurance at subsidized premium rates\n2. Farmer's premium: 2% for Kharif, 1.5% for Rabi, 5% for commercial/horticultural crops\n3. Use of technology (satellite, drones, AI) for crop loss assessment\n4. Enrollment is mandatory for all farmers regardless of bank loans","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — PMFBY enrollment is VOLUNTARY (made voluntary from 2020, earlier it was mandatory for loanee farmers). Farmer premium is capped; Centre+State share remaining actuarial premium. Technology: RIICE (satellite), Crop Cutting Experiments (CCE) digitization, drones for assessment, weather stations for parametric payouts. Claims: within 2 months of harvest. Challenges: delayed claim settlements, low awareness, some states opted out citing fiscal burden (Gujarat, Bihar, WB initially)."},
-{"id":"ft8","subject":"Government Schemes","question":"Consider the following about One Nation One Ration Card (ONORC):\n1. It enables migrant workers to access PDS rations anywhere in India\n2. It uses Aadhaar-based biometric authentication at Fair Price Shops\n3. All states and UTs have been integrated into ONORC\n4. It was particularly critical during COVID-19 when migrants were stranded","options":["1, 2, 3 and 4","1, 2 and 4 only","1 and 4 only","All are correct"],"answer":3,"explanation":"All correct. ONORC (announced 2019, expanded during COVID): portability of food security entitlements. Previously: rations only from registered FPS in home district. Now: biometric authentication at any ePoS-enabled FPS nationwide. All 36 states/UTs integrated (though Assam/Chhattisgarh were last). Critical during COVID: 4 crore+ portability transactions (2020-21) when migrants couldn't return home. Technology: Integrated Management of PDS (IM-PDS) portal + Aadhaar + ePoS machines at 5.4 lakh FPS. SC directed: all states to implement (ensuring food security for internal migrants — 9+ crore people)."},
-{"id":"ft9","subject":"Government Schemes","question":"With reference to Swamitva scheme and rural land records:\n1. Property cards ('Gharauni') issued enable rural homeowners to access bank credit\n2. Revenue from property tax strengthens Gram Panchayat finances\n3. Drone survey technology provides accurate boundary demarcation\n4. India had complete digitization of all rural land records before Swamitva","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 3 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — India did NOT have complete digitization of rural ABADI (inhabited) area land records before Swamitva. Agricultural land records (DILRMP - Digital India Land Records Modernization Programme) was ongoing but ABADI areas (homesteads within villages) were largely UNMAPPED. Villagers had no formal ownership proof for homes. Swamitva fills this specific gap: drone-based survey of ABADI areas → property cards. Benefits: bank loans (previously impossible without title), reduced property disputes (70% rural litigation is land-related), better village planning."},
-{"id":"ft10","subject":"Interdisciplinary","question":"Consider the following about India's electric mobility transition:\n1. India's EV sales crossed 15 lakh units in FY 2023-24\n2. Electric 2-wheelers dominate India's EV market (>60% of EV sales)\n3. Battery swapping policy provides an alternative to charging infrastructure\n4. India manufactures 100% of EV batteries domestically","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — India does NOT manufacture 100% of EV batteries domestically. India imports majority of lithium-ion cells (from China, Korea). Assembly of battery packs happens in India, but cell manufacturing is just beginning (ACC PLI scheme: ₹18,100 crore for 50 GWh cell manufacturing). FAME-II + state subsidies drove EV adoption. 2-wheelers lead (Ola, Ather, TVS), buses (Tata, Olectra), 3-wheelers (already 50%+ electric in many cities). Charging infra: 12,000+ public chargers (target 46,000 by 2030). Battery swapping: BIS standards published (2023)."},
-{"id":"ft11","subject":"Interdisciplinary","question":"With reference to India's fintech revolution:\n1. India has the highest fintech adoption rate globally (~87%)\n2. UPI, Aadhaar-enabled Payment System (AePS), and BBPS are key platforms\n3. India's fintech sector is valued at $150+ billion\n4. RBI has no regulatory framework for fintech companies","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 3 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — RBI DOES regulate fintech. Digital lending guidelines (2022): mandate transparency, ban on lending app harassment, disclosure of annual interest rate, direct disbursal to borrower's bank. P2P lending regulated (NBFC-P2P license). Payment aggregators regulated. RBI sandbox for fintech innovation testing. India's fintech: highest adoption (EY Global Fintech Adoption Index). UPI (payments), Account Aggregator (data), ONDC (commerce), DigiLocker (documents) — DPI stack enables fintech explosion. $150+ billion valuation includes: Paytm, PhonePe, Razorpay, CRED, Zerodha etc."},
-{"id":"ft12","subject":"Interdisciplinary","question":"Consider the following about India's blue economy:\n1. India's 7,516 km coastline and 2.37 million sq km EEZ are key assets\n2. Blue economy covers: fisheries, shipping, offshore energy, marine tourism, desalination\n3. India released a draft Blue Economy Policy\n4. Sagarmala programme promotes port-led development as part of blue economy","options":["1, 2, 3 and 4","1, 2 and 4 only","1 and 2 only","All are correct"],"answer":3,"explanation":"All correct. Blue economy: sustainable use of ocean resources. India's assets: 7,516 km coast, 2.37 million sq km EEZ, 12 major ports + 200 minor ports, 2,000+ islands. Draft Blue Economy Policy (MoES): 7 priority areas — fisheries, aquaculture, marine tourism, offshore energy (offshore wind potential 174 GW), seabed mining (polymetallic nodules), coastal infrastructure, marine R&D. Sagarmala: port modernization + port-led industrialization + coastal economic zones. Deep Ocean Mission: deep-sea exploration, minerals, biodiversity. Blue economy estimated at 4% of GDP."},
-{"id":"ft13","subject":"Interdisciplinary","question":"With reference to India's space-based applications for governance:\n1. ISRO's Bhuvan provides geoportal services for planning and monitoring\n2. Satellite imagery is used for MGNREGA asset verification\n3. IRNSS/NavIC provides navigation for disaster management, fishing\n4. Space technology has no application in agriculture in India","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 3 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — space technology HAS major agricultural applications in India: crop acreage estimation (FASAL project using IRS satellites), drought assessment (DSS), flood monitoring (NRSC), crop insurance verification (PMFBY uses satellite data), soil moisture mapping, groundwater potential mapping. Bhuvan: Indian geoportal (alternative to Google Earth for government use). MGNREGA: geotagged photos + satellite verification of assets. NavIC: fishing safety (potential fishing zone advisories), disaster alerts (tsunami/cyclone). Space-governance integration is India's strength."},
-{"id":"ft14","subject":"Social Issues","question":"Consider the following about India's tribal health challenges:\n1. Tribal communities have higher prevalence of sickle cell disease\n2. Government launched National Sickle Cell Anaemia Elimination Mission (2023)\n3. Tribal IMR and MMR are significantly higher than national averages\n4. All tribal areas have fully functional Primary Health Centres","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — tribal areas have severe PHC deficiency. Many positions vacant (doctors, nurses), infrastructure poor, access difficult (remote/forested areas). Tribal IMR: ~44 vs national ~28. Sickle Cell: 1 in 86 tribal births affected (high in central Indian tribes: Gonds, Bhils, etc.). Elimination Mission (July 2023, PM launch): awareness, universal screening (7 crore tribals age 0-40), early intervention, genetic counselling. Budget: ₹2,171 crore to 2030. Target: elimination by 2047. Challenge: reaching interior tribal hamlets with testing/treatment."},
-{"id":"ft15","subject":"Social Issues","question":"With reference to India's caste census debate:\n1. The last caste census was in 1931 (British era)\n2. OBC population estimates vary widely (32-52%) due to no recent caste census\n3. Bihar conducted a state-level caste survey (2023) showing OBC/EBC as majority\n4. A national caste census would have no political implications","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 2 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — a caste census would have MASSIVE political implications: demands for proportional reservation (if OBCs are 52%, demand for 52% reservation — exceeding 50% cap), sub-categorization demands, resource allocation changes, political mobilization along caste lines. Last caste census: 1931 (British). Socio-Economic Caste Census (SECC) 2011 collected caste data but government never released full caste-wise tabulation. Bihar survey (2023): showed EBC+OBC = 63%, SC 19%, ST 1.7%, General 15.5%. Similar demands from other states."},
-{"id":"ft16","subject":"Social Issues","question":"Consider the following about child nutrition programmes in India:\n1. Integrated Child Development Services (ICDS) operates through 14 lakh Anganwadi centres\n2. Mid-Day Meal (now PM POSHAN) provides free lunch to 12 crore school children\n3. ICDS provides: supplementary nutrition, immunization, health check-ups, pre-school education\n4. India has completely eliminated child stunting and wasting","options":["1, 2 and 3 only","1, 2, 3 and 4","1 and 3 only","All are correct"],"answer":0,"explanation":"1, 2, 3 correct. Statement 4 WRONG — India has NOT eliminated child stunting (35.5%) or wasting (19.3%) per NFHS-5. Despite ICDS (1975, world's largest early childhood programme) and MDM (2004, now PM POSHAN 2021): malnutrition persists due to: inter-generational cycle (malnourished mothers → malnourished children), poverty, poor sanitation (open defecation → infection → malnutrition), low dietary diversity, child marriage/early pregnancy. PM POSHAN: renamed MDM with additions (nutrition garden, Social Audit, tithi bhojan — community contribution)."}
-]}
+{
+  "subject": "Final 50 Target",
+  "questions": [
+    {
+      "id": "ft1",
+      "subject": "Internal Security",
+      "question": "Consider the following about India's nuclear command structure:\n1. Nuclear Command Authority (NCA) has a Political Council (PM chairs) and Executive Council (NSA chairs)\n2. Only the Political Council can authorize a nuclear strike\n3. India maintains a 'No First Use' (NFU) and 'Credible Minimum Deterrence' policy\n4. Strategic Forces Command (SFC) manages India's nuclear arsenal",
+      "options": [
+        "1, 2 and 3 only",
+        "All are correct",
+        "1 and 3 only",
+        "1, 2, 3 and 4"
+      ],
+      "answer": 1,
+      "explanation": "All correct. NCA (est. 2003): Political Council (PM + senior ministers) = sole authority to authorize nuclear use. Executive Council (NSA chairs + CDS + service chiefs) = provides inputs and executes orders. NFU: India won't use nuclear weapons first but will retaliate massively ('massive retaliation'). Credible Minimum Deterrence: maintain enough weapons to deter, not arms race. SFC (tri-service): manages delivery systems (Agni missiles, INS Arihant SLBMs, aircraft). India's triad: land (Agni), sea (K-series from SSBN), air (Mirage 2000/Jaguar)."
+    },
+    {
+      "id": "ft2",
+      "subject": "Internal Security",
+      "question": "With reference to election security in India:\n1. Central Armed Police Forces (CAPFs) are deployed during elections\n2. ECI can requisition forces from Centre under Article 324\n3. VVPAT (Voter Verified Paper Audit Trail) provides physical verification of EVM votes\n4. India has completely eliminated booth capturing and electoral violence",
+      "options": [
+        "1, 2 and 3 only",
+        "All are correct",
+        "1 and 3 only",
+        "1, 2, 3 and 4"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — while booth capturing has reduced dramatically (from widespread in 1980s-90s to rare now), electoral violence and intimidation haven't been COMPLETELY eliminated. Residual issues: money power, muscle power in some regions, voter intimidation in some areas. CAPFs: 500,000+ deployed for general elections. VVPAT: voter sees paper slip confirming choice, drops into sealed box — SC mandated VVPAT verification of 5 random machines per constituency (2019 order)."
+    },
+    {
+      "id": "ft3",
+      "subject": "Internal Security",
+      "question": "Consider the following about India's counter-intelligence capabilities:\n1. IB (Intelligence Bureau) handles domestic counter-intelligence\n2. Counter-intelligence involves detecting and neutralizing foreign espionage\n3. India has exposed Chinese and Pakistani espionage networks operating in India\n4. India has never experienced any espionage-related security breach",
+      "options": [
+        "All are correct",
+        "1, 2, 3 and 4",
+        "1 and 2 only",
+        "1, 2 and 3 only"
+      ],
+      "answer": 3,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — India HAS experienced espionage breaches. Notable: ISRO spy case (1994, controversial), Navy War Room leak (2005-06, classified documents leaked), Rabinder Singh (RAW officer spying for CIA, 2004), multiple instances of Chinese honey-trapping of officials via social media. Counter-intelligence: detecting moles, protecting classified information, electronic counter-surveillance. IB leads domestically; RAW handles external CI. Recent focus: Chinese cyber espionage targeting Indian infrastructure, influence operations via social media."
+    },
+    {
+      "id": "ft4",
+      "subject": "Internal Security",
+      "question": "With reference to India's disaster management and security:\n1. NDMA (National Disaster Management Authority) is headed by the Prime Minister\n2. NDRF (National Disaster Response Force) has 16 battalions for specialized rescue\n3. SDRF (State Disaster Response Force) operates at state level\n4. Disaster Management Act, 2005 provides the legal framework",
+      "options": [
+        "1 and 4 only",
+        "1, 2, 3 and 4",
+        "1, 2 and 4 only",
+        "All are correct"
+      ],
+      "answer": 3,
+      "explanation": "All correct. NDMA (PM as chair): apex policy body. NDRF (16 battalions, ~18,000 personnel): drawn from CAPFs (BSF, CRPF, ITBP, CISF, SSB), trained in: collapse search/rescue, water rescue, CBRN (chemical/biological/radiological/nuclear), medical first response. SDRF: each state maintains own disaster force. DM Act 2005: NDMA + SDMA + DDMA (district level) structure. Recent additions: IFLOWS (Integrated Flood Warning System), Aapda Mitra volunteers, community-based disaster preparedness. India's disaster preparedness improved significantly — cyclone deaths reduced 90%+ compared to 1999."
+    },
+    {
+      "id": "ft5",
+      "subject": "Internal Security",
+      "question": "Consider the following about separatism in India:\n1. Khalistan movement (Punjab) was largely contained by the 1990s\n2. Kashmir separatism has roots in both religious and political identity issues\n3. NE separatism involves multiple ethnic groups seeking autonomy/independence\n4. All separatist movements in India have been resolved permanently",
+      "options": [
+        "1 and 3 only",
+        "1, 2, 3 and 4",
+        "All are correct",
+        "1, 2 and 3 only"
+      ],
+      "answer": 3,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — NOT all separatist movements are permanently resolved. While intensity has reduced: Khalistan (largely dormant domestically but international elements remain — Canada/UK), Kashmir (reduced post-Article 370 abrogation but not eliminated), NE (multiple accords signed — Naga, Bodo, NLFT — but implementation/splinter groups persist). Causes vary: religious identity (Kashmir), ethnic identity (NE), perceived alienation (Punjab 1980s). India's approach: combination of security operations + political engagement + development + autonomy provisions (6th Schedule, special status)."
+    },
+    {
+      "id": "ft6",
+      "subject": "Government Schemes",
+      "question": "Consider the following about Atal Pension Yojana (APY):\n1. It guarantees pension of ₹1,000-₹5,000/month after age 60\n2. It targets unorganized sector workers aged 18-40\n3. Government co-contributes 50% of total contribution for 5 years\n4. It is administered by PFRDA (Pension Fund Regulatory and Development Authority)",
+      "options": [
+        "1 and 4 only",
+        "1, 2 and 4 only",
+        "1, 2, 3 and 4",
+        "All are correct"
+      ],
+      "answer": 3,
+      "explanation": "All correct. APY (2015, replacing Swavalamban): defined benefit pension for unorganized workers. Monthly contribution (varies by entry age and desired pension): ₹42-1,454/month. Government co-contribution: 50% of subscriber contribution or ₹1,000/year (whichever lower) for 5 years (for those joining 2015-16 without income tax liability). PFRDA administers under NPS architecture. 5.5 crore+ subscribers. Guaranteed pension: ₹1,000/2,000/3,000/4,000/5,000 per month depending on contribution level. Spouse gets same pension after subscriber's death; nominees get corpus."
+    },
+    {
+      "id": "ft7",
+      "subject": "Government Schemes",
+      "question": "With reference to Pradhan Mantri Fasal Bima Yojana (PMFBY):\n1. It provides crop insurance at subsidized premium rates\n2. Farmer's premium: 2% for Kharif, 1.5% for Rabi, 5% for commercial/horticultural crops\n3. Use of technology (satellite, drones, AI) for crop loss assessment\n4. Enrollment is mandatory for all farmers regardless of bank loans",
+      "options": [
+        "All are correct",
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "1 and 2 only"
+      ],
+      "answer": 1,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — PMFBY enrollment is VOLUNTARY (made voluntary from 2020, earlier it was mandatory for loanee farmers). Farmer premium is capped; Centre+State share remaining actuarial premium. Technology: RIICE (satellite), Crop Cutting Experiments (CCE) digitization, drones for assessment, weather stations for parametric payouts. Claims: within 2 months of harvest. Challenges: delayed claim settlements, low awareness, some states opted out citing fiscal burden (Gujarat, Bihar, WB initially)."
+    },
+    {
+      "id": "ft8",
+      "subject": "Government Schemes",
+      "question": "Consider the following about One Nation One Ration Card (ONORC):\n1. It enables migrant workers to access PDS rations anywhere in India\n2. It uses Aadhaar-based biometric authentication at Fair Price Shops\n3. All states and UTs have been integrated into ONORC\n4. It was particularly critical during COVID-19 when migrants were stranded",
+      "options": [
+        "1, 2 and 4 only",
+        "1 and 4 only",
+        "All are correct",
+        "1, 2, 3 and 4"
+      ],
+      "answer": 2,
+      "explanation": "All correct. ONORC (announced 2019, expanded during COVID): portability of food security entitlements. Previously: rations only from registered FPS in home district. Now: biometric authentication at any ePoS-enabled FPS nationwide. All 36 states/UTs integrated (though Assam/Chhattisgarh were last). Critical during COVID: 4 crore+ portability transactions (2020-21) when migrants couldn't return home. Technology: Integrated Management of PDS (IM-PDS) portal + Aadhaar + ePoS machines at 5.4 lakh FPS. SC directed: all states to implement (ensuring food security for internal migrants — 9+ crore people)."
+    },
+    {
+      "id": "ft9",
+      "subject": "Government Schemes",
+      "question": "With reference to Swamitva scheme and rural land records:\n1. Property cards ('Gharauni') issued enable rural homeowners to access bank credit\n2. Revenue from property tax strengthens Gram Panchayat finances\n3. Drone survey technology provides accurate boundary demarcation\n4. India had complete digitization of all rural land records before Swamitva",
+      "options": [
+        "All are correct",
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "1 and 3 only"
+      ],
+      "answer": 1,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — India did NOT have complete digitization of rural ABADI (inhabited) area land records before Swamitva. Agricultural land records (DILRMP - Digital India Land Records Modernization Programme) was ongoing but ABADI areas (homesteads within villages) were largely UNMAPPED. Villagers had no formal ownership proof for homes. Swamitva fills this specific gap: drone-based survey of ABADI areas → property cards. Benefits: bank loans (previously impossible without title), reduced property disputes (70% rural litigation is land-related), better village planning."
+    },
+    {
+      "id": "ft10",
+      "subject": "Interdisciplinary",
+      "question": "Consider the following about India's electric mobility transition:\n1. India's EV sales crossed 15 lakh units in FY 2023-24\n2. Electric 2-wheelers dominate India's EV market (>60% of EV sales)\n3. Battery swapping policy provides an alternative to charging infrastructure\n4. India manufactures 100% of EV batteries domestically",
+      "options": [
+        "1 and 2 only",
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only",
+        "All are correct"
+      ],
+      "answer": 2,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — India does NOT manufacture 100% of EV batteries domestically. India imports majority of lithium-ion cells (from China, Korea). Assembly of battery packs happens in India, but cell manufacturing is just beginning (ACC PLI scheme: ₹18,100 crore for 50 GWh cell manufacturing). FAME-II + state subsidies drove EV adoption. 2-wheelers lead (Ola, Ather, TVS), buses (Tata, Olectra), 3-wheelers (already 50%+ electric in many cities). Charging infra: 12,000+ public chargers (target 46,000 by 2030). Battery swapping: BIS standards published (2023)."
+    },
+    {
+      "id": "ft11",
+      "subject": "Interdisciplinary",
+      "question": "With reference to India's fintech revolution:\n1. India has the highest fintech adoption rate globally (~87%)\n2. UPI, Aadhaar-enabled Payment System (AePS), and BBPS are key platforms\n3. India's fintech sector is valued at $150+ billion\n4. RBI has no regulatory framework for fintech companies",
+      "options": [
+        "1 and 3 only",
+        "1, 2, 3 and 4",
+        "All are correct",
+        "1, 2 and 3 only"
+      ],
+      "answer": 3,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — RBI DOES regulate fintech. Digital lending guidelines (2022): mandate transparency, ban on lending app harassment, disclosure of annual interest rate, direct disbursal to borrower's bank. P2P lending regulated (NBFC-P2P license). Payment aggregators regulated. RBI sandbox for fintech innovation testing. India's fintech: highest adoption (EY Global Fintech Adoption Index). UPI (payments), Account Aggregator (data), ONDC (commerce), DigiLocker (documents) — DPI stack enables fintech explosion. $150+ billion valuation includes: Paytm, PhonePe, Razorpay, CRED, Zerodha etc."
+    },
+    {
+      "id": "ft12",
+      "subject": "Interdisciplinary",
+      "question": "Consider the following about India's blue economy:\n1. India's 7,516 km coastline and 2.37 million sq km EEZ are key assets\n2. Blue economy covers: fisheries, shipping, offshore energy, marine tourism, desalination\n3. India released a draft Blue Economy Policy\n4. Sagarmala programme promotes port-led development as part of blue economy",
+      "options": [
+        "All are correct",
+        "1, 2 and 4 only",
+        "1 and 2 only",
+        "1, 2, 3 and 4"
+      ],
+      "answer": 0,
+      "explanation": "All correct. Blue economy: sustainable use of ocean resources. India's assets: 7,516 km coast, 2.37 million sq km EEZ, 12 major ports + 200 minor ports, 2,000+ islands. Draft Blue Economy Policy (MoES): 7 priority areas — fisheries, aquaculture, marine tourism, offshore energy (offshore wind potential 174 GW), seabed mining (polymetallic nodules), coastal infrastructure, marine R&D. Sagarmala: port modernization + port-led industrialization + coastal economic zones. Deep Ocean Mission: deep-sea exploration, minerals, biodiversity. Blue economy estimated at 4% of GDP."
+    },
+    {
+      "id": "ft13",
+      "subject": "Interdisciplinary",
+      "question": "With reference to India's space-based applications for governance:\n1. ISRO's Bhuvan provides geoportal services for planning and monitoring\n2. Satellite imagery is used for MGNREGA asset verification\n3. IRNSS/NavIC provides navigation for disaster management, fishing\n4. Space technology has no application in agriculture in India",
+      "options": [
+        "All are correct",
+        "1, 2, 3 and 4",
+        "1 and 3 only",
+        "1, 2 and 3 only"
+      ],
+      "answer": 3,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — space technology HAS major agricultural applications in India: crop acreage estimation (FASAL project using IRS satellites), drought assessment (DSS), flood monitoring (NRSC), crop insurance verification (PMFBY uses satellite data), soil moisture mapping, groundwater potential mapping. Bhuvan: Indian geoportal (alternative to Google Earth for government use). MGNREGA: geotagged photos + satellite verification of assets. NavIC: fishing safety (potential fishing zone advisories), disaster alerts (tsunami/cyclone). Space-governance integration is India's strength."
+    },
+    {
+      "id": "ft14",
+      "subject": "Social Issues",
+      "question": "Consider the following about India's tribal health challenges:\n1. Tribal communities have higher prevalence of sickle cell disease\n2. Government launched National Sickle Cell Anaemia Elimination Mission (2023)\n3. Tribal IMR and MMR are significantly higher than national averages\n4. All tribal areas have fully functional Primary Health Centres",
+      "options": [
+        "1, 2, 3 and 4",
+        "All are correct",
+        "1, 2 and 3 only",
+        "1 and 2 only"
+      ],
+      "answer": 2,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — tribal areas have severe PHC deficiency. Many positions vacant (doctors, nurses), infrastructure poor, access difficult (remote/forested areas). Tribal IMR: ~44 vs national ~28. Sickle Cell: 1 in 86 tribal births affected (high in central Indian tribes: Gonds, Bhils, etc.). Elimination Mission (July 2023, PM launch): awareness, universal screening (7 crore tribals age 0-40), early intervention, genetic counselling. Budget: ₹2,171 crore to 2030. Target: elimination by 2047. Challenge: reaching interior tribal hamlets with testing/treatment."
+    },
+    {
+      "id": "ft15",
+      "subject": "Social Issues",
+      "question": "With reference to India's caste census debate:\n1. The last caste census was in 1931 (British era)\n2. OBC population estimates vary widely (32-52%) due to no recent caste census\n3. Bihar conducted a state-level caste survey (2023) showing OBC/EBC as majority\n4. A national caste census would have no political implications",
+      "options": [
+        "All are correct",
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only",
+        "1 and 2 only"
+      ],
+      "answer": 2,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — a caste census would have MASSIVE political implications: demands for proportional reservation (if OBCs are 52%, demand for 52% reservation — exceeding 50% cap), sub-categorization demands, resource allocation changes, political mobilization along caste lines. Last caste census: 1931 (British). Socio-Economic Caste Census (SECC) 2011 collected caste data but government never released full caste-wise tabulation. Bihar survey (2023): showed EBC+OBC = 63%, SC 19%, ST 1.7%, General 15.5%. Similar demands from other states."
+    },
+    {
+      "id": "ft16",
+      "subject": "Social Issues",
+      "question": "Consider the following about child nutrition programmes in India:\n1. Integrated Child Development Services (ICDS) operates through 14 lakh Anganwadi centres\n2. Mid-Day Meal (now PM POSHAN) provides free lunch to 12 crore school children\n3. ICDS provides: supplementary nutrition, immunization, health check-ups, pre-school education\n4. India has completely eliminated child stunting and wasting",
+      "options": [
+        "1, 2 and 3 only",
+        "All are correct",
+        "1 and 3 only",
+        "1, 2, 3 and 4"
+      ],
+      "answer": 0,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — India has NOT eliminated child stunting (35.5%) or wasting (19.3%) per NFHS-5. Despite ICDS (1975, world's largest early childhood programme) and MDM (2004, now PM POSHAN 2021): malnutrition persists due to: inter-generational cycle (malnourished mothers → malnourished children), poverty, poor sanitation (open defecation → infection → malnutrition), low dietary diversity, child marriage/early pregnancy. PM POSHAN: renamed MDM with additions (nutrition garden, Social Audit, tithi bhojan — community contribution)."
+    }
+  ]
+}

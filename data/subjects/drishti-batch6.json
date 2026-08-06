@@ -6,13 +6,13 @@
       "subject": "Science & Technology",
       "question": "Consider the following about India's missile programme (2026 updates):\n1. Agni-V is an ICBM-class missile with range exceeding 5,000 km\n2. It is a two-stage, canister-launched missile\n3. India has successfully tested Agni-V with MIRV (Multiple Independently targetable Re-entry Vehicles) capability\n4. Agni-V is lighter than earlier Agni variants",
       "options": [
-        "1, 3 and 4 only",
         "1, 2, 3 and 4",
-        "1 and 3 only",
-        "All are correct"
+        "1, 3 and 4 only",
+        "All are correct",
+        "1 and 3 only"
       ],
-      "answer": 3,
-      "explanation": "All correct. Agni-V (range 5,000+ km, ICBM class): canister-launched (road/rail mobile), 2-stage solid fuel. MIRV tested under 'Mission Divyastra' (March 2024) \u2014 multiple warheads hitting different targets from single missile. Lighter than Agni-III/IV due to composite materials. Part of India's nuclear triad (land-based). This establishes India in elite club of nations with MIRV capability (US, Russia, China, UK, France, India)."
+      "answer": 2,
+      "explanation": "All correct. Agni-V (range 5,000+ km, ICBM class): canister-launched (road/rail mobile), 2-stage solid fuel. MIRV tested under 'Mission Divyastra' (March 2024) — multiple warheads hitting different targets from single missile. Lighter than Agni-III/IV due to composite materials. Part of India's nuclear triad (land-based). This establishes India in elite club of nations with MIRV capability (US, Russia, China, UK, France, India)."
     },
     {
       "id": "d6-2",
@@ -20,76 +20,76 @@
       "question": "Match the following military exercises with the participating countries:\n1. Exercise Vajra Ghaat - India-South Korea\n2. Exercise DUSTLIK - India-Uzbekistan\n3. Exercise Cyclone-IV - India-Egypt\n4. Exercise Cobra Warrior - India-UK",
       "options": [
         "1, 2 and 3 only",
-        "1, 2, 3 and 4",
         "2 and 3 only",
+        "1, 2, 3 and 4",
         "All are correct"
       ],
       "answer": 3,
-      "explanation": "All correctly matched. Vajra Ghaat (Army, with S. Korea's K9 Thunder howitzers). DUSTLIK (7th edition, India-Uzbekistan joint military exercise). Cyclone-IV (India-Egypt, started 2023, counter-terrorism focus). Cobra Warrior (IAF, UK \u2014 multilateral air combat exercise). Other key exercises: Malabar (India-US-Japan-Australia, Navy), Yudh Abhyas (India-US, Army), Garuda (India-France, Air Force), JIMEX (India-Japan, Navy)."
+      "explanation": "All correctly matched. Vajra Ghaat (Army, with S. Korea's K9 Thunder howitzers). DUSTLIK (7th edition, India-Uzbekistan joint military exercise). Cyclone-IV (India-Egypt, started 2023, counter-terrorism focus). Cobra Warrior (IAF, UK — multilateral air combat exercise). Other key exercises: Malabar (India-US-Japan-Australia, Navy), Yudh Abhyas (India-US, Army), Garuda (India-France, Air Force), JIMEX (India-Japan, Navy)."
     },
     {
       "id": "d6-3",
       "subject": "Science & Technology",
       "question": "With reference to INS Dunagiri:\n1. It is a Project 17A stealth guided-missile frigate\n2. It is equipped with BrahMos missiles and MR-SAM\n3. Project 17A frigates are built at Mazagon Dock and GRSE\n4. It uses MFSTAR radar system",
       "options": [
-        "1, 2, 3 and 4",
         "1, 2 and 4 only",
+        "1, 2, 3 and 4",
         "1 and 2 only",
         "All are correct"
       ],
       "answer": 3,
-      "explanation": "All correct. INS Dunagiri: P17A class (Nilgiri class) stealth frigate \u2014 India's most advanced indigenous warships. Features: BrahMos supersonic cruise missiles, MR-SAM (Medium Range Surface-to-Air Missile, Indo-Israeli), MFSTAR (Multi-Function Surveillance Tracking and Guidance Radar). Built at GRSE Kolkata and MDL Mumbai (7 ships total). Named after the Dunagiri peak (Uttarakhand). Key for India's blue-water navy capability."
+      "explanation": "All correct. INS Dunagiri: P17A class (Nilgiri class) stealth frigate — India's most advanced indigenous warships. Features: BrahMos supersonic cruise missiles, MR-SAM (Medium Range Surface-to-Air Missile, Indo-Israeli), MFSTAR (Multi-Function Surveillance Tracking and Guidance Radar). Built at GRSE Kolkata and MDL Mumbai (7 ships total). Named after the Dunagiri peak (Uttarakhand). Key for India's blue-water navy capability."
     },
     {
       "id": "d6-4",
       "subject": "Science & Technology",
       "question": "Consider the following about India's private space sector achievements (2025-26):\n1. NSIL launched 141 satellites by July 2026 (138 international + 3 Indian)\n2. 100% FDI is allowed in satellite manufacturing and operations\n3. 49% FDI is allowed in launch vehicles and spaceports\n4. Private companies can access ISRO facilities and technology transfer",
       "options": [
-        "1, 2, 3 and 4",
+        "All are correct",
         "1, 2 and 4 only",
-        "1 and 4 only",
-        "All are correct"
+        "1, 2, 3 and 4",
+        "1 and 4 only"
       ],
-      "answer": 3,
-      "explanation": "All correct. FDI in space (liberalized 2024): 100% FDI in satellite manufacturing/operations (automatic route up to 74%, government route beyond). 49% in launch vehicles/spaceports. NSIL (NewSpace India Limited) is ISRO's commercial arm \u2014 has launched 141 satellites. Space reforms allow NGEs (Non-Government Entities) to access ISRO facilities, get technology transfer, use launch pads. India's space economy target: $13 billion by 2025, with private sector contributing 50%+."
+      "answer": 0,
+      "explanation": "All correct. FDI in space (liberalized 2024): 100% FDI in satellite manufacturing/operations (automatic route up to 74%, government route beyond). 49% in launch vehicles/spaceports. NSIL (NewSpace India Limited) is ISRO's commercial arm — has launched 141 satellites. Space reforms allow NGEs (Non-Government Entities) to access ISRO facilities, get technology transfer, use launch pads. India's space economy target: $13 billion by 2025, with private sector contributing 50%+."
     },
     {
       "id": "d6-5",
       "subject": "Environment & Ecology",
       "question": "Consider the following about Kaziranga National Park:\n1. It became a Wildlife Sanctuary in 1950, National Park in 1974\n2. It is a UNESCO World Heritage Site (1985) and Tiger Reserve (2007)\n3. It is famous for the 'Big Five': Indian Rhinoceros, Tiger, Elephant, Wild Water Buffalo, Swamp Deer\n4. It is located on the floodplains of the Brahmaputra in Assam",
       "options": [
-        "1, 2, 3 and 4",
         "1, 2 and 4 only",
-        "1 and 3 only",
-        "All are correct"
+        "All are correct",
+        "1, 2, 3 and 4",
+        "1 and 3 only"
       ],
-      "answer": 3,
-      "explanation": "All correct. Kaziranga (Assam): India's most important wildlife park. Timeline: WLS 1950, NP 1974, UNESCO WHS 1985, Tiger Reserve 2007. Big Five specific to Kaziranga. Hosts 2/3 of world's one-horned rhinos (~2,600+). Located in Golaghat and Nagaon districts on Brahmaputra floodplains. Faces annual flood threat \u2014 animals migrate to Karbi Anglong hills during monsoon. Addition: Charigaon, Bokakhat areas have been added."
+      "answer": 1,
+      "explanation": "All correct. Kaziranga (Assam): India's most important wildlife park. Timeline: WLS 1950, NP 1974, UNESCO WHS 1985, Tiger Reserve 2007. Big Five specific to Kaziranga. Hosts 2/3 of world's one-horned rhinos (~2,600+). Located in Golaghat and Nagaon districts on Brahmaputra floodplains. Faces annual flood threat — animals migrate to Karbi Anglong hills during monsoon. Addition: Charigaon, Bokakhat areas have been added."
     },
     {
       "id": "d6-6",
       "subject": "Environment & Ecology",
       "question": "With reference to India's nuclear tests at Pokhran:\n1. Pokhran-I (1974): India's first nuclear test under 'Smiling Buddha'\n2. Pokhran-II (1998): Five tests conducted under 'Operation Shakti'\n3. India declared a moratorium on further testing after 1998\n4. India has signed the Comprehensive Nuclear Test Ban Treaty (CTBT) after 1998",
       "options": [
+        "All are correct",
         "1, 2 and 3 only",
         "1, 2, 3 and 4",
-        "1 and 2 only",
-        "All are correct"
+        "1 and 2 only"
       ],
-      "answer": 0,
-      "explanation": "1, 2, 3 correct. Statement 4 WRONG \u2014 India has NOT signed the CTBT (even after 1998 tests). India considers CTBT discriminatory as it doesn't address disarmament by existing nuclear powers. India maintains a voluntary moratorium on testing (no-first-use policy) but hasn't legally bound itself via CTBT. Pokhran-I (May 1974, under Indira Gandhi): 'Peaceful Nuclear Explosion'. Pokhran-II (May 1998, under Vajpayee): 5 tests including thermonuclear device."
+      "answer": 1,
+      "explanation": "1, 2, 3 correct. Statement 4 WRONG — India has NOT signed the CTBT (even after 1998 tests). India considers CTBT discriminatory as it doesn't address disarmament by existing nuclear powers. India maintains a voluntary moratorium on testing (no-first-use policy) but hasn't legally bound itself via CTBT. Pokhran-I (May 1974, under Indira Gandhi): 'Peaceful Nuclear Explosion'. Pokhran-II (May 1998, under Vajpayee): 5 tests including thermonuclear device."
     },
     {
       "id": "d6-7",
       "subject": "Art & Culture",
       "question": "Consider the following about GI-tagged products in news (2025-26):\n1. Products with GI tags now registered include food, textiles, and handicrafts\n2. GI registration helps in preventing misuse and establishing authenticity internationally\n3. India has 400+ registered GI products\n4. GI protection is mandated under WTO's TRIPS Agreement",
       "options": [
+        "All are correct",
         "1, 2, 3 and 4",
         "1, 2 and 4 only",
-        "1 and 2 only",
-        "All are correct"
+        "1 and 2 only"
       ],
-      "answer": 3,
+      "answer": 0,
       "explanation": "All correct. India has 400+ GI registrations (largest in South Asia). Categories: agricultural (Darjeeling Tea, Basmati), food (Tirupati Laddu, Ratlami Sev), textiles (Banarasi, Kanchipuram), handicrafts (Channapatna, Blue Pottery). TRIPS Agreement (WTO) Article 22-24 mandates GI protection among member nations. GI helps: premium pricing (30-50% more), export protection, rural livelihood. Geographical Indications of Goods Act, 1999 governs in India."
     },
     {
@@ -98,11 +98,11 @@
       "question": "Consider the following about the Export Preparedness Index (EPI) 2024:\n1. It is published by NITI Aayog\n2. It assesses state/UT-level export readiness\n3. Pillars include Business Ecosystem, Export Infrastructure, and Policy & Governance\n4. It supports India's $1 trillion export target",
       "options": [
         "1, 2, 3 and 4",
+        "All are correct",
         "1, 2 and 3 only",
-        "1 and 4 only",
-        "All are correct"
+        "1 and 4 only"
       ],
-      "answer": 3,
+      "answer": 1,
       "explanation": "All correct. EPI (launched 2020 by NITI Aayog): annual state-level ranking of export preparedness. 4 Pillars: Business Ecosystem (40% weight), Export Infrastructure, Policy & Governance, Export Performance. Supports: Make in India, Atmanirbhar Bharat, district-led export growth (One District One Product). States classified as: Leaders/Achievers/Aspirants. Top performers typically: Gujarat, Maharashtra, Tamil Nadu, Karnataka. Links to India's $1 trillion goods+services export ambition."
     },
     {
@@ -110,8 +110,8 @@
       "subject": "Economics",
       "question": "With reference to India's Logistics Port Performance Index (LPPI) FY 2024-25:\n1. It evaluates performance of Indian ports on efficiency parameters\n2. It is developed by the Ministry of Ports, Shipping and Waterways\n3. Deendayal Port (Kandla) and Paradip are among the top-performing ports\n4. India has 12 major ports under the Major Port Authorities Act, 2021",
       "options": [
-        "1, 2 and 4 only",
         "1, 2, 3 and 4",
+        "1, 2 and 4 only",
         "1 and 4 only",
         "All are correct"
       ],
@@ -123,13 +123,13 @@
       "subject": "Polity & Governance",
       "question": "Consider the following about the Padma Awards:\n1. They are among India's highest civilian honours\n2. Three categories: Padma Vibhushan, Padma Bhushan, Padma Shri\n3. They are awarded on Republic Day annually\n4. They can be awarded posthumously",
       "options": [
-        "1, 2, 3 and 4",
-        "1, 2 and 3 only",
+        "All are correct",
         "1 and 2 only",
-        "All are correct"
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only"
       ],
-      "answer": 3,
-      "explanation": "All correct. Padma Awards (instituted 1954): Padma Vibhushan (exceptional and distinguished service), Padma Bhushan (distinguished service of high order), Padma Shri (distinguished service). Announced on Republic Day eve (January 25). Can be awarded posthumously. Conferred by President at Rashtrapati Bhavan in Civil Investiture Ceremonies. No cash prize \u2014 only medal and certificate. Can be withdrawn in rare cases. Total: ~120-130 awarded annually across fields."
+      "answer": 0,
+      "explanation": "All correct. Padma Awards (instituted 1954): Padma Vibhushan (exceptional and distinguished service), Padma Bhushan (distinguished service of high order), Padma Shri (distinguished service). Announced on Republic Day eve (January 25). Can be awarded posthumously. Conferred by President at Rashtrapati Bhavan in Civil Investiture Ceremonies. No cash prize — only medal and certificate. Can be withdrawn in rare cases. Total: ~120-130 awarded annually across fields."
     },
     {
       "id": "d6-11",
@@ -137,11 +137,11 @@
       "question": "Consider the following about India's Indian Time and Frequency (ISTF) infrastructure:\n1. Indian Standard Time is generated using caesium atomic clocks\n2. Hydrogen masers provide additional precision\n3. NPLI (National Physical Laboratory of India) maintains IST\n4. India uses geostationary satellites for time transfer across the country",
       "options": [
         "1, 2, 3 and 4",
-        "1, 2 and 3 only",
+        "All are correct",
         "1 and 3 only",
-        "All are correct"
+        "1, 2 and 3 only"
       ],
-      "answer": 3,
+      "answer": 1,
       "explanation": "All correct. IST maintained by CSIR-NPLI (New Delhi) using: 5 caesium atomic clocks + 3 hydrogen masers (more precise but less stable long-term). Accuracy: nanosecond level. Time transferred via: geostationary satellite-based IRNSS/NavIC time signals, NTP servers, dedicated fiber links. Important for: telecom synchronization, financial transactions (stock exchanges need microsecond accuracy), power grid management, defence applications."
     },
     {
@@ -150,8 +150,8 @@
       "question": "With reference to India's Small Satellite Launch Vehicle (SSLV):\n1. It is designed for launching satellites up to 500 kg to Low Earth Orbit\n2. It targets the growing global small-satellite market\n3. SSLV provides strategic independence from PSLV for smaller payloads\n4. It can be assembled and launched within 72 hours",
       "options": [
         "1, 2, 3 and 4",
-        "1, 2 and 3 only",
         "1 and 2 only",
+        "1, 2 and 3 only",
         "All are correct"
       ],
       "answer": 3,
@@ -162,12 +162,12 @@
       "subject": "Environment & Ecology",
       "question": "Consider the following about India's Panchayat Advancement Index (PAI) 2.0:\n1. It evaluates performance of Panchayati Raj Institutions\n2. It is aligned with Sustainable Development Goals (SDGs)\n3. It is published by the Ministry of Panchayati Raj\n4. Top-performing panchayats receive Deen Dayal Upadhyay Awards",
       "options": [
-        "1, 2, 3 and 4",
+        "All are correct",
         "1, 2 and 3 only",
         "1 and 3 only",
-        "All are correct"
+        "1, 2, 3 and 4"
       ],
-      "answer": 3,
+      "answer": 0,
       "explanation": "All correct. PAI 2.0: comprehensive index evaluating panchayat performance on 9 SDG-linked themes (poverty-free, healthy, child-friendly, water-sufficient, clean and green, self-sufficient, socially just, well-governed, women-friendly). Ministry of Panchayati Raj publishes it. Awards: National Panchayat Awards include DDU Panchayat Sashaktikaran Puraskar (for best-performing panchayats), given on National Panchayati Raj Day (April 24)."
     },
     {
@@ -175,25 +175,25 @@
       "subject": "Polity & Governance",
       "question": "With reference to India's Digital Transformation achievements:\n1. India has the world's 3rd largest startup ecosystem\n2. Over 1.4 lakh startups are DPIIT-recognized\n3. India Stack (Aadhaar + UPI + DigiLocker + ONDC) is being replicated by other countries\n4. India has the highest mobile data consumption per capita globally",
       "options": [
-        "1, 2, 3 and 4",
         "1, 3 and 4 only",
+        "All are correct",
         "1 and 3 only",
-        "All are correct"
+        "1, 2, 3 and 4"
       ],
-      "answer": 3,
-      "explanation": "All correct. India: 3rd largest startup ecosystem (after US, China) with 1.4 lakh+ DPIIT-recognized startups (100+ unicorns). India Stack (DPI): being studied/adopted by countries in Africa, Southeast Asia, Pacific Islands (modular approach: identity\u2192payments\u2192data\u2192commerce). India: ~20 GB/month per user mobile data consumption (highest globally, driven by cheap data post-Jio entry). Digital economy contribution: ~10% of GDP, targeting 20% by 2030."
+      "answer": 1,
+      "explanation": "All correct. India: 3rd largest startup ecosystem (after US, China) with 1.4 lakh+ DPIIT-recognized startups (100+ unicorns). India Stack (DPI): being studied/adopted by countries in Africa, Southeast Asia, Pacific Islands (modular approach: identity→payments→data→commerce). India: ~20 GB/month per user mobile data consumption (highest globally, driven by cheap data post-Jio entry). Digital economy contribution: ~10% of GDP, targeting 20% by 2030."
     },
     {
       "id": "d6-15",
       "subject": "International Relations",
       "question": "Consider the following about India's UN Military Gender Advocate Award:\n1. The award recognizes military personnel promoting gender equality in UN peacekeeping\n2. An Indian Army officer won this award recently\n3. India is one of the largest troop contributors to UN peacekeeping\n4. Indian women officers have served as UN peacekeepers since 2007",
       "options": [
-        "1, 2, 3 and 4",
-        "1, 3 and 4 only",
+        "All are correct",
         "1 and 3 only",
-        "All are correct"
+        "1, 2, 3 and 4",
+        "1, 3 and 4 only"
       ],
-      "answer": 3,
+      "answer": 0,
       "explanation": "All correct. UN Military Gender Advocate Award (created 2016 by Office of Military Affairs): recognizes individual contribution to gender equality in peacekeeping. Indian Army officer received it (adding to India's peacekeeping legacy). India: among top troop contributors (5,000+ personnel deployed). India's first all-female Formed Police Unit served in Liberia (2007). Women officers increasingly deployed in UN missions across Africa, Middle East."
     }
   ]

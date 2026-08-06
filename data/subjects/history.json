@@ -32,9 +32,9 @@
       "subject": "History",
       "question": "With reference to Vedic literature, consider:\n1. Rigveda is the oldest Veda\n2. Upanishads deal with philosophy and metaphysics\n3. Brahmanas explain rituals and ceremonies\n4. Aranyakas are forest treatises\nWhich are correct?",
       "options": [
-        "1, 2 and 3 only",
-        "1, 2, 3 and 4",
         "1 and 2 only",
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only",
         "2, 3 and 4 only"
       ],
       "answer": 1,
@@ -71,12 +71,12 @@
       "subject": "History",
       "question": "The Gupta period is often called the 'Golden Age of India' because of:\n1. Advances in science (Aryabhata)\n2. Classical Sanskrit literature (Kalidasa)\n3. Nalanda University's founding\n4. Development of the decimal system\nWhich are correct?",
       "options": [
-        "1, 2 and 4 only",
         "1, 2, 3 and 4",
-        "1 and 2 only",
-        "All except 3"
+        "All except 3",
+        "1, 2 and 4 only",
+        "1 and 2 only"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "1, 2, 4 correct. Nalanda was founded during Gupta period (5th century) by Kumaragupta I, so 3 is also correct. However, Nalanda reached its zenith under Pala dynasty, not Guptas. The question asks about 'founding' which makes 3 correct too. Answer: All four are correct - selecting 1,2,4 as safest."
     },
     {
@@ -123,12 +123,12 @@
       "subject": "History",
       "question": "Consider the following Bhakti saints and their regions:\n1. Kabir - North India\n2. Basavanna - Karnataka\n3. Chaitanya - Bengal\n4. Mirabai - Gujarat\nWhich are correctly matched?",
       "options": [
+        "All except 4",
         "1, 2 and 3 only",
-        "1, 2, 3 and 4",
         "1 and 3 only",
-        "All except 4"
+        "1, 2, 3 and 4"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "1, 2, 3 correct. Mirabai was from Rajasthan (Mewar/Merta), not Gujarat. She was a Rajput princess devoted to Krishna. Kabir (Varanasi), Basavanna (Lingayat movement, Karnataka), Chaitanya (Vaishnavism, Bengal)."
     },
     {
@@ -175,12 +175,12 @@
       "subject": "History",
       "question": "Match the following:\n1. Champaran Satyagraha - Indigo cultivation\n2. Kheda Satyagraha - Revenue issue\n3. Ahmedabad Mill Strike - Workers' wages\n4. Bardoli Satyagraha - Land revenue\nWhich are correctly matched?",
       "options": [
-        "1, 2 and 3 only",
-        "1, 2, 3 and 4",
         "1 and 3 only",
-        "All except 2"
+        "All except 2",
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanation": "All correctly matched. Champaran (1917): against indigo planters. Kheda (1918): crop failure, revenue demand issue. Ahmedabad (1918): mill workers' plague bonus dispute. Bardoli (1928): Vallabhbhai Patel against revenue hike."
     },
     {
@@ -188,12 +188,12 @@
       "subject": "History",
       "question": "The Cabinet Mission Plan (1946) proposed:\n1. A three-tier federal structure\n2. Grouping of provinces into three sections\n3. An interim government at the Centre\n4. Immediate independence for India\nWhich is/are correct?",
       "options": [
-        "1, 2 and 3 only",
         "1 and 2 only",
+        "2 and 3 only",
         "1, 2, 3 and 4",
-        "2 and 3 only"
+        "1, 2 and 3 only"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "1, 2, 3 correct. The Cabinet Mission rejected partition, proposed: Union (defense, foreign affairs, communications), Groups (A: Hindu majority, B: Muslim NW, C: Muslim NE), Provinces. It set up interim government. Statement 4 wrong - it did NOT provide immediate independence; it was about constitutional structure."
     },
     {
@@ -201,12 +201,12 @@
       "subject": "History",
       "question": "With reference to socio-religious reform movements:\n1. Brahmo Samaj was founded by Raja Ram Mohan Roy\n2. Arya Samaj was founded by Dayananda Saraswati\n3. Theosophical Society was founded in India\n4. Prarthana Samaj was active in Maharashtra\nWhich is/are correct?",
       "options": [
-        "1, 2 and 4 only",
-        "1, 2, 3 and 4",
+        "All are correct",
         "1 and 2 only",
-        "All are correct"
+        "1, 2, 3 and 4",
+        "1, 2 and 4 only"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "1, 2, 4 correct. Statement 3 wrong - Theosophical Society was founded in New York (1875) by Madame Blavatsky and Colonel Olcott. Its HQ moved to Adyar (Madras) in 1882, but it was NOT founded in India."
     },
     {
@@ -220,7 +220,7 @@
         "1 only"
       ],
       "answer": 0,
-      "explanation": "Statement 1 is correct: major Harappan centres such as Mohenjo\u2011Daro, Harappa and Dholavira exhibit a cardinal\u2011oriented grid layout. Statement 2 is incorrect; while the citadel at Mohenjo\u2011Daro lies on the western mound, at Harappa the citadel is on the western side but at Kalibangan it is on the southern side, so a universal western location cannot be asserted. Statement 3 is correct: the standardised burnt brick ratio of 4:2:1 (length:breadth:height) is a hallmark of Harappan construction. Hence only statements 1 and 3 are correct.",
+      "explanation": "Statement 1 is correct: major Harappan centres such as Mohenjo‑Daro, Harappa and Dholavira exhibit a cardinal‑oriented grid layout. Statement 2 is incorrect; while the citadel at Mohenjo‑Daro lies on the western mound, at Harappa the citadel is on the western side but at Kalibangan it is on the southern side, so a universal western location cannot be asserted. Statement 3 is correct: the standardised burnt brick ratio of 4:2:1 (length:breadth:height) is a hallmark of Harappan construction. Hence only statements 1 and 3 are correct.",
       "addedAt": "2026-08-05T12:51:38.674Z"
     },
     {
@@ -234,13 +234,13 @@
         "1 only"
       ],
       "answer": 0,
-      "explanation": "Archaeological evidence from Mohenjo\u2011Daro, Harappa and Dholavira shows that each house had a bathroom and latrine draining into a covered street drain built of baked bricks (statement 1). Inspection shafts (manholes) at regular intervals are documented at Mohenjo\u2011Daro and Dholavira (statement 2). Statement 3 is false: the main drains led to large soak pits or cesspools outside the city wall, not directly into the river, to prevent silting and flooding.",
+      "explanation": "Archaeological evidence from Mohenjo‑Daro, Harappa and Dholavira shows that each house had a bathroom and latrine draining into a covered street drain built of baked bricks (statement 1). Inspection shafts (manholes) at regular intervals are documented at Mohenjo‑Daro and Dholavira (statement 2). Statement 3 is false: the main drains led to large soak pits or cesspools outside the city wall, not directly into the river, to prevent silting and flooding.",
       "addedAt": "2026-08-05T12:51:38.674Z"
     },
     {
       "id": "static-1785934298674-2-gvu1",
       "subject": "History",
-      "question": "Which of the following statements about the trade and economy of the Indus Valley Civilization is/are correct?\n1. Standardised cubical weights made of chert were used, following a binary system in lower denominations and a decimal system in higher denominations.\n2. Lothal\u2019s dockyard is the earliest known tidal dock in the world, facilitating maritime trade with Mesopotamia.\n3. Seals made of steatite bearing the \u2018unicorn\u2019 motif were exclusively used for religious rituals and not for trade.\nSelect the correct answer using the code given below:",
+      "question": "Which of the following statements about the trade and economy of the Indus Valley Civilization is/are correct?\n1. Standardised cubical weights made of chert were used, following a binary system in lower denominations and a decimal system in higher denominations.\n2. Lothal’s dockyard is the earliest known tidal dock in the world, facilitating maritime trade with Mesopotamia.\n3. Seals made of steatite bearing the ‘unicorn’ motif were exclusively used for religious rituals and not for trade.\nSelect the correct answer using the code given below:",
       "options": [
         "1 and 2 only",
         "2 and 3 only",
@@ -248,13 +248,13 @@
         "1 only"
       ],
       "answer": 0,
-      "explanation": "Statement 1 is correct: the Harappan weight system employed chert cubical weights; lower denominations (1, 2, 4, 8, 16, 32, 64) follow a binary progression, while higher denominations shift to decimal multiples (160, 200, 320, 640, 1600, 3200, 6400, 12800). Statement 2 is correct: the rectangular basin at Lothal, dated to c. 2400 BCE, is widely accepted as the world\u2019s earliest tidal dock, enabling sea\u2011borne exchange with the Persian Gulf and Mesopotamia. Statement 3 is incorrect; the ubiquitous \u2018unicorn\u2019 seals are found in domestic, workshop and burial contexts and are interpreted as markers of ownership or trade goods, not solely ritual objects.",
+      "explanation": "Statement 1 is correct: the Harappan weight system employed chert cubical weights; lower denominations (1, 2, 4, 8, 16, 32, 64) follow a binary progression, while higher denominations shift to decimal multiples (160, 200, 320, 640, 1600, 3200, 6400, 12800). Statement 2 is correct: the rectangular basin at Lothal, dated to c. 2400 BCE, is widely accepted as the world’s earliest tidal dock, enabling sea‑borne exchange with the Persian Gulf and Mesopotamia. Statement 3 is incorrect; the ubiquitous ‘unicorn’ seals are found in domestic, workshop and burial contexts and are interpreted as markers of ownership or trade goods, not solely ritual objects.",
       "addedAt": "2026-08-05T12:51:38.674Z"
     },
     {
       "id": "static-1785934298674-3-wgp5",
       "subject": "History",
-      "question": "Match List I (Harappan sites) with List II (Distinctive features) and select the correct answer using the code given below:\n\nList I\nA. Dholavira\nB. Kalibangan\nC. Banawali\nD. Rakhigarhi\n\nList II\n1. Unique water reservoirs and a sophisticated storm\u2011water management system\n2. Evidence of ploughed field with cross\u2011ploughing marks\n3. Largest Harappan site in India by area\n4. Fire altars and a fortified citadel with a separate lower town\n\nCode:",
+      "question": "Match List I (Harappan sites) with List II (Distinctive features) and select the correct answer using the code given below:\n\nList I\nA. Dholavira\nB. Kalibangan\nC. Banawali\nD. Rakhigarhi\n\nList II\n1. Unique water reservoirs and a sophisticated storm‑water management system\n2. Evidence of ploughed field with cross‑ploughing marks\n3. Largest Harappan site in India by area\n4. Fire altars and a fortified citadel with a separate lower town\n\nCode:",
       "options": [
         "A-1, B-2, C-4, D-3",
         "A-1, B-4, C-2, D-3",
@@ -262,13 +262,13 @@
         "A-2, B-1, C-4, D-3"
       ],
       "answer": 0,
-      "explanation": "Dholavira (Gujarat) is renowned for its massive rock\u2011cut reservoirs and intricate storm\u2011water channels (1). Kalibangan (Rajasthan) has yielded the earliest ploughed field with cross\u2011ploughing marks (2) as well as fire altars, but the ploughed field is its most distinctive agricultural evidence. Banawali (Haryana) exhibits a well\u2011defined fortified citadel separated from a lower town (4). Rakhigarhi (Haryana) covers over 350 hectares, making it the largest Harappan site in India (3). Hence the correct matching is A\u20111, B\u20112, C\u20114, D\u20113.",
+      "explanation": "Dholavira (Gujarat) is renowned for its massive rock‑cut reservoirs and intricate storm‑water channels (1). Kalibangan (Rajasthan) has yielded the earliest ploughed field with cross‑ploughing marks (2) as well as fire altars, but the ploughed field is its most distinctive agricultural evidence. Banawali (Haryana) exhibits a well‑defined fortified citadel separated from a lower town (4). Rakhigarhi (Haryana) covers over 350 hectares, making it the largest Harappan site in India (3). Hence the correct matching is A‑1, B‑2, C‑4, D‑3.",
       "addedAt": "2026-08-05T12:51:38.674Z"
     },
     {
       "id": "static-1785934298674-5-89ic",
       "subject": "History",
-      "question": "Consider the following statements about the standardized weight system of the Indus Valley Civilization:\n1. The basic unit of weight was approximately 13.7 grams, known as the \u2018Indus ounce\u2019.\n2. Weights were made exclusively of chert and followed a binary progression (1, 2, 4, 8, 16\u2026) up to 12,800 units.\n3. The weight system shows remarkable uniformity across sites separated by over 1,000 km.\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following statements about the standardized weight system of the Indus Valley Civilization:\n1. The basic unit of weight was approximately 13.7 grams, known as the ‘Indus ounce’.\n2. Weights were made exclusively of chert and followed a binary progression (1, 2, 4, 8, 16…) up to 12,800 units.\n3. The weight system shows remarkable uniformity across sites separated by over 1,000 km.\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 3 only",
         "2 and 3 only",
@@ -276,13 +276,13 @@
         "3 only"
       ],
       "answer": 0,
-      "explanation": "Statement 1 is correct; the fundamental weight unit averages 13.63\u201313.73 g, often termed the \u2018Indus ounce\u2019. Statement 2 is partially false: while chert is the predominant material, weights of agate, jasper and steatite also occur, and the progression is binary only up to 64 units, thereafter decimal multiples are used (160, 200, 320\u2026 up to 12,800). Statement 3 is correct; identical weight sets have been recovered from sites as far apart as Shortugai (Afghanistan) and Daimabad (Maharashtra), demonstrating pan\u2011Harappan standardisation over >1,000 km.",
+      "explanation": "Statement 1 is correct; the fundamental weight unit averages 13.63–13.73 g, often termed the ‘Indus ounce’. Statement 2 is partially false: while chert is the predominant material, weights of agate, jasper and steatite also occur, and the progression is binary only up to 64 units, thereafter decimal multiples are used (160, 200, 320… up to 12,800). Statement 3 is correct; identical weight sets have been recovered from sites as far apart as Shortugai (Afghanistan) and Daimabad (Maharashtra), demonstrating pan‑Harappan standardisation over >1,000 km.",
       "addedAt": "2026-08-05T12:51:38.674Z"
     },
     {
       "id": "static-1785934298674-6-bd16",
       "subject": "History",
-      "question": "With reference to the maritime trade of the Harappans, consider the following statements:\n1. The discovery of a Persian Gulf seal at Lothal confirms direct sea trade with Mesopotamia.\n2. Harappan ships depicted on seals show a single mast with a square sail.\n3. Mesopotamian texts refer to a land called \u2018Meluhha\u2019, identified with the Indus region, and mention import of carnelian, lapis lazuli and timber.\nWhich of the statements given above is/are correct?",
+      "question": "With reference to the maritime trade of the Harappans, consider the following statements:\n1. The discovery of a Persian Gulf seal at Lothal confirms direct sea trade with Mesopotamia.\n2. Harappan ships depicted on seals show a single mast with a square sail.\n3. Mesopotamian texts refer to a land called ‘Meluhha’, identified with the Indus region, and mention import of carnelian, lapis lazuli and timber.\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 2 only",
         "2 and 3 only",
@@ -290,7 +290,7 @@
         "1, 2 and 3"
       ],
       "answer": 2,
-      "explanation": "Statement 1 is correct: a circular seal of the Persian Gulf (Bahrain) type was excavated at Lothal, providing tangible evidence of direct maritime contact. Statement 2 is incorrect; the few boat depictions on Harappan seals (e.g., the \u2018boat\u2019 seal from Mohenjo\u2011Daro) show a high\u2011prowed vessel with a cabin but no clear mast or square sail \u2013 sail technology remains unproven for the Harappans. Statement 3 is correct; Sumerian and Akkadian inscriptions (c. 2300\u20131800 BCE) mention Meluhha as a source of carnelian beads, lapis lazuli (trans\u2011shipped from Afghanistan) and timber (likely teak or sissoo). Hence statements 1 and 3 are correct.",
+      "explanation": "Statement 1 is correct: a circular seal of the Persian Gulf (Bahrain) type was excavated at Lothal, providing tangible evidence of direct maritime contact. Statement 2 is incorrect; the few boat depictions on Harappan seals (e.g., the ‘boat’ seal from Mohenjo‑Daro) show a high‑prowed vessel with a cabin but no clear mast or square sail – sail technology remains unproven for the Harappans. Statement 3 is correct; Sumerian and Akkadian inscriptions (c. 2300–1800 BCE) mention Meluhha as a source of carnelian beads, lapis lazuli (trans‑shipped from Afghanistan) and timber (likely teak or sissoo). Hence statements 1 and 3 are correct.",
       "addedAt": "2026-08-05T12:51:38.674Z"
     }
   ]
