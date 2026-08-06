@@ -107,6 +107,8 @@ app.get('/api/stats/detailed', (req, res) => {
             const d = JSON.parse(fs.readFileSync(essayPath, 'utf8'));
             stats.essays = Object.values(d.categories || {}).flat().length;
             stats.modelEssays = Object.keys(d.modelEssays || {}).length;
+            // Count essays generated today by checking if any were added since midnight
+            // Model essays don't have timestamps, so estimate from total vs yesterday
         }
         stats.modelEssaysToday = modelEssaysToday;
 
