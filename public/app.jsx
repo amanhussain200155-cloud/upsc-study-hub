@@ -628,7 +628,7 @@ function StatsBadge() {
     const { data } = useData('/api/stats/detailed');
     const [showDetails, setShowDetails] = useState(false);
     if (!data) return null;
-    const todayTotal = (data.prelims?.addedToday || 0) + (data.mainsToday || 0) + (data.interviewToday || 0) + (data.flashcardsToday || 0) + (data.modelEssaysToday || 0);
+    const todayTotal = (data.prelims?.addedToday || 0) + (data.mainsToday || 0) + (data.interviewToday || 0);
     return (
         <div style={{marginTop:'12px'}}>
             <div style={{color:'#64748b',fontSize:'0.8rem',cursor:'pointer',textAlign:'center'}} onClick={() => setShowDetails(!showDetails)}>
@@ -871,6 +871,7 @@ function App() {
                 {statusData && <p style={{color:'#64748b',fontSize:'0.75rem',marginTop:'6px'}}>
                     {statusData.totalQuestions} questions • {statusData.currentAffairs?.articles || 0} current affairs • {statusData.llmEnabled ? '🤖 AI active' : '📋 Template MCQs'}
                 </p>}
+                <p style={{color:'#475569',fontSize:'0.7rem',marginTop:'4px'}}>Sources: Drishti IAS Saraansh • The Hindu • Indian Express • PIB • Down to Earth • LiveMint</p>
                 <StatsBadge />
             </div>
 
