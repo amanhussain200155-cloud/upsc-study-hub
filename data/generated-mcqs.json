@@ -146,7 +146,7 @@
       "generatedAt": "2026-08-05T13:14:29.464Z"
     },
     {
-      "subject": "Economy",
+      "subject": "Economics",
       "question": "With reference to the recent trade tensions between China and the United States, consider the following statements:\n1. China's suspension of factory follow-up inspections by its certification bodies for US goods constitutes a non-tariff barrier (NTB) to trade.\n2. Launching 'national security investigations' into US entities is a measure explicitly permitted without conditions under Article XXI of the General Agreement on Tariffs and Trade (GATT) 1994.\n3. Blacklisting US compliance testing companies by China is a retaliatory measure that violates the Most-Favoured-Nation (MFN) principle under WTO rules.\nWhich of the statements given above is/are correct?",
       "options": [
         "1 only",
@@ -245,7 +245,7 @@
       "articleSource": "The Hindu (National)"
     },
     {
-      "subject": "Economy",
+      "subject": "Economics",
       "question": "Consider the following statements regarding the Agriculture Budget presented by Tamil Nadu:\n1. Tamil Nadu presents a separate Agriculture Budget, a practice initiated in 2021-22.\n2. The Agriculture Budget for 2024-25 includes contingency plans for 12 districts to cope with Super El Niño impacts, particularly during the Kuruvai season.\n3. The Kuruvai season in Tamil Nadu corresponds to the Kharif season and is primarily dependent on the Southwest Monsoon.\n4. The Cauvery water dispute between Tamil Nadu and Karnataka is adjudicated by the Cauvery Water Management Authority (CWMA) constituted under the Inter-State River Water Disputes Act, 1956.\nWhich of the statements given above are correct?",
       "options": [
         "2, 3 and 4 only",
@@ -283,7 +283,7 @@
       "articleSource": "The Hindu (National)"
     },
     {
-      "subject": "Economy",
+      "subject": "Economics",
       "question": "Consider the following statements regarding El Niño and its impact on Indian agriculture:\n1. El Niño is characterized by unusual warming of surface waters in the central and eastern tropical Pacific Ocean.\n2. A 'Super El Niño' event is declared when the Oceanic Niño Index (ONI) exceeds +2.0°C for at least three consecutive overlapping seasons.\n3. El Niño generally leads to deficient Southwest Monsoon rainfall over India, adversely affecting Kharif crops.\n4. The India Meteorological Department (IMD) issues El Niño forecasts in collaboration with the World Meteorological Organization (WMO).\nWhich of the statements given above are correct?",
       "options": [
         "1 and 3 only",
@@ -302,7 +302,7 @@
       "articleSource": "The Hindu (National)"
     },
     {
-      "subject": "Indian Economy / Federalism",
+      "subject": "Economics",
       "question": "Consider the following statements regarding inter-state water disputes in India:\n1. The Cauvery Water Disputes Tribunal was constituted under the Inter-State River Water Disputes Act, 1956.\n2. The decision of a Water Disputes Tribunal becomes binding only after it is published in the Official Gazette by the Central Government.\n3. The Supreme Court has no jurisdiction to hear appeals against the decision of a Water Disputes Tribunal.\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 2 only",
@@ -340,7 +340,7 @@
       "articleSource": "The Hindu (National)"
     },
     {
-      "subject": "Economy / Agriculture",
+      "subject": "Economics",
       "question": "Consider the following statements regarding the Tamil Nadu Agriculture Budget 2024-25 and measures for human-wildlife conflict mitigation:\n1. The Tamil Nadu government has announced the distribution of eco-friendly liquid repellent to farmers to tackle crop damage by wild boars.\n2. Solar-powered electric fencing systems will be installed at subsidised rates to protect crops from elephants, gaurs, and deer in addition to wild boars.\n3. The Agriculture Budget was presented by the Minister for Agriculture and Farmers' Welfare in the Tamil Nadu Legislative Assembly.\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 2 only",
@@ -359,7 +359,7 @@
       "articleSource": "The Hindu (National)"
     },
     {
-      "subject": "Geography / Environment",
+      "subject": "Environment & Ecology",
       "question": "With reference to the drought and drinking water crisis in Yadgir district, Karnataka, consider the following statements:\n1. Yadgir district falls under the North Interior Karnataka agro-climatic zone, which is chronically drought-prone.\n2. The Karnataka government has directed Revenue and Agriculture Department officials to submit a comprehensive report on crop damage for initiating relief measures under the State Disaster Response Fund (SDRF).\n3. The National Disaster Response Fund (NDRF) is the primary funding mechanism for state-level drought relief operations.\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 2 only",
@@ -466,6 +466,6 @@
     }
   ],
   "totalQuestions": 27,
-  "lastGenerated": "2026-08-06T12:35:48.273Z",
+  "lastGenerated": "2026-08-06T15:52:33.708Z",
   "llmEnabled": ""
 }
