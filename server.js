@@ -57,14 +57,42 @@ app.get('/api/stats/detailed', async (req, res) => {
                 todayBySubject[s] = (todayBySubject[s] || 0) + 1;
             }
         }
-        stats.prelims = { total: allQuestions.length, bySubject: subjectCounts, addedToday, todayBySubject, staticCount: allQuestions.length };
+        // Add unique DB questions to prelims count (same as /api/questions/prelims)
+        try {
+            const mongoose = require('mongoose');
+            if (mongoose.connection.readyState === 1) {
+                const { getGeneratedQuestions } = require('./src/db-storage');
+                const dbQuestions = await getGeneratedQuestions();
+                const existingIds = new Set(allQuestions.map(q => q.id));
+                const uniqueDBQs = dbQuestions.filter(q => !existingIds.has(q.qid));
+                for (const q of uniqueDBQs) {
+                    const s = q.source?.includes('Current Affairs') ? 'Current Affairs' : q.subject;
+                    subjectCounts[s] = (subjectCounts[s] || 0) + 1;
+                }
+                stats.prelims = { total: allQuestions.length + uniqueDBQs.length, bySubject: subjectCounts, addedToday, todayBySubject, staticCount: allQuestions.length };
+            } else {
+                stats.prelims = { total: allQuestions.length, bySubject: subjectCounts, addedToday, todayBySubject, staticCount: allQuestions.length };
+            }
+        } catch(e) {
+            stats.prelims = { total: allQuestions.length, bySubject: subjectCounts, addedToday, todayBySubject, staticCount: allQuestions.length };
+        }
 
         // Mains
         const mainsPath = path.join(__dirname, 'data', 'mains.json');
         let mainsToday = 0;
         if (fs.existsSync(mainsPath)) {
             const d = JSON.parse(fs.readFileSync(mainsPath, 'utf8'));
-            stats.mains = d.questions?.length || 0;
+            let mainsTotal = d.questions?.length || 0;
+            try {
+                const mongoose = require('mongoose');
+                if (mongoose.connection.readyState === 1) {
+                    const { getGeneratedMains } = require('./src/db-storage');
+                    const dbMains = await getGeneratedMains();
+                    const existingQs = new Set((d.questions||[]).map(q => q.question?.substring(0,50)));
+                    mainsTotal += dbMains.filter(q => !existingQs.has(q.question?.substring(0,50))).length;
+                }
+            } catch(e) {}
+            stats.mains = mainsTotal;
             mainsToday = (d.questions || []).filter(q => q.generatedAt && q.generatedAt.startsWith(today)).length;
         }
         stats.mainsToday = mainsToday;
@@ -74,31 +102,41 @@ app.get('/api/stats/detailed', async (req, res) => {
         let interviewToday = 0;
         if (fs.existsSync(intPath)) {
             const d = JSON.parse(fs.readFileSync(intPath, 'utf8'));
-            stats.interview = d.questions?.length || 0;
+            let intTotal = d.questions?.length || 0;
+            try {
+                const mongoose = require('mongoose');
+                if (mongoose.connection.readyState === 1) {
+                    const { getGeneratedInterview } = require('./src/db-storage');
+                    const dbInt = await getGeneratedInterview();
+                    const existingQs = new Set((d.questions||[]).map(q => q.question?.substring(0,50)));
+                    intTotal += dbInt.filter(q => !existingQs.has(q.question?.substring(0,50))).length;
+                }
+            } catch(e) {}
+            stats.interview = intTotal;
             interviewToday = (d.questions || []).filter(q => q.generatedAt && q.generatedAt.startsWith(today)).length;
         }
         stats.interviewToday = interviewToday;
 
-        // Flashcards
+        // Flashcards - count same way as /api/flashcards endpoint (file + unique DB)
         const fcPath = path.join(__dirname, 'data', 'flashcards.json');
         let flashcardsToday = 0;
+        let flashcardTotal = 0;
         if (fs.existsSync(fcPath)) {
             const d = JSON.parse(fs.readFileSync(fcPath, 'utf8'));
-            stats.flashcards = (d.prelims?.length || 0) + (d.mains?.length || 0) + (d.interview?.length || 0);
-            flashcardsToday = (d.prelims || []).filter(c => {
-                if (!c.id || !c.id.startsWith('fc-')) return false;
-                const parts = c.id.split('-');
-                if (parts.length >= 2) {
-                    const ts = parseInt(parts[1]);
-                    if (ts > 0) {
-                        const cardDate = new Date(ts).toISOString().split('T')[0];
-                        return cardDate === today;
-                    }
+            flashcardTotal = (d.prelims?.length || 0) + (d.mains?.length || 0) + (d.interview?.length || 0);
+            // Count unique DB flashcards not in file
+            try {
+                const mongoose = require('mongoose');
+                if (mongoose.connection.readyState === 1) {
+                    const { getGeneratedFlashcards } = require('./src/db-storage');
+                    const dbCards = await getGeneratedFlashcards();
+                    const existingFronts = new Set((d.prelims||[]).map(c => c.front?.substring(0,40)));
+                    const uniqueDB = dbCards.filter(c => !existingFronts.has(c.front?.substring(0,40)));
+                    flashcardTotal += uniqueDB.length;
                 }
-                return false;
-            }).length;
+            } catch(e) {}
         }
-        stats.flashcardsToday = flashcardsToday;
+        stats.flashcards = flashcardTotal;
 
         // Essays
         const essayPath = path.join(__dirname, 'data', 'essays.json');
