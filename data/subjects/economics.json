@@ -108,15 +108,15 @@
     {
       "id": "eco9",
       "subject": "Economics",
-      "question": "Consider the following about GDP measurement:\n1. India uses base year 2011-12 for GDP calculation\n2. GVA is GDP from supply side\n3. GDP at market price = GDP at factor cost + net indirect taxes\n4. India shifted from factor cost to market price method in 2015\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following about GDP measurement:\n1. India currently uses base year 2011-12 for GDP calculation\n2. GVA is GDP from supply side\n3. GDP at market price = GDP at factor cost + net indirect taxes\n4. India shifted from factor cost to market price method in 2015\nWhich of the statements given above is/are correct?",
       "options": [
-        "1 and 4 only",
+        "2, 3 and 4 only",
         "1, 2, 3 and 4",
         "1, 2 and 3 only",
-        "2 and 3 only"
+        "1 and 4 only"
       ],
-      "answer": 1,
-      "explanation": "All correct. New GDP series (2015): base year 2011-12, uses GVA (Gross Value Added) at basic prices instead of factor cost, and GDP at market prices. GVA = GDP from production/supply side. GDP at MP = GVA at basic prices + product taxes - product subsidies."
+      "answer": 0,
+      "explanation": "2, 3, 4 correct. Statement 1 WRONG — India has shifted to base year 2022-23 for GDP calculation (new series announced by NSO). The previous base year was 2011-12 (adopted in 2015). GVA (Gross Value Added) measures GDP from the production/supply side. GDP at market price = GDP at factor cost + net indirect taxes (subsidies subtracted, taxes added). The 2015 shift introduced: market price method, GVA at basic prices, use of MCA-21 corporate data. The 2022-23 base year better captures digital economy, gig workers, and new economic activities. Source: Drishti IAS Saraansh March 2026."
     },
     {
       "id": "eco10",
