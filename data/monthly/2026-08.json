@@ -983,8 +983,56 @@
       ],
       "relevanceScore": 3,
       "classifiedBy": "keyword"
+    },
+    {
+      "id": "ca-1786082794421-0n8ixg",
+      "title": "Parliament Monsoon Session Day 15 LIVE updates: Lok Sabha to take up MSME Development (Amendment) Bill",
+      "content": "Lok Sabha adjourned till 12 p.m. as Opposition protests continue over NEET paper leak, Ram temple donation theft issue",
+      "source": "The Hindu (National)",
+      "tier": 1,
+      "date": "2026-08-07T06:01:45.000Z",
+      "link": "https://www.thehindu.com/news/national/parliament-monsoon-session-day-15-lok-sabha-rajya-sabha-live-updates-august-7-2026/article71316149.ece",
+      "subject": "Polity & Governance",
+      "secondarySubject": null,
+      "tags": [
+        "Polity & Governance"
+      ],
+      "relevanceScore": 3,
+      "classifiedBy": "keyword"
+    },
+    {
+      "id": "ca-1786082794580-fjh9e6",
+      "title": "Parliament Monsoon Session Day 14: Lok Sabha adjourned within minutes amid Opposition uproar",
+      "content": "",
+      "source": "Indian Express (India)",
+      "tier": 1,
+      "date": "2026-08-07T04:47:40.000Z",
+      "link": "https://indianexpress.com/article/india/parliament-monsoon-session-opposition-protest-msme-bill-fcra-bill-kashmiri-pandits-bill-shashi-tharoor-10821803/",
+      "subject": "Polity & Governance",
+      "secondarySubject": null,
+      "tags": [
+        "Polity & Governance"
+      ],
+      "relevanceScore": 2,
+      "classifiedBy": "keyword"
+    },
+    {
+      "id": "ca-1786083435562-t11ujg",
+      "title": "Parliament Monsoon Session Day 15 LIVE updates: The Opposition can't decide when a Minister attends the House, says  Kiren Rijiju in RS",
+      "content": "Lok Sabha adjourned till 12 p.m. as Opposition protests continue over NEET paper leak, Ram temple donation theft issue;  Lok Sabha to take up MSME Development (Amendment) Bill",
+      "source": "The Hindu (National)",
+      "tier": 1,
+      "date": "2026-08-07T06:11:17.000Z",
+      "link": "https://www.thehindu.com/news/national/parliament-monsoon-session-day-15-lok-sabha-rajya-sabha-live-updates-august-7-2026/article71316149.ece",
+      "subject": "Polity & Governance",
+      "secondarySubject": null,
+      "tags": [
+        "Polity & Governance"
+      ],
+      "relevanceScore": 3,
+      "classifiedBy": "keyword"
     }
   ],
-  "lastUpdated": "2026-08-06T20:00:00.890Z",
-  "totalArticles": 65
+  "lastUpdated": "2026-08-07T06:17:16.200Z",
+  "totalArticles": 68
 }
