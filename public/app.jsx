@@ -664,7 +664,15 @@ function StatsBadge() {
                         </div>
                     )}
                     <div style={{marginTop:'10px',borderTop:'1px solid #334155',paddingTop:'8px',fontSize:'0.75rem',color:'#64748b'}}>
-                        <span style={{color:'#94a3b8'}}>Sources:</span> Drishti IAS Saraansh • The Hindu • Indian Express • PIB • Down to Earth • LiveMint
+                        <div style={{color:'#94a3b8',fontWeight:'bold',marginBottom:'4px'}}>⏰ Auto-Generation Schedule (AI-powered, free):</div>
+                        <div>• Every hour: ~5 Prelims MCQs (static subjects) + ~5 Flashcards</div>
+                        <div>• Every hour: 1 Model Essay (~1200 words)</div>
+                        <div>• Every 4 hours: Current Affairs articles (AI-classified)</div>
+                        <div>• Every 6 hours: ~3-5 Current Affairs MCQs</div>
+                        <div>• Daily: ~3 Mains questions + ~3 Interview questions</div>
+                        <div>• Weekly (Sunday): New essay topics added</div>
+                        <div style={{marginTop:'6px',color:'#22c55e'}}>🔒 All content stored permanently — nothing is ever deleted</div>
+                        <div style={{marginTop:'4px',color:'#94a3b8'}}>Sources: Drishti IAS Saraansh • The Hindu • Indian Express • PIB • Down to Earth • LiveMint</div>
                     </div>
                 </div>
             )}
