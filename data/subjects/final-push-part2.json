@@ -4,9 +4,9 @@
     {
       "id": "fp18",
       "subject": "Internal Security",
-      "question": "Consider the following about India's Defence Cyber Agency (DCA):\n1. It is a tri-service agency under the Chief of Defence Staff\n2. It handles both offensive and defensive cyber operations for armed forces\n3. It was established in 2019\n4. It replaces CERT-In for all cyber security in India",
+      "question": "Consider the following about India's Defence Cyber Agency (DCA):\n1. It is a tri-service agency under the Chief of Defence Staff\n2. It handles both offensive and defensive cyber operations for armed forces\n3. It was established in 2019\n4. It replaces CERT-In for all cyber security in India\nWhich of the statements given above is/are correct?",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1 and 2 only",
         "1, 2, 3 and 4",
         "1, 2 and 3 only"
@@ -21,7 +21,7 @@
       "options": [
         "1, 2, 3 and 4",
         "1, 2 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1 and 2 only"
       ],
       "answer": 1,
@@ -30,9 +30,9 @@
     {
       "id": "fp20",
       "subject": "Internal Security",
-      "question": "Consider the following about India's space-based surveillance:\n1. India uses RISAT (Radar Imaging Satellite) for all-weather surveillance\n2. EMISAT is an electronic intelligence satellite\n3. These satellites support military reconnaissance along borders\n4. India's defence satellites are entirely built by private companies",
+      "question": "Consider the following about India's space-based surveillance:\n1. India uses RISAT (Radar Imaging Satellite) for all-weather surveillance\n2. EMISAT is an electronic intelligence satellite\n3. These satellites support military reconnaissance along borders\n4. India's defence satellites are entirely built by private companies\nWhich of the statements given above is/are correct?",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1 and 3 only",
         "1, 2, 3 and 4",
         "1, 2 and 3 only"
@@ -48,22 +48,22 @@
         "1, 2 and 3 only",
         "1, 2, 3 and 4",
         "1 and 4 only",
-        "All are correct"
+        "2 and 3 only"
       ],
-      "answer": 3,
+      "answer": 1,
       "explanation": "All correct. AFSPA (1958 for NE, 1990 for J&K): grants special powers in 'disturbed areas' declared by Centre/Governor. Powers: shoot to kill on suspicion (Section 4(a)), arrest without warrant, search without warrant, destroy arms dumps. Section 6: no prosecution without Central sanction. Jeevan Reddy Committee (2005): recommended repeal, replace with Unlawful Activities Act provisions. SC (2016, Justice Madan Lokur): every death must be investigated, army can't claim immunity for fake encounters, FIR must be registered."
     },
     {
       "id": "fp22",
       "subject": "Internal Security",
-      "question": "Consider the following about terror financing channels:\n1. Hawala, cryptocurrency, and trade-based money laundering are used\n2. India's Financial Intelligence Unit (FIU-IND) monitors suspicious transactions\n3. Cash Transaction Reports (CTR) above ₹10 lakh must be filed with FIU\n4. FATF evaluates countries including India on anti-money laundering compliance",
+      "question": "Consider the following about terror financing channels:\n1. Hawala, cryptocurrency, and trade-based money laundering are used\n2. India's Financial Intelligence Unit (FIU-IND) monitors suspicious transactions\n3. Cash Transaction Reports (CTR) above ₹10 lakh must be filed with FIU\n4. FATF evaluates countries including India on anti-money laundering compliance\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 4 only",
         "1, 2, 3 and 4",
-        "All are correct",
+        "2 and 3 only",
         "1, 2 and 3 only"
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "All correct. Terror financing methods: hawala (informal value transfer), crypto (pseudonymous), trade-based laundering (over/under invoicing), charitable organizations (front organizations), extortion (NE insurgents). FIU-IND (under Finance Ministry): receives CTRs (cash >₹10 lakh) and Suspicious Transaction Reports (STRs) from banks/FIs. FATF Mutual Evaluation (India 2024): India found largely compliant, placed in 'Regular Follow-up' category (positive). Enforcement: ED (PMLA), NIA (terror financing), IT Dept (Benami transactions)."
     },
     {
@@ -72,24 +72,24 @@
       "question": "With reference to India's Multi-Agency Centre (MAC):\n1. It is an intelligence-sharing mechanism hosted by IB\n2. It operates 24/7 sharing real-time threat intelligence\n3. It was revamped after the 26/11 attacks\n4. State-level equivalents are called SMACs (Subsidiary MACs)",
       "options": [
         "1, 2 and 3 only",
-        "All are correct",
+        "2 and 3 only",
         "1 and 4 only",
         "1, 2, 3 and 4"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanation": "All correct. MAC (under IB, post-Kargil 1999, revamped post-26/11 2008): real-time intelligence sharing platform connecting: IB, RAW, military intelligence, NIA, NSG, CRPF, state police special branches, NTRO, financial intelligence. Operates 24/7 from IB HQ. SMACs in every state capital: mirror MAC at state level for local intelligence coordination. Pre-26/11 failure: agencies had fragments of intelligence but didn't share — terrorists exploited this gap. MAC ensures: no intelligence silo, immediate dissemination of threat inputs across agencies."
     },
     {
       "id": "fp24",
       "subject": "Government Schemes",
-      "question": "Consider the following about the National Rural Livelihood Mission (DAY-NRLM):\n1. It organizes rural poor women into Self-Help Groups (SHGs)\n2. India has 90+ lakh SHGs with 10+ crore women members\n3. SHG-Bank Linkage provides micro-credit without collateral\n4. It is the world's largest community institution-based poverty alleviation programme",
+      "question": "Consider the following about the National Rural Livelihood Mission (DAY-NRLM):\n1. It organizes rural poor women into Self-Help Groups (SHGs)\n2. India has 90+ lakh SHGs with 10+ crore women members\n3. SHG-Bank Linkage provides micro-credit without collateral\n4. It is the world's largest community institution-based poverty alleviation programme\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2, 3 and 4",
         "1 and 4 only",
-        "All are correct",
+        "2 and 3 only",
         "1, 2 and 3 only"
       ],
-      "answer": 2,
+      "answer": 0,
       "explanation": "All correct. DAY-NRLM (restructured from SGSY in 2011): universal social mobilization of rural poor into SHGs. Scale: 90+ lakh SHGs, 10+ crore women members, ₹7+ lakh crore cumulative bank credit. SHG-Bank Linkage (NABARD pioneered, 1992): groups save collectively, get bank loans at SHG level (no individual collateral needed). Lakhpati Didi target builds on this base. World's largest: no other country has community-institution-based poverty programme at this scale. Focus: financial inclusion + livelihood diversification + social empowerment."
     },
     {
@@ -99,19 +99,19 @@
       "options": [
         "1 and 3 only",
         "1, 2 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4"
       ],
-      "answer": 2,
+      "answer": 3,
       "explanation": "All correct. PM-SVANidhi (June 2020, initially for COVID recovery): Working capital loan: first tranche ₹10,000, second ₹20,000, third ₹50,000 (progressive). No collateral/guarantor. 7% interest subsidy on regular repayment. Monthly ₹100 cashback for digital transactions (UPI/QR adoption). Target: 50 lakh+ vendors. Extended beyond COVID. Letter of Recommendation from ULB/TVC serves as identity. Transformed: previously unbanked vendors now in formal credit system. Also provides: skill development, insurance cover link."
     },
     {
       "id": "fp26",
       "subject": "Government Schemes",
-      "question": "Consider the following about National Infrastructure Pipeline (NIP) and PM Gati Shakti:\n1. NIP identified 7,400+ projects worth ₹111 lakh crore (2020-25)\n2. PM Gati Shakti is the PLANNING platform; NIP is the PROJECT pipeline\n3. Gati Shakti ensures all ministries' infrastructure plans are geospatially coordinated\n4. Both have been fully completed with all projects delivered on time",
+      "question": "Consider the following about National Infrastructure Pipeline (NIP) and PM Gati Shakti:\n1. NIP identified 7,400+ projects worth ₹111 lakh crore (2020-25)\n2. PM Gati Shakti is the PLANNING platform; NIP is the PROJECT pipeline\n3. Gati Shakti ensures all ministries' infrastructure plans are geospatially coordinated\n4. Both have been fully completed with all projects delivered on time\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4",
         "1, 2 and 3 only"
       ],
@@ -121,10 +121,10 @@
     {
       "id": "fp27",
       "subject": "Interdisciplinary",
-      "question": "Consider the following about India's data economy:\n1. India generates the world's 3rd largest volume of data\n2. Data centres in India are growing rapidly (expected 1 GW capacity by 2025)\n3. Data localization debates centre on: sovereignty vs free flow of data\n4. India allows completely unrestricted cross-border data transfers without any conditions",
+      "question": "Consider the following about India's data economy:\n1. India generates the world's 3rd largest volume of data\n2. Data centres in India are growing rapidly (expected 1 GW capacity by 2025)\n3. Data localization debates centre on: sovereignty vs free flow of data\n4. India allows completely unrestricted cross-border data transfers without any conditions\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4",
         "1 and 3 only"
       ],
@@ -136,25 +136,25 @@
       "subject": "Interdisciplinary",
       "question": "With reference to India's urban flooding problem:\n1. Encroachment on natural drains and wetlands worsens urban flooding\n2. Impervious surfaces (concrete) prevent rainwater absorption into ground\n3. Indian cities have outdated drainage designed for much lower rainfall intensity\n4. Climate change is increasing the frequency of extreme rainfall events over Indian cities",
       "options": [
-        "All are correct",
+        "2 and 3 only",
         "1 and 4 only",
         "1, 2 and 3 only",
         "1, 2, 3 and 4"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "All correct. Urban flooding (Mumbai 2005/2017/2024, Chennai 2015, Hyderabad 2020, Bengaluru 2022): multi-causal. Drains encroached (slums, construction on nullahs). Concrete/asphalt: 80%+ runoff vs 20% in natural areas. Drainage: designed for 25mm/hour rainfall — cities now get 100-200mm in hours. Climate change: IPCC confirms more intense precipitation events over South Asian cities. Solutions: sponge city concept (permeable surfaces), wetland restoration, stormwater harvesting, real-time flood forecasting (IFLOWS-Mumbai), strict building regulations enforcement."
     },
     {
       "id": "fp29",
       "subject": "Interdisciplinary",
-      "question": "Consider the following about India's healthcare tourism:\n1. India attracts approximately 5-7 lakh medical tourists annually\n2. Treatment costs in India are 60-90% lower than Western countries\n3. India is among top 5 medical tourism destinations globally\n4. Medical visa category was introduced specifically for health tourists",
+      "question": "Consider the following about India's healthcare tourism:\n1. India attracts approximately 5-7 lakh medical tourists annually\n2. Treatment costs in India are 60-90% lower than Western countries\n3. India is among top 5 medical tourism destinations globally\n4. Medical visa category was introduced specifically for health tourists\nWhich of the statements given above is/are correct?",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only",
         "2 and 3 only",
         "1, 2, 3 and 4"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "All correct. Medical tourism: India receives 5-7 lakh+ medical tourists (pre-COVID peak, recovering). Cost advantage: cardiac surgery ($5,000 vs $100,000 in US), hip replacement ($7,000 vs $40,000). Top hospitals: Apollo, Medanta, Fortis, AIIMS (for specific procedures). India: among top 5 (alongside Thailand, Singapore, Turkey, Mexico). Medical visa (M visa): introduced for foreigners seeking medical treatment in India — separate from tourist visa, allows longer stays and multiple entries. Heal in India initiative promotes this. Foreign exchange earnings: $5-7 billion/year from health tourism."
     },
     {
@@ -162,7 +162,7 @@
       "subject": "Interdisciplinary",
       "question": "With reference to India's food processing sector:\n1. India is the world's 2nd largest food producer but wastes ~$14 billion of food annually\n2. PM Kisan Sampada Yojana promotes food processing infrastructure\n3. Mega Food Parks provide common infrastructure for food processing units\n4. India's food processing sector is 100% developed with zero post-harvest losses",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1 and 2 only",
         "1, 2, 3 and 4",
         "1, 2 and 3 only"
@@ -173,9 +173,9 @@
     {
       "id": "fp31",
       "subject": "Social Issues",
-      "question": "Consider the following about India's substance abuse problem:\n1. National Survey on Extent and Pattern of Substance Use (2019) was India's first comprehensive study\n2. Approximately 3.1 crore Indians use cannabis and 2.3 crore use opioids\n3. De-addiction centres operate under the Ministry of Social Justice and Empowerment\n4. All narcotic substances including alcohol are regulated under a single legislation",
+      "question": "Consider the following about India's substance abuse problem:\n1. National Survey on Extent and Pattern of Substance Use (2019) was India's first comprehensive study\n2. Approximately 3.1 crore Indians use cannabis and 2.3 crore use opioids\n3. De-addiction centres operate under the Ministry of Social Justice and Empowerment\n4. All narcotic substances including alcohol are regulated under a single legislation\nWhich of the statements given above is/are correct?",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4",
         "1, 2 and 3 only",
         "1 and 2 only"
@@ -190,18 +190,18 @@
       "options": [
         "1 and 4 only",
         "1, 2 and 3 only",
-        "All are correct",
+        "2 and 3 only",
         "1, 2, 3 and 4"
       ],
-      "answer": 2,
+      "answer": 3,
       "explanation": "All correct. Amartya Sen (1990 essay): estimated 100 million 'missing women' globally due to gender discrimination. India's sex ratio: improving but still adverse (943/1000, Census 2011; SRS 2021 shows 1,020 females/1000 males at birth → Sex Ratio at Birth improving). PCPNDT Act (1994, amended 2003): prohibits sex determination/disclosure, regulates ultrasound clinics. Despite law: sex-selective abortion continues in pockets (Haryana, Punjab, parts of UP/Gujarat). Beti Bachao Beti Padhao targeting districts with worst Child Sex Ratio."
     },
     {
       "id": "fp33",
       "subject": "Social Issues",
-      "question": "Consider the following about India's waste management crisis:\n1. India generates 62 million tonnes of solid waste annually\n2. Only 20-25% of waste is processed/treated; rest goes to landfills\n3. Solid Waste Management Rules 2016 mandate source segregation\n4. All Indian cities have achieved 100% source segregation of waste",
+      "question": "Consider the following about India's waste management crisis:\n1. India generates 62 million tonnes of solid waste annually\n2. Only 20-25% of waste is processed/treated; rest goes to landfills\n3. Solid Waste Management Rules 2016 mandate source segregation\n4. All Indian cities have achieved 100% source segregation of waste\nWhich of the statements given above is/are correct?",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4",
         "1, 2 and 3 only",
         "1 and 3 only"

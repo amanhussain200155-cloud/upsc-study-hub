@@ -74,7 +74,7 @@
         "1, 2, 3 and 4",
         "1 and 2 only",
         "1, 2 and 3 only",
-        "All are correct"
+        "1 and 4 only"
       ],
       "answer": 2,
       "explanation": "1, 2, 3 correct. Statement 4 wrong - Alauddin's primary motivation was NOT welfare but maintaining a large army cheaply. By controlling prices, he could pay soldiers low wages while they could still afford goods. It was a military-economic strategy, not a welfare measure."
@@ -99,7 +99,7 @@
       "options": [
         "1, 2 and 3 only",
         "1, 2, 3 and 4",
-        "All are correct",
+        "1 and 4 only",
         "1 and 3 only"
       ],
       "answer": 0,
@@ -113,9 +113,9 @@
         "1 and 4 only",
         "1, 2, 3 and 4",
         "1, 2 and 4 only",
-        "All are correct"
+        "2 and 3 only"
       ],
-      "answer": 3,
+      "answer": 1,
       "explanation": "All correct. The revolt was concentrated in UP, Bihar, Central India, Delhi. Educated Indians (trained in Western education) mostly stayed away. Madras, Bombay, Bengal saw minimal activity. There was no coordinated plan - each leader fought independently (Rani Lakshmibai, Nana Sahib, Tantia Tope, Kunwar Singh in different areas)."
     },
     {
@@ -147,14 +147,14 @@
     {
       "id": "hc12",
       "subject": "History",
-      "question": "Consider the following about the Non-Cooperation Movement (1920-22):\n1. Students left government schools and joined national institutions\n2. Lawyers like Motilal Nehru and C.R. Das gave up practice\n3. The movement was withdrawn after the Chauri Chaura incident\n4. The Congress session at Nagpur approved the movement",
+      "question": "Consider the following about the Non-Cooperation Movement (1920-22):\n1. Students left government schools and joined national institutions\n2. Lawyers like Motilal Nehru and C.R. Das gave up practice\n3. The movement was withdrawn after the Chauri Chaura incident\n4. The Congress session at Nagpur approved the movement\nWhich of the statements given above is/are correct?",
       "options": [
         "2 and 3 only",
         "1, 2, 3 and 4",
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only"
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "All correct. Thousands of students joined Jamia Millia Islamia, Kashi Vidyapeeth, Gujarat Vidyapeeth. Prominent lawyers left lucrative practices. After Chauri Chaura (Feb 1922) where a mob killed 22 policemen, Gandhi withdrew the movement. The Nagpur session (Dec 1920) formally approved the NCM program."
     },
     {
@@ -173,11 +173,11 @@
     {
       "id": "hc14",
       "subject": "History",
-      "question": "Consider the following about the Government of India Act, 1935:\n1. It provided for an All-India Federation (never implemented)\n2. It abolished dyarchy in provinces\n3. It established the Federal Court\n4. It introduced bicameral legislatures in all provinces",
+      "question": "Consider the following about the Government of India Act, 1935:\n1. It provided for an All-India Federation (never implemented)\n2. It abolished dyarchy in provinces\n3. It established the Federal Court\n4. It introduced bicameral legislatures in all provinces\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2 and 3 only",
         "1 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4"
       ],
       "answer": 0,
@@ -191,9 +191,9 @@
         "1 and 2 only",
         "1, 2, 3 and 4",
         "1, 2 and 4 only",
-        "All are correct"
+        "1 and 4 only"
       ],
-      "answer": 3,
+      "answer": 1,
       "explanation": "All correct. 'Do or Die' (Karo ya Maro) was Gandhi's call on August 8, 1942. All top leaders arrested on August 9 - movement continued leaderlessly. Usha Mehta ran Congress Radio from Bombay. There was significant violence - railway lines cut, telegraph wires snapped, government buildings attacked - unlike NCM/CDM."
     },
     {
@@ -216,10 +216,10 @@
       "options": [
         "2, 3 and 4 only",
         "1, 2, 3 and 4",
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only"
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "All correct. Captain Mohan Singh first formed INA from Indian POWs in Malaya (1942). Bose took over and reorganized it (1943) with 'Delhi Chalo' slogan. Captain Lakshmi Sahgal led the Rani of Jhansi Regiment (women's wing). After war, INA trials at Red Fort (1945) of Shah Nawaz, Dhillon, Sahgal sparked nationwide protests."
     },
     {
@@ -228,24 +228,24 @@
       "question": "The Mountbatten Plan (June 3, 1947) included:\n1. Partition of India into India and Pakistan\n2. Bengal and Punjab to be divided\n3. A referendum in NWFP and Sylhet\n4. Princely states free to join either dominion or remain independent",
       "options": [
         "1, 2, 3 and 4",
-        "All are correct",
+        "1 and 4 only",
         "1 and 2 only",
         "1, 2 and 3 only"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanation": "All correct. The plan provided for: partition into two dominions, division of Bengal (East to Pakistan) and Punjab (West to Pakistan), referendum in NWFP (chose Pakistan) and Sylhet district of Assam (chose Pakistan), and princely states given three options (though Sardar Patel's integration efforts ensured most joined India)."
     },
     {
       "id": "hc19",
       "subject": "History",
-      "question": "Consider the following statements about the Mauryan economy:\n1. State-owned land was called 'Sita' land\n2. The main source of revenue was Bhaga (land tax = 1/6th of produce)\n3. Punch-marked coins were the primary currency\n4. Megasthenes mentions the absence of slavery in India",
+      "question": "Consider the following statements about the Mauryan economy:\n1. State-owned land was called 'Sita' land\n2. The main source of revenue was Bhaga (land tax = 1/6th of produce)\n3. Punch-marked coins were the primary currency\n4. Megasthenes mentions the absence of slavery in India\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2 and 3 only",
         "1, 2, 3 and 4",
-        "All are correct",
+        "1 and 4 only",
         "1 and 3 only"
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "All correct. Sita land was crown land cultivated by slaves/workers. Bhaga was 1/6th of agricultural produce (could go up to 1/4th). Punch-marked silver coins (Karshapanas) were primary currency. Megasthenes in Indica mentions Indians didn't practice slavery (though this is debated - he may have misunderstood bonded labor)."
     },
     {

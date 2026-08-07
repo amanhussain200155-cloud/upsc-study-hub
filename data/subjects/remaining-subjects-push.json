@@ -4,11 +4,11 @@
     {
       "id": "rsp1",
       "subject": "Science & Technology",
-      "question": "Consider the following about India's Deep Ocean Mission:\n1. It aims to explore depths up to 6,000 metres using manned submersible 'Matsya 6000'\n2. It targets polymetallic nodules (manganese, nickel, cobalt) on ocean floor\n3. Ocean Thermal Energy Conversion (OTEC) is another component\n4. India has already commercially mined deep-sea minerals",
+      "question": "Consider the following about India's Deep Ocean Mission:\n1. It aims to explore depths up to 6,000 metres using manned submersible 'Matsya 6000'\n2. It targets polymetallic nodules (manganese, nickel, cobalt) on ocean floor\n3. Ocean Thermal Energy Conversion (OTEC) is another component\n4. India has already commercially mined deep-sea minerals\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 2 only",
         "1, 2 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4"
       ],
       "answer": 1,
@@ -21,7 +21,7 @@
       "options": [
         "1 and 3 only",
         "1, 2, 3 and 4",
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only"
       ],
       "answer": 3,
@@ -30,9 +30,9 @@
     {
       "id": "rsp3",
       "subject": "Science & Technology",
-      "question": "Consider the following about CRISPR and gene editing regulation in India:\n1. CRISPR-Cas9 allows precise modification of DNA sequences\n2. India's GEAC regulates GM organisms under Environment Protection Act\n3. Only Bt Cotton is approved for commercial cultivation among GM crops\n4. India permits unrestricted human germline gene editing",
+      "question": "Consider the following about CRISPR and gene editing regulation in India:\n1. CRISPR-Cas9 allows precise modification of DNA sequences\n2. India's GEAC regulates GM organisms under Environment Protection Act\n3. Only Bt Cotton is approved for commercial cultivation among GM crops\n4. India permits unrestricted human germline gene editing\nWhich of the statements given above is/are correct?",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1 and 2 only",
         "1, 2, 3 and 4",
         "1, 2 and 3 only"
@@ -48,7 +48,7 @@
         "1, 2, 3 and 4",
         "1, 2 and 3 only",
         "1 and 2 only",
-        "All are correct"
+        "1 and 4 only"
       ],
       "answer": 1,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — India's supercomputers do NOT rank #1 globally. US (Frontier), Japan (Fugaku) lead. India's fastest: in top 100-200 range on TOP500. NSM (₹4,500 crore, 2015): build HPC ecosystem — 73 systems across IITs/IISc/CSIR/IISER. PARAM (C-DAC): series includes PARAM Siddhi-AI (Nvidia-based), PARAM Ganga, etc. Indigenous: some use Shakti/Vega processors (IIT Madras). Applications: weather forecasting, drug discovery, materials science, AI training, nuclear simulations. Target: exascale computing capability."
@@ -56,12 +56,12 @@
     {
       "id": "rsp5",
       "subject": "Science & Technology",
-      "question": "Consider the following about India's Gaganyaan mission:\n1. It will send 3 Indian astronauts to Low Earth Orbit (400 km) for 3 days\n2. Test Vehicle Abort mission (TV-D1) was successfully conducted in 2023\n3. ISRO's Human Space Flight Centre (HSFC) manages the programme\n4. India will become the 2nd country to independently send humans to space",
+      "question": "Consider the following about India's Gaganyaan mission:\n1. It will send 3 Indian astronauts to Low Earth Orbit (400 km) for 3 days\n2. Test Vehicle Abort mission (TV-D1) was successfully conducted in 2023\n3. ISRO's Human Space Flight Centre (HSFC) manages the programme\n4. India will become the 2nd country to independently send humans to space\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2, 3 and 4",
         "1, 2 and 3 only",
         "1 and 3 only",
-        "All are correct"
+        "1 and 4 only"
       ],
       "answer": 1,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — India will become the 4th country (not 2nd) to independently send humans to space (after USSR/Russia 1961, USA 1961, China 2003). Gaganyaan: LVM3 rocket, 3 crew, 400 km orbit, 3 days duration. TV-D1 (Oct 2023): tested Crew Escape System at Mach 1.2. Vyommitra: half-humanoid robot for uncrewed test flights. Astronaut training: IAF test pilots trained in Russia. Indian Space Station planned after Gaganyaan. Budget: ~₹12,000 crore. Timeline: crewed flight targeted after multiple test missions."
@@ -69,10 +69,10 @@
     {
       "id": "rsp6",
       "subject": "Environment & Ecology",
-      "question": "Consider the following about India's tiger conservation:\n1. Project Tiger (1973) started with 9 reserves; now 53 reserves covering 75,000+ sq km\n2. India's tiger population: 1,411 (2006) → 2,967 (2018) → 3,167+ (2022)\n3. National Tiger Conservation Authority (NTCA) was created after the Sariska crisis (2005)\n4. Tiger corridors connecting reserves are fully protected with zero human activity",
+      "question": "Consider the following about India's tiger conservation:\n1. Project Tiger (1973) started with 9 reserves; now 53 reserves covering 75,000+ sq km\n2. India's tiger population: 1,411 (2006) → 2,967 (2018) → 3,167+ (2022)\n3. National Tiger Conservation Authority (NTCA) was created after the Sariska crisis (2005)\n4. Tiger corridors connecting reserves are fully protected with zero human activity\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4",
         "1 and 2 only"
       ],
@@ -87,7 +87,7 @@
         "1, 2, 3 and 4",
         "1, 2 and 3 only",
         "1 and 3 only",
-        "All are correct"
+        "1 and 4 only"
       ],
       "answer": 1,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — EIA 2020 draft was HEAVILY criticized by environmentalists, academics, and tribal groups. Criticisms: post-facto clearance (legalized violations by paying fine), reduced public consultation period (20 days from 30), expanded exemptions, diluted compliance reporting. Public hearing exemptions for some B2 projects. It was NOT universally welcomed. EIA process: Screening → Scoping → Public Hearing → Expert Appraisal → Decision. Challenge: many projects begin construction before EIA completion (regularized later — violates precautionary principle)."
@@ -95,9 +95,9 @@
     {
       "id": "rsp8",
       "subject": "Environment & Ecology",
-      "question": "Consider the following about India's Compensatory Afforestation Fund (CAMPA):\n1. It collects funds from projects that divert forest land for non-forest purposes\n2. Over ₹50,000 crore has been collected under CAMPA\n3. The fund is meant for afforestation, forest conservation, and wildlife protection\n4. All CAMPA funds have been fully utilized for forest regeneration",
+      "question": "Consider the following about India's Compensatory Afforestation Fund (CAMPA):\n1. It collects funds from projects that divert forest land for non-forest purposes\n2. Over ₹50,000 crore has been collected under CAMPA\n3. The fund is meant for afforestation, forest conservation, and wildlife protection\n4. All CAMPA funds have been fully utilized for forest regeneration\nWhich of the statements given above is/are correct?",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4",
         "1, 2 and 3 only",
         "1 and 3 only"
@@ -108,9 +108,9 @@
     {
       "id": "rsp9",
       "subject": "International Relations",
-      "question": "Consider the following about India-Japan Special Strategic Partnership:\n1. 2+2 Ministerial Dialogue (Foreign + Defence Ministers) has been institutionalized\n2. Japan is the largest bilateral donor to India (ODA loans for Delhi Metro, bullet train, NE roads)\n3. Quad partnership further strengthened India-Japan security cooperation\n4. Japan has no economic concerns about India (trade/investment frictionless)",
+      "question": "Consider the following about India-Japan Special Strategic Partnership:\n1. 2+2 Ministerial Dialogue (Foreign + Defence Ministers) has been institutionalized\n2. Japan is the largest bilateral donor to India (ODA loans for Delhi Metro, bullet train, NE roads)\n3. Quad partnership further strengthened India-Japan security cooperation\n4. Japan has no economic concerns about India (trade/investment frictionless)\nWhich of the statements given above is/are correct?",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1 and 2 only",
         "1, 2, 3 and 4",
         "1, 2 and 3 only"
@@ -123,7 +123,7 @@
       "subject": "International Relations",
       "question": "With reference to India's relationship with Africa:\n1. India-Africa Forum Summit is the institutional framework for engagement\n2. India provides Lines of Credit (~$12 billion committed) for African development\n3. Indian diaspora in Africa numbers approximately 3 million\n4. India has no strategic interests in Africa",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only",
         "1 and 3 only",
         "1, 2, 3 and 4"
@@ -134,11 +134,11 @@
     {
       "id": "rsp11",
       "subject": "International Relations",
-      "question": "Consider the following about India-Russia relations in the changing world order:\n1. India-Russia have a 'Special and Privileged Strategic Partnership'\n2. Russia is India's largest defence equipment supplier historically\n3. India continued purchasing Russian oil despite Western sanctions (2022 onwards)\n4. India-Russia bilateral trade has decreased significantly post-2022",
+      "question": "Consider the following about India-Russia relations in the changing world order:\n1. India-Russia have a 'Special and Privileged Strategic Partnership'\n2. Russia is India's largest defence equipment supplier historically\n3. India continued purchasing Russian oil despite Western sanctions (2022 onwards)\n4. India-Russia bilateral trade has decreased significantly post-2022\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 2 only",
         "1, 2, 3 and 4",
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only"
       ],
       "answer": 3,
@@ -147,10 +147,10 @@
     {
       "id": "rsp12",
       "subject": "History",
-      "question": "Consider the following about the Revolt of 1857 and its aftermath:\n1. Queen Victoria's Proclamation (1858) promised non-interference in religious matters\n2. The Indian Councils Act 1861 introduced Indian members to the Governor-General's council\n3. The doctrine of lapse was abolished after the revolt\n4. The revolt had NO impact on British administrative policy in India",
+      "question": "Consider the following about the Revolt of 1857 and its aftermath:\n1. Queen Victoria's Proclamation (1858) promised non-interference in religious matters\n2. The Indian Councils Act 1861 introduced Indian members to the Governor-General's council\n3. The doctrine of lapse was abolished after the revolt\n4. The revolt had NO impact on British administrative policy in India\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1 and 3 only",
         "1, 2, 3 and 4"
       ],
@@ -163,7 +163,7 @@
       "question": "With reference to the Home Rule Movement (1916-18):\n1. Two Home Rule Leagues: one by Tilak (April 1916) and one by Annie Besant (September 1916)\n2. They demanded self-government/home rule within the British Empire (not complete independence)\n3. The movement spread political awareness beyond educated elite\n4. It was immediately successful and India got Home Rule in 1917",
       "options": [
         "1, 2 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1 and 2 only",
         "1, 2, 3 and 4"
       ],
@@ -173,9 +173,9 @@
     {
       "id": "rsp14",
       "subject": "History",
-      "question": "Consider the following about the Drain of Wealth theory:\n1. Dadabhai Naoroji first articulated it in 'Poverty and Un-British Rule in India' (1901)\n2. R.C. Dutt provided statistical evidence in 'Economic History of India' (1901-03)\n3. 'Drain' referred to wealth flowing from India to Britain with no economic return\n4. British economists unanimously accepted the Drain theory",
+      "question": "Consider the following about the Drain of Wealth theory:\n1. Dadabhai Naoroji first articulated it in 'Poverty and Un-British Rule in India' (1901)\n2. R.C. Dutt provided statistical evidence in 'Economic History of India' (1901-03)\n3. 'Drain' referred to wealth flowing from India to Britain with no economic return\n4. British economists unanimously accepted the Drain theory\nWhich of the statements given above is/are correct?",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1 and 3 only",
         "1, 2 and 3 only",
         "1, 2, 3 and 4"
@@ -191,7 +191,7 @@
         "1, 2, 3 and 4",
         "1 and 2 only",
         "1, 2 and 3 only",
-        "All are correct"
+        "1 and 4 only"
       ],
       "answer": 2,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — parallel governments did NOT function after 1947 (they existed only during Quit India 1942-44, until British suppressed them). Prati Sarkar (Satara, 1943-46): established parallel administration — courts, schools, revenue collection — under Nana Patil until British regained control. Tamralipta Jatiya Sarkar (Midnapore, 1942-44): declared independence, had own army ('Vidyut Bahini'), collected taxes. Ballia: briefly liberated the district (freed prisoners). These show QIM's mass character — it wasn't just urban demonstrations but genuine attempts at self-governance."

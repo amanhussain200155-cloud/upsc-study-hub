@@ -4,12 +4,12 @@
     {
       "id": "gf1",
       "subject": "Government Schemes",
-      "question": "Consider the following about PM WANI (Wi-Fi Access Network Interface):\n1. It allows anyone to set up public Wi-Fi hotspots without a license\n2. Public Data Offices (PDOs) provide last-mile Wi-Fi connectivity\n3. It aims to proliferate broadband through public Wi-Fi in rural/semi-urban areas\n4. It requires heavy investment from individuals to become a PDO",
+      "question": "Consider the following about PM WANI (Wi-Fi Access Network Interface):\n1. It allows anyone to set up public Wi-Fi hotspots without a license\n2. Public Data Offices (PDOs) provide last-mile Wi-Fi connectivity\n3. It aims to proliferate broadband through public Wi-Fi in rural/semi-urban areas\n4. It requires heavy investment from individuals to become a PDO\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2 and 3 only",
         "1 and 3 only",
         "1, 2, 3 and 4",
-        "All are correct"
+        "1 and 4 only"
       ],
       "answer": 0,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — PM WANI requires MINIMAL investment. A small shopkeeper can become a PDO with just a basic Wi-Fi router (₹2,000-5,000 investment). No license fee, no registration charges. Business model: PDO buys internet from App Provider, sells to users via any app. Think of it as 'UPI for Wi-Fi' — open, interoperable, democratized. DoT framework (Dec 2020). Target: 10 million hotspots (vs 50,000 currently). Critical for bridging digital divide in rural India where laying fiber to every home is uneconomical."
@@ -17,12 +17,12 @@
     {
       "id": "gf2",
       "subject": "Social Issues",
-      "question": "Consider the following about India's inter-caste marriage schemes:\n1. Dr. Ambedkar Scheme incentivizes inter-caste marriages involving SC partner\n2. Financial incentive of ₹2.5 lakh provided to eligible couples\n3. The scheme aims to promote social integration and reduce caste barriers\n4. Inter-caste marriages have completely eliminated caste discrimination in India",
+      "question": "Consider the following about India's inter-caste marriage schemes:\n1. Dr. Ambedkar Scheme incentivizes inter-caste marriages involving SC partner\n2. Financial incentive of ₹2.5 lakh provided to eligible couples\n3. The scheme aims to promote social integration and reduce caste barriers\n4. Inter-caste marriages have completely eliminated caste discrimination in India\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 3 only",
         "1, 2, 3 and 4",
         "1, 2 and 3 only",
-        "All are correct"
+        "1 and 4 only"
       ],
       "answer": 2,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — inter-caste marriages remain a small fraction of all marriages (~5-6%) and have NOT eliminated caste discrimination. Honour killings/family opposition persist in many regions. The scheme (under MoSJE): ₹2.5 lakh to couples where one is SC and other is non-SC. Family income ceiling: ₹5 lakh/year. Despite incentives: social pressure, family ostracism, khap panchayat opposition continue to deter inter-caste marriages. SC in Shakti Vahini case (2018) directed states to create safe houses for such couples."
@@ -34,7 +34,7 @@
       "options": [
         "1, 2, 3 and 4",
         "1 and 2 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only"
       ],
       "answer": 3,
@@ -43,9 +43,9 @@
     {
       "id": "gf4",
       "subject": "Social Issues",
-      "question": "Consider the following about India's Scheduled Tribes and forest rights:\n1. Forest Rights Act 2006 recognizes both Individual Forest Rights (IFR) and Community Forest Resource (CFR) rights\n2. CFR gives communities rights to manage and protect forest within traditional boundaries\n3. Gram Sabha is the authority to initiate and approve forest rights claims\n4. FRA implementation is uniformly excellent across all states",
+      "question": "Consider the following about India's Scheduled Tribes and forest rights:\n1. Forest Rights Act 2006 recognizes both Individual Forest Rights (IFR) and Community Forest Resource (CFR) rights\n2. CFR gives communities rights to manage and protect forest within traditional boundaries\n3. Gram Sabha is the authority to initiate and approve forest rights claims\n4. FRA implementation is uniformly excellent across all states\nWhich of the statements given above is/are correct?",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4",
         "1 and 3 only",
         "1, 2 and 3 only"
@@ -58,7 +58,7 @@
       "subject": "Social Issues",
       "question": "With reference to menstrual hygiene and sanitation:\n1. NFHS-5: approximately 78% of women (15-24) use hygienic menstrual products\n2. Menstrual Hygiene Scheme provides subsidized sanitary pads through Jan Aushadhi Kendras\n3. 12% GST on sanitary pads was removed in 2018 (now 0%)\n4. India has achieved 100% menstrual hygiene awareness in all communities",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only",
         "1 and 3 only",
         "1, 2, 3 and 4"
@@ -69,10 +69,10 @@
     {
       "id": "gf6",
       "subject": "Social Issues",
-      "question": "Consider the following about 'honour killings' in India:\n1. They occur when families perceive marriage/relationship choices as dishonour\n2. SC in Shakti Vahini case (2018) directed states to create protective measures\n3. No specific legislation exists targeting honour killings in India\n4. Honour crimes are concentrated ONLY in one state of India",
+      "question": "Consider the following about 'honour killings' in India:\n1. They occur when families perceive marriage/relationship choices as dishonour\n2. SC in Shakti Vahini case (2018) directed states to create protective measures\n3. No specific legislation exists targeting honour killings in India\n4. Honour crimes are concentrated ONLY in one state of India\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2, 3 and 4",
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only",
         "1 and 2 only"
       ],
@@ -82,10 +82,10 @@
     {
       "id": "gf7",
       "subject": "Interdisciplinary",
-      "question": "Consider the following about India's demographic dividend window:\n1. India's working-age population (15-64) is approximately 68% of total population\n2. The dividend window is estimated to last until 2055-2060\n3. Converting demographic dividend to economic growth requires: skills, jobs, health, education\n4. All of India is experiencing the demographic dividend uniformly",
+      "question": "Consider the following about India's demographic dividend window:\n1. India's working-age population (15-64) is approximately 68% of total population\n2. The dividend window is estimated to last until 2055-2060\n3. Converting demographic dividend to economic growth requires: skills, jobs, health, education\n4. All of India is experiencing the demographic dividend uniformly\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4",
         "1, 2 and 3 only"
       ],
@@ -98,7 +98,7 @@
       "question": "With reference to India's anti-microbial resistance (AMR) crisis:\n1. India is among the highest consumers of antibiotics globally\n2. AMR can make common infections untreatable\n3. National Action Plan on AMR was launched in 2017\n4. Over-the-counter antibiotic sale is completely banned and enforced in India",
       "options": [
         "1, 2, 3 and 4",
-        "All are correct",
+        "1 and 4 only",
         "1 and 2 only",
         "1, 2 and 3 only"
       ],
@@ -108,12 +108,12 @@
     {
       "id": "gf9",
       "subject": "Interdisciplinary",
-      "question": "Consider the following about India's 'twin transition' (digital + green):\n1. Digitization enables green transition (smart grids, precision agriculture, remote monitoring)\n2. Green transition needs digital tools (EV fleet management, carbon tracking, weather forecasting)\n3. Both transitions together can create 50+ million new jobs by 2030\n4. India has already completed both transitions fully",
+      "question": "Consider the following about India's 'twin transition' (digital + green):\n1. Digitization enables green transition (smart grids, precision agriculture, remote monitoring)\n2. Green transition needs digital tools (EV fleet management, carbon tracking, weather forecasting)\n3. Both transitions together can create 50+ million new jobs by 2030\n4. India has already completed both transitions fully\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2, 3 and 4",
         "1, 2 and 3 only",
         "1 and 2 only",
-        "All are correct"
+        "1 and 4 only"
       ],
       "answer": 1,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — India has NOT completed either transition. Digital: ~60% internet penetration, significant rural gaps. Green: coal still 70%+ of electricity generation. Both are ONGOING. Synergies: digital tools optimize energy use (AI for grid balancing), enable distributed RE (solar rooftop monitoring), reduce waste (smart agriculture — 30% less water), facilitate carbon markets (blockchain-based MRV). Job creation: green economy (solar installation, EV manufacturing, circular economy) + digital economy (AI, cybersecurity, fintech) = combined 50+ million jobs estimate (ILO/McKinsey projections)."
@@ -124,7 +124,7 @@
       "question": "With reference to India's innovation ecosystem challenges:\n1. India's R&D spending is approximately 0.7% of GDP (vs 2.5%+ in developed nations)\n2. Private sector contributes only 36% of R&D spending (vs 70%+ in USA/Korea)\n3. 'Valley of Death' — gap between research and commercialization — persists\n4. India files more patents than any other country globally",
       "options": [
         "1 and 2 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4",
         "1, 2 and 3 only"
       ],
@@ -134,10 +134,10 @@
     {
       "id": "gf11",
       "subject": "Interdisciplinary",
-      "question": "Consider the following about India's water crisis:\n1. India has 4% of global freshwater but 18% of global population\n2. 21 major cities including Delhi, Bengaluru may face 'Day Zero' (groundwater depletion)\n3. NITI Aayog's Composite Water Management Index ranks states on water governance\n4. India has achieved universal access to safe drinking water for all citizens",
+      "question": "Consider the following about India's water crisis:\n1. India has 4% of global freshwater but 18% of global population\n2. 21 major cities including Delhi, Bengaluru may face 'Day Zero' (groundwater depletion)\n3. NITI Aayog's Composite Water Management Index ranks states on water governance\n4. India has achieved universal access to safe drinking water for all citizens\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4",
         "1 and 3 only"
       ],
@@ -147,11 +147,11 @@
     {
       "id": "last1",
       "subject": "Interdisciplinary",
-      "question": "Consider the following about India's Sustainable Aviation Fuel (SAF) initiatives:\n1. SAF can reduce aviation carbon emissions by up to 80%\n2. India's BioATF (Bio Aviation Turbine Fuel) was flight-tested by IAF (2019)\n3. IOCL has developed indigenous SAF from non-edible oils\n4. All Indian airlines currently use 100% SAF for all flights",
+      "question": "Consider the following about India's Sustainable Aviation Fuel (SAF) initiatives:\n1. SAF can reduce aviation carbon emissions by up to 80%\n2. India's BioATF (Bio Aviation Turbine Fuel) was flight-tested by IAF (2019)\n3. IOCL has developed indigenous SAF from non-edible oils\n4. All Indian airlines currently use 100% SAF for all flights\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2, 3 and 4",
         "1 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only"
       ],
       "answer": 3,
@@ -164,7 +164,7 @@
       "options": [
         "1, 2, 3 and 4",
         "1 and 2 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only"
       ],
       "answer": 3,
@@ -173,11 +173,11 @@
     {
       "id": "last3",
       "subject": "Interdisciplinary",
-      "question": "Consider the following about India's Ethanol Blending Programme:\n1. India achieved 12%+ ethanol blending in petrol (E12) ahead of schedule\n2. Target: E20 (20% blending) by 2025-26\n3. 2G (second generation) ethanol from agricultural residue is being promoted\n4. Ethanol blending has no environmental benefits",
+      "question": "Consider the following about India's Ethanol Blending Programme:\n1. India achieved 12%+ ethanol blending in petrol (E12) ahead of schedule\n2. Target: E20 (20% blending) by 2025-26\n3. 2G (second generation) ethanol from agricultural residue is being promoted\n4. Ethanol blending has no environmental benefits\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2, 3 and 4",
         "1 and 2 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only"
       ],
       "answer": 3,
@@ -190,18 +190,18 @@
       "options": [
         "1 and 4 only",
         "1, 2, 3 and 4",
-        "All are correct",
+        "2 and 3 only",
         "1, 2 and 3 only"
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "All correct. CLNDA 2010: caps operator (NPCIL) liability at ₹1,500 crore per incident (~80 million). Section 17(b): operator can seek recourse against suppliers whose equipment caused accident — this was the CONTROVERSY. Foreign suppliers (US, France): argued this exposes them to unlimited liability (unlike global practice where operator bears full liability). Deterred: Westinghouse/GE projects delayed for years. India joined CSC (2016, ratified) to partially address concerns (creates international supplementary compensation pool). Still: nuclear programme expansion slower than planned partly due to this liability uncertainty."
     },
     {
       "id": "last5",
       "subject": "Social Issues",
-      "question": "Consider the following about India's urban informal sector:\n1. Approximately 90% of India's workforce is in the informal/unorganized sector\n2. Street Vendors Act 2014 protects rights of street vendors to vend\n3. Unorganized Workers' Social Security Act 2008 provides for welfare boards\n4. All informal workers have comprehensive pension, health insurance, and PF coverage",
+      "question": "Consider the following about India's urban informal sector:\n1. Approximately 90% of India's workforce is in the informal/unorganized sector\n2. Street Vendors Act 2014 protects rights of street vendors to vend\n3. Unorganized Workers' Social Security Act 2008 provides for welfare boards\n4. All informal workers have comprehensive pension, health insurance, and PF coverage\nWhich of the statements given above is/are correct?",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1 and 3 only",
         "1, 2 and 3 only",
         "1, 2, 3 and 4"

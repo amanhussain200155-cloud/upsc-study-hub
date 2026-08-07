@@ -4,12 +4,12 @@
     {
       "id": "io11",
       "subject": "International Relations",
-      "question": "Consider the following about the World Health Organization (WHO):\n1. It is headquartered in Geneva, Switzerland\n2. Its Director-General is elected by the World Health Assembly\n3. India is the largest contributor to WHO's budget\n4. WHO declared COVID-19 a 'Public Health Emergency of International Concern' (PHEIC) in January 2020",
+      "question": "Consider the following about the World Health Organization (WHO):\n1. It is headquartered in Geneva, Switzerland\n2. Its Director-General is elected by the World Health Assembly\n3. India is the largest contributor to WHO's budget\n4. WHO declared COVID-19 a 'Public Health Emergency of International Concern' (PHEIC) in January 2020\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2 and 4 only",
         "1 and 4 only",
         "1, 2, 3 and 4",
-        "All are correct"
+        "2 and 3 only"
       ],
       "answer": 0,
       "explanation": "1, 2, 4 correct. Statement 3 WRONG — India is NOT the largest contributor. USA was historically the largest (before partial withdrawal), followed by Germany, Bill & Melinda Gates Foundation, UK. India contributes assessed dues (~$10-12 million/year) — relatively small. WHO: 194 member states, World Health Assembly (supreme decision-making body, all members), Executive Board (34 members). DG: Tedros Adhanom (elected 2017, re-elected 2022). PHEIC declared Jan 30, 2020 for COVID."
@@ -19,7 +19,7 @@
       "subject": "International Relations",
       "question": "With reference to WHO's funding and governance:\n1. WHO is funded through Assessed Contributions (mandatory) and Voluntary Contributions\n2. Voluntary contributions (~80%) exceed assessed contributions (~20%)\n3. This makes WHO dependent on donor priorities rather than member-state decisions\n4. WHO has binding enforcement power to compel countries to follow health directives",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1 and 2 only",
         "1, 2 and 3 only",
         "1, 2, 3 and 4"
@@ -30,10 +30,10 @@
     {
       "id": "io13",
       "subject": "International Relations",
-      "question": "Consider the following about the International Labour Organization (ILO):\n1. India is a founding member of ILO (1919)\n2. ILO has a unique tripartite structure: governments + employers + workers\n3. India has ratified all 8 'Core/Fundamental' ILO Conventions\n4. ILO is headquartered in Geneva and is a UN specialized agency",
+      "question": "Consider the following about the International Labour Organization (ILO):\n1. India is a founding member of ILO (1919)\n2. ILO has a unique tripartite structure: governments + employers + workers\n3. India has ratified all 8 'Core/Fundamental' ILO Conventions\n4. ILO is headquartered in Geneva and is a UN specialized agency\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 4 only",
         "1, 2, 3 and 4"
       ],
@@ -47,7 +47,7 @@
       "options": [
         "1, 2, 3 and 4",
         "1 and 2 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only"
       ],
       "answer": 3,
@@ -56,10 +56,10 @@
     {
       "id": "io15",
       "subject": "International Relations",
-      "question": "Consider the following about ICJ (International Court of Justice):\n1. It is the principal judicial organ of the United Nations\n2. Only STATES can be parties to cases before ICJ (not individuals)\n3. ICJ judgments are binding but enforcement depends on UNSC\n4. ICJ and ICC are the same court with the same jurisdiction",
+      "question": "Consider the following about ICJ (International Court of Justice):\n1. It is the principal judicial organ of the United Nations\n2. Only STATES can be parties to cases before ICJ (not individuals)\n3. ICJ judgments are binding but enforcement depends on UNSC\n4. ICJ and ICC are the same court with the same jurisdiction\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2, 3 and 4",
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only",
         "1 and 2 only"
       ],
@@ -74,7 +74,7 @@
         "1, 2 and 3 only",
         "1, 2, 3 and 4",
         "1 and 2 only",
-        "All are correct"
+        "1 and 4 only"
       ],
       "answer": 0,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — ICJ decisions CANNOT be vetoed by member states. ICJ judgments are binding on parties. However, ENFORCEMENT can be blocked at UNSC (where P5 can veto enforcement action). Nicaragua vs USA (1986): ICJ ruled against USA, but USA ignored the judgment and vetoed UNSC enforcement. Jadhav case: ICJ ruled Pakistan violated Vienna Convention (consular access), ordered effective review of conviction. Judge Bhandari: elected 2012, re-elected 2018 (India's representative on 15-judge bench)."
@@ -82,10 +82,10 @@
     {
       "id": "io17",
       "subject": "International Relations",
-      "question": "Consider the following about UNESCO:\n1. UNESCO's headquarters is in Paris, France\n2. It designates World Heritage Sites (Cultural, Natural, Mixed)\n3. India has 42 World Heritage Sites (as of 2024)\n4. UNESCO membership is mandatory for all UN member states",
+      "question": "Consider the following about UNESCO:\n1. UNESCO's headquarters is in Paris, France\n2. It designates World Heritage Sites (Cultural, Natural, Mixed)\n3. India has 42 World Heritage Sites (as of 2024)\n4. UNESCO membership is mandatory for all UN member states\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4",
         "1, 2 and 3 only"
       ],
@@ -97,7 +97,7 @@
       "subject": "Art & Culture",
       "question": "With reference to UNESCO designations related to India:\n1. World Heritage Sites require 'Outstanding Universal Value' (OUV)\n2. Intangible Cultural Heritage includes: Yoga, Kumbh Mela, Durga Puja, Garba\n3. Creative Cities Network includes Jaipur (Crafts), Varanasi (Music), Chennai (Music)\n4. All Indian monuments over 100 years old are automatically UNESCO World Heritage Sites",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1 and 2 only",
         "1, 2 and 3 only",
         "1, 2, 3 and 4"
@@ -108,10 +108,10 @@
     {
       "id": "io19",
       "subject": "International Relations",
-      "question": "Consider the following about IAEA (International Atomic Energy Agency):\n1. It is the world's 'Atoms for Peace' organization promoting safe nuclear use\n2. It applies safeguards to ensure nuclear material isn't diverted to weapons\n3. India signed an India-specific safeguards agreement after the 2008 NSG waiver\n4. IAEA has inspected ALL of India's nuclear facilities including military ones",
+      "question": "Consider the following about IAEA (International Atomic Energy Agency):\n1. It is the world's 'Atoms for Peace' organization promoting safe nuclear use\n2. It applies safeguards to ensure nuclear material isn't diverted to weapons\n3. India signed an India-specific safeguards agreement after the 2008 NSG waiver\n4. IAEA has inspected ALL of India's nuclear facilities including military ones\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4",
         "1 and 2 only"
       ],
@@ -124,7 +124,7 @@
       "question": "With reference to OPCW (Organisation for Prohibition of Chemical Weapons):\n1. It implements the Chemical Weapons Convention (CWC, 1997)\n2. India is a signatory and has declared and destroyed its chemical weapons stockpile\n3. OPCW can conduct inspections of member states' chemical facilities\n4. All countries in the world are members of OPCW/CWC",
       "options": [
         "1, 2 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1 and 3 only",
         "1, 2, 3 and 4"
       ],
@@ -134,10 +134,10 @@
     {
       "id": "io21",
       "subject": "International Relations",
-      "question": "Consider the following about Interpol:\n1. It facilitates international police cooperation across 195 member countries\n2. Interpol issues 'Red Notices' (not arrest warrants) requesting member countries to locate/arrest fugitives\n3. India's CBI is the National Central Bureau (NCB) for Interpol in India\n4. Interpol can directly arrest criminals in any country",
+      "question": "Consider the following about Interpol:\n1. It facilitates international police cooperation across 195 member countries\n2. Interpol issues 'Red Notices' (not arrest warrants) requesting member countries to locate/arrest fugitives\n3. India's CBI is the National Central Bureau (NCB) for Interpol in India\n4. Interpol can directly arrest criminals in any country\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2, 3 and 4",
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only",
         "1 and 2 only"
       ],
@@ -149,7 +149,7 @@
       "subject": "Interdisciplinary",
       "question": "With reference to multilateral development banks:\n1. World Bank (IBRD/IDA) was established at Bretton Woods (1944) alongside IMF\n2. ADB (Asian Development Bank) is headquartered in Manila, Philippines\n3. AIIB (Asian Infrastructure Investment Bank) was proposed by China, HQ in Beijing\n4. India has equal voting power to USA in World Bank",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4",
         "1, 2 and 3 only",
         "1 and 3 only"
@@ -160,9 +160,9 @@
     {
       "id": "io23",
       "subject": "Interdisciplinary",
-      "question": "Consider the following about ADB vs AIIB vs NDB (New Development Bank):\n1. ADB (1966): Japan-led, focuses on poverty reduction in Asia-Pacific\n2. AIIB (2016): China-led, focuses on infrastructure financing\n3. NDB (2015): BRICS-led, equal voting (each founder ~20%), HQ in Shanghai\n4. All three have identical membership, governance structure, and lending policies",
+      "question": "Consider the following about ADB vs AIIB vs NDB (New Development Bank):\n1. ADB (1966): Japan-led, focuses on poverty reduction in Asia-Pacific\n2. AIIB (2016): China-led, focuses on infrastructure financing\n3. NDB (2015): BRICS-led, equal voting (each founder ~20%), HQ in Shanghai\n4. All three have identical membership, governance structure, and lending policies\nWhich of the statements given above is/are correct?",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4",
         "1, 2 and 3 only",
         "1 and 2 only"

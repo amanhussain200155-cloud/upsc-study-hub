@@ -4,14 +4,14 @@
     {
       "id": "exp1",
       "subject": "Geography",
-      "question": "Consider the following about the Mediterranean climate:\n1. It is characterized by hot dry summers and cool wet winters\n2. It is found between 30°-45° latitude on western margins of continents\n3. Central Chile, Western Australia, and California have this climate\n4. Olive, citrus fruits, and grapes are typical Mediterranean crops",
+      "question": "Consider the following about the Mediterranean climate:\n1. It is characterized by hot dry summers and cool wet winters\n2. It is found between 30°-45° latitude on western margins of continents\n3. Central Chile, Western Australia, and California have this climate\n4. Olive, citrus fruits, and grapes are typical Mediterranean crops\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2 and 3 only",
         "1, 2, 3 and 4",
-        "All are correct",
+        "2 and 3 only",
         "1 and 4 only"
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "All correct. Mediterranean climate (Csa/Csb in Köppen): hot dry summers (subtropical high pressure dominance), cool wet winters (westerlies bring frontal rain). Western continental margins 30-45°: Mediterranean Basin, California, Central Chile, SW Australia, Western Cape (S. Africa). Crops: olives (drought-tolerant), grapes (vineyards), citrus, figs, cork oak. Key concept: subtropical high shifts poleward in summer (blocking rain), equatorward in winter (allowing westerlies through)."
     },
     {
@@ -20,7 +20,7 @@
       "question": "With reference to global ocean currents:\n1. The Great Ocean Conveyor Belt (thermohaline circulation) is driven by density differences\n2. Sinking of cold saline water occurs in the North Atlantic near Greenland\n3. El Nino involves weakening of the Walker Circulation in the Pacific\n4. The Gulf Stream is a cold current flowing southward along North America",
       "options": [
         "1 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4",
         "1, 2 and 3 only"
       ],
@@ -30,9 +30,9 @@
     {
       "id": "exp3",
       "subject": "Geography",
-      "question": "Consider the following about global seismic zones:\n1. The Circum-Pacific Belt (Ring of Fire) accounts for ~75% of global earthquakes\n2. The Mid-Atlantic Ridge is a divergent plate boundary\n3. The Alpine-Himalayan Belt is the second most seismically active zone\n4. Intra-plate earthquakes never occur away from plate boundaries",
+      "question": "Consider the following about global seismic zones:\n1. The Circum-Pacific Belt (Ring of Fire) accounts for ~75% of global earthquakes\n2. The Mid-Atlantic Ridge is a divergent plate boundary\n3. The Alpine-Himalayan Belt is the second most seismically active zone\n4. Intra-plate earthquakes never occur away from plate boundaries\nWhich of the statements given above is/are correct?",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1 and 2 only",
         "1, 2 and 3 only",
         "1, 2, 3 and 4"
@@ -46,7 +46,7 @@
       "question": "With reference to India's drainage divide:\n1. The Western Ghats form the main water divide of peninsular India\n2. Rivers east of Western Ghats flow into the Bay of Bengal\n3. Narmada and Tapi are exceptions — they flow westward through rift valleys\n4. The Aravalli Hills form the water divide between the Indus and Ganga systems",
       "options": [
         "1 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4",
         "1, 2 and 3 only"
       ],
@@ -56,12 +56,12 @@
     {
       "id": "exp5",
       "subject": "Geography",
-      "question": "Consider the following about India's Industrial Corridors:\n1. Delhi-Mumbai Industrial Corridor (DMIC) is the most advanced corridor\n2. NICDIT (National Industrial Corridor Development and Implementation Trust) oversees all corridors\n3. Amritsar-Kolkata Industrial Corridor (AKIC) passes through the densely populated Gangetic plain\n4. All industrial corridors have dedicated freight railway lines parallel to them",
+      "question": "Consider the following about India's Industrial Corridors:\n1. Delhi-Mumbai Industrial Corridor (DMIC) is the most advanced corridor\n2. NICDIT (National Industrial Corridor Development and Implementation Trust) oversees all corridors\n3. Amritsar-Kolkata Industrial Corridor (AKIC) passes through the densely populated Gangetic plain\n4. All industrial corridors have dedicated freight railway lines parallel to them\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 2 only",
         "1, 2, 3 and 4",
         "1, 2 and 3 only",
-        "All are correct"
+        "1 and 4 only"
       ],
       "answer": 2,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — not ALL corridors have dedicated freight railway lines. DMIC has the Dedicated Freight Corridor (Western DFC) along its spine. But AKIC parallels the Eastern DFC only partially. Other corridors (Chennai-Bengaluru, Vizag-Chennai, Bengaluru-Mumbai) rely on existing/upgraded rail, not necessarily new dedicated freight lines. 11 industrial corridors planned; DMIC is most advanced with smart cities like Dholera (Gujarat)."
@@ -71,7 +71,7 @@
       "subject": "Geography",
       "question": "With reference to Coriolis Effect:\n1. It deflects moving objects to the right in the Northern Hemisphere\n2. It deflects moving objects to the left in the Southern Hemisphere\n3. It is zero at the equator and maximum at the poles\n4. It causes ocean currents to flow in straight lines",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only",
         "1, 2, 3 and 4",
         "1 and 2 only"
@@ -82,14 +82,14 @@
     {
       "id": "exp8",
       "subject": "History",
-      "question": "Consider the following about the Cripps Mission (1942):\n1. It proposed Dominion Status for India after the World War\n2. It allowed provinces to opt out of the Indian Union\n3. It was rejected by both Congress and Muslim League\n4. It was sent in response to Japan's advance toward India",
+      "question": "Consider the following about the Cripps Mission (1942):\n1. It proposed Dominion Status for India after the World War\n2. It allowed provinces to opt out of the Indian Union\n3. It was rejected by both Congress and Muslim League\n4. It was sent in response to Japan's advance toward India\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2 and 3 only",
-        "All are correct",
+        "2 and 3 only",
         "1, 2, 3 and 4",
         "1 and 4 only"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanation": "All correct. Stafford Cripps Mission (March 1942): context was Japan's rapid advance (fall of Singapore/Burma), needed Indian cooperation for war effort. Proposals: Dominion Status post-war, Constituent Assembly, opt-out right for provinces (alarmed Congress — feared balkanization). Congress rejected: 'a post-dated cheque on a failing bank' (Gandhi). League rejected: didn't guarantee Pakistan explicitly. Rejection led directly to Quit India Movement (August 1942)."
     },
     {
@@ -100,7 +100,7 @@
         "1 and 2 only",
         "1, 2 and 3 only",
         "1, 2, 3 and 4",
-        "All are correct"
+        "1 and 4 only"
       ],
       "answer": 1,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — Swadeshi Movement spread BEYOND Bengal. It influenced: Tilak's movement in Maharashtra, establishment of national schools in multiple provinces, Swadeshi mills/enterprises across India, inspired revolutionaries in Punjab (Ajit Singh) and Madras. However, it's true that its CORE intensity was in Bengal. National Council of Education (Aug 1906): alternative to British education. Bengal Chemical (est. 1901 by PC Ray): iconic Swadeshi enterprise still operational."
@@ -108,11 +108,11 @@
     {
       "id": "exp10",
       "subject": "History",
-      "question": "Consider the following about the August Offer (1940):\n1. It was made by Viceroy Lord Linlithgow\n2. It promised Dominion Status as the objective for India\n3. It proposed expansion of the Viceroy's Executive Council to include more Indians\n4. Both Congress and Muslim League accepted the August Offer",
+      "question": "Consider the following about the August Offer (1940):\n1. It was made by Viceroy Lord Linlithgow\n2. It promised Dominion Status as the objective for India\n3. It proposed expansion of the Viceroy's Executive Council to include more Indians\n4. Both Congress and Muslim League accepted the August Offer\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 3 only",
         "1, 2 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4"
       ],
       "answer": 1,
@@ -121,11 +121,11 @@
     {
       "id": "exp11",
       "subject": "Polity & Governance",
-      "question": "Consider the following about the difference between Fundamental Rights and DPSP:\n1. FRs are justiciable while DPSPs are non-justiciable\n2. FRs are negative obligations on the State while DPSPs are positive directions\n3. FRs promote political democracy while DPSPs aim for social and economic democracy\n4. If there is a conflict, DPSPs always override Fundamental Rights",
+      "question": "Consider the following about the difference between Fundamental Rights and DPSP:\n1. FRs are justiciable while DPSPs are non-justiciable\n2. FRs are negative obligations on the State while DPSPs are positive directions\n3. FRs promote political democracy while DPSPs aim for social and economic democracy\n4. If there is a conflict, DPSPs always override Fundamental Rights\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 3 only",
         "1, 2, 3 and 4",
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only"
       ],
       "answer": 3,
@@ -138,7 +138,7 @@
       "options": [
         "1, 2 and 3 only",
         "1 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4"
       ],
       "answer": 0,
@@ -147,9 +147,9 @@
     {
       "id": "exp13",
       "subject": "Polity & Governance",
-      "question": "Consider the following about Article 370 and its abrogation:\n1. Article 370 gave special status to Jammu & Kashmir\n2. It was abrogated in August 2019 through a Presidential Order\n3. J&K was bifurcated into two Union Territories: J&K (with legislature) and Ladakh (without)\n4. The Supreme Court unanimously upheld the abrogation in 2023",
+      "question": "Consider the following about Article 370 and its abrogation:\n1. Article 370 gave special status to Jammu & Kashmir\n2. It was abrogated in August 2019 through a Presidential Order\n3. J&K was bifurcated into two Union Territories: J&K (with legislature) and Ladakh (without)\n4. The Supreme Court unanimously upheld the abrogation in 2023\nWhich of the statements given above is/are correct?",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1 and 2 only",
         "1, 2 and 3 only",
         "1, 2, 3 and 4"
@@ -163,7 +163,7 @@
       "question": "With reference to the Uniform Civil Code (UCC) debate:\n1. Article 44 (DPSP) directs the State to secure a UCC for citizens\n2. Goa is the only Indian state that already has a form of UCC\n3. The Law Commission (2018) said UCC is 'neither necessary nor desirable at this stage'\n4. All religious communities support the implementation of UCC",
       "options": [
         "1 and 2 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4",
         "1, 2 and 3 only"
       ],
@@ -173,14 +173,14 @@
     {
       "id": "exp15",
       "subject": "Geography",
-      "question": "Consider the following about India's mineral resources and strategic importance:\n1. India has the world's 4th largest reserves of iron ore\n2. India is critically dependent on imports for lithium, cobalt, and nickel\n3. Monazite sands in Kerala contain thorium (25% of world's reserves)\n4. India's coal reserves are concentrated in Gondwana formations of the Damodar valley",
+      "question": "Consider the following about India's mineral resources and strategic importance:\n1. India has the world's 4th largest reserves of iron ore\n2. India is critically dependent on imports for lithium, cobalt, and nickel\n3. Monazite sands in Kerala contain thorium (25% of world's reserves)\n4. India's coal reserves are concentrated in Gondwana formations of the Damodar valley\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2, 3 and 4",
         "1 and 3 only",
         "2, 3 and 4 only",
-        "All are correct"
+        "1 and 4 only"
       ],
-      "answer": 3,
+      "answer": 0,
       "explanation": "All correct. India's mineral profile: Iron ore (4th largest reserves, mainly Jharkhand/Odisha/Chhattisgarh/Karnataka). Critical mineral import dependence: lithium 100% (J&K discovery not operational), cobalt 100%, nickel 90%+ (needed for EV batteries). Thorium: Monazite sands (Kerala, Tamil Nadu, Odisha coasts) — India has 25% of global thorium (Stage 3 of nuclear programme). Coal: 98% in Gondwana formations (Permian), Damodar valley (Jharia, Raniganj) is richest. Tertiary coal (2%): NE India, lower quality."
     }
   ]

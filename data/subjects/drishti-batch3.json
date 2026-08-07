@@ -9,35 +9,35 @@
         "1 and 3 only",
         "1, 2 and 3 only",
         "1, 2, 3 and 4",
-        "All are correct"
+        "1 and 4 only"
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "All correct. Jan Vishwas (Amendment) Act 2023: decriminalized 183 provisions across 42 Acts. Jan Vishwas (Amendment of Provisions) Bill, 2026: passed by Lok Sabha, covers 784 provisions across 80 Acts, 23 Ministries; decriminalized 717 provisions, amended 67 citizen-facing provisions. Philosophy: minor/technical violations shouldn't lead to imprisonment; fines/compounding are sufficient. Confirmed in Drishti IAS Saraansh April 2026 & July 2026."
     },
     {
       "id": "d3-1",
       "subject": "Government Schemes",
-      "question": "Consider the following about the VB-GRAMG Act, 2025 (Viksit Bharat Guarantee for Rozgar and Ajeevika Mission - Gramin):\n1. It replaced/updated MGNREGA framework from July 1, 2026\n2. It provides statutory guarantee of rural employment\n3. Maharashtra's Employment Guarantee Act, 1977 was the precursor to MGNREGA\n4. The new Act focuses on asset creation and skill upgradation beyond just wage employment",
+      "question": "Consider the following about the VB-GRAMG Act, 2025 (Viksit Bharat Guarantee for Rozgar and Ajeevika Mission - Gramin):\n1. It replaced/updated MGNREGA framework from July 1, 2026\n2. It provides statutory guarantee of rural employment\n3. Maharashtra's Employment Guarantee Act, 1977 was the precursor to MGNREGA\n4. The new Act focuses on asset creation and skill upgradation beyond just wage employment\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 3 and 4 only",
-        "All are correct",
+        "1 and 4 only",
         "1 and 2 only",
         "1, 2, 3 and 4"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanation": "All correct. Viksit Bharat – Guarantee for Rozgar and Ajeevika Mission (Gramin) Act, 2025 (VB-GRAMG) came into force. It retains the employment guarantee but adds: skill development component, focus on productive asset creation, digital monitoring, convergence with other schemes. Maharashtra EGA 1977 was indeed the precursor that inspired NREGA/MGNREGA. Confirmed in Drishti IAS Saraansh July 2026 & February 2026."
     },
     {
       "id": "d3-3",
       "subject": "Government Schemes",
-      "question": "Consider the following achievements of government schemes:\n1. Jan Dhan accounts rose from 14.72 crore (2015) to 58 crore+ (2025)\n2. Over 57.7 crore loans worth ₹40 lakh crore sanctioned under MUDRA\n3. ₹6.9 lakh crore credited through DBT in FY 2024-25\n4. Rural tap water connections rose from 3.23 crore to 15.86 crore under JJM",
+      "question": "Consider the following achievements of government schemes:\n1. Jan Dhan accounts rose from 14.72 crore (2015) to 58 crore+ (2025)\n2. Over 57.7 crore loans worth ₹40 lakh crore sanctioned under MUDRA\n3. ₹6.9 lakh crore credited through DBT in FY 2024-25\n4. Rural tap water connections rose from 3.23 crore to 15.86 crore under JJM\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 2 only",
         "1, 2, 3 and 4",
-        "All are correct",
+        "1 and 4 only",
         "1, 3 and 4 only"
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "All correct. These are verifiable government data points. Jan Dhan (financial inclusion): 58 crore+ accounts with ₹2.3 lakh crore deposits. MUDRA (micro-enterprise loans): 57.7 crore loans. DBT (Direct Benefit Transfer): ₹6.9 lakh crore in FY25 alone (cumulative savings ~₹3.5 lakh crore from eliminated leakages). JJM: rural tap connections from 3.23 crore (Aug 2019) to 15.86 crore (2025). These numbers are UPSC favorites."
     },
     {
@@ -46,22 +46,22 @@
       "question": "With reference to India's UDAN (Ude Desh ka Aam Naagrik) scheme:\n1. It provides affordable air connectivity to smaller cities and towns\n2. Over 1.64 crore passengers have flown under UDAN\n3. It is a Regional Connectivity Scheme (RCS) under the Ministry of Civil Aviation\n4. Airlines get Viability Gap Funding (VGF) for operating UDAN routes",
       "options": [
         "1, 2, 3 and 4",
-        "All are correct",
+        "1 and 4 only",
         "1 and 3 only",
         "1, 3 and 4 only"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanation": "All correct. UDAN (launched 2017): makes flying affordable for Tier-2/3 cities. 1.64 crore+ passengers flown. Ministry of Civil Aviation implements it as RCS. Airlines receive VGF (subsidy) for operating on unviable but socially important routes (capped airfares for 50% seats). Over 500 UDAN routes awarded connecting 76 airports, 7 heliports, 2 water aerodromes. Has expanded air connectivity to NE India and hilly regions significantly."
     },
     {
       "id": "d3-5",
       "subject": "Economics",
-      "question": "Consider the following about India becoming the 3rd largest metro network globally:\n1. India now has operational metro systems in 20+ cities\n2. Delhi Metro is the largest metro network in India\n3. India surpassed Japan to become 3rd largest by route length\n4. Metro Rail Policy 2017 guides metro development in cities",
+      "question": "Consider the following about India becoming the 3rd largest metro network globally:\n1. India now has operational metro systems in 20+ cities\n2. Delhi Metro is the largest metro network in India\n3. India surpassed Japan to become 3rd largest by route length\n4. Metro Rail Policy 2017 guides metro development in cities\nWhich of the statements given above is/are correct?",
       "options": [
         "2 and 4 only",
         "1, 2 and 4 only",
         "1, 2, 3 and 4",
-        "All are correct"
+        "1 and 4 only"
       ],
       "answer": 1,
       "explanation": "1, 2, 4 correct. Statement 3 needs verification — India has surpassed several countries but whether it specifically surpassed Japan to reach 3rd position depends on the metric (route length vs network size). India has ~900+ km of operational metro. Delhi Metro (~400 km) is largest. Metro Rail Policy 2017 mandates: last-mile connectivity, PPP models, value capture financing, transit-oriented development. Other cities: Mumbai, Bengaluru, Chennai, Hyderabad, Kolkata, Kochi, Lucknow, Jaipur etc."
@@ -71,25 +71,25 @@
       "subject": "Government Schemes",
       "question": "With reference to PM Ujjwala Yojana (PMUY):\n1. It provides free LPG connections to BPL households\n2. Over 10.57 crore LPG connections have been provided\n3. It was launched in 2016 targeting women from poor households\n4. Ujjwala 2.0 expanded coverage to migrant workers and adult women",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1, 3 and 4 only",
         "1, 2, 3 and 4",
         "1 and 3 only"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "All correct. PMUY (May 2016): free LPG connections (₹1,600 subsidy) to BPL women. Target expanded from 5 crore to 8 crore and achieved 10.57 crore+. Ujjwala 2.0 (August 2021): extended to migrant workers (no ration card/address proof needed), all adult women of poor families. Challenge: refill rates remain low in many areas (~3-4 refills/year vs required 6-8) due to cost. Saved women from indoor air pollution (causes ~5 lakh premature deaths/year)."
     },
     {
       "id": "d3-7",
       "subject": "Government Schemes",
-      "question": "Consider the following about Swachh Bharat Mission achievements:\n1. Over 12.14 crore household toilets built\n2. 2.76 lakh community sanitary complexes constructed\n3. India was declared Open Defecation Free (ODF) on October 2, 2019\n4. SBM 2.0 (Phase II) focuses on ODF Plus - solid and liquid waste management",
+      "question": "Consider the following about Swachh Bharat Mission achievements:\n1. Over 12.14 crore household toilets built\n2. 2.76 lakh community sanitary complexes constructed\n3. India was declared Open Defecation Free (ODF) on October 2, 2019\n4. SBM 2.0 (Phase II) focuses on ODF Plus - solid and liquid waste management\nWhich of the statements given above is/are correct?",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1 and 3 only",
         "1, 2 and 3 only",
         "1, 2, 3 and 4"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "All correct. SBM-G Phase I (2014-19): built 12.14 crore toilets, 2.76 lakh CSCs. India declared ODF (Oct 2, 2019 - Gandhi Jayanti). SBM 2.0/ODF Plus (2020-25): solid waste management (GOBARDHAN for bio-waste), liquid waste management (greywater treatment), plastic waste management. Urban: SBM-U 2.0 focuses on waste-free cities. Key metric shift: from toilet construction to sustained behavior change and waste processing."
     },
     {
@@ -100,20 +100,20 @@
         "1, 2, 3 and 4",
         "1 and 4 only",
         "1, 2 and 4 only",
-        "All are correct"
+        "2 and 3 only"
       ],
-      "answer": 3,
+      "answer": 0,
       "explanation": "All correct. JAM Trinity is India's most significant governance reform for benefit delivery. DBT: ₹6.9 lakh crore in FY25 across 300+ schemes. Savings: ~₹3.5 lakh crore by eliminating ghosts, duplicates, and intermediaries. 40.60 crore RuPay cards with ₹2 lakh accident insurance. Aadhaar-based biometric authentication ensures right person gets right benefit. Challenges remain: Aadhaar failures in remote areas, exclusion errors, digital literacy gaps."
     },
     {
       "id": "d3-9",
       "subject": "Polity & Governance",
-      "question": "Consider the following about NIPUN Bharat Mission and Foundational Learning:\n1. NIPUN stands for National Initiative for Proficiency in Reading with Understanding and Numeracy\n2. It aims to ensure universal foundational literacy and numeracy by Grade 3 by 2026-27\n3. It is implemented under the National Education Policy 2020's vision\n4. ASER (Annual Status of Education Report) has shown improving foundational learning outcomes",
+      "question": "Consider the following about NIPUN Bharat Mission and Foundational Learning:\n1. NIPUN stands for National Initiative for Proficiency in Reading with Understanding and Numeracy\n2. It aims to ensure universal foundational literacy and numeracy by Grade 3 by 2026-27\n3. It is implemented under the National Education Policy 2020's vision\n4. ASER (Annual Status of Education Report) has shown improving foundational learning outcomes\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 3 only",
         "1, 2 and 3 only",
         "1, 2, 3 and 4",
-        "All are correct"
+        "1 and 4 only"
       ],
       "answer": 1,
       "explanation": "1, 2, 3 correct. Statement 4 is DEBATABLE/WRONG — while ASER 2023-24 showed some improvements in basic reading/math after COVID recovery, India still has a major foundational learning crisis. A significant percentage of Class 3-5 students cannot read Class 2 text or do basic subtraction. The learning outcomes are improving from post-COVID lows but NOT yet satisfactory. NIPUN Bharat (2021) sets FLN targets: children achieving reading fluency and basic numeracy by end of Grade 3."
@@ -126,9 +126,9 @@
         "1, 2 and 3 only",
         "1 and 2 only",
         "1, 2, 3 and 4",
-        "All are correct"
+        "1 and 4 only"
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "All correct. CRS (Registrar General of India administers): records vital events. RBD Act 1969 (amended 2023) makes registration mandatory (within 21 days for births, deaths). India's birth registration crossed 93% and death registration ~99% (2023-24). CRS data critical for: demographic analysis, scheme targeting, Aadhaar issuance at birth, NPR update. 2023 Amendment: Aadhaar number of parents in birth certificate, digital registration, national/state databases interlinked."
     }
   ]

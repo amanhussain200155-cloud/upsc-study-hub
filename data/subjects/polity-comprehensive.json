@@ -4,7 +4,7 @@
     {
       "id": "pc1",
       "subject": "Polity & Governance",
-      "question": "Consider the following statements:\n1. Fundamental Rights are available against the State as defined under Article 12\n2. Article 12 includes local bodies and other authorities within the definition of 'State'\n3. Private companies receiving government funding are always considered 'State'\n4. Judiciary is not 'State' under Article 12",
+      "question": "Consider the following statements:\n1. Fundamental Rights are available against the State as defined under Article 12\n2. Article 12 includes local bodies and other authorities within the definition of 'State'\n3. Private companies receiving government funding are always considered 'State'\n4. Judiciary is not 'State' under Article 12\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 2 only",
         "1, 2 and 4 only",
@@ -30,7 +30,7 @@
     {
       "id": "pc3",
       "subject": "Polity & Governance",
-      "question": "Consider the following about the amendment procedure under Article 368:\n1. Constitutional amendment bills can be introduced in either House\n2. Joint sitting can be called if one House rejects an amendment bill\n3. State legislatures cannot initiate Constitutional amendments\n4. President MUST give assent to a Constitutional amendment bill",
+      "question": "Consider the following about the amendment procedure under Article 368:\n1. Constitutional amendment bills can be introduced in either House\n2. Joint sitting can be called if one House rejects an amendment bill\n3. State legislatures cannot initiate Constitutional amendments\n4. President MUST give assent to a Constitutional amendment bill\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 4 only",
         "1, 3 and 4 only",
@@ -56,7 +56,7 @@
     {
       "id": "pc5",
       "subject": "Polity & Governance",
-      "question": "Consider the following about the Governor's powers:\n1. Governor can reserve a bill for President's consideration\n2. Governor's decision to reserve a bill cannot be questioned in court\n3. When a bill is reserved, President can direct the Governor to return it to the legislature\n4. There is no time limit within which the President must act on a reserved bill",
+      "question": "Consider the following about the Governor's powers:\n1. Governor can reserve a bill for President's consideration\n2. Governor's decision to reserve a bill cannot be questioned in court\n3. When a bill is reserved, President can direct the Governor to return it to the legislature\n4. There is no time limit within which the President must act on a reserved bill\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 3 and 4 only",
         "1, 2 and 4 only",
@@ -72,17 +72,17 @@
       "question": "With reference to the Comptroller and Auditor General (CAG):\n1. CAG audits all expenditure from the Consolidated Fund of India and States\n2. CAG's reports are discussed by the Public Accounts Committee\n3. CAG also audits government companies under the Companies Act\n4. The CAG is the guardian of the public purse",
       "options": [
         "1, 2 and 4 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4",
         "1 and 2 only"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanation": "All correct. CAG (Art 148-151) audits Consolidated Fund expenditure of Union and States. Reports are examined by PAC (Lok Sabha) and COPU (State Assemblies). Under Section 139-143 of Companies Act 2013, CAG audits government companies. Ambedkar called CAG 'the most important officer in the Constitution' - guardian of public purse."
     },
     {
       "id": "pc7",
       "subject": "Polity & Governance",
-      "question": "Consider the following statements about the Election Commission:\n1. The Constitution provides for a multi-member Election Commission\n2. The Chief Election Commissioner can be removed only through impeachment\n3. Other Election Commissioners can be removed on CEC's recommendation\n4. The CEC and ECs have equal voting power in decisions",
+      "question": "Consider the following statements about the Election Commission:\n1. The Constitution provides for a multi-member Election Commission\n2. The Chief Election Commissioner can be removed only through impeachment\n3. Other Election Commissioners can be removed on CEC's recommendation\n4. The CEC and ECs have equal voting power in decisions\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 4 only",
         "1, 3 and 4 only",
@@ -121,7 +121,7 @@
     {
       "id": "pc10",
       "subject": "Polity & Governance",
-      "question": "Consider the following about Fundamental Duties (Article 51A):\n1. They were added by the 42nd Amendment on Swaran Singh Committee's recommendation\n2. They are justiciable and enforceable by courts\n3. There are currently 11 Fundamental Duties\n4. They apply only to citizens, not foreigners",
+      "question": "Consider the following about Fundamental Duties (Article 51A):\n1. They were added by the 42nd Amendment on Swaran Singh Committee's recommendation\n2. They are justiciable and enforceable by courts\n3. There are currently 11 Fundamental Duties\n4. They apply only to citizens, not foreigners\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2 and 4",
         "1, 2, 3 and 4",
@@ -138,23 +138,23 @@
       "options": [
         "1, 2, 3 and 4",
         "1, 2 and 3 only",
-        "All are correct",
+        "2 and 3 only",
         "1 and 4 only"
       ],
-      "answer": 2,
+      "answer": 0,
       "explanation": "All four are grounds for disqualification under Article 102. Office of profit (unless exempted by Parliament), unsound mind (declared by court), undischarged insolvent, and acquiring foreign citizenship are all disqualifying. Additionally, disqualification under 10th Schedule (anti-defection) and RPA 1951 provisions also apply."
     },
     {
       "id": "pc12",
       "subject": "Polity & Governance",
-      "question": "Consider the following about the Rajya Sabha's special powers:\n1. It can declare a subject in State List to be of national importance (Art 249)\n2. It can create new All India Services (Art 312)\n3. It cannot amend or reject Money Bills\n4. It has equal power with Lok Sabha in impeachment of President",
+      "question": "Consider the following about the Rajya Sabha's special powers:\n1. It can declare a subject in State List to be of national importance (Art 249)\n2. It can create new All India Services (Art 312)\n3. It cannot amend or reject Money Bills\n4. It has equal power with Lok Sabha in impeachment of President\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2, 3 and 4",
         "1, 2 and 4 only",
         "1 and 2 only",
-        "All are correct"
+        "1 and 4 only"
       ],
-      "answer": 3,
+      "answer": 0,
       "explanation": "All correct. Art 249: RS can pass resolution (2/3 majority) to allow Parliament to legislate on State List subjects. Art 312: RS can create new All India Services by resolution. RS can only recommend amendments to Money Bills (14 days). Both houses have equal power in impeachment (Art 61) and Constitutional amendments."
     },
     {
@@ -165,7 +165,7 @@
         "1, 2, 3 and 4",
         "2 and 3 only",
         "2, 3 and 4 only",
-        "All are correct"
+        "1 and 4 only"
       ],
       "answer": 2,
       "explanation": "2, 3, 4 correct. Statement 1 is WRONG in practice - the President cannot arbitrarily dismiss a PM who commands majority in Lok Sabha. This is a constitutional convention. But Governor (Art 156), Attorney General (Art 76), and Ministers (Art 75(2)) explicitly hold office during President's pleasure (though for ministers, it's on PM's advice)."
@@ -186,9 +186,9 @@
     {
       "id": "pc15",
       "subject": "Polity & Governance",
-      "question": "Consider the following about the National Commission for Scheduled Castes (NCSC):\n1. It is a Constitutional body under Article 338\n2. It investigates complaints of deprivation of rights of SCs\n3. Its recommendations are binding on the government\n4. It submits annual reports to the President",
+      "question": "Consider the following about the National Commission for Scheduled Castes (NCSC):\n1. It is a Constitutional body under Article 338\n2. It investigates complaints of deprivation of rights of SCs\n3. Its recommendations are binding on the government\n4. It submits annual reports to the President\nWhich of the statements given above is/are correct?",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 4 only",
         "1, 2, 3 and 4",
         "1 and 2 only"

@@ -4,11 +4,11 @@
     {
       "id": "fp1",
       "subject": "Internal Security",
-      "question": "Consider the following about India's Unlawful Activities (Prevention) Act and its criticism:\n1. Conviction rate under UAPA is approximately 2-3%\n2. 97% of cases remain pending for years while accused stay in jail\n3. Bail provisions (Section 43D(5)) make it nearly impossible to get bail\n4. SC has held that mere association with a banned organization is sufficient for conviction",
+      "question": "Consider the following about India's Unlawful Activities (Prevention) Act and its criticism:\n1. Conviction rate under UAPA is approximately 2-3%\n2. 97% of cases remain pending for years while accused stay in jail\n3. Bail provisions (Section 43D(5)) make it nearly impossible to get bail\n4. SC has held that mere association with a banned organization is sufficient for conviction\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2, 3 and 4",
         "1 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only"
       ],
       "answer": 3,
@@ -22,7 +22,7 @@
         "1 and 2 only",
         "1, 2, 3 and 4",
         "1, 2 and 3 only",
-        "All are correct"
+        "1 and 4 only"
       ],
       "answer": 2,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — India does NOT have a dedicated submarine cable protection force. Cable security relies on: Indian Navy general surveillance, international law (UN Convention on High Seas), agreements with cable operators, and routing redundancy. 95%+ international traffic via cables (satellite is backup only). Vulnerability: cables can be cut by anchors, fishing trawlers, or deliberate sabotage. India has 17+ submarine cable landing stations. Chennai and Mumbai are critical hubs — any disruption there could severely impact connectivity."
@@ -30,9 +30,9 @@
     {
       "id": "fp3",
       "subject": "Internal Security",
-      "question": "Consider the following about India's counter-drone strategy:\n1. The Jammu Air Force Station attack (2021) was India's first drone attack on military\n2. India has deployed anti-drone systems using laser, RF jammers, and net-catching drones\n3. BSF has detected multiple drone intrusions from Pakistan carrying weapons/drugs\n4. India has no policy framework for counter-drone operations",
+      "question": "Consider the following about India's counter-drone strategy:\n1. The Jammu Air Force Station attack (2021) was India's first drone attack on military\n2. India has deployed anti-drone systems using laser, RF jammers, and net-catching drones\n3. BSF has detected multiple drone intrusions from Pakistan carrying weapons/drugs\n4. India has no policy framework for counter-drone operations\nWhich of the statements given above is/are correct?",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only",
         "1, 2, 3 and 4",
         "1 and 3 only"
@@ -45,7 +45,7 @@
       "subject": "Internal Security",
       "question": "With reference to the National Counter Terrorism Centre (NCTC) debate:\n1. NCTC was proposed after 26/11 to coordinate counter-terrorism across agencies\n2. States opposed NCTC fearing it would override their police powers\n3. The proposed NCTC was modeled on the US NCTC\n4. NCTC has been fully established and is operational",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only",
         "1, 2, 3 and 4",
         "1 and 2 only"
@@ -56,12 +56,12 @@
     {
       "id": "fp5",
       "subject": "Internal Security",
-      "question": "Consider the following about Proxy Wars and Grey Zone Warfare against India:\n1. Pakistan uses non-state actors as proxies against India (JeM, LeT, Hizbul)\n2. Grey zone warfare includes: information warfare, cyber attacks, economic coercion below armed conflict threshold\n3. China's Xiaokang villages and salami-slicing on LAC are examples of grey zone tactics\n4. India has no strategy to counter grey zone threats",
+      "question": "Consider the following about Proxy Wars and Grey Zone Warfare against India:\n1. Pakistan uses non-state actors as proxies against India (JeM, LeT, Hizbul)\n2. Grey zone warfare includes: information warfare, cyber attacks, economic coercion below armed conflict threshold\n3. China's Xiaokang villages and salami-slicing on LAC are examples of grey zone tactics\n4. India has no strategy to counter grey zone threats\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2, 3 and 4",
         "1 and 2 only",
         "1, 2 and 3 only",
-        "All are correct"
+        "1 and 4 only"
       ],
       "answer": 2,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — India IS developing grey zone responses: enhanced border infrastructure (Vibrant Villages, road building near LAC), Information Warfare (countering Pakistani/Chinese narratives), cyber deterrence (offensive cyber capabilities), economic instruments (banning Chinese apps, restricting FDI from border countries). 'Multi-Domain Deterrence' doctrine addresses grey zone. Challenge: grey zone operates BELOW the threshold of armed conflict — traditional military responses don't fit. Requires whole-of-government approach integrating: diplomatic, information, military, economic instruments."
@@ -69,11 +69,11 @@
     {
       "id": "fp6",
       "subject": "Government Schemes",
-      "question": "Consider the following about MUDRA Yojana (Micro Units Development and Refinance Agency):\n1. It provides loans up to ₹10 lakh without collateral for micro-enterprises\n2. Three categories: Shishu (₹50,000), Kishore (₹50K-5L), Tarun (₹5L-10L)\n3. Over 70% of MUDRA loans go to women borrowers\n4. Default rate on MUDRA loans is zero",
+      "question": "Consider the following about MUDRA Yojana (Micro Units Development and Refinance Agency):\n1. It provides loans up to ₹10 lakh without collateral for micro-enterprises\n2. Three categories: Shishu (₹50,000), Kishore (₹50K-5L), Tarun (₹5L-10L)\n3. Over 70% of MUDRA loans go to women borrowers\n4. Default rate on MUDRA loans is zero\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2, 3 and 4",
         "1, 2 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1 and 2 only"
       ],
       "answer": 1,
@@ -84,7 +84,7 @@
       "subject": "Government Schemes",
       "question": "With reference to Samagra Shiksha Abhiyan:\n1. It is an integrated scheme covering pre-school to Class 12\n2. It subsumes: Sarva Shiksha Abhiyan, Rashtriya Madhyamik Shiksha Abhiyan, and Teacher Education\n3. It provides for: school infrastructure, teacher training, ICT, inclusive education\n4. It has made India 100% literate",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1 and 3 only",
         "1, 2 and 3 only",
         "1, 2, 3 and 4"
@@ -95,11 +95,11 @@
     {
       "id": "fp8",
       "subject": "Government Schemes",
-      "question": "Consider the following about PM Matsya Sampada Yojana (PMMSY):\n1. It targets additional 70 lakh tonnes fish production over 5 years\n2. It aims to double fisheries exports to ₹1 lakh crore\n3. It promotes: aquaculture intensification, cold chain, seaweed cultivation\n4. India is the world's largest fish producing country",
+      "question": "Consider the following about PM Matsya Sampada Yojana (PMMSY):\n1. It targets additional 70 lakh tonnes fish production over 5 years\n2. It aims to double fisheries exports to ₹1 lakh crore\n3. It promotes: aquaculture intensification, cold chain, seaweed cultivation\n4. India is the world's largest fish producing country\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2, 3 and 4",
         "1 and 2 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only"
       ],
       "answer": 3,
@@ -113,7 +113,7 @@
         "1, 2, 3 and 4",
         "1 and 3 only",
         "1, 2 and 3 only",
-        "All are correct"
+        "1 and 4 only"
       ],
       "answer": 2,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — ABDM does NOT replace physical hospitals. It DIGITIZES health records alongside existing physical infrastructure. Components: ABHA (Ayushman Bharat Health Account — 14-digit unique health ID), Health Information Exchange (HIE), Health Facility Registry (HFR), Health Professionals Registry (HPR), Personal Health Records (PHR). Benefits: continuity of care (records follow patient across hospitals), reduce duplicate tests, enable telemedicine (supplement, not replace physical care), health analytics at population level."
@@ -121,10 +121,10 @@
     {
       "id": "fp10",
       "subject": "Government Schemes",
-      "question": "Consider the following about National Education Policy 2020 implementation:\n1. New 5+3+3+4 structure replacing 10+2\n2. Academic Bank of Credits (ABC) allows credit accumulation across institutions\n3. Multiple entry-exit in higher education with certificate/diploma at each stage\n4. All recommendations of NEP 2020 have been fully implemented across India",
+      "question": "Consider the following about National Education Policy 2020 implementation:\n1. New 5+3+3+4 structure replacing 10+2\n2. Academic Bank of Credits (ABC) allows credit accumulation across institutions\n3. Multiple entry-exit in higher education with certificate/diploma at each stage\n4. All recommendations of NEP 2020 have been fully implemented across India\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only",
         "1, 2, 3 and 4"
       ],
@@ -134,10 +134,10 @@
     {
       "id": "fp11",
       "subject": "Interdisciplinary",
-      "question": "Consider the following about India's urban governance challenges:\n1. 74th Amendment (1992) devolved 18 functions to municipalities\n2. Most municipalities remain financially dependent on state/centre (own revenue <50%)\n3. Municipal elections are frequently delayed by state governments\n4. India has successfully achieved 'Smart City' status for all its cities",
+      "question": "Consider the following about India's urban governance challenges:\n1. 74th Amendment (1992) devolved 18 functions to municipalities\n2. Most municipalities remain financially dependent on state/centre (own revenue <50%)\n3. Municipal elections are frequently delayed by state governments\n4. India has successfully achieved 'Smart City' status for all its cities\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2, 3 and 4",
-        "All are correct",
+        "1 and 4 only",
         "1 and 2 only",
         "1, 2 and 3 only"
       ],
@@ -151,7 +151,7 @@
       "options": [
         "1, 2, 3 and 4",
         "1 and 2 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only"
       ],
       "answer": 3,
@@ -160,10 +160,10 @@
     {
       "id": "fp13",
       "subject": "Interdisciplinary",
-      "question": "Consider the following about India's transition to natural gas economy:\n1. India targets 15% share of natural gas in energy mix (from current ~6%)\n2. City Gas Distribution networks being expanded to 300+ Geographical Areas\n3. India imports ~50% of its natural gas (mainly LNG)\n4. Gas pricing has been completely deregulated through market-linked pricing",
+      "question": "Consider the following about India's transition to natural gas economy:\n1. India targets 15% share of natural gas in energy mix (from current ~6%)\n2. City Gas Distribution networks being expanded to 300+ Geographical Areas\n3. India imports ~50% of its natural gas (mainly LNG)\n4. Gas pricing has been completely deregulated through market-linked pricing\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 2 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4",
         "1, 2 and 3 only"
       ],
@@ -175,7 +175,7 @@
       "subject": "Interdisciplinary",
       "question": "With reference to India's circular economy initiatives:\n1. Extended Producer Responsibility (EPR) applies to plastics, e-waste, batteries, tyres\n2. GOBAR-DHAN converts bio-waste to biogas and bio-CNG\n3. Vehicle Scrappage Policy incentivizes old polluting vehicles' retirement\n4. India has achieved zero-waste status in all major cities",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4",
         "1 and 3 only",
         "1, 2 and 3 only"
@@ -186,11 +186,11 @@
     {
       "id": "fp15",
       "subject": "Social Issues",
-      "question": "Consider the following about India's LGBTQ+ rights:\n1. Section 377 was partially struck down by SC in Navtej Singh Johar case (2018)\n2. Same-sex marriage is NOT legally recognized in India (SC declined in 2023)\n3. Transgender Persons Act 2019 provides for identity certificates\n4. India has always been supportive of LGBTQ+ rights throughout history",
+      "question": "Consider the following about India's LGBTQ+ rights:\n1. Section 377 was partially struck down by SC in Navtej Singh Johar case (2018)\n2. Same-sex marriage is NOT legally recognized in India (SC declined in 2023)\n3. Transgender Persons Act 2019 provides for identity certificates\n4. India has always been supportive of LGBTQ+ rights throughout history\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2, 3 and 4",
         "1, 2 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1 and 2 only"
       ],
       "answer": 1,
@@ -203,7 +203,7 @@
       "options": [
         "1 and 2 only",
         "1, 2 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4"
       ],
       "answer": 1,
@@ -212,14 +212,14 @@
     {
       "id": "fp17",
       "subject": "Social Issues",
-      "question": "Consider the following about India's child labour situation:\n1. Child and Adolescent Labour (Prohibition and Regulation) Act was amended in 2016\n2. The amendment allows children to work in family enterprises and entertainment\n3. Census 2011 counted approximately 1 crore child labourers (5-14 years)\n4. PENCIL portal enables complaint registration against child labour",
+      "question": "Consider the following about India's child labour situation:\n1. Child and Adolescent Labour (Prohibition and Regulation) Act was amended in 2016\n2. The amendment allows children to work in family enterprises and entertainment\n3. Census 2011 counted approximately 1 crore child labourers (5-14 years)\n4. PENCIL portal enables complaint registration against child labour\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2, 3 and 4",
         "1 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 3 and 4 only"
       ],
-      "answer": 2,
+      "answer": 0,
       "explanation": "All correct. Child Labour Act (amended 2016): banned employment of children (<14) in ALL occupations EXCEPT family enterprises (non-hazardous) and entertainment (with conditions). This exception was criticized as a loophole (family business = many occupations). Adolescents (14-18): banned only in hazardous occupations. Census 2011: 1.01 crore child labourers. PENCIL (Platform for Effective Enforcement for No Child Labour): online complaint, tracking, rehabilitation. NCLP (National Child Labour Project): identifies/rescues/rehabilitates child labourers through bridge education."
     }
   ]

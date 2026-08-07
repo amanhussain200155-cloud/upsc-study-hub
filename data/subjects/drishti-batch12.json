@@ -4,14 +4,14 @@
     {
       "id": "d12-1",
       "subject": "Economics",
-      "question": "Consider the following about Union Budget 2026-27 key announcements:\n1. Push for Chemical Parks to boost domestic petrochemical production\n2. Electronics Components Manufacturing Scheme launched\n3. Mission for Aatmanirbharta in Pulses with MSP focus\n4. Sustainable Tourism push with heritage circuit development",
+      "question": "Consider the following about Union Budget 2026-27 key announcements:\n1. Push for Chemical Parks to boost domestic petrochemical production\n2. Electronics Components Manufacturing Scheme launched\n3. Mission for Aatmanirbharta in Pulses with MSP focus\n4. Sustainable Tourism push with heritage circuit development\nWhich of the statements given above is/are correct?",
       "options": [
-        "All are correct",
+        "2 and 3 only",
         "1, 2, 3 and 4",
         "1 and 4 only",
         "1, 2 and 3 only"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "All correct. Budget 2026-27 key themes: Atmanirbharta in manufacturing (chemical parks for reducing import of petrochemicals worth $25 billion), electronics component deepening (beyond assembly to actual component manufacturing), pulse self-sufficiency mission (reducing $2 billion imports), tourism circuits (Buddhist, Ramayana, Krishna, Heritage circuits for foreign exchange earnings). Capex continued above 3.4% of GDP. Focus on employment generation across these sectors."
     },
     {
@@ -22,22 +22,22 @@
         "1, 2, 3 and 4",
         "1, 2 and 4 only",
         "2 and 3 only",
-        "All are correct"
+        "1 and 4 only"
       ],
-      "answer": 3,
+      "answer": 0,
       "explanation": "All correct. DISCOMs are India's weakest link in power sector: accumulated losses ₹6+ lakh crore, AT&C (Aggregate Technical & Commercial) losses ~17% (vs <10% ideal). RDSS (₹3.03 lakh crore): targets AT&C loss reduction to 12-15%, smart metering of all connections by 2025-26. Delhi DISCOMs privatized (2002): BSES Rajdhani, BSES Yamuna, Tata Power DDL — improved performance. Challenge: free/subsidized power promises by state governments undermine DISCOM viability."
     },
     {
       "id": "d12-3",
       "subject": "Economics",
-      "question": "Consider the following about India's Major Ports Surge:\n1. India's 12 major ports handled record cargo in FY 2024-25\n2. Major Port Authorities Act, 2021 replaced Major Port Trusts Act, 1963\n3. The new Act provides for corporatization model giving ports more autonomy\n4. Sagarmala programme aims for port-led development",
+      "question": "Consider the following about India's Major Ports Surge:\n1. India's 12 major ports handled record cargo in FY 2024-25\n2. Major Port Authorities Act, 2021 replaced Major Port Trusts Act, 1963\n3. The new Act provides for corporatization model giving ports more autonomy\n4. Sagarmala programme aims for port-led development\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2, 3 and 4",
         "1, 2 and 4 only",
-        "All are correct",
+        "2 and 3 only",
         "1 and 4 only"
       ],
-      "answer": 2,
+      "answer": 0,
       "explanation": "All correct. Major ports: record 819+ million tonnes cargo (FY25). New Act (2021): Board of Major Port Authority replaces Board of Trustees — greater autonomy in: tariff setting (no TAMP dependence), PPP contracts, land management. 12 major ports: Deendayal (Kandla), Mumbai, JNPT, Mormugao, New Mangalore, Cochin, Tuticorin, Chennai, Kamarajar (Ennore), Visakhapatnam, Paradip, Kolkata/Haldia. Sagarmala: port modernization + port connectivity + port-led industrialization + coastal development."
     },
     {
@@ -47,7 +47,7 @@
       "options": [
         "1 and 2 only",
         "1, 2 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4"
       ],
       "answer": 1,
@@ -56,11 +56,11 @@
     {
       "id": "d12-5",
       "subject": "Polity & Governance",
-      "question": "Consider the following about Citizen-Centric Universal Health Coverage (UHC):\n1. UHC means all individuals receive quality health services without financial hardship\n2. India's Ayushman Bharat provides health insurance (PM-JAY) + primary care (HWCs)\n3. India's out-of-pocket health expenditure has declined but remains high (~40%)\n4. India spends approximately 3.5% of GDP on public health",
+      "question": "Consider the following about Citizen-Centric Universal Health Coverage (UHC):\n1. UHC means all individuals receive quality health services without financial hardship\n2. India's Ayushman Bharat provides health insurance (PM-JAY) + primary care (HWCs)\n3. India's out-of-pocket health expenditure has declined but remains high (~40%)\n4. India spends approximately 3.5% of GDP on public health\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2 and 3 only",
         "1 and 2 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4"
       ],
       "answer": 0,
@@ -72,20 +72,20 @@
       "question": "With reference to the Arbitration Council of India (ACI):\n1. It is proposed to be established under the Arbitration and Conciliation Act\n2. It aims to promote institutional arbitration in India\n3. India wants to become a global arbitration hub (like Singapore/London)\n4. Currently most Indian commercial disputes are arbitrated in Singapore (SIAC)",
       "options": [
         "1 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only",
         "1, 2, 3 and 4"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanation": "All correct. ACI (proposed but not yet fully operationalized): grade arbitral institutions, accredit arbitrators, promote India as global arbitration seat. Current situation: Indian parties prefer Singapore (SIAC), London (LCIA), Hong Kong (HKIAC) over Indian institutions due to delays, judicial interference. India's ambition: establish NDIAC (New Delhi International Arbitration Centre, now renamed as India International Arbitration Centre). Challenges: enforceability issues, slow judiciary, Section 34 challenges delays."
     },
     {
       "id": "d12-7",
       "subject": "Polity & Governance",
-      "question": "Consider the following about Good Governance Day (25 December):\n1. It is observed on the birth anniversary of former PM Atal Bihari Vajpayee\n2. It promotes citizen-centric governance initiatives\n3. India has a comprehensive Good Governance Index published by DARPG\n4. India ranks consistently in the top 20 globally on governance indices",
+      "question": "Consider the following about Good Governance Day (25 December):\n1. It is observed on the birth anniversary of former PM Atal Bihari Vajpayee\n2. It promotes citizen-centric governance initiatives\n3. India has a comprehensive Good Governance Index published by DARPG\n4. India ranks consistently in the top 20 globally on governance indices\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2, 3 and 4",
-        "All are correct",
+        "1 and 4 only",
         "1 and 2 only",
         "1, 2 and 3 only"
       ],
@@ -95,14 +95,14 @@
     {
       "id": "d12-8",
       "subject": "Science & Technology",
-      "question": "Consider the following about India's Remote Sensing and IRS Programme:\n1. Indian Remote Sensing (IRS) satellites are the largest civilian remote sensing constellation\n2. They are used for agriculture monitoring, water resources, urban planning\n3. ISRO's NRSC (National Remote Sensing Centre) processes IRS data\n4. Cartosat series provides high-resolution cartographic data for mapping",
+      "question": "Consider the following about India's Remote Sensing and IRS Programme:\n1. Indian Remote Sensing (IRS) satellites are the largest civilian remote sensing constellation\n2. They are used for agriculture monitoring, water resources, urban planning\n3. ISRO's NRSC (National Remote Sensing Centre) processes IRS data\n4. Cartosat series provides high-resolution cartographic data for mapping\nWhich of the statements given above is/are correct?",
       "options": [
-        "All are correct",
+        "2 and 3 only",
         "1, 2, 3 and 4",
         "1 and 4 only",
         "1, 2 and 3 only"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "All correct. IRS programme (started 1988 with IRS-1A): India operates world's largest constellation of civilian remote sensing satellites. Types: Resourcesat (natural resources), Cartosat (cartography/urban), Oceansat (marine), RISAT (radar imaging), HySIS (hyperspectral). NRSC (Hyderabad) is ISRO's centre for receiving, processing, distributing satellite data. Applications: crop acreage/yield estimation, groundwater mapping, disaster monitoring, forest cover assessment, Smart City planning."
     },
     {
@@ -110,25 +110,25 @@
       "subject": "Economics",
       "question": "With reference to Circular Economy in India:\n1. It focuses on reduce, reuse, recycle to minimize waste\n2. India has notified EPR (Extended Producer Responsibility) frameworks for plastics, e-waste, batteries\n3. GOBAR-DHAN scheme converts cattle dung/biomass to biogas and compost\n4. India's circular economy transition could generate $218 billion economic value by 2030",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1 and 2 only",
         "1, 2, 3 and 4",
         "1, 2 and 3 only"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "All correct. Circular economy: linear (make-use-dispose) → circular (make-use-return). India's EPR: Plastic Waste Management Rules (EPR for plastic packaging), E-Waste Rules (EPR for electronics), Battery Waste Rules (EPR for batteries - especially EV batteries). GOBAR-DHAN (Galvanizing Organic Bio-Agro Resources): 500+ bio-gas plants planned. Ellen MacArthur Foundation/FICCI estimate: $218 billion value for India by 2030. NITI Aayog's 11 sectors identified for circular transition."
     },
     {
       "id": "d12-10",
       "subject": "Social Issues",
-      "question": "Consider the following about India's Data Privacy framework:\n1. Digital Personal Data Protection Act (DPDP) was enacted in 2023\n2. It establishes the Data Protection Board of India\n3. Government is exempted in the interest of national security\n4. It provides for 'Right to Erasure' and 'Right to Correction' of personal data",
+      "question": "Consider the following about India's Data Privacy framework:\n1. Digital Personal Data Protection Act (DPDP) was enacted in 2023\n2. It establishes the Data Protection Board of India\n3. Government is exempted in the interest of national security\n4. It provides for 'Right to Erasure' and 'Right to Correction' of personal data\nWhich of the statements given above is/are correct?",
       "options": [
-        "All are correct",
+        "2 and 3 only",
         "1 and 4 only",
         "1, 2 and 3 only",
         "1, 2, 3 and 4"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "All correct. DPDP Act 2023 (India's first comprehensive data protection law, replacing Personal Data Protection Bill 2019 which was withdrawn). Key features: Data Protection Board (adjudicatory, not regulatory), consent-based data processing, fiduciary duties on data handlers, ₹250 crore max penalty. Government exemption: Section 17(2) for sovereignty/security. Rights: erasure (deletion), correction, access, grievance redressal. Applies to digital data only. Cross-border transfer: allowed to notified countries. Criticism: broad government exemptions, no independent regulator."
     }
   ]

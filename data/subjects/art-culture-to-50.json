@@ -4,9 +4,9 @@
     {
       "id": "ac1",
       "subject": "Art & Culture",
-      "question": "Consider the following about Indian classical dance forms and their features:\n1. Kathakali uses elaborate facial makeup (Chutti) and tells stories from Ramayana/Mahabharata\n2. Odissi is based on the Natyashastra and Abhinaya Darpana and features the Tribhangi posture\n3. Manipuri is characterized by gentle, lyrical movements depicting Radha-Krishna Raas Leela\n4. All 8 classical dances originated in North India",
+      "question": "Consider the following about Indian classical dance forms and their features:\n1. Kathakali uses elaborate facial makeup (Chutti) and tells stories from Ramayana/Mahabharata\n2. Odissi is based on the Natyashastra and Abhinaya Darpana and features the Tribhangi posture\n3. Manipuri is characterized by gentle, lyrical movements depicting Radha-Krishna Raas Leela\n4. All 8 classical dances originated in North India\nWhich of the statements given above is/are correct?",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1 and 2 only",
         "1, 2, 3 and 4",
         "1, 2 and 3 only"
@@ -21,7 +21,7 @@
       "options": [
         "1 and 3 only",
         "1, 2 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4"
       ],
       "answer": 1,
@@ -30,14 +30,14 @@
     {
       "id": "ac3",
       "subject": "Art & Culture",
-      "question": "Consider the following about Mughal gardens:\n1. They follow the 'Charbagh' (four-garden) pattern of Persian origin\n2. Shalimar Bagh (Kashmir) was built by Jahangir\n3. Nishat Bagh (Kashmir) was built by Empress Nur Jahan's brother\n4. Mughal gardens always used flowing water channels as central axis",
+      "question": "Consider the following about Mughal gardens:\n1. They follow the 'Charbagh' (four-garden) pattern of Persian origin\n2. Shalimar Bagh (Kashmir) was built by Jahangir\n3. Nishat Bagh (Kashmir) was built by Empress Nur Jahan's brother\n4. Mughal gardens always used flowing water channels as central axis\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2, 3 and 4",
         "1 and 4 only",
         "1, 3 and 4 only",
-        "All are correct"
+        "2 and 3 only"
       ],
-      "answer": 3,
+      "answer": 0,
       "explanation": "All correct. Charbagh: Persian concept — garden divided into 4 quarters by water channels, symbolizing 4 rivers of paradise (Quran). Shalimar Bagh (1619, Jahangir, expanded by Shah Jahan): 3-terraced garden on Dal Lake banks. Nishat Bagh (1633, Asif Khan — Nur Jahan's brother): 12 terraces representing zodiac signs. Water: central to all Mughal gardens (fountains, channels, cascades) — both aesthetic and cooling function in hot climate. Taj Mahal garden is also Charbagh."
     },
     {
@@ -46,22 +46,22 @@
       "question": "With reference to Indian martial art forms:\n1. Kalaripayattu (Kerala) is considered one of the oldest martial arts in the world\n2. Thang-Ta (Manipur) uses sword and spear techniques\n3. Gatka (Punjab) is associated with Sikh martial tradition\n4. Silambam (Tamil Nadu) is a stick-fighting form",
       "options": [
         "1 and 4 only",
-        "All are correct",
+        "2 and 3 only",
         "1, 2, 3 and 4",
         "1, 2 and 3 only"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanation": "All correct. Kalaripayattu (3,000+ years old tradition): strikes, kicks, weapons (sword, shield, spear), grappling, pressure point techniques (Marma). Legend: Bodhidharma carried it to China → Shaolin Kung Fu origin. Thang-Ta (Meitei martial art): Thang=sword, Ta=spear. Gatka: demonstrated at Hola Mohalla (Sikh festival, Anandpur Sahib). Silambam: bamboo staff-based, mentioned in Sangam literature. Others: Mardani Khel (Maharashtra, Maratha sword fighting), Lathi (widespread), Sqay (J&K), Inbuan (Mizoram wrestling)."
     },
     {
       "id": "ac5",
       "subject": "Art & Culture",
-      "question": "Consider the following about Indian literary traditions:\n1. Sangam literature (300 BCE-300 CE) is the earliest Tamil literary corpus\n2. Kalidasa wrote in Sanskrit during the Gupta period (Abhijnana Shakuntalam, Meghadutam)\n3. Amir Khusrau is considered the father of Urdu literature and Qawwali\n4. Rabindranath Tagore wrote exclusively in English",
+      "question": "Consider the following about Indian literary traditions:\n1. Sangam literature (300 BCE-300 CE) is the earliest Tamil literary corpus\n2. Kalidasa wrote in Sanskrit during the Gupta period (Abhijnana Shakuntalam, Meghadutam)\n3. Amir Khusrau is considered the father of Urdu literature and Qawwali\n4. Rabindranath Tagore wrote exclusively in English\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 2 only",
         "1, 2 and 3 only",
         "1, 2, 3 and 4",
-        "All are correct"
+        "1 and 4 only"
       ],
       "answer": 1,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — Tagore wrote primarily in BENGALI (Gitanjali was originally in Bengali — he translated it into English). He also wrote in English but it was NOT exclusive. Bengali works: Gora, Ghare Baire, Gitanjali (original), songs (Rabindra Sangeet — 2,000+). Nobel Prize (1913) was for the English translation of Gitanjali. Tagore: polymath — poet, novelist, playwright, painter, composer of both Indian national anthems (India + Bangladesh)."
@@ -73,7 +73,7 @@
       "options": [
         "1, 2, 3 and 4",
         "1 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only"
       ],
       "answer": 3,
@@ -82,14 +82,14 @@
     {
       "id": "ac7",
       "subject": "Art & Culture",
-      "question": "Consider the following about India's Buddhist heritage sites:\n1. Sanchi Stupa (MP) was built by Emperor Ashoka\n2. Bodh Gaya (Bihar) is where Buddha attained enlightenment\n3. Sarnath (UP) is where Buddha gave his first sermon (Dhammacakkappavattana Sutta)\n4. Nalanda was a Buddhist university destroyed by Bakhtiyar Khalji (1193)",
+      "question": "Consider the following about India's Buddhist heritage sites:\n1. Sanchi Stupa (MP) was built by Emperor Ashoka\n2. Bodh Gaya (Bihar) is where Buddha attained enlightenment\n3. Sarnath (UP) is where Buddha gave his first sermon (Dhammacakkappavattana Sutta)\n4. Nalanda was a Buddhist university destroyed by Bakhtiyar Khalji (1193)\nWhich of the statements given above is/are correct?",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "2, 3 and 4 only",
         "1, 2 and 3 only",
         "1, 2, 3 and 4"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "All correct. Sanchi (3rd century BCE, Ashoka; later enlarged by Satavahanas/Sungas): Great Stupa with toranas (gateways) depicting Jataka tales — UNESCO WHS. Bodh Gaya: Mahabodhi Temple (UNESCO) marks exact spot under Bodhi Tree. Sarnath (Deer Park/Isipatana): First Sermon, Ashoka's Lion Capital found here (national emblem). Nalanda (5th-12th century): 10,000+ students, 2,000 teachers, 9 million books in library — destroyed by Khalji's invasion. All are UNESCO World Heritage Sites or tentative list."
     },
     {
@@ -100,17 +100,17 @@
         "1, 2 and 3 only",
         "1, 2, 3 and 4",
         "1 and 4 only",
-        "All are correct"
+        "2 and 3 only"
       ],
-      "answer": 3,
+      "answer": 1,
       "explanation": "All correct. Kutiyattam (Sanskrit theatre of Kerala): performed in Koothambalams (temple theatres), 2,000+ year tradition, UNESCO Intangible Heritage (2001) — India's first. Yakshagana: mythological stories, elaborate costumes, night-long performances in open air. Bhavai: originated 14th century, social satire, multi-act format. Jatra (Bengal): originated from Chaitanya's Vaishnavism, later secular themes. Tamasha: lavani + drama, Marathi folk form. Others: Nautanki (UP), Swang (Haryana), Therukoothu (TN)."
     },
     {
       "id": "ac9",
       "subject": "Art & Culture",
-      "question": "Consider the following about India's festivals and their states:\n1. Bihu - Assam (harvest festival)\n2. Onam - Kerala (harvest festival associated with King Mahabali)\n3. Pongal - Tamil Nadu (harvest thanksgiving to Sun God)\n4. Lohri - Tamil Nadu (bonfire festival)",
+      "question": "Consider the following about India's festivals and their states:\n1. Bihu - Assam (harvest festival)\n2. Onam - Kerala (harvest festival associated with King Mahabali)\n3. Pongal - Tamil Nadu (harvest thanksgiving to Sun God)\n4. Lohri - Tamil Nadu (bonfire festival)\nWhich of the statements given above is/are correct?",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4",
         "1, 2 and 3 only",
         "1 and 3 only"
@@ -125,10 +125,10 @@
       "options": [
         "1 and 4 only",
         "1, 2, 3 and 4",
-        "All are correct",
+        "2 and 3 only",
         "1, 2 and 3 only"
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "All correct. Three Akademis (all under Ministry of Culture): Sahitya Akademi (1954): literature in 24 languages (22 Scheduled + English + Rajasthani), annual awards. Sangeet Natak Akademi (1952, oldest): music, dance, drama — awards/fellowships, documentation of performing arts. Recognized Sattriya as 8th classical dance. Lalit Kala Akademi (1954): painting, sculpture, graphics, visual arts — National Gallery of Modern Art under it. All are autonomous bodies. Akademi Awards ≠ Padma Awards (different selection process, different recognition level)."
     }
   ]

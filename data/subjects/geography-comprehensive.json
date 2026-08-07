@@ -4,9 +4,9 @@
     {
       "id": "gc1",
       "subject": "Geography",
-      "question": "Consider the following about jet streams:\n1. Sub-tropical westerly jet stream causes western disturbances in North India\n2. Tropical easterly jet stream is associated with the onset of southwest monsoon\n3. Jet streams flow at altitudes of 9-12 km\n4. They flow from west to east in both hemispheres",
+      "question": "Consider the following about jet streams:\n1. Sub-tropical westerly jet stream causes western disturbances in North India\n2. Tropical easterly jet stream is associated with the onset of southwest monsoon\n3. Jet streams flow at altitudes of 9-12 km\n4. They flow from west to east in both hemispheres\nWhich of the statements given above is/are correct?",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only",
         "1, 2, 3 and 4",
         "2, 3 and 4 only"
@@ -22,22 +22,22 @@
         "1, 2 and 3 only",
         "1, 2, 3 and 4",
         "1 and 2 only",
-        "All are correct"
+        "1 and 4 only"
       ],
-      "answer": 3,
+      "answer": 1,
       "explanation": "All correct. El Nino (warming of eastern equatorial Pacific) weakens Walker Circulation, reduces pressure gradient, weakens monsoon winds → deficit rainfall. La Nina (cooling) does opposite → excess rainfall. Positive IOD (western Indian Ocean warmer) can counterbalance El Nino's negative effect - as seen in 2019 when monsoon was normal despite El Nino due to positive IOD."
     },
     {
       "id": "gc3",
       "subject": "Geography",
-      "question": "Consider the following statements about Indian rivers:\n1. Narmada and Tapi flow through rift valleys\n2. Godavari basin is the largest peninsular river basin\n3. Brahmaputra is an antecedent river\n4. Chambal is a tributary of Yamuna",
+      "question": "Consider the following statements about Indian rivers:\n1. Narmada and Tapi flow through rift valleys\n2. Godavari basin is the largest peninsular river basin\n3. Brahmaputra is an antecedent river\n4. Chambal is a tributary of Yamuna\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2 and 4 only",
         "1, 2 and 3 only",
         "1, 2, 3 and 4",
-        "All are correct"
+        "1 and 4 only"
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "All correct. Narmada and Tapi flow westward through fault/rift valleys between Vindhyas and Satpura. Godavari basin (3.13 lakh sq km) is largest among peninsular rivers. Brahmaputra is antecedent - it existed before the Himalayas rose and cut through them (Dihang gorge). Chambal originates in Vindhyas (MP) and joins Yamuna near Etawah (UP)."
     },
     {
@@ -56,7 +56,7 @@
     {
       "id": "gc5",
       "subject": "Geography",
-      "question": "Consider the following National Parks and their states:\n1. Hemis - Ladakh\n2. Valley of Flowers - Uttarakhand\n3. Keibul Lamjao - Manipur\n4. Namdapha - Arunachal Pradesh\n5. Silent Valley - Tamil Nadu",
+      "question": "Consider the following National Parks and their states:\n1. Hemis - Ladakh\n2. Valley of Flowers - Uttarakhand\n3. Keibul Lamjao - Manipur\n4. Namdapha - Arunachal Pradesh\n5. Silent Valley - Tamil Nadu\nWhich of the statements given above is/are correct?",
       "options": [
         "All are correct",
         "1, 2, 3, 4 and 5",
@@ -82,9 +82,9 @@
     {
       "id": "gc7",
       "subject": "Geography",
-      "question": "Consider the following passes and their locations:\n1. Khardung La - Ladakh (world's highest motorable pass)\n2. Rohtang Pass - between Kullu and Lahaul-Spiti\n3. Bum La - India-China border in Arunachal Pradesh\n4. Zoji La - connects Srinagar to Leh",
+      "question": "Consider the following passes and their locations:\n1. Khardung La - Ladakh (world's highest motorable pass)\n2. Rohtang Pass - between Kullu and Lahaul-Spiti\n3. Bum La - India-China border in Arunachal Pradesh\n4. Zoji La - connects Srinagar to Leh\nWhich of the statements given above is/are correct?",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1 and 2 only",
         "2, 3 and 4 only",
         "1, 2, 3 and 4"
@@ -108,7 +108,7 @@
     {
       "id": "gc9",
       "subject": "Geography",
-      "question": "Consider the following about the Sundarbans:\n1. It is the world's largest mangrove forest\n2. It is shared between India and Bangladesh\n3. It is home to the Royal Bengal Tiger\n4. It is a UNESCO World Heritage Site\n5. It acts as a natural barrier against cyclones",
+      "question": "Consider the following about the Sundarbans:\n1. It is the world's largest mangrove forest\n2. It is shared between India and Bangladesh\n3. It is home to the Royal Bengal Tiger\n4. It is a UNESCO World Heritage Site\n5. It acts as a natural barrier against cyclones\nWhich of the statements given above is/are correct?",
       "options": [
         "2, 3 and 4 only",
         "1, 2, 3, 4 and 5",
@@ -125,7 +125,7 @@
       "options": [
         "1 and 3 only",
         "1, 2, 3 and 4",
-        "All are correct",
+        "1 and 4 only",
         "1, 3 and 4 only"
       ],
       "answer": 3,

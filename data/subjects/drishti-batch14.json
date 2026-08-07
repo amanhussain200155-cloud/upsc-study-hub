@@ -4,10 +4,10 @@
     {
       "id": "d14-1",
       "subject": "Polity & Governance",
-      "question": "Consider the following about Rajya Sabha composition:\n1. Maximum strength is 250 (238 elected + 12 nominated by President)\n2. Present strength is 245 (233 elected from States/UTs + 12 nominated)\n3. Only elected MLAs of States/UTs form the electoral college for RS elections\n4. A member elected to fill a casual vacancy serves the FULL 6-year term",
+      "question": "Consider the following about Rajya Sabha composition:\n1. Maximum strength is 250 (238 elected + 12 nominated by President)\n2. Present strength is 245 (233 elected from States/UTs + 12 nominated)\n3. Only elected MLAs of States/UTs form the electoral college for RS elections\n4. A member elected to fill a casual vacancy serves the FULL 6-year term\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4",
         "2 and 3 only"
       ],
@@ -21,7 +21,7 @@
       "options": [
         "1 and 3 only",
         "1, 2 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4"
       ],
       "answer": 1,
@@ -30,14 +30,14 @@
     {
       "id": "d14-3",
       "subject": "Polity & Governance",
-      "question": "Consider the following about the Dam Safety Act, 2021:\n1. It provides for surveillance, inspection, operation, and maintenance of specified dams\n2. It establishes National Committee on Dam Safety and National Dam Safety Authority\n3. It applies to all dams above 15 metres height or with specified storage capacity\n4. India has approximately 5,700+ large dams (3rd highest globally after China and USA)",
+      "question": "Consider the following about the Dam Safety Act, 2021:\n1. It provides for surveillance, inspection, operation, and maintenance of specified dams\n2. It establishes National Committee on Dam Safety and National Dam Safety Authority\n3. It applies to all dams above 15 metres height or with specified storage capacity\n4. India has approximately 5,700+ large dams (3rd highest globally after China and USA)\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 4 only",
         "1, 2, 3 and 4",
-        "All are correct",
+        "2 and 3 only",
         "1, 2 and 3 only"
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "All correct. Dam Safety Act 2021: provides institutional framework for dam safety (previously no central law). NCDS (advisory) + NDSA (regulatory/enforcement). Applies to: dams >15m height OR 10-15m with specific storage capacity. India: 5,700+ large dams (many aging — 80% will be >50 years old by 2025). States opposed it as 'water' is State subject (Entry 17). Dam failures: Machhu Dam (1979, Gujarat - 10,000+ deaths), Mullaperiyar controversy. Act mandates: Emergency Action Plans, regular inspections, state dam safety organizations."
     },
     {
@@ -47,18 +47,18 @@
       "options": [
         "1 and 2 only",
         "1, 2, 3 and 4",
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only"
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "All correct. AI impact on India (Accenture/NASSCOM estimates): $500-600 billion GDP addition by 2030 (primarily through productivity enhancement in agriculture, healthcare, manufacturing, services). India's advantage: DPI infrastructure allows AI scaling (example: AI on top of Aadhaar for identity verification, AI with UPI for fraud detection). IndiaAI Mission (₹10,372 crore, FY26-31): compute infra, datasets, applications, skilling. Gap: India has engineers who can USE AI tools but fewer who can BUILD foundational AI models — FutureSkills PRIME addresses this."
     },
     {
       "id": "d14-5",
       "subject": "Economics",
-      "question": "Consider the following about India Semiconductor Mission (ISM) 2.0 financial support:\n1. Total outlay exceeds ₹76,000 crore\n2. Credit guarantee of up to ₹7 crore or 70% of loan (first-time) is available\n3. It aims to catalyze nearly ₹4 lakh crore in investment\n4. Only fabrication (fab) is covered, not design or ATMP",
+      "question": "Consider the following about India Semiconductor Mission (ISM) 2.0 financial support:\n1. Total outlay exceeds ₹76,000 crore\n2. Credit guarantee of up to ₹7 crore or 70% of loan (first-time) is available\n3. It aims to catalyze nearly ₹4 lakh crore in investment\n4. Only fabrication (fab) is covered, not design or ATMP\nWhich of the statements given above is/are correct?",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only",
         "1, 2, 3 and 4",
         "1 and 3 only"
@@ -73,21 +73,21 @@
       "options": [
         "2 and 3 only",
         "1, 2, 3 and 4",
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only"
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "All correct. Startup India recognition criteria (revised): incorporated as Private Limited/LLP/Partnership, <10 years old, turnover <₹100 crore/year, working towards innovation (not mere replication). Benefits: 3-year tax holiday (consecutive, within first 10 years), self-certification for labour/environment laws, easier public procurement (no prior experience required), fast-track patent application (rebate on fees), access to Fund of Funds (₹10,000 crore through SIDBI). 1.4 lakh+ startups recognized."
     },
     {
       "id": "d14-7",
       "subject": "Polity & Governance",
-      "question": "Consider the following about the 'Privilege Notice' in Parliament:\n1. It is issued when a member's privilege is allegedly breached\n2. Committee of Privileges examines breach of privilege cases\n3. Lok Sabha Speaker and Rajya Sabha Chairman are first authorities on privilege\n4. There is a codified law defining all Parliamentary privileges in India",
+      "question": "Consider the following about the 'Privilege Notice' in Parliament:\n1. It is issued when a member's privilege is allegedly breached\n2. Committee of Privileges examines breach of privilege cases\n3. Lok Sabha Speaker and Rajya Sabha Chairman are first authorities on privilege\n4. There is a codified law defining all Parliamentary privileges in India\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2 and 3 only",
         "1, 2, 3 and 4",
         "1 and 2 only",
-        "All are correct"
+        "1 and 4 only"
       ],
       "answer": 0,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — India does NOT have a codified/comprehensive law defining all Parliamentary privileges. Article 105 (for Parliament) and 194 (for State Legislatures) provide privileges but don't enumerate them exhaustively. They refer to privileges of House of Commons (UK) until Parliament enacts a law — which it hasn't done in 75+ years. Privileges are based on conventions, precedents, and Speaker/Chairman's rulings. This has been criticized as creating uncertainty."
@@ -100,33 +100,33 @@
         "1 and 4 only",
         "1, 2 and 3 only",
         "1, 2, 3 and 4",
-        "All are correct"
+        "2 and 3 only"
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "All correct. SANKALP (Skills Acquisition and Knowledge Awareness for Livelihood Promotion): World Bank loan-assisted (USD 250 million). Under MSDE. Objective: institutional strengthening of skilling ecosystem at district level (District Skill Committees), convergence of skilling schemes, quality assurance. Components: institutional strengthening, quality assurance, inclusion of marginalized (women, SC/ST, PwD), leveraging technology. Complements PMKVY (Pradhan Mantri Kaushal Vikas Yojana) by building capacity rather than just providing training."
     },
     {
       "id": "d14-9",
       "subject": "Polity & Governance",
-      "question": "Consider the following about Design Linked Incentive (DLI) Scheme:\n1. It provides financial incentives for semiconductor chip design\n2. It covers the entire range from IC design to product deployment\n3. It is part of India's semiconductor self-reliance strategy\n4. India already has 20% of global chip designers working in Indian design centres",
+      "question": "Consider the following about Design Linked Incentive (DLI) Scheme:\n1. It provides financial incentives for semiconductor chip design\n2. It covers the entire range from IC design to product deployment\n3. It is part of India's semiconductor self-reliance strategy\n4. India already has 20% of global chip designers working in Indian design centres\nWhich of the statements given above is/are correct?",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only",
         "1 and 3 only",
         "1, 2, 3 and 4"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "All correct. DLI Scheme (under ISM): incentivizes semiconductor design startups/companies at every stage from design → tape-out → product. Two components: Design Infrastructure Support (EDA tool subsidies, IP cores) + Product Design Linked Incentive (reimbursement of design costs up to 50%). India's strength: 20%+ of global chip designers work in India (Qualcomm, Intel, AMD, ARM, TI, Broadcom all have design centres). Over 3,000 chip design startups in India. Gap: India designs but doesn't fabricate — DLI+ISM together address full chain."
     },
     {
       "id": "d14-10",
       "subject": "Environment & Ecology",
-      "question": "Consider the following about 10 Years of Paris Agreement (as of 2025):\n1. Paris Agreement was adopted in 2015 and entered into force in 2016\n2. It aims to limit warming to well below 2°C, preferably 1.5°C\n3. Global Stocktake (first completed at COP28, 2023) assessed collective progress\n4. All countries have achieved their first-round NDC targets",
+      "question": "Consider the following about 10 Years of Paris Agreement (as of 2025):\n1. Paris Agreement was adopted in 2015 and entered into force in 2016\n2. It aims to limit warming to well below 2°C, preferably 1.5°C\n3. Global Stocktake (first completed at COP28, 2023) assessed collective progress\n4. All countries have achieved their first-round NDC targets\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2 and 3 only",
         "1 and 2 only",
         "1, 2, 3 and 4",
-        "All are correct"
+        "1 and 4 only"
       ],
       "answer": 0,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — most countries have NOT achieved their first-round NDC targets. UNEP Emissions Gap Report consistently shows world is off-track for 1.5°C (heading for 2.5-2.9°C). Many developed nations haven't met their pledges. Global Stocktake (COP28 Dubai, 2023) concluded: world is not on track, transitioning away from fossil fuels needed. India is among few countries on track for some NDC components (renewable energy deployment ahead of schedule)."
@@ -138,7 +138,7 @@
       "options": [
         "1, 2, 3 and 4",
         "1, 2 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1 and 3 only"
       ],
       "answer": 1,
@@ -147,14 +147,14 @@
     {
       "id": "d14-12",
       "subject": "Polity & Governance",
-      "question": "Consider the following about India's Orange Economy initiatives:\n1. Orange Economy refers to the creative/cultural economy\n2. Budget 2026-27 announced 3 initiatives to promote India's Orange Economy\n3. It includes entertainment, media, arts, heritage, design, and publishing\n4. India's entertainment and media revenue is projected to reach $35+ billion by 2025",
+      "question": "Consider the following about India's Orange Economy initiatives:\n1. Orange Economy refers to the creative/cultural economy\n2. Budget 2026-27 announced 3 initiatives to promote India's Orange Economy\n3. It includes entertainment, media, arts, heritage, design, and publishing\n4. India's entertainment and media revenue is projected to reach $35+ billion by 2025\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2, 3 and 4",
         "1, 2 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1 and 3 only"
       ],
-      "answer": 2,
+      "answer": 0,
       "explanation": "All correct. Orange Economy (term from IDB/Colombia): creative industries generating economic value — media, entertainment, arts, publishing, gaming, fashion, design, heritage, sports, comics. India's M&E sector: $35+ billion (projected to grow to $55+ billion by 2030). Budget 2026-27 initiatives: production incentives, infrastructure (studios, animation parks), promotion of Indian content globally. India already: 2nd largest TV market, largest film producer (by volume), growing OTT market. AVGC (Animation, VFX, Gaming, Comics) sector specially targeted."
     }
   ]

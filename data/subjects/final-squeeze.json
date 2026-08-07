@@ -4,10 +4,10 @@
     {
       "id": "fs1",
       "subject": "Environment & Ecology",
-      "question": "Consider the following about Kigali Amendment to Montreal Protocol:\n1. It targets phase-down of HFCs (hydrofluorocarbons)\n2. HFCs replaced CFCs but are potent greenhouse gases\n3. India committed to freeze HFC production by 2028 (developed nations by 2036)\n4. Montreal Protocol originally dealt only with ozone-depleting substances",
+      "question": "Consider the following about Kigali Amendment to Montreal Protocol:\n1. It targets phase-down of HFCs (hydrofluorocarbons)\n2. HFCs replaced CFCs but are potent greenhouse gases\n3. India committed to freeze HFC production by 2028 (developed nations by 2036)\n4. Montreal Protocol originally dealt only with ozone-depleting substances\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2 and 4 only",
-        "All are correct",
+        "2 and 3 only",
         "1 and 4 only",
         "1, 2, 3 and 4"
       ],
@@ -20,7 +20,7 @@
       "question": "With reference to India's Green Credit Programme:\n1. It is a market-based mechanism to incentivize voluntary environmental actions\n2. Activities like tree planting, water conservation, waste management can earn Green Credits\n3. Credits can be traded on a domestic platform\n4. It is a mandatory programme with penalties for non-participation",
       "options": [
         "1, 2 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4",
         "1 and 3 only"
       ],
@@ -30,11 +30,11 @@
     {
       "id": "fs3",
       "subject": "Environment & Ecology",
-      "question": "Consider the following about India's Biological Diversity Act, 2002:\n1. It established National Biodiversity Authority (NBA), State Biodiversity Boards, and local BMCs\n2. It regulates access to biological resources and associated traditional knowledge\n3. It implements India's obligations under the Convention on Biological Diversity\n4. Foreign entities can freely access India's biological resources without any permission",
+      "question": "Consider the following about India's Biological Diversity Act, 2002:\n1. It established National Biodiversity Authority (NBA), State Biodiversity Boards, and local BMCs\n2. It regulates access to biological resources and associated traditional knowledge\n3. It implements India's obligations under the Convention on Biological Diversity\n4. Foreign entities can freely access India's biological resources without any permission\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2 and 3 only",
         "1, 2, 3 and 4",
-        "All are correct",
+        "1 and 4 only",
         "1 and 3 only"
       ],
       "answer": 0,
@@ -45,7 +45,7 @@
       "subject": "Environment & Ecology",
       "question": "With reference to Wetland Conservation Rules, 2017:\n1. They replaced the earlier Wetlands (Conservation and Management) Rules, 2010\n2. State Wetland Authorities identify and notify wetlands for protection\n3. SC in 2024 directed review of these rules for better protection\n4. All water bodies in India are automatically protected as wetlands",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1 and 2 only",
         "1, 2 and 3 only",
         "1, 2, 3 and 4"
@@ -56,12 +56,12 @@
     {
       "id": "fs5",
       "subject": "Environment & Ecology",
-      "question": "Consider the following about India's Emission Trading Scheme (ETS) pilot:\n1. Gujarat was the first state to pilot a Particulate Matter ETS (2019)\n2. It sets a cap on total emissions and allows polluters to trade permits\n3. It was developed with support from the Energy Policy Institute at University of Chicago\n4. India's ETS covers ALL greenhouse gases including CO2, methane, and N2O",
+      "question": "Consider the following about India's Emission Trading Scheme (ETS) pilot:\n1. Gujarat was the first state to pilot a Particulate Matter ETS (2019)\n2. It sets a cap on total emissions and allows polluters to trade permits\n3. It was developed with support from the Energy Policy Institute at University of Chicago\n4. India's ETS covers ALL greenhouse gases including CO2, methane, and N2O\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 2 only",
         "1, 2, 3 and 4",
         "1, 2 and 3 only",
-        "All are correct"
+        "1 and 4 only"
       ],
       "answer": 2,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — Gujarat's pilot ETS covers only PARTICULATE MATTER (local air pollutant), not greenhouse gases. It's the world's first PM-based ETS (unique — most ETS globally cover CO2). The separate Carbon Credit Trading Scheme (CCTS, 2023) will cover CO2/GHGs. Gujarat ETS: Surat pilot — industries get PM emission permits, can trade them. If total cap met, air quality improves while giving flexibility to individual polluters. EPIC (University of Chicago): provided technical design support. Potential: scale to other states/pollutants."
@@ -72,7 +72,7 @@
       "question": "With reference to India's National Hydrogen Mission:\n1. Green hydrogen is produced using renewable energy for electrolysis\n2. Grey hydrogen (from natural gas) currently dominates India's hydrogen production\n3. India aims to be a global green hydrogen export hub\n4. Hydrogen has no role in India's steel decarbonization strategy",
       "options": [
         "1 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only",
         "1, 2, 3 and 4"
       ],
@@ -82,10 +82,10 @@
     {
       "id": "fs7",
       "subject": "Science & Technology",
-      "question": "Consider the following about India's Tejas Light Combat Aircraft:\n1. It is India's indigenous single-engine multirole fighter developed by HAL/ADA\n2. Tejas Mark 1A features AESA radar, electronic warfare suite, and BVR missiles\n3. India has ordered 83 Tejas Mark 1A for the Indian Air Force\n4. Tejas has been exported to 10+ countries",
+      "question": "Consider the following about India's Tejas Light Combat Aircraft:\n1. It is India's indigenous single-engine multirole fighter developed by HAL/ADA\n2. Tejas Mark 1A features AESA radar, electronic warfare suite, and BVR missiles\n3. India has ordered 83 Tejas Mark 1A for the Indian Air Force\n4. Tejas has been exported to 10+ countries\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4",
         "1, 2 and 3 only"
       ],
@@ -99,7 +99,7 @@
       "options": [
         "1 and 3 only",
         "1, 2 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4"
       ],
       "answer": 1,
@@ -108,10 +108,10 @@
     {
       "id": "fs9",
       "subject": "Science & Technology",
-      "question": "Consider the following about India's Chandrayaan missions:\n1. Chandrayaan-1 (2008) discovered water molecules on the Moon\n2. Chandrayaan-2 (2019): Orbiter successful but Vikram lander crashed\n3. Chandrayaan-3 (2023): successfully soft-landed near lunar south pole\n4. India has already sent astronauts to the Moon",
+      "question": "Consider the following about India's Chandrayaan missions:\n1. Chandrayaan-1 (2008) discovered water molecules on the Moon\n2. Chandrayaan-2 (2019): Orbiter successful but Vikram lander crashed\n3. Chandrayaan-3 (2023): successfully soft-landed near lunar south pole\n4. India has already sent astronauts to the Moon\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2, 3 and 4",
-        "All are correct",
+        "1 and 4 only",
         "1 and 3 only",
         "1, 2 and 3 only"
       ],
@@ -121,9 +121,9 @@
     {
       "id": "fs10",
       "subject": "International Relations",
-      "question": "Consider the following about India's BIMSTEC engagement:\n1. BIMSTEC has 7 members: India, Bangladesh, Myanmar, Sri Lanka, Thailand, Nepal, Bhutan\n2. It connects South Asia and Southeast Asia around the Bay of Bengal\n3. India sees it as an alternative to SAARC (where Pakistan blocks progress)\n4. BIMSTEC has already achieved complete free trade among all members",
+      "question": "Consider the following about India's BIMSTEC engagement:\n1. BIMSTEC has 7 members: India, Bangladesh, Myanmar, Sri Lanka, Thailand, Nepal, Bhutan\n2. It connects South Asia and Southeast Asia around the Bay of Bengal\n3. India sees it as an alternative to SAARC (where Pakistan blocks progress)\n4. BIMSTEC has already achieved complete free trade among all members\nWhich of the statements given above is/are correct?",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1 and 3 only",
         "1, 2 and 3 only",
         "1, 2, 3 and 4"
@@ -136,7 +136,7 @@
       "subject": "International Relations",
       "question": "With reference to India's nuclear diplomacy:\n1. NSG waiver (2008) allowed India to engage in nuclear commerce despite not signing NPT\n2. India has nuclear cooperation agreements with USA, France, Russia, Australia\n3. India's Civil Nuclear Liability Act (2010) complicated supplier engagement\n4. India is a recognized Nuclear Weapon State under NPT",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1 and 3 only",
         "1, 2, 3 and 4",
         "1, 2 and 3 only"
@@ -147,10 +147,10 @@
     {
       "id": "fs12",
       "subject": "International Relations",
-      "question": "Consider the following about India's position in SCO (Shanghai Cooperation Organisation):\n1. India became a full member of SCO in 2017 (along with Pakistan)\n2. SCO includes India, China, Russia, Pakistan + Central Asian states\n3. SCO focuses on counter-terrorism, trade, and connectivity\n4. India agrees with China and Pakistan on all SCO agendas without any friction",
+      "question": "Consider the following about India's position in SCO (Shanghai Cooperation Organisation):\n1. India became a full member of SCO in 2017 (along with Pakistan)\n2. SCO includes India, China, Russia, Pakistan + Central Asian states\n3. SCO focuses on counter-terrorism, trade, and connectivity\n4. India agrees with China and Pakistan on all SCO agendas without any friction\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2, 3 and 4",
-        "All are correct",
+        "1 and 4 only",
         "1 and 2 only",
         "1, 2 and 3 only"
       ],
@@ -160,11 +160,11 @@
     {
       "id": "fs13",
       "subject": "Art & Culture",
-      "question": "Consider the following about India's handloom sector:\n1. India has 31.7 lakh handloom worker households (4th Handloom Census)\n2. National Handloom Day is observed on August 7 (anniversary of Swadeshi Movement, 1905)\n3. Handloom Mark guarantees the product is genuinely handwoven\n4. Machine-made textiles and handloom products are equally valued by consumers",
+      "question": "Consider the following about India's handloom sector:\n1. India has 31.7 lakh handloom worker households (4th Handloom Census)\n2. National Handloom Day is observed on August 7 (anniversary of Swadeshi Movement, 1905)\n3. Handloom Mark guarantees the product is genuinely handwoven\n4. Machine-made textiles and handloom products are equally valued by consumers\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 2 only",
         "1, 2 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4"
       ],
       "answer": 1,
@@ -175,7 +175,7 @@
       "subject": "Art & Culture",
       "question": "With reference to India's Intangible Cultural Heritage (ICH) and its protection:\n1. India signed the 2003 UNESCO Convention for Safeguarding of ICH\n2. India has 15+ elements on the UNESCO ICH Representative List\n3. Sangeet Natak Akademi documents and archives performing arts traditions\n4. All of India's folk traditions have been fully documented and preserved",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1 and 3 only",
         "1, 2, 3 and 4",
         "1, 2 and 3 only"
@@ -186,12 +186,12 @@
     {
       "id": "fs15",
       "subject": "Art & Culture",
-      "question": "Consider the following about India's museum sector:\n1. National Museum (Delhi) houses Indus Valley artifacts, Buddhist sculptures, and miniature paintings\n2. Indian Museum (Kolkata, 1814) is the oldest and largest museum in India\n3. Salar Jung Museum (Hyderabad) has one of the largest one-man collections globally\n4. India has no policy framework for museum development",
+      "question": "Consider the following about India's museum sector:\n1. National Museum (Delhi) houses Indus Valley artifacts, Buddhist sculptures, and miniature paintings\n2. Indian Museum (Kolkata, 1814) is the oldest and largest museum in India\n3. Salar Jung Museum (Hyderabad) has one of the largest one-man collections globally\n4. India has no policy framework for museum development\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2 and 3 only",
         "1 and 2 only",
         "1, 2, 3 and 4",
-        "All are correct"
+        "1 and 4 only"
       ],
       "answer": 0,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — India DOES have a policy: National Museum Policy (2022) and PRANAHMAN (Prime Minister's National Heritage, Art and Museum Mission) for modernizing museums. National Museum: Harappan gallery, Mauryan sculptures, manuscript collection. Indian Museum (oldest in Asia-Pacific): geological, archaeological, art, anthropological sections. Salar Jung (Nizam's PM's private collection): 43,000+ objects (Veiled Rebecca sculpture famous). India has 1,000+ museums but most are poorly maintained/funded — the new policy aims to revitalize them through technology, accessibility, and private partnership."
@@ -199,10 +199,10 @@
     {
       "id": "fs16",
       "subject": "History",
-      "question": "Consider the following about the Indian Press during the freedom movement:\n1. Vernacular Press Act (1878) targeted Indian-language newspapers critical of the government\n2. Tilak's Kesari (Marathi) and Mahratta (English) were sedition-charged newspapers\n3. The Indian Press Act 1910 gave government power to demand security deposits from presses\n4. Freedom of press was explicitly guaranteed as a separate Fundamental Right in the 1950 Constitution",
+      "question": "Consider the following about the Indian Press during the freedom movement:\n1. Vernacular Press Act (1878) targeted Indian-language newspapers critical of the government\n2. Tilak's Kesari (Marathi) and Mahratta (English) were sedition-charged newspapers\n3. The Indian Press Act 1910 gave government power to demand security deposits from presses\n4. Freedom of press was explicitly guaranteed as a separate Fundamental Right in the 1950 Constitution\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 2 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4",
         "1, 2 and 3 only"
       ],

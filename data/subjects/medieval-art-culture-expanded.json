@@ -4,11 +4,11 @@
     {
       "id": "mh1",
       "subject": "History",
-      "question": "Consider the following about the Bhakti Movement in South India:\n1. Alvars were Vaishnavite saints and Nayanars were Shaivite saints\n2. They composed hymns in Tamil, challenging Brahmanical Sanskrit monopoly\n3. Ramanuja (11th-12th century) propounded Vishishtadvaita (qualified monism)\n4. The movement had no impact on the caste system",
+      "question": "Consider the following about the Bhakti Movement in South India:\n1. Alvars were Vaishnavite saints and Nayanars were Shaivite saints\n2. They composed hymns in Tamil, challenging Brahmanical Sanskrit monopoly\n3. Ramanuja (11th-12th century) propounded Vishishtadvaita (qualified monism)\n4. The movement had no impact on the caste system\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2 and 3 only",
         "1 and 2 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4"
       ],
       "answer": 0,
@@ -20,7 +20,7 @@
       "question": "With reference to Sufism in India:\n1. Chishti order was most popular — emphasized poverty, simplicity, service\n2. Suhrawardi order accepted state patronage (unlike Chishtis)\n3. Dara Shikoh translated Upanishads and sought Hindu-Muslim synthesis\n4. All Sufi orders in India rejected music (sama) in worship",
       "options": [
         "1, 2 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1 and 2 only",
         "1, 2, 3 and 4"
       ],
@@ -30,14 +30,14 @@
     {
       "id": "mh3",
       "subject": "History",
-      "question": "Consider the following about the administration of Vijayanagara Empire:\n1. The empire was divided into provinces called Rajyas headed by Nayakas\n2. Amara-Nayaka system was similar to the feudal/Iqta system\n3. The capital Hampi was one of the largest cities in the world at its peak\n4. The empire's economy depended heavily on spice trade with Portuguese",
+      "question": "Consider the following about the administration of Vijayanagara Empire:\n1. The empire was divided into provinces called Rajyas headed by Nayakas\n2. Amara-Nayaka system was similar to the feudal/Iqta system\n3. The capital Hampi was one of the largest cities in the world at its peak\n4. The empire's economy depended heavily on spice trade with Portuguese\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2, 3 and 4",
         "1 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only"
       ],
-      "answer": 2,
+      "answer": 0,
       "explanation": "All correct. Vijayanagara administration: Rajyas → Nadus → Sthalas → villages. Amara-Nayaka system: military commanders given territories (amaram) for revenue collection in exchange for troops — similar to Iqta/feudal grants. Hampi: 500,000+ population at peak (larger than Rome/Paris of that era). Portuguese trade: horses from Arabia (crucial for military), spices (pepper, cardamom) exported via Goa, textiles. Abdur Razzak and Domingo Paes described Hampi's grandeur."
     },
     {
@@ -48,33 +48,33 @@
         "1, 2 and 4 only",
         "1, 2, 3 and 4",
         "1 and 4 only",
-        "All are correct"
+        "2 and 3 only"
       ],
-      "answer": 3,
+      "answer": 1,
       "explanation": "All correct. Ashtapradhan: 8 ministers (Peshwa-PM, Amatya-Finance, Sachiv-Correspondence, Mantri-Records, Senapati-Commander, Sumant-Foreign affairs, Nyayadhish-Justice, Panditrao-Religious affairs). Shivaji's revenue: assessment through measurement (Kathi system), direct collection from ryots (no intermediary zamindars). Strong navy: initially with small vessels (Ghurab, Gallivat), first Indian ruler to recognize maritime importance. Kanhoji Angre (Sarkhel/Admiral) later terrorized European navies on Konkan coast."
     },
     {
       "id": "mh5",
       "subject": "History",
-      "question": "Consider the following about the Sikh Empire under Ranjit Singh:\n1. He united the Punjab Misls (confederacies) into a single kingdom\n2. His kingdom extended from Sutlej to Khyber Pass\n3. He modernized the army with European officers (Allard, Ventura, Court)\n4. He annexed Kashmir and Peshawar from Afghan control",
+      "question": "Consider the following about the Sikh Empire under Ranjit Singh:\n1. He united the Punjab Misls (confederacies) into a single kingdom\n2. His kingdom extended from Sutlej to Khyber Pass\n3. He modernized the army with European officers (Allard, Ventura, Court)\n4. He annexed Kashmir and Peshawar from Afghan control\nWhich of the statements given above is/are correct?",
       "options": [
-        "All are correct",
+        "2 and 3 only",
         "1, 2 and 3 only",
         "1 and 4 only",
         "1, 2, 3 and 4"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "All correct. Ranjit Singh (1799-1839): 'Lion of Punjab'. United 12 Sikh Misls. Kingdom: Sutlej (east, Treaty of Amritsar 1809 with British fixed this) to Khyber Pass (west). European officers trained Khalsa Army (80,000+ strong — one of the most formidable in Asia). Conquered: Kashmir (1819 from Afghans), Peshawar (1834), Ladakh, Multan. After his death (1839): succession disputes → Anglo-Sikh Wars → British annexation (1849). Kohinoor diamond was in his possession."
     },
     {
       "id": "mh6",
       "subject": "Art & Culture",
-      "question": "Consider the following about Indian classical music:\n1. Hindustani music uses Raga and Taal system\n2. Carnatic music has compositions called Kritis (by Tyagaraja, Muthuswami Dikshitar, Syama Sastri)\n3. The gharana system is unique to Hindustani music\n4. Both systems share the same 72 Melakarta ragas",
+      "question": "Consider the following about Indian classical music:\n1. Hindustani music uses Raga and Taal system\n2. Carnatic music has compositions called Kritis (by Tyagaraja, Muthuswami Dikshitar, Syama Sastri)\n3. The gharana system is unique to Hindustani music\n4. Both systems share the same 72 Melakarta ragas\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2, 3 and 4",
         "1 and 2 only",
         "1, 2 and 3 only",
-        "All are correct"
+        "1 and 4 only"
       ],
       "answer": 2,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — 72 Melakarta ragas are specific to CARNATIC music (systematic classification by Venkatamakhin). Hindustani music uses Thaat system (10 Thaats classified by Pt. Vishnu Narayan Bhatkhande). While both systems share common ancient roots (Sama Veda, Natyashastra), they diverged significantly after 13th century (Islamic influence on Hindustani). Gharanas (Gwalior, Agra, Jaipur, Kirana etc.) are Hindustani tradition of guru-shishya lineage schools."
@@ -85,24 +85,24 @@
       "question": "With reference to Indian painting traditions:\n1. Ajanta paintings (2nd BCE - 6th CE) are the finest examples of Buddhist mural art\n2. Mughal miniatures reached their zenith under Jahangir (naturalism, portraits)\n3. Kangra school (Pahari) is known for lyrical depictions of Radha-Krishna\n4. Bengal School (Abanindranath Tagore) rejected Western realism for Indian themes",
       "options": [
         "1, 2, 3 and 4",
-        "All are correct",
+        "2 and 3 only",
         "1, 2 and 3 only",
         "1 and 4 only"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanation": "All correct. Ajanta (30 caves, Maharashtra): Jataka tales, Buddhist scenes, masterful use of perspective and emotion — India's finest ancient art. Mughal painting: Akbar (illustrations/manuscripts), Jahangir (naturalism, bird/animal studies — 'Mansur' was his court painter), Shah Jahan (formalization). Kangra (Himachal): soft colors, nature, Vaishnavite themes (Raja Sansar Chand patronage). Bengal School (early 1900s): nationalist art movement, rejected colonial art education, revived Indian aesthetics. Nandalal Bose (Haripura panels) was Abanindranath's student."
     },
     {
       "id": "mh8",
       "subject": "Art & Culture",
-      "question": "Consider the following about Indian architecture:\n1. Rock-cut architecture in India spans from 3rd century BCE (Barabar caves) to 12th century CE\n2. Ellora has Hindu, Buddhist, AND Jain caves — unique multi-faith site\n3. Kailasa Temple (Ellora Cave 16) is carved from a SINGLE rock (monolithic)\n4. Mahabalipuram Shore Temple is a structural (built) temple, not rock-cut",
+      "question": "Consider the following about Indian architecture:\n1. Rock-cut architecture in India spans from 3rd century BCE (Barabar caves) to 12th century CE\n2. Ellora has Hindu, Buddhist, AND Jain caves — unique multi-faith site\n3. Kailasa Temple (Ellora Cave 16) is carved from a SINGLE rock (monolithic)\n4. Mahabalipuram Shore Temple is a structural (built) temple, not rock-cut\nWhich of the statements given above is/are correct?",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "2 and 3 only",
         "1, 2 and 3 only",
         "1, 2, 3 and 4"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "All correct. Barabar Caves (Bihar, 3rd century BCE, Ashoka): earliest rock-cut caves (donated to Ajivika sect). Ellora (Maharashtra): 34 caves — Buddhist (1-12), Hindu (13-29), Jain (30-34) — remarkable multi-faith coexistence under Rashtrakuta patronage. Kailasa Temple (8th century, Krishna I of Rashtrakutas): largest monolithic structure in world, carved TOP-DOWN from cliff (estimated 200,000 tonnes of rock removed). Mahabalipuram Shore Temple (Pallava, 8th century): structural granite temple (unlike the nearby rock-cut rathas/mandapas)."
     },
     {
@@ -113,18 +113,18 @@
         "1, 2 and 4 only",
         "1 and 2 only",
         "1, 2, 3 and 4",
-        "All are correct"
+        "1 and 4 only"
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "All correct. Warli (Thane district, Maharashtra): tribal art, white on mud-brown background, circles/triangles/squares depicting farming, dance, animals. GI tagged. Madhubani (Mithila region, Bihar): vibrant colors, geometric + floral patterns, Ramayana/Krishna themes. GI tagged 2007. Gond (MP, Bastar): intricate dots and dashes forming animals, trees, folklore. Pattachitra (Odisha + WB): cloth painting (patta=cloth, chitra=painting), Jagannath themes, rich colors. All have received GI tags. UNESCO recognizes several as Intangible Cultural Heritage."
     },
     {
       "id": "mh10",
       "subject": "Art & Culture",
-      "question": "Consider the following about UNESCO Intangible Cultural Heritage from India:\n1. Yoga was inscribed in 2016\n2. Kumbh Mela was inscribed in 2017\n3. Durga Puja in Kolkata was inscribed in 2021\n4. Bharatanatyam was inscribed in 2019",
+      "question": "Consider the following about UNESCO Intangible Cultural Heritage from India:\n1. Yoga was inscribed in 2016\n2. Kumbh Mela was inscribed in 2017\n3. Durga Puja in Kolkata was inscribed in 2021\n4. Bharatanatyam was inscribed in 2019\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2, 3 and 4",
-        "All are correct",
+        "1 and 4 only",
         "1 and 2 only",
         "1, 2 and 3 only"
       ],
@@ -139,22 +139,22 @@
         "2 and 3 only",
         "1, 2 and 3 only",
         "1, 2, 3 and 4",
-        "All are correct"
+        "1 and 4 only"
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "All correct. Qutub Minar: Aibak started (1 floor), Iltutmish added 3 floors, Firoz Shah Tughlaq repaired top (after lightning). Alai Darwaza (1311): first true dome using squinches (transition from square to circle) — earlier Indo-Islamic domes were false/corbelled. Tughlaq style: massive, fortress-like, sloping walls (battered), grey stone, minimal ornamentation — reflected military austerity (Tughlaqabad Fort exemplifies this). Lodi: double dome (inner dome for interior proportion, outer for external grandeur) — later perfected in Mughal architecture (Taj Mahal has triple dome)."
     },
     {
       "id": "mh12",
       "subject": "Art & Culture",
-      "question": "Consider the following about India's textile traditions:\n1. Banarasi silk uses zari (gold/silver thread) weaving\n2. Ikat involves resist-dyeing of threads BEFORE weaving\n3. Kalamkari (AP) uses hand-painting or block-printing with vegetable dyes\n4. Pashmina comes from the Changthangi goat of Ladakh",
+      "question": "Consider the following about India's textile traditions:\n1. Banarasi silk uses zari (gold/silver thread) weaving\n2. Ikat involves resist-dyeing of threads BEFORE weaving\n3. Kalamkari (AP) uses hand-painting or block-printing with vegetable dyes\n4. Pashmina comes from the Changthangi goat of Ladakh\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2, 3 and 4",
         "1, 2 and 3 only",
         "1 and 4 only",
-        "All are correct"
+        "2 and 3 only"
       ],
-      "answer": 3,
+      "answer": 0,
       "explanation": "All correct. Banarasi (Varanasi, UP): silk brocade with gold/silver zari, GI tagged. Ikat: threads tied and dyed in patterns before mounting on loom — Pochampally (Telangana), Patola (Gujarat), Sambalpuri (Odisha). Kalamkari (Srikalahasti and Machilipatnam, AP): Kalam=pen, Kari=work. Srikalahasti: hand-drawn. Machilipatnam: block-printed. Uses vegetable/mineral dyes, Hindu mythology themes. Pashmina (Kashmir/Ladakh): from Changthangi goat (4,500m+ altitude), world's finest wool (12-16 microns). All GI protected."
     }
   ]

@@ -4,10 +4,10 @@
     {
       "id": "vt1",
       "subject": "Geography",
-      "question": "Consider the following about the Pacific Ring of Fire:\n1. It is a horseshoe-shaped zone of frequent earthquakes and volcanic eruptions\n2. It is associated with convergent plate boundaries (subduction zones)\n3. Mount Fuji (Japan), Mount St. Helens (USA), and Mount Pinatubo (Philippines) are on it\n4. India lies entirely within the Ring of Fire",
+      "question": "Consider the following about the Pacific Ring of Fire:\n1. It is a horseshoe-shaped zone of frequent earthquakes and volcanic eruptions\n2. It is associated with convergent plate boundaries (subduction zones)\n3. Mount Fuji (Japan), Mount St. Helens (USA), and Mount Pinatubo (Philippines) are on it\n4. India lies entirely within the Ring of Fire\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1 and 2 only",
         "1, 2, 3 and 4"
       ],
@@ -21,7 +21,7 @@
       "options": [
         "1 and 2 only",
         "1, 2, 3 and 4",
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only"
       ],
       "answer": 3,
@@ -30,14 +30,14 @@
     {
       "id": "vt3",
       "subject": "Geography",
-      "question": "Consider the following recently active/notable volcanoes:\n1. Mount Etna (Italy) - Europe's most active volcano\n2. Kilauea (Hawaii) - one of the world's most active shield volcanoes\n3. Eyjafjallajökull (Iceland) - 2010 eruption disrupted European aviation\n4. Krakatoa (Indonesia) - located between Java and Sumatra",
+      "question": "Consider the following recently active/notable volcanoes:\n1. Mount Etna (Italy) - Europe's most active volcano\n2. Kilauea (Hawaii) - one of the world's most active shield volcanoes\n3. Eyjafjallajökull (Iceland) - 2010 eruption disrupted European aviation\n4. Krakatoa (Indonesia) - located between Java and Sumatra\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2, 3 and 4",
         "1 and 4 only",
-        "All are correct",
+        "2 and 3 only",
         "1, 2 and 3 only"
       ],
-      "answer": 2,
+      "answer": 0,
       "explanation": "All correct. Etna (Sicily, Italy): Europe's tallest and most active volcano (~3,357m), erupts frequently. Kilauea (Hawaii): shield volcano, continuous eruption for decades, creates new land. Eyjafjallajökull (April 2010): ash cloud grounded 100,000+ flights across Europe for days — exposed aviation vulnerability to volcanic events. Krakatoa/Krakatau (Sunda Strait, between Java and Sumatra): catastrophic 1883 eruption; Anak Krakatau ('Child of Krakatoa') formed in 1927, erupted again 2018 causing tsunami."
     },
     {
@@ -45,22 +45,22 @@
       "subject": "Geography",
       "question": "With reference to India's volcanic history and features:\n1. Barren Island (Andaman) is India's only confirmed active volcano\n2. The Deccan Traps are remnants of massive volcanic eruptions 66 million years ago\n3. Deccan Trap eruptions may have contributed to dinosaur extinction\n4. Dhinodhar Hills (Gujarat) are volcanic in origin",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1 and 2 only",
         "1, 2 and 3 only",
         "1, 2, 3 and 4"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "All correct. Barren Island: last erupted 2020, only active volcano in South Asia (135 km NE of Port Blair). Deccan Traps: basaltic lava covering 500,000 sq km (Maharashtra, MP, Gujarat, Karnataka) — one of largest volcanic provinces globally. Erupted over ~30,000 years around K-Pg boundary (66 Ma). 'Volcanic Winter' theory: massive CO2/SO2 release contributed to mass extinction (alongside Chicxulub asteroid). Dhinodhar Hills (Kutch, Gujarat): volcanic plug, ~500m height, tertiary volcanic activity evidence."
     },
     {
       "id": "vt5",
       "subject": "Geography",
-      "question": "Consider the following about plate tectonics and India:\n1. India separated from Gondwanaland approximately 140 million years ago\n2. The Indian Plate is moving northward at approximately 5 cm per year\n3. The collision of Indian and Eurasian plates created the Himalayas\n4. The Indian Plate is entirely continental with no oceanic crust",
+      "question": "Consider the following about plate tectonics and India:\n1. India separated from Gondwanaland approximately 140 million years ago\n2. The Indian Plate is moving northward at approximately 5 cm per year\n3. The collision of Indian and Eurasian plates created the Himalayas\n4. The Indian Plate is entirely continental with no oceanic crust\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 3 only",
         "1, 2, 3 and 4",
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only"
       ],
       "answer": 3,
@@ -72,21 +72,21 @@
       "question": "With reference to hotspot volcanism:\n1. Hotspot volcanoes form over mantle plumes unrelated to plate boundaries\n2. Hawaii is the classic example of hotspot volcanism\n3. As a plate moves over a hotspot, it creates a chain of volcanic islands\n4. The Deccan Traps were formed by the Reunion hotspot",
       "options": [
         "1, 2, 3 and 4",
-        "All are correct",
+        "1 and 4 only",
         "1 and 2 only",
         "1, 2 and 3 only"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanation": "All correct. Hotspots: stationary mantle plumes of abnormally hot material rising from deep mantle. Unlike plate boundary volcanism, hotspots are intra-plate. Hawaii: Pacific Plate moves over Hawaiian hotspot → chain of islands (oldest island = Kauai, youngest = Big Island/active). Deccan Traps: formed when Indian Plate passed over the Reunion hotspot (now under Reunion Island in Indian Ocean, 5,000 km away — proving India moved north). Yellowstone (USA) is another hotspot example."
     },
     {
       "id": "vt7",
       "subject": "Geography",
-      "question": "Consider the following about tsunamis:\n1. They are caused by underwater earthquakes, volcanic eruptions, or landslides\n2. The 2004 Indian Ocean tsunami was triggered by a magnitude 9.1 earthquake off Sumatra\n3. Tsunami speed in deep ocean can exceed 700-800 km/h\n4. India's tsunami early warning centre is located in Chennai",
+      "question": "Consider the following about tsunamis:\n1. They are caused by underwater earthquakes, volcanic eruptions, or landslides\n2. The 2004 Indian Ocean tsunami was triggered by a magnitude 9.1 earthquake off Sumatra\n3. Tsunami speed in deep ocean can exceed 700-800 km/h\n4. India's tsunami early warning centre is located in Chennai\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2 and 4",
         "1, 2, 3 and 4",
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only"
       ],
       "answer": 3,
@@ -98,24 +98,24 @@
       "question": "With reference to the East African Rift System:\n1. It is an example of a divergent plate boundary on a continent\n2. Africa is slowly splitting into the Nubian (western) and Somali (eastern) plates\n3. The Great Rift Valley lakes (Tanganyika, Malawi) formed due to this rifting\n4. In millions of years, eastern Africa will separate to form a new ocean",
       "options": [
         "1, 2 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1 and 3 only",
         "1, 2, 3 and 4"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanation": "All correct. East African Rift: world's largest active continental rift system (~3,500 km from Afar Triple Junction to Mozambique). Divergent boundary: Nubian Plate (west) separating from Somali Plate (east) at ~2.5 mm/year. Rift valley lakes formed in downdropped grabens (Tanganyika = 2nd deepest lake globally). Active volcanism: Kilimanjaro, Nyiragongo (DRC), Ol Doinyo Lengai (Tanzania). In ~10 million years: new ocean (like Red Sea, which formed similarly from Afro-Arabian rift)."
     },
     {
       "id": "vt9",
       "subject": "Geography",
-      "question": "Consider the following about earthquake measurement:\n1. Richter Scale is logarithmic — each whole number = 10x amplitude increase\n2. Moment Magnitude Scale (Mw) has replaced Richter for large earthquakes\n3. Modified Mercalli Intensity (MMI) measures the effects/damage of earthquakes\n4. P-waves arrive before S-waves because they travel through both solids and liquids",
+      "question": "Consider the following about earthquake measurement:\n1. Richter Scale is logarithmic — each whole number = 10x amplitude increase\n2. Moment Magnitude Scale (Mw) has replaced Richter for large earthquakes\n3. Modified Mercalli Intensity (MMI) measures the effects/damage of earthquakes\n4. P-waves arrive before S-waves because they travel through both solids and liquids\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2 and 3 only",
         "1, 2, 3 and 4",
-        "All are correct",
+        "2 and 3 only",
         "1 and 4 only"
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "All correct. Richter (1935): logarithmic (Mag 7 = 10x amplitude of Mag 6, but ~31.6x MORE energy). Moment Magnitude: preferred for large quakes (>7) as Richter saturates. MMI (I to XII): damage-based (I = not felt; XII = total destruction) — varies by distance, soil type, building construction. P-waves (Primary/Push): fastest, compressional, travel through all media (solid/liquid/gas). S-waves (Secondary/Shear): slower, transverse, travel only through solids (cannot pass through liquid outer core — this is how we know outer core is liquid!)."
     },
     {
@@ -124,7 +124,7 @@
       "question": "With reference to volcanic ash and its global impact:\n1. Large eruptions can inject sulphur dioxide into the stratosphere\n2. This creates aerosol particles that reflect sunlight, causing temporary cooling\n3. The 1991 Mount Pinatubo eruption cooled global temperatures by ~0.5°C\n4. Volcanic winter has no documented historical precedent",
       "options": [
         "1, 2 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4",
         "1 and 3 only"
       ],
@@ -134,10 +134,10 @@
     {
       "id": "vt11",
       "subject": "Geography",
-      "question": "Consider the following about India's seismic zonation:\n1. India is divided into 4 seismic zones (II, III, IV, V) by BIS\n2. Zone V (very high risk) includes: entire NE India, J&K, Uttarakhand, parts of HP\n3. Delhi falls in Zone IV (high risk)\n4. No major city in peninsular India falls in Zone III or above",
+      "question": "Consider the following about India's seismic zonation:\n1. India is divided into 4 seismic zones (II, III, IV, V) by BIS\n2. Zone V (very high risk) includes: entire NE India, J&K, Uttarakhand, parts of HP\n3. Delhi falls in Zone IV (high risk)\n4. No major city in peninsular India falls in Zone III or above\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1 and 2 only",
         "1, 2, 3 and 4"
       ],
@@ -151,10 +151,10 @@
       "options": [
         "1, 2 and 3 only",
         "1, 2, 3 and 4",
-        "All are correct",
+        "1 and 4 only",
         "1 and 3 only"
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "All correct. Iceland: sits ON the Mid-Atlantic Ridge where North American and Eurasian plates diverge — unique place where mid-ocean ridge is above sea level. Indonesia: 130+ active volcanoes (most globally) due to multiple subduction zones (Pacific, Philippine, Indo-Australian plates converging). Mariana Trench (~11 km deep): Pacific Plate subducting under Philippine Plate. Hawaiian chain: as plate moves away from hotspot, islands subside (thermal contraction) → become flat-topped seamounts (guyots) → if coral grows, become atolls (Darwin's theory of atoll formation)."
     }
   ]

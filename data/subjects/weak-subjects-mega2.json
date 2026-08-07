@@ -4,11 +4,11 @@
     {
       "id": "wb16",
       "subject": "Internal Security",
-      "question": "Consider the following about Hawala transactions:\n1. Hawala is an informal value transfer system operating outside formal banking\n2. It is used for both legitimate remittances and terror financing\n3. FEMA (Foreign Exchange Management Act) regulates/prohibits hawala\n4. Hawala networks are impossible to trace",
+      "question": "Consider the following about Hawala transactions:\n1. Hawala is an informal value transfer system operating outside formal banking\n2. It is used for both legitimate remittances and terror financing\n3. FEMA (Foreign Exchange Management Act) regulates/prohibits hawala\n4. Hawala networks are impossible to trace\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 2 only",
         "1, 2, 3 and 4",
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only"
       ],
       "answer": 3,
@@ -19,7 +19,7 @@
       "subject": "Internal Security",
       "question": "With reference to India's NATGRID:\n1. It connects databases of 21 security and intelligence agencies\n2. It enables pattern analysis by linking disparate data (travel, banking, telecom, immigration)\n3. It was conceptualized after the 26/11 Mumbai attacks\n4. Any police officer across India can directly access NATGRID data",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4",
         "1, 2 and 3 only",
         "1 and 3 only"
@@ -30,14 +30,14 @@
     {
       "id": "wb18",
       "subject": "Internal Security",
-      "question": "Consider the following about India's Strategic Petroleum Reserve:\n1. India's SPR provides approximately 9.5 days of crude oil import cover\n2. Phase 1: Visakhapatnam (1.33 MMT), Mangalore (1.5 MMT), Padur (2.5 MMT)\n3. Phase 2 would expand reserves to provide 22 days of import cover\n4. SPR is managed by Indian Strategic Petroleum Reserves Limited (ISPRL)",
+      "question": "Consider the following about India's Strategic Petroleum Reserve:\n1. India's SPR provides approximately 9.5 days of crude oil import cover\n2. Phase 1: Visakhapatnam (1.33 MMT), Mangalore (1.5 MMT), Padur (2.5 MMT)\n3. Phase 2 would expand reserves to provide 22 days of import cover\n4. SPR is managed by Indian Strategic Petroleum Reserves Limited (ISPRL)\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2 and 4 only",
         "1 and 4 only",
         "1, 2, 3 and 4",
-        "All are correct"
+        "2 and 3 only"
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "All correct. India's energy security concern: imports 85%+ of crude oil. SPR Phase 1: 5.33 MMT total (9.5 days cover). Phase 2: Chandikhol (Odisha) and Padur expansion would add more (target: 22 days). ISPRL (subsidiary of ONGC) manages underground rock cavern storage. IEA recommends 90 days — India far below (commercial stocks add ~60 days). India fills SPR opportunistically (when oil prices crash, like COVID-2020 at $20/barrel). Strategic autonomy: ensures India can ride out short-term supply disruptions without panic."
     },
     {
@@ -47,7 +47,7 @@
       "options": [
         "1, 2, 3 and 4",
         "1 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only"
       ],
       "answer": 3,
@@ -56,12 +56,12 @@
     {
       "id": "wb20",
       "subject": "Internal Security",
-      "question": "Consider the following about India-Pakistan ceasefire along LoC:\n1. A ceasefire was agreed in February 2021 along the LoC\n2. It significantly reduced civilian casualties in border areas\n3. The ceasefire also addressed cross-border terrorism\n4. The DG-level military hotline (DGMO) facilitates communication",
+      "question": "Consider the following about India-Pakistan ceasefire along LoC:\n1. A ceasefire was agreed in February 2021 along the LoC\n2. It significantly reduced civilian casualties in border areas\n3. The ceasefire also addressed cross-border terrorism\n4. The DG-level military hotline (DGMO) facilitates communication\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 2 only",
         "1, 2, 3 and 4",
         "1, 2 and 4 only",
-        "All are correct"
+        "1 and 4 only"
       ],
       "answer": 2,
       "explanation": "1, 2, 4 correct. Statement 3 WRONG — the ceasefire agreement addressed only FIRING along LoC/IB. It did NOT address cross-border terrorism (infiltration, terror launch pads, terror financing continued). This is a key distinction — ceasefire ≠ peace. DGMO-level hotline: used for flag meetings, communication on border incidents. Post-2021 ceasefire: cross-border shelling reduced to near-zero (from 5,000+ incidents in 2020), but terror infiltration attempts continued (evidenced by subsequent encounters). India's position: ceasefire for peace, but terrorism must stop for normalization."
@@ -69,10 +69,10 @@
     {
       "id": "wb21",
       "subject": "Government Schemes",
-      "question": "Consider the following about ONDC (Open Network for Digital Commerce):\n1. It is an open protocol (not a platform) for e-commerce\n2. It aims to democratize digital commerce (reduce Amazon/Flipkart dominance)\n3. Any seller can list and any buyer can purchase through any ONDC-connected app\n4. It is fully operational and has captured 50%+ of India's e-commerce market",
+      "question": "Consider the following about ONDC (Open Network for Digital Commerce):\n1. It is an open protocol (not a platform) for e-commerce\n2. It aims to democratize digital commerce (reduce Amazon/Flipkart dominance)\n3. Any seller can list and any buyer can purchase through any ONDC-connected app\n4. It is fully operational and has captured 50%+ of India's e-commerce market\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 2 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4",
         "1, 2 and 3 only"
       ],
@@ -84,25 +84,25 @@
       "subject": "Government Schemes",
       "question": "With reference to National Monetization Pipeline (NMP):\n1. It involves leasing/monetizing brownfield government assets to private sector\n2. Assets remain in government ownership (no privatization/sale)\n3. Target: ₹6 lakh crore over 4 years (FY22-25)\n4. Sectors include: roads, railways, power, telecom, warehousing, airports",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1 and 2 only",
         "1, 2, 3 and 4",
         "1, 2 and 3 only"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "All correct. NMP (Aug 2021, NITI Aayog): monetize operational government assets through long-term leases, InvITs, TOT (Toll-Operate-Transfer). Key: OWNERSHIP stays with government, OPERATION rights leased for 25-30 years. ₹6 lakh crore target across: NHAI roads (₹1.6L cr), Railways (stations, tracks, ₹1.52L cr), Power (transmission lines), Airports (AAI), Telecom (BSNL towers), Warehousing (FCI godowns), Mining, Stadiums. Model: private efficiency + public ownership. Criticism: selling family silver, undervaluation concerns."
     },
     {
       "id": "wb23",
       "subject": "Government Schemes",
-      "question": "Consider the following about Aspirational Districts Programme (ADP):\n1. It targets 112 most underdeveloped districts for accelerated development\n2. It was launched in 2018 based on a composite index\n3. It focuses on: health, education, agriculture, financial inclusion, and infrastructure\n4. Districts are ranked monthly on improvement (delta ranking, not absolute)",
+      "question": "Consider the following about Aspirational Districts Programme (ADP):\n1. It targets 112 most underdeveloped districts for accelerated development\n2. It was launched in 2018 based on a composite index\n3. It focuses on: health, education, agriculture, financial inclusion, and infrastructure\n4. Districts are ranked monthly on improvement (delta ranking, not absolute)\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 4 only",
-        "All are correct",
+        "2 and 3 only",
         "1, 2 and 3 only",
         "1, 2, 3 and 4"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanation": "All correct. ADP (Jan 2018, NITI Aayog): 112 districts across 28 states (selected on composite index of deprivation across 5 themes with 49 indicators). Innovation: DELTA ranking (improvement matters, not absolute level — so a poor district improving fast ranks higher). Each district has: Central Prabhari Officer + State Nodal Officer. 3 pillars: Convergence (of Central/State schemes), Collaboration (private/civil society), Competition (between districts). Success: many districts showed rapid improvement in 2018-2023 period. Expanded to Aspirational Blocks Programme (500 blocks, 2023)."
     },
     {
@@ -111,24 +111,24 @@
       "question": "With reference to Account Aggregator (AA) Framework:\n1. It enables consent-based sharing of financial data between institutions\n2. RBI licensed AAs as a new category of NBFC\n3. It reduces the need for physical documents for loan applications\n4. Users can share data from banks, insurance, mutual funds through one consent",
       "options": [
         "1, 2, 3 and 4",
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only",
         "1 and 3 only"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanation": "All correct. AA framework (operational Sept 2021): India's financial data-sharing infrastructure. RBI licenses AAs (like CAMS Finserv, Cookiejar, Finvu) as NBFC-AAs. How it works: user gives consent on AA app → data flows from Financial Information Provider (bank) to Financial Information User (lender) — digitally, instantly. Reduces: loan processing time (days → minutes), need for physical documents (salary slips, bank statements), cost of lending (cheaper credit assessment). Part of India Stack (Layer 4: Data empowerment). DEPA (Data Empowerment and Protection Architecture) is the framework."
     },
     {
       "id": "wb25",
       "subject": "Interdisciplinary",
-      "question": "Consider the following about India's demographic challenges:\n1. India's median age (~28 years) is among the youngest globally for large economies\n2. Southern states face aging while northern states still have population growth\n3. This creates tension in delimitation (seats vs population)\n4. India's dependency ratio is expected to worsen after 2040",
+      "question": "Consider the following about India's demographic challenges:\n1. India's median age (~28 years) is among the youngest globally for large economies\n2. Southern states face aging while northern states still have population growth\n3. This creates tension in delimitation (seats vs population)\n4. India's dependency ratio is expected to worsen after 2040\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 2 only",
         "1, 2, 3 and 4",
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only"
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "All correct. India's demographic advantage: median age 28 (vs China 39, Japan 49, US 38). But DIVERGENCE within India: Kerala median age ~33 (aging), Bihar ~20 (young/growing). Delimitation tension: if seats allocated purely by population, southern states (controlled population = fewer seats) lose representation to northern states (didn't control = more seats) — penalizes good governance. Dependency ratio: currently falling (dividend phase), will worsen post-2040 as working-age cohort ages. Window for dividend: 2020-2055 approximately. Challenge: creating 12 million jobs/year for youth."
     },
     {
@@ -139,7 +139,7 @@
         "1, 2, 3 and 4",
         "1 and 3 only",
         "1, 2 and 3 only",
-        "All are correct"
+        "1 and 4 only"
       ],
       "answer": 2,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — climate change IS impacting India's monsoon. Effects: more intense but shorter rainfall events, longer dry spells, increased variability, changing monsoon onset/withdrawal dates, more frequent extreme events (Mumbai floods, Kerala floods, Uttarakhand cloudburst). IMD data confirms: frequency of very heavy rainfall events increased while moderate rain days decreased. India's cyclone early warning (IMD + INCOIS): deaths reduced from 10,000+ (1999 Odisha supercyclone) to <100 (2020 Amphan) through timely evacuation."
@@ -147,27 +147,27 @@
     {
       "id": "wb27",
       "subject": "Interdisciplinary",
-      "question": "Consider the following about Artificial Intelligence governance in India:\n1. India has NOT enacted a comprehensive AI-specific law (unlike EU AI Act)\n2. India's approach is 'pro-innovation' with sectoral guidelines rather than blanket regulation\n3. NITI Aayog published 'Responsible AI for All' strategy\n4. MeitY issued advisory on AI deepfakes to intermediaries",
+      "question": "Consider the following about Artificial Intelligence governance in India:\n1. India has NOT enacted a comprehensive AI-specific law (unlike EU AI Act)\n2. India's approach is 'pro-innovation' with sectoral guidelines rather than blanket regulation\n3. NITI Aayog published 'Responsible AI for All' strategy\n4. MeitY issued advisory on AI deepfakes to intermediaries\nWhich of the statements given above is/are correct?",
       "options": [
-        "All are correct",
+        "2 and 3 only",
         "1, 2 and 3 only",
         "1 and 4 only",
         "1, 2, 3 and 4"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "All correct. India's AI governance: no standalone comprehensive AI legislation (as of 2026). Approach: sectoral regulation (RBI for AI in banking, SEBI for algo trading, IRDAI for insurance AI) + advisory guidelines. NITI Aayog: 'Responsible AI for All' (2021) — principles-based approach (fairness, reliability, privacy, safety). MeitY advisory (Jan 2024): platforms must label AI-generated content, remove deepfakes, seek government approval before launching 'untested' AI models (controversial, partially walked back). India balances: not wanting to stifle $500 billion AI opportunity vs preventing harms (bias, deepfakes, job displacement)."
     },
     {
       "id": "wb28",
       "subject": "Social Issues",
-      "question": "Consider the following about caste-based atrocities in India:\n1. SC/ST (Prevention of Atrocities) Act, 1989 provides special protection\n2. The Act was amended in 2015 and 2018 to strengthen provisions\n3. Anticipatory bail was earlier granted in atrocity cases (restricted now)\n4. NCRB data shows increasing registration of cases under this Act",
+      "question": "Consider the following about caste-based atrocities in India:\n1. SC/ST (Prevention of Atrocities) Act, 1989 provides special protection\n2. The Act was amended in 2015 and 2018 to strengthen provisions\n3. Anticipatory bail was earlier granted in atrocity cases (restricted now)\n4. NCRB data shows increasing registration of cases under this Act\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2 and 4 only",
         "1, 2, 3 and 4",
         "1 and 2 only",
-        "All are correct"
+        "1 and 4 only"
       ],
-      "answer": 3,
+      "answer": 1,
       "explanation": "All correct. PoA Act 1989: criminalizes atrocities against SC/STs with stringent punishment, exclusive special courts. 2015 Amendment: added new offences (garlanding with footwear, social boycott, denying access). 2018 Amendment: reversed SC's Subhash Kashinath Mahajan judgment (2018) which allowed anticipatory bail — Parliament restored: no anticipatory bail, preliminary inquiry not needed before FIR, no approval needed for arrest. NCRB: registration increasing (50,000+ cases/year) — could mean both more awareness + better reporting AND continuing prevalence."
     },
     {
@@ -175,7 +175,7 @@
       "subject": "Social Issues",
       "question": "With reference to India's surrogacy regulation:\n1. Surrogacy (Regulation) Act, 2021 bans commercial surrogacy\n2. Only altruistic surrogacy by a 'close relative' is permitted\n3. Intended parents must be Indian citizens (married couple for 5+ years)\n4. Single parents and same-sex couples can avail surrogacy",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1 and 2 only",
         "1, 2 and 3 only",
         "1, 2, 3 and 4"
@@ -186,14 +186,14 @@
     {
       "id": "wb30",
       "subject": "Social Issues",
-      "question": "Consider the following about India's prison reform:\n1. Model Prison Manual 2016 recommends standards for Indian prisons\n2. India's prisons are severely overcrowded (occupancy 120-130%)\n3. Undertrials constitute approximately 75% of India's prison population\n4. Prisons are a 'State subject' under the 7th Schedule",
+      "question": "Consider the following about India's prison reform:\n1. Model Prison Manual 2016 recommends standards for Indian prisons\n2. India's prisons are severely overcrowded (occupancy 120-130%)\n3. Undertrials constitute approximately 75% of India's prison population\n4. Prisons are a 'State subject' under the 7th Schedule\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2 and 3 only",
         "1, 2, 3 and 4",
         "2 and 4 only",
-        "All are correct"
+        "1 and 4 only"
       ],
-      "answer": 3,
+      "answer": 1,
       "explanation": "All correct. Prisons: State subject (Entry 4, State List). Model Prison Manual (BPR&D, 2016): guidelines on: prisoner rights, open prisons, video-conferencing for undertrials, women prisoners, mental health. Overcrowding: national average ~118% (some jails 200-300%). Undertrials: ~75% of 5.5 lakh prisoners (haven't been convicted — languishing due to inability to furnish bail, slow trials). SC has repeatedly intervened: Inhuman Conditions in 1382 Prisons case (Suo Motu). Issues: lack of legal aid, corrupt bail system, delay in trials (average pendency 3+ years)."
     }
   ]

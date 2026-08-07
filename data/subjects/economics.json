@@ -4,12 +4,12 @@
     {
       "id": "eco1",
       "subject": "Economics",
-      "question": "Consider the following about Fiscal Policy:\n1. It is formulated by the Finance Ministry\n2. Revenue deficit means government borrowing for consumption expenditure\n3. Primary deficit = Fiscal deficit - Interest payments\n4. Capital expenditure always creates assets",
+      "question": "Consider the following about Fiscal Policy:\n1. It is formulated by the Finance Ministry\n2. Revenue deficit means government borrowing for consumption expenditure\n3. Primary deficit = Fiscal deficit - Interest payments\n4. Capital expenditure always creates assets\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2 and 3 only",
         "1 and 3 only",
         "1, 2, 3 and 4",
-        "All are correct"
+        "1 and 4 only"
       ],
       "answer": 0,
       "explanation": "1, 2, 3 correct. Statement 4 is wrong - Capital expenditure includes loans and advances to states/PSUs which may not create assets directly. It reduces liabilities OR creates assets, but not always creates physical assets."
@@ -19,7 +19,7 @@
       "subject": "Economics",
       "question": "Which of the following are functions of NABARD?\n1. Refinance to rural lending institutions\n2. Direct lending to farmers\n3. Supervision of Regional Rural Banks\n4. Promoting microfinance",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4",
         "1, 3 and 4 only",
         "1 and 3 only"
@@ -30,14 +30,14 @@
     {
       "id": "eco3",
       "subject": "Economics",
-      "question": "Consider the following regarding inflation:\n1. WPI does not include services\n2. CPI measures retail price changes\n3. RBI targets CPI-based inflation at 4% (±2%)\n4. Core inflation excludes food and fuel",
+      "question": "Consider the following regarding inflation:\n1. WPI does not include services\n2. CPI measures retail price changes\n3. RBI targets CPI-based inflation at 4% (±2%)\n4. Core inflation excludes food and fuel\nWhich of the statements given above is/are correct?",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only",
         "2 and 3 only",
         "1, 2, 3 and 4"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "All correct. WPI covers manufactured goods, primary articles, fuel (no services). CPI measures consumer prices (retail). RBI under Flexible Inflation Targeting targets CPI at 4% with 2-6% band. Core inflation strips volatile food and fuel prices."
     },
     {
@@ -82,14 +82,14 @@
     {
       "id": "eco7",
       "subject": "Economics",
-      "question": "Consider the following about Indian Banking:\n1. SLR is maintained in the form of gold, government securities, or cash\n2. CRR is kept with RBI in cash only\n3. CASA ratio affects a bank's cost of funds\n4. NPA is classified after 90 days of non-payment",
+      "question": "Consider the following about Indian Banking:\n1. SLR is maintained in the form of gold, government securities, or cash\n2. CRR is kept with RBI in cash only\n3. CASA ratio affects a bank's cost of funds\n4. NPA is classified after 90 days of non-payment\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2, 3 and 4",
         "1, 3 and 4 only",
-        "All are correct",
+        "1 and 4 only",
         "2, 3 and 4 only"
       ],
-      "answer": 2,
+      "answer": 0,
       "explanation": "All correct. SLR: maintained in liquid assets (gold, govt securities, cash). CRR: only cash deposited with RBI (no interest earned). CASA (Current Account Savings Account): higher CASA = lower cost of funds (low/no interest). NPA: loan unpaid for >90 days."
     },
     {
@@ -108,14 +108,14 @@
     {
       "id": "eco9",
       "subject": "Economics",
-      "question": "Consider the following about GDP measurement:\n1. India uses base year 2011-12 for GDP calculation\n2. GVA is GDP from supply side\n3. GDP at market price = GDP at factor cost + net indirect taxes\n4. India shifted from factor cost to market price method in 2015",
+      "question": "Consider the following about GDP measurement:\n1. India uses base year 2011-12 for GDP calculation\n2. GVA is GDP from supply side\n3. GDP at market price = GDP at factor cost + net indirect taxes\n4. India shifted from factor cost to market price method in 2015\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 4 only",
         "1, 2, 3 and 4",
         "1, 2 and 3 only",
-        "All are correct"
+        "2 and 3 only"
       ],
-      "answer": 3,
+      "answer": 1,
       "explanation": "All correct. New GDP series (2015): base year 2011-12, uses GVA (Gross Value Added) at basic prices instead of factor cost, and GDP at market prices. GVA = GDP from production/supply side. GDP at MP = GVA at basic prices + product taxes - product subsidies."
     },
     {
@@ -126,9 +126,9 @@
         "1, 2, 3 and 4",
         "1 and 2 only",
         "1, 2 and 3 only",
-        "All are correct"
+        "1 and 4 only"
       ],
-      "answer": 3,
+      "answer": 0,
       "explanation": "All are part of Capital Account. Capital Account records: FDI (direct investment with management control), FPI/FII (portfolio investment), ECBs (foreign loans), NRI deposits, external assistance, and banking capital."
     },
     {
@@ -137,7 +137,7 @@
       "question": "With reference to disinvestment:\n1. It refers to selling government stake in PSUs\n2. Strategic disinvestment means transfer of management control\n3. DIPAM handles disinvestment policy\n4. Privatization and disinvestment are the same thing",
       "options": [
         "1, 2 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1 and 2 only",
         "1, 2, 3 and 4"
       ],
@@ -151,7 +151,7 @@
       "options": [
         "1, 2 and 3 only",
         "1 and 2 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4"
       ],
       "answer": 0,

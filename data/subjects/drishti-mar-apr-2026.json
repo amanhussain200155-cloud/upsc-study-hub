@@ -4,11 +4,11 @@
     {
       "id": "mar26-1",
       "subject": "Polity & Governance",
-      "question": "Consider the following about the Model Code of Conduct (MCC):\n1. It has statutory backing under the Representation of People Act\n2. It comes into force from the date of announcement of elections\n3. It applies to the ruling party and opposition equally\n4. The Election Commission can enforce it through its constitutional powers under Article 324",
+      "question": "Consider the following about the Model Code of Conduct (MCC):\n1. It has statutory backing under the Representation of People Act\n2. It comes into force from the date of announcement of elections\n3. It applies to the ruling party and opposition equally\n4. The Election Commission can enforce it through its constitutional powers under Article 324\nWhich of the statements given above is/are correct?",
       "options": [
         "2, 3 and 4 only",
         "1, 2, 3 and 4",
-        "All are correct",
+        "1 and 4 only",
         "2 and 3 only"
       ],
       "answer": 0,
@@ -21,7 +21,7 @@
       "options": [
         "2 and 3 only",
         "1, 2, 3 and 4",
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only"
       ],
       "answer": 3,
@@ -30,9 +30,9 @@
     {
       "id": "mar26-3",
       "subject": "Polity & Governance",
-      "question": "Consider the following about the removal of the Chief Election Commissioner (CEC):\n1. CEC can be removed in the same manner as a Supreme Court judge\n2. This requires an address by both Houses of Parliament\n3. Grounds for removal are proved misbehaviour or incapacity\n4. Other Election Commissioners can be removed by the President on CEC's recommendation",
+      "question": "Consider the following about the removal of the Chief Election Commissioner (CEC):\n1. CEC can be removed in the same manner as a Supreme Court judge\n2. This requires an address by both Houses of Parliament\n3. Grounds for removal are proved misbehaviour or incapacity\n4. Other Election Commissioners can be removed by the President on CEC's recommendation\nWhich of the statements given above is/are correct?",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only",
         "1, 2, 3 and 4",
         "1 and 3 only"
@@ -46,7 +46,7 @@
       "question": "With reference to 'Bulldozer Justice' in India:\n1. The Supreme Court has issued guidelines regulating demolition of properties\n2. The SC held that executive cannot act as judge and demolish properties as punishment\n3. Demolitions require prior notice and due process\n4. The practice has been upheld as a valid deterrent against crime",
       "options": [
         "1, 2 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1 and 2 only",
         "1, 2, 3 and 4"
       ],
@@ -56,12 +56,12 @@
     {
       "id": "mar26-5",
       "subject": "Economics",
-      "question": "Consider the following about India's new GDP series with base year 2022-23:\n1. It replaces the earlier base year of 2011-12\n2. The new series uses updated methodology incorporating more data sources\n3. GDP at market prices is the primary measure\n4. The back-series data remains unchanged from the old methodology",
+      "question": "Consider the following about India's new GDP series with base year 2022-23:\n1. It replaces the earlier base year of 2011-12\n2. The new series uses updated methodology incorporating more data sources\n3. GDP at market prices is the primary measure\n4. The back-series data remains unchanged from the old methodology\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 3 only",
         "1, 2, 3 and 4",
         "1, 2 and 3 only",
-        "All are correct"
+        "1 and 4 only"
       ],
       "answer": 2,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — when base year changes, back-series data is also REVISED (recalculated with new methodology). This often leads to revised growth rates for earlier years, which can be politically controversial. New base year incorporates: more corporate data (MCA21), GST data, new employment surveys, updated consumption patterns."
@@ -74,7 +74,7 @@
         "1, 2, 3 and 4",
         "1 and 3 only",
         "1, 2 and 3 only",
-        "All are correct"
+        "1 and 4 only"
       ],
       "answer": 2,
       "explanation": "1, 2, 3 correct. Statement 4 is MISLEADING — while government has been trying to converge PM-KISAN and KCC (saturation drive), PM-KISAN beneficiaries are NOT 'automatically' eligible for KCC. They still need to apply through banks, meet creditworthiness criteria. KCC: 7% interest, with 3% subvention = 4% effective rate for loans up to ₹3 lakh repaid on time. Covers: crop production, animal husbandry, fisheries (since 2019)."
@@ -82,14 +82,14 @@
     {
       "id": "mar26-7",
       "subject": "International Relations",
-      "question": "Consider the following about Xiaokang Villages near the India-China border:\n1. These are Chinese 'moderately prosperous' villages built near the LAC\n2. They serve dual purpose: civilian settlement and border defense\n3. They are located primarily in Tibet Autonomous Region near Arunachal Pradesh\n4. India has countered with Vibrant Village Programme (VVP)",
+      "question": "Consider the following about Xiaokang Villages near the India-China border:\n1. These are Chinese 'moderately prosperous' villages built near the LAC\n2. They serve dual purpose: civilian settlement and border defense\n3. They are located primarily in Tibet Autonomous Region near Arunachal Pradesh\n4. India has countered with Vibrant Village Programme (VVP)\nWhich of the statements given above is/are correct?",
       "options": [
-        "All are correct",
+        "2 and 3 only",
         "1 and 4 only",
         "1, 2, 3 and 4",
         "1, 3 and 4 only"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "All correct. China built 600+ Xiaokang villages along the LAC in Tibet, near borders of Arunachal, Uttarakhand, Ladakh. They serve as 'dual-use' infrastructure: civilian development + border monitoring/defense (population as first line of presence). India's response: Vibrant Village Programme (Budget 2022-23) to develop 2,500+ border villages in Arunachal, Uttarakhand, Himachal, Sikkim, Ladakh with infrastructure, connectivity, livelihood support."
     },
     {
@@ -98,7 +98,7 @@
       "question": "With reference to the Raisina Dialogue:\n1. It is India's flagship conference on geopolitics and geo-economics\n2. It is organized jointly by MEA and Observer Research Foundation (ORF)\n3. It is held annually in New Delhi\n4. It is equivalent to the World Economic Forum's Davos summit",
       "options": [
         "1 and 2 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4",
         "1, 2 and 3 only"
       ],
@@ -108,12 +108,12 @@
     {
       "id": "mar26-9",
       "subject": "Environment & Ecology",
-      "question": "Consider the following about Carbon Capture and Utilisation (CCU) Technologies:\n1. CCU captures CO2 and converts it into useful products\n2. CCU is different from CCS (Carbon Capture and Storage) which stores CO2 underground\n3. India has a dedicated National Policy on CCU/CCS\n4. CCU products include synthetic fuels, building materials, and chemicals",
+      "question": "Consider the following about Carbon Capture and Utilisation (CCU) Technologies:\n1. CCU captures CO2 and converts it into useful products\n2. CCU is different from CCS (Carbon Capture and Storage) which stores CO2 underground\n3. India has a dedicated National Policy on CCU/CCS\n4. CCU products include synthetic fuels, building materials, and chemicals\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2, 3 and 4",
         "1 and 2 only",
         "1, 2 and 4 only",
-        "All are correct"
+        "1 and 4 only"
       ],
       "answer": 2,
       "explanation": "1, 2, 4 correct. Statement 3 WRONG — India does NOT yet have a comprehensive dedicated national policy on CCU/CCS (as of 2026). NITI Aayog has released a report recommending a policy framework, DST funds research, but no formal national policy exists. CCU converts captured CO2 into: methanol, synthetic fuels, polymers, building aggregates (carbonated concrete), chemicals. CCS stores it in geological formations."
@@ -125,7 +125,7 @@
       "options": [
         "1, 2, 3 and 4",
         "1, 2 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1 and 3 only"
       ],
       "answer": 1,
@@ -134,14 +134,14 @@
     {
       "id": "apr26-1",
       "subject": "Polity & Governance",
-      "question": "Consider the following about Delimitation in India:\n1. Delimitation Commission is a quasi-judicial body whose orders cannot be challenged in court\n2. The last delimitation was based on 2001 Census (except J&K recently)\n3. The 84th Amendment froze the number of Lok Sabha seats until 2026 based on 1971 Census\n4. Southern states oppose fresh delimitation fearing loss of seats due to lower population growth",
+      "question": "Consider the following about Delimitation in India:\n1. Delimitation Commission is a quasi-judicial body whose orders cannot be challenged in court\n2. The last delimitation was based on 2001 Census (except J&K recently)\n3. The 84th Amendment froze the number of Lok Sabha seats until 2026 based on 1971 Census\n4. Southern states oppose fresh delimitation fearing loss of seats due to lower population growth\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 4 only",
-        "All are correct",
+        "2 and 3 only",
         "1, 2, 3 and 4",
         "1, 3 and 4 only"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanation": "All correct. Delimitation Commission's orders have force of law and CANNOT be challenged in any court. Last general delimitation used 2001 Census for readjusting boundaries (not seat numbers). 84th Amendment (2002) froze total seats until first Census after 2026 based on 1971 population (to not penalize states doing well in population control). Southern states (TN, Kerala, AP, Karnataka) fear losing seats to UP, Bihar in post-2026 delimitation."
     },
     {
@@ -151,7 +151,7 @@
       "options": [
         "1, 2, 3 and 4",
         "1, 2 and 4",
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only"
       ],
       "answer": 3,
@@ -160,14 +160,14 @@
     {
       "id": "apr26-3",
       "subject": "Economics",
-      "question": "Consider the following about 10 Years of Unified Payments Interface (UPI):\n1. UPI was launched in 2016 by NPCI\n2. Monthly transactions have crossed 12 billion\n3. UPI has been internationalized - linked with Singapore's PayNow\n4. Merchant Discount Rate (MDR) on UPI is currently zero",
+      "question": "Consider the following about 10 Years of Unified Payments Interface (UPI):\n1. UPI was launched in 2016 by NPCI\n2. Monthly transactions have crossed 12 billion\n3. UPI has been internationalized - linked with Singapore's PayNow\n4. Merchant Discount Rate (MDR) on UPI is currently zero\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 3 and 4 only",
-        "All are correct",
+        "1 and 4 only",
         "1 and 3 only",
         "1, 2, 3 and 4"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanation": "All correct. UPI launched August 2016. Monthly transactions exceeded 12-14 billion (2024-25). International linkages: PayNow (Singapore), NEFT-like corridor with UAE, Sri Lanka, France, Nepal. Zero MDR since January 2020 (government absorbs cost to promote digital payments). UPI is India's most successful DPI (Digital Public Infrastructure), accounting for ~75% of all digital payments. Handled by NPCI."
     },
     {
@@ -176,7 +176,7 @@
       "question": "With reference to India's Helium crisis:\n1. India imports nearly 100% of its helium requirements\n2. Helium is used in MRI machines, semiconductor manufacturing, and space research\n3. India has discovered helium reserves in Rajasthan\n4. Helium can be easily manufactured synthetically",
       "options": [
         "1 and 2 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4",
         "1, 2 and 3 only"
       ],
@@ -186,12 +186,12 @@
     {
       "id": "apr26-5",
       "subject": "Polity & Governance",
-      "question": "Consider the following about the Insolvency and Bankruptcy Code (Amendment) Bill, 2025:\n1. IBC was enacted in 2016 for time-bound resolution of insolvency\n2. NCLT is the adjudicating authority for corporate insolvency\n3. The amendment aims to streamline the resolution process further\n4. Under IBC, the resolution must be completed within 90 days",
+      "question": "Consider the following about the Insolvency and Bankruptcy Code (Amendment) Bill, 2025:\n1. IBC was enacted in 2016 for time-bound resolution of insolvency\n2. NCLT is the adjudicating authority for corporate insolvency\n3. The amendment aims to streamline the resolution process further\n4. Under IBC, the resolution must be completed within 90 days\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2 and 3 only",
         "1 and 2 only",
         "1, 2, 3 and 4",
-        "All are correct"
+        "1 and 4 only"
       ],
       "answer": 0,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — the timeline is 180 days (extendable by 90 days, total maximum 330 days), NOT 90 days. 90 days is the timeline for FAST-TRACK insolvency process (for small companies). The amendment addresses issues like: group insolvency, pre-pack framework expansion, real estate project resolution, reducing delays in NCLT. Average resolution time has been ~450+ days (exceeding mandated limits)."

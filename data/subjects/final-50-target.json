@@ -4,14 +4,14 @@
     {
       "id": "ft1",
       "subject": "Internal Security",
-      "question": "Consider the following about India's nuclear command structure:\n1. Nuclear Command Authority (NCA) has a Political Council (PM chairs) and Executive Council (NSA chairs)\n2. Only the Political Council can authorize a nuclear strike\n3. India maintains a 'No First Use' (NFU) and 'Credible Minimum Deterrence' policy\n4. Strategic Forces Command (SFC) manages India's nuclear arsenal",
+      "question": "Consider the following about India's nuclear command structure:\n1. Nuclear Command Authority (NCA) has a Political Council (PM chairs) and Executive Council (NSA chairs)\n2. Only the Political Council can authorize a nuclear strike\n3. India maintains a 'No First Use' (NFU) and 'Credible Minimum Deterrence' policy\n4. Strategic Forces Command (SFC) manages India's nuclear arsenal\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1 and 3 only",
         "1, 2, 3 and 4"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanation": "All correct. NCA (est. 2003): Political Council (PM + senior ministers) = sole authority to authorize nuclear use. Executive Council (NSA chairs + CDS + service chiefs) = provides inputs and executes orders. NFU: India won't use nuclear weapons first but will retaliate massively ('massive retaliation'). Credible Minimum Deterrence: maintain enough weapons to deter, not arms race. SFC (tri-service): manages delivery systems (Agni missiles, INS Arihant SLBMs, aircraft). India's triad: land (Agni), sea (K-series from SSBN), air (Mirage 2000/Jaguar)."
     },
     {
@@ -20,7 +20,7 @@
       "question": "With reference to election security in India:\n1. Central Armed Police Forces (CAPFs) are deployed during elections\n2. ECI can requisition forces from Centre under Article 324\n3. VVPAT (Voter Verified Paper Audit Trail) provides physical verification of EVM votes\n4. India has completely eliminated booth capturing and electoral violence",
       "options": [
         "1, 2 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1 and 3 only",
         "1, 2, 3 and 4"
       ],
@@ -30,9 +30,9 @@
     {
       "id": "ft3",
       "subject": "Internal Security",
-      "question": "Consider the following about India's counter-intelligence capabilities:\n1. IB (Intelligence Bureau) handles domestic counter-intelligence\n2. Counter-intelligence involves detecting and neutralizing foreign espionage\n3. India has exposed Chinese and Pakistani espionage networks operating in India\n4. India has never experienced any espionage-related security breach",
+      "question": "Consider the following about India's counter-intelligence capabilities:\n1. IB (Intelligence Bureau) handles domestic counter-intelligence\n2. Counter-intelligence involves detecting and neutralizing foreign espionage\n3. India has exposed Chinese and Pakistani espionage networks operating in India\n4. India has never experienced any espionage-related security breach\nWhich of the statements given above is/are correct?",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4",
         "1 and 2 only",
         "1, 2 and 3 only"
@@ -48,19 +48,19 @@
         "1 and 4 only",
         "1, 2, 3 and 4",
         "1, 2 and 4 only",
-        "All are correct"
+        "2 and 3 only"
       ],
-      "answer": 3,
+      "answer": 1,
       "explanation": "All correct. NDMA (PM as chair): apex policy body. NDRF (16 battalions, ~18,000 personnel): drawn from CAPFs (BSF, CRPF, ITBP, CISF, SSB), trained in: collapse search/rescue, water rescue, CBRN (chemical/biological/radiological/nuclear), medical first response. SDRF: each state maintains own disaster force. DM Act 2005: NDMA + SDMA + DDMA (district level) structure. Recent additions: IFLOWS (Integrated Flood Warning System), Aapda Mitra volunteers, community-based disaster preparedness. India's disaster preparedness improved significantly — cyclone deaths reduced 90%+ compared to 1999."
     },
     {
       "id": "ft5",
       "subject": "Internal Security",
-      "question": "Consider the following about separatism in India:\n1. Khalistan movement (Punjab) was largely contained by the 1990s\n2. Kashmir separatism has roots in both religious and political identity issues\n3. NE separatism involves multiple ethnic groups seeking autonomy/independence\n4. All separatist movements in India have been resolved permanently",
+      "question": "Consider the following about separatism in India:\n1. Khalistan movement (Punjab) was largely contained by the 1990s\n2. Kashmir separatism has roots in both religious and political identity issues\n3. NE separatism involves multiple ethnic groups seeking autonomy/independence\n4. All separatist movements in India have been resolved permanently\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 3 only",
         "1, 2, 3 and 4",
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only"
       ],
       "answer": 3,
@@ -69,14 +69,14 @@
     {
       "id": "ft6",
       "subject": "Government Schemes",
-      "question": "Consider the following about Atal Pension Yojana (APY):\n1. It guarantees pension of ₹1,000-₹5,000/month after age 60\n2. It targets unorganized sector workers aged 18-40\n3. Government co-contributes 50% of total contribution for 5 years\n4. It is administered by PFRDA (Pension Fund Regulatory and Development Authority)",
+      "question": "Consider the following about Atal Pension Yojana (APY):\n1. It guarantees pension of ₹1,000-₹5,000/month after age 60\n2. It targets unorganized sector workers aged 18-40\n3. Government co-contributes 50% of total contribution for 5 years\n4. It is administered by PFRDA (Pension Fund Regulatory and Development Authority)\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 4 only",
         "1, 2 and 4 only",
         "1, 2, 3 and 4",
-        "All are correct"
+        "2 and 3 only"
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "All correct. APY (2015, replacing Swavalamban): defined benefit pension for unorganized workers. Monthly contribution (varies by entry age and desired pension): ₹42-1,454/month. Government co-contribution: 50% of subscriber contribution or ₹1,000/year (whichever lower) for 5 years (for those joining 2015-16 without income tax liability). PFRDA administers under NPS architecture. 5.5 crore+ subscribers. Guaranteed pension: ₹1,000/2,000/3,000/4,000/5,000 per month depending on contribution level. Spouse gets same pension after subscriber's death; nominees get corpus."
     },
     {
@@ -84,7 +84,7 @@
       "subject": "Government Schemes",
       "question": "With reference to Pradhan Mantri Fasal Bima Yojana (PMFBY):\n1. It provides crop insurance at subsidized premium rates\n2. Farmer's premium: 2% for Kharif, 1.5% for Rabi, 5% for commercial/horticultural crops\n3. Use of technology (satellite, drones, AI) for crop loss assessment\n4. Enrollment is mandatory for all farmers regardless of bank loans",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only",
         "1, 2, 3 and 4",
         "1 and 2 only"
@@ -95,14 +95,14 @@
     {
       "id": "ft8",
       "subject": "Government Schemes",
-      "question": "Consider the following about One Nation One Ration Card (ONORC):\n1. It enables migrant workers to access PDS rations anywhere in India\n2. It uses Aadhaar-based biometric authentication at Fair Price Shops\n3. All states and UTs have been integrated into ONORC\n4. It was particularly critical during COVID-19 when migrants were stranded",
+      "question": "Consider the following about One Nation One Ration Card (ONORC):\n1. It enables migrant workers to access PDS rations anywhere in India\n2. It uses Aadhaar-based biometric authentication at Fair Price Shops\n3. All states and UTs have been integrated into ONORC\n4. It was particularly critical during COVID-19 when migrants were stranded\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2 and 4 only",
         "1 and 4 only",
-        "All are correct",
+        "2 and 3 only",
         "1, 2, 3 and 4"
       ],
-      "answer": 2,
+      "answer": 3,
       "explanation": "All correct. ONORC (announced 2019, expanded during COVID): portability of food security entitlements. Previously: rations only from registered FPS in home district. Now: biometric authentication at any ePoS-enabled FPS nationwide. All 36 states/UTs integrated (though Assam/Chhattisgarh were last). Critical during COVID: 4 crore+ portability transactions (2020-21) when migrants couldn't return home. Technology: Integrated Management of PDS (IM-PDS) portal + Aadhaar + ePoS machines at 5.4 lakh FPS. SC directed: all states to implement (ensuring food security for internal migrants — 9+ crore people)."
     },
     {
@@ -110,7 +110,7 @@
       "subject": "Government Schemes",
       "question": "With reference to Swamitva scheme and rural land records:\n1. Property cards ('Gharauni') issued enable rural homeowners to access bank credit\n2. Revenue from property tax strengthens Gram Panchayat finances\n3. Drone survey technology provides accurate boundary demarcation\n4. India had complete digitization of all rural land records before Swamitva",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only",
         "1, 2, 3 and 4",
         "1 and 3 only"
@@ -121,12 +121,12 @@
     {
       "id": "ft10",
       "subject": "Interdisciplinary",
-      "question": "Consider the following about India's electric mobility transition:\n1. India's EV sales crossed 15 lakh units in FY 2023-24\n2. Electric 2-wheelers dominate India's EV market (>60% of EV sales)\n3. Battery swapping policy provides an alternative to charging infrastructure\n4. India manufactures 100% of EV batteries domestically",
+      "question": "Consider the following about India's electric mobility transition:\n1. India's EV sales crossed 15 lakh units in FY 2023-24\n2. Electric 2-wheelers dominate India's EV market (>60% of EV sales)\n3. Battery swapping policy provides an alternative to charging infrastructure\n4. India manufactures 100% of EV batteries domestically\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 2 only",
         "1, 2, 3 and 4",
         "1, 2 and 3 only",
-        "All are correct"
+        "1 and 4 only"
       ],
       "answer": 2,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — India does NOT manufacture 100% of EV batteries domestically. India imports majority of lithium-ion cells (from China, Korea). Assembly of battery packs happens in India, but cell manufacturing is just beginning (ACC PLI scheme: ₹18,100 crore for 50 GWh cell manufacturing). FAME-II + state subsidies drove EV adoption. 2-wheelers lead (Ola, Ather, TVS), buses (Tata, Olectra), 3-wheelers (already 50%+ electric in many cities). Charging infra: 12,000+ public chargers (target 46,000 by 2030). Battery swapping: BIS standards published (2023)."
@@ -138,7 +138,7 @@
       "options": [
         "1 and 3 only",
         "1, 2, 3 and 4",
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only"
       ],
       "answer": 3,
@@ -147,14 +147,14 @@
     {
       "id": "ft12",
       "subject": "Interdisciplinary",
-      "question": "Consider the following about India's blue economy:\n1. India's 7,516 km coastline and 2.37 million sq km EEZ are key assets\n2. Blue economy covers: fisheries, shipping, offshore energy, marine tourism, desalination\n3. India released a draft Blue Economy Policy\n4. Sagarmala programme promotes port-led development as part of blue economy",
+      "question": "Consider the following about India's blue economy:\n1. India's 7,516 km coastline and 2.37 million sq km EEZ are key assets\n2. Blue economy covers: fisheries, shipping, offshore energy, marine tourism, desalination\n3. India released a draft Blue Economy Policy\n4. Sagarmala programme promotes port-led development as part of blue economy\nWhich of the statements given above is/are correct?",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 4 only",
         "1 and 2 only",
         "1, 2, 3 and 4"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "All correct. Blue economy: sustainable use of ocean resources. India's assets: 7,516 km coast, 2.37 million sq km EEZ, 12 major ports + 200 minor ports, 2,000+ islands. Draft Blue Economy Policy (MoES): 7 priority areas — fisheries, aquaculture, marine tourism, offshore energy (offshore wind potential 174 GW), seabed mining (polymetallic nodules), coastal infrastructure, marine R&D. Sagarmala: port modernization + port-led industrialization + coastal economic zones. Deep Ocean Mission: deep-sea exploration, minerals, biodiversity. Blue economy estimated at 4% of GDP."
     },
     {
@@ -162,7 +162,7 @@
       "subject": "Interdisciplinary",
       "question": "With reference to India's space-based applications for governance:\n1. ISRO's Bhuvan provides geoportal services for planning and monitoring\n2. Satellite imagery is used for MGNREGA asset verification\n3. IRNSS/NavIC provides navigation for disaster management, fishing\n4. Space technology has no application in agriculture in India",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4",
         "1 and 3 only",
         "1, 2 and 3 only"
@@ -173,10 +173,10 @@
     {
       "id": "ft14",
       "subject": "Social Issues",
-      "question": "Consider the following about India's tribal health challenges:\n1. Tribal communities have higher prevalence of sickle cell disease\n2. Government launched National Sickle Cell Anaemia Elimination Mission (2023)\n3. Tribal IMR and MMR are significantly higher than national averages\n4. All tribal areas have fully functional Primary Health Centres",
+      "question": "Consider the following about India's tribal health challenges:\n1. Tribal communities have higher prevalence of sickle cell disease\n2. Government launched National Sickle Cell Anaemia Elimination Mission (2023)\n3. Tribal IMR and MMR are significantly higher than national averages\n4. All tribal areas have fully functional Primary Health Centres\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2, 3 and 4",
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only",
         "1 and 2 only"
       ],
@@ -188,7 +188,7 @@
       "subject": "Social Issues",
       "question": "With reference to India's caste census debate:\n1. The last caste census was in 1931 (British era)\n2. OBC population estimates vary widely (32-52%) due to no recent caste census\n3. Bihar conducted a state-level caste survey (2023) showing OBC/EBC as majority\n4. A national caste census would have no political implications",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4",
         "1, 2 and 3 only",
         "1 and 2 only"
@@ -199,10 +199,10 @@
     {
       "id": "ft16",
       "subject": "Social Issues",
-      "question": "Consider the following about child nutrition programmes in India:\n1. Integrated Child Development Services (ICDS) operates through 14 lakh Anganwadi centres\n2. Mid-Day Meal (now PM POSHAN) provides free lunch to 12 crore school children\n3. ICDS provides: supplementary nutrition, immunization, health check-ups, pre-school education\n4. India has completely eliminated child stunting and wasting",
+      "question": "Consider the following about child nutrition programmes in India:\n1. Integrated Child Development Services (ICDS) operates through 14 lakh Anganwadi centres\n2. Mid-Day Meal (now PM POSHAN) provides free lunch to 12 crore school children\n3. ICDS provides: supplementary nutrition, immunization, health check-ups, pre-school education\n4. India has completely eliminated child stunting and wasting\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1 and 3 only",
         "1, 2, 3 and 4"
       ],

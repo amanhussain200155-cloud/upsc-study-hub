@@ -4,11 +4,11 @@
     {
       "id": "se1",
       "subject": "History",
-      "question": "Consider the following about the Delhi Sultanate's economic contributions:\n1. Muhammad bin Tughlaq introduced token currency (brass/copper coins)\n2. The experiment failed due to widespread counterfeiting\n3. Ibn Battuta visited India during Muhammad bin Tughlaq's reign\n4. The token currency experiment was successful and continued for centuries",
+      "question": "Consider the following about the Delhi Sultanate's economic contributions:\n1. Muhammad bin Tughlaq introduced token currency (brass/copper coins)\n2. The experiment failed due to widespread counterfeiting\n3. Ibn Battuta visited India during Muhammad bin Tughlaq's reign\n4. The token currency experiment was successful and continued for centuries\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2 and 3 only",
         "1, 2, 3 and 4",
-        "All are correct",
+        "1 and 4 only",
         "1 and 3 only"
       ],
       "answer": 0,
@@ -22,7 +22,7 @@
         "1 and 4 only",
         "1, 2, 3 and 4",
         "1, 2 and 4 only",
-        "All are correct"
+        "2 and 3 only"
       ],
       "answer": 2,
       "explanation": "1, 2, 4 correct. Statement 3 WRONG — Chishtis specifically REJECTED state patronage and lived in POVERTY/simplicity (unlike Suhrawardis who accepted royal grants). They believed attachment to worldly wealth corrupted spirituality. Nizamuddin Auliya famously refused to visit Sultan's court. Amir Khusrau (poet, musician): disciple who developed qawwali and is credited with innovations in Hindustani music."
@@ -30,9 +30,9 @@
     {
       "id": "se3",
       "subject": "History",
-      "question": "Consider the following about the Sikh Gurus:\n1. Guru Nanak (1469-1539) founded Sikhism emphasizing one God and equality\n2. Guru Arjan Dev compiled the Adi Granth (first version of Guru Granth Sahib)\n3. Guru Gobind Singh created the Khalsa (1699) and militarized the community\n4. All ten Sikh Gurus lived in the same century",
+      "question": "Consider the following about the Sikh Gurus:\n1. Guru Nanak (1469-1539) founded Sikhism emphasizing one God and equality\n2. Guru Arjan Dev compiled the Adi Granth (first version of Guru Granth Sahib)\n3. Guru Gobind Singh created the Khalsa (1699) and militarized the community\n4. All ten Sikh Gurus lived in the same century\nWhich of the statements given above is/are correct?",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1 and 3 only",
         "1, 2, 3 and 4",
         "1, 2 and 3 only"
@@ -48,7 +48,7 @@
         "1, 2, 3 and 4",
         "1, 2 and 3 only",
         "1 and 2 only",
-        "All are correct"
+        "1 and 4 only"
       ],
       "answer": 1,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — Pallava capital was KANCHIPURAM (not Hampi — that was Vijayanagara, centuries later). Shore Temple (Narasimhavarman II, granite, structural temple). Pancha Rathas (Narasimhavarman I/Mamalla): monolithic — each carved from single rock (Dharmaraja, Bhima, Arjuna, Nakula-Sahadeva, Draupadi rathas). Pallava Grantha script → transmitted to SE Asia through maritime trade/cultural contacts."
@@ -56,12 +56,12 @@
     {
       "id": "se5",
       "subject": "History",
-      "question": "Consider the following about the Mauryan administration:\n1. Kautilya's Arthashastra describes an elaborate espionage system\n2. The empire was divided into provinces headed by Kumaras (princes)\n3. Megasthenes was a Greek ambassador who wrote 'Indica' about Mauryan India\n4. The Mauryan army was entirely composed of foreign mercenaries",
+      "question": "Consider the following about the Mauryan administration:\n1. Kautilya's Arthashastra describes an elaborate espionage system\n2. The empire was divided into provinces headed by Kumaras (princes)\n3. Megasthenes was a Greek ambassador who wrote 'Indica' about Mauryan India\n4. The Mauryan army was entirely composed of foreign mercenaries\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2 and 3 only",
         "1 and 3 only",
         "1, 2, 3 and 4",
-        "All are correct"
+        "1 and 4 only"
       ],
       "answer": 0,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — the Mauryan army was NOT entirely foreign mercenaries. It was primarily an INDIGENOUS standing army (one of the largest in ancient world — 600,000+ infantry, 30,000 cavalry, 9,000 elephants). Some Greek accounts mention mercenary elements, but the bulk was recruited from Indian population. Provinces: Taxila, Ujjain, Tosali, Suvarnagiri — headed by royal princes (Kumaras). Megasthenes: ambassador of Seleucus Nicator to Chandragupta's court."
@@ -72,7 +72,7 @@
       "question": "With reference to the Indus Valley Civilization's decline:\n1. Multiple theories exist: climate change, river drying, floods, invasion\n2. The Aryan Invasion Theory (Mortimer Wheeler) is now largely discredited\n3. Evidence suggests gradual decline rather than sudden destruction\n4. The civilization ended exactly in 1500 BCE due to a single earthquake",
       "options": [
         "1, 2 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4",
         "1 and 2 only"
       ],
@@ -82,12 +82,12 @@
     {
       "id": "se7",
       "subject": "History",
-      "question": "Consider the following about ancient Indian universities:\n1. Taxila (Takshashila) was a learning centre from 6th century BCE (pre-dates Nalanda)\n2. Vikramashila was established by Dharmapala of Pala dynasty\n3. Vallabhi (Gujarat) was an important centre of Buddhist and secular learning\n4. All ancient Indian universities taught only religious subjects",
+      "question": "Consider the following about ancient Indian universities:\n1. Taxila (Takshashila) was a learning centre from 6th century BCE (pre-dates Nalanda)\n2. Vikramashila was established by Dharmapala of Pala dynasty\n3. Vallabhi (Gujarat) was an important centre of Buddhist and secular learning\n4. All ancient Indian universities taught only religious subjects\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2, 3 and 4",
         "1 and 2 only",
         "1, 2 and 3 only",
-        "All are correct"
+        "1 and 4 only"
       ],
       "answer": 2,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — ancient Indian universities taught both religious AND secular subjects: grammar, logic, medicine (Ayurveda), mathematics, astronomy, law, polity, military science, art, music. Taxila: famous for Chanakya (politics), Charaka (medicine), Panini (grammar). Nalanda: logic, philosophy, astronomy. Vikramashila (8th century, Bihar): tantric Buddhism, specialized in esoteric teachings. Vallabhi (5th-8th century): Hinayana Buddhism + secular subjects."
@@ -95,9 +95,9 @@
     {
       "id": "se8",
       "subject": "Art & Culture",
-      "question": "Consider the following about Warli art:\n1. It is a tribal art form from Maharashtra (Thane/Palghar district)\n2. It uses basic geometric shapes: circles, triangles, squares\n3. Traditionally painted white on mud-brown walls using rice paste\n4. It was originally created for commercial sale to tourists",
+      "question": "Consider the following about Warli art:\n1. It is a tribal art form from Maharashtra (Thane/Palghar district)\n2. It uses basic geometric shapes: circles, triangles, squares\n3. Traditionally painted white on mud-brown walls using rice paste\n4. It was originally created for commercial sale to tourists\nWhich of the statements given above is/are correct?",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4",
         "1, 2 and 3 only",
         "1 and 2 only"
@@ -111,7 +111,7 @@
       "question": "With reference to the Konark Sun Temple (Odisha):\n1. It was built by King Narasimhadeva I of the Eastern Ganga dynasty (13th century)\n2. It is designed as a giant chariot with 24 wheels pulled by 7 horses\n3. The wheels function as sundials — shadows indicate time accurately\n4. It is dedicated to Lord Vishnu",
       "options": [
         "1, 2 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4",
         "1 and 3 only"
       ],
@@ -121,9 +121,9 @@
     {
       "id": "se10",
       "subject": "Art & Culture",
-      "question": "Consider the following about Indian musical instruments and their classification:\n1. Natyashastra classifies instruments into: Tata (string), Sushira (wind), Avanaddha (percussion), Ghana (solid/metallic)\n2. Sitar and Veena are Tata (stringed) instruments\n3. Tabla and Mridangam are Avanaddha (percussion) instruments\n4. This classification is identical to the Western orchestra classification",
+      "question": "Consider the following about Indian musical instruments and their classification:\n1. Natyashastra classifies instruments into: Tata (string), Sushira (wind), Avanaddha (percussion), Ghana (solid/metallic)\n2. Sitar and Veena are Tata (stringed) instruments\n3. Tabla and Mridangam are Avanaddha (percussion) instruments\n4. This classification is identical to the Western orchestra classification\nWhich of the statements given above is/are correct?",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only",
         "1, 2, 3 and 4",
         "1 and 2 only"

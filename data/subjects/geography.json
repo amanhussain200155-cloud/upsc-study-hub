@@ -4,14 +4,14 @@
     {
       "id": "geo1",
       "subject": "Geography",
-      "question": "Consider the following about Indian rivers:\n1. Godavari is called 'Dakshin Ganga'\n2. Narmada flows through a rift valley\n3. Krishna originates near Mahabaleshwar\n4. Brahmaputra is known as Tsangpo in Tibet",
+      "question": "Consider the following about Indian rivers:\n1. Godavari is called 'Dakshin Ganga'\n2. Narmada flows through a rift valley\n3. Krishna originates near Mahabaleshwar\n4. Brahmaputra is known as Tsangpo in Tibet\nWhich of the statements given above is/are correct?",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4",
         "1 and 2 only",
         "1, 2 and 4 only"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "All correct. Godavari = Dakshin Ganga (longest peninsular river). Narmada flows in rift valley between Vindhyas and Satpura. Krishna originates near Mahabaleshwar (Maharashtra). Brahmaputra = Tsangpo (Tibet), Dihang (Arunachal), Jamuna (Bangladesh)."
     },
     {
@@ -19,7 +19,7 @@
       "subject": "Geography",
       "question": "Which of the following pairs of local winds and regions are correctly matched?\n1. Loo - Northern Plains of India\n2. Chinook - Rocky Mountains, USA\n3. Mistral - Sahara Desert\n4. Foehn - Alps",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 4 only",
         "1 and 2 only",
         "1, 2, 3 and 4"
@@ -30,9 +30,9 @@
     {
       "id": "geo3",
       "subject": "Geography",
-      "question": "Consider the following about ocean currents:\n1. Gulf Stream is a warm current in the Atlantic\n2. Humboldt Current is a cold current along South America's west coast\n3. Kuroshio is a warm current in the Pacific\n4. Labrador Current is a warm current",
+      "question": "Consider the following about ocean currents:\n1. Gulf Stream is a warm current in the Atlantic\n2. Humboldt Current is a cold current along South America's west coast\n3. Kuroshio is a warm current in the Pacific\n4. Labrador Current is a warm current\nWhich of the statements given above is/are correct?",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1 and 2 only",
         "1, 2 and 3 only",
         "1, 2, 3 and 4"
@@ -69,14 +69,14 @@
     {
       "id": "geo6",
       "subject": "Geography",
-      "question": "Consider the following about Indian soils:\n1. Laterite soil is suitable for tea and coffee cultivation\n2. Alluvial soil covers the largest area in India\n3. Red soil is found mainly in Deccan Plateau\n4. Saline soil is also called 'Usar' in UP",
+      "question": "Consider the following about Indian soils:\n1. Laterite soil is suitable for tea and coffee cultivation\n2. Alluvial soil covers the largest area in India\n3. Red soil is found mainly in Deccan Plateau\n4. Saline soil is also called 'Usar' in UP\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2 and 4 only",
         "1, 2, 3 and 4",
         "1 and 2 only",
-        "All are correct"
+        "1 and 4 only"
       ],
-      "answer": 3,
+      "answer": 1,
       "explanation": "All correct. Laterite (leached, acidic) suits tea/coffee. Alluvial covers largest area (entire Indo-Gangetic plain). Red soil covers Deccan (iron oxide gives red color). Saline soil = Usar (UP), Reh, Kallar, Thur, Chopan."
     },
     {
@@ -87,7 +87,7 @@
         "1, 2 and 3 only",
         "1, 2, 3 and 4",
         "1 and 2 only",
-        "All are correct"
+        "1 and 4 only"
       ],
       "answer": 1,
       "explanation": "All correctly matched. NW-1: Ganga (1620 km, most important). NW-2: Brahmaputra (891 km). NW-3: West Coast Canal, Kottapuram to Kollam, Kerala (205 km). NW-4: Kakinada to Puducherry via Godavari-Krishna rivers."
@@ -98,24 +98,24 @@
       "question": "The Siwaliks (Outer Himalayas) are characterized by:\n1. Being composed of unconsolidated sediments\n2. Having longitudinal valleys called 'Duns'\n3. Being the youngest Himalayan range\n4. Having elevation between 900-1100 meters",
       "options": [
         "1, 2, 3 and 4",
-        "All are correct",
+        "1 and 4 only",
         "2 and 3 only",
         "1, 2 and 3 only"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanation": "All correct. Siwaliks are the southernmost/youngest range of Himalayas, made of unconsolidated sedimentary rocks (sand, gravel). Duns (Dehradun, Kotli Dun, Patli Dun) are valleys between Siwaliks and Lesser Himalayas. Average height 900-1100m."
     },
     {
       "id": "geo9",
       "subject": "Geography",
-      "question": "Consider the following about Indian climate:\n1. India has 'tropical monsoon' type climate\n2. The retreating monsoon causes rainfall in Tamil Nadu\n3. Western disturbances bring winter rainfall to North India\n4. The Monsoon Trough lies along the Indo-Gangetic Plain",
+      "question": "Consider the following about Indian climate:\n1. India has 'tropical monsoon' type climate\n2. The retreating monsoon causes rainfall in Tamil Nadu\n3. Western disturbances bring winter rainfall to North India\n4. The Monsoon Trough lies along the Indo-Gangetic Plain\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2, 3 and 4",
         "2, 3 and 4 only",
         "1, 2 and 3 only",
-        "All are correct"
+        "1 and 4 only"
       ],
-      "answer": 3,
+      "answer": 0,
       "explanation": "All correct. India has tropical monsoon climate (Köppen classification 'Am'). NE monsoon (retreating) gives rain to Tamil Nadu/SE coast. Western disturbances (Mediterranean origin) bring winter rain to Punjab, Haryana, J&K. Monsoon trough along Ganga plain determines rainfall distribution."
     },
     {
@@ -126,9 +126,9 @@
         "1, 2, 3 and 4",
         "1, 3 and 4 only",
         "1, 2 and 3 only",
-        "All are correct"
+        "1 and 4 only"
       ],
-      "answer": 3,
+      "answer": 0,
       "explanation": "All correctly matched. India's mineral distribution: Iron ore (Jharkhand-Singhbhum, Odisha-Keonjhar), Bauxite (Odisha-Koraput, Gujarat, Maharashtra), Mica (Jharkhand-Koderma, Rajasthan-Ajmer), Manganese (MP-Balaghat, Maharashtra-Nagpur)."
     },
     {
@@ -139,22 +139,22 @@
         "1, 2 and 3 only",
         "1 and 2 only",
         "1, 2, 3 and 4",
-        "All are correct"
+        "1 and 4 only"
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "All correct. Himalayas = continental-continental convergence. Mid-Atlantic Ridge = divergent (plates moving apart, new crust). San Andreas (California) = transform (plates sliding past). Ring of Fire = convergent boundaries around Pacific Plate."
     },
     {
       "id": "geo12",
       "subject": "Geography",
-      "question": "Consider the following regarding Indian agriculture:\n1. India is the largest producer of milk in the world\n2. India is the second largest producer of rice and wheat\n3. Green Revolution primarily affected wheat and rice production\n4. Operation Flood was related to dairy development",
+      "question": "Consider the following regarding Indian agriculture:\n1. India is the largest producer of milk in the world\n2. India is the second largest producer of rice and wheat\n3. Green Revolution primarily affected wheat and rice production\n4. Operation Flood was related to dairy development\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 3 and 4 only",
-        "All are correct",
+        "2 and 3 only",
         "1, 2, 3 and 4",
         "1 and 4 only"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanation": "All correct. India is #1 milk producer (Operation Flood/White Revolution by Verghese Kurien). #2 in rice, wheat after China. Green Revolution (1960s-70s, Norman Borlaug, M.S. Swaminathan) boosted wheat (Punjab, Haryana) and rice production. Operation Flood (1970-96) = dairy revolution."
     },
     {
@@ -173,10 +173,10 @@
     {
       "id": "geo14",
       "subject": "Geography",
-      "question": "Consider the following lakes:\n1. Wular Lake - Largest freshwater lake in India\n2. Sambhar Lake - Largest inland salt lake in India\n3. Loktak Lake - Only floating lake in India\n4. Pulicat Lake - Located in Andhra Pradesh only",
+      "question": "Consider the following lakes:\n1. Wular Lake - Largest freshwater lake in India\n2. Sambhar Lake - Largest inland salt lake in India\n3. Loktak Lake - Only floating lake in India\n4. Pulicat Lake - Located in Andhra Pradesh only\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4",
         "1 and 2 only"
       ],

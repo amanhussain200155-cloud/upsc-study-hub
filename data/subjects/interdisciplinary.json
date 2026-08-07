@@ -17,10 +17,10 @@
     {
       "id": "id2",
       "subject": "Interdisciplinary",
-      "question": "Consider the following statements:\n1. Lithium reserves have been found in Jammu & Kashmir\n2. India imports over 80% of its crude oil requirement\n3. Rare earth minerals are essential for electric vehicle batteries\n4. India has no operational lithium refining capacity currently",
+      "question": "Consider the following statements:\n1. Lithium reserves have been found in Jammu & Kashmir\n2. India imports over 80% of its crude oil requirement\n3. Rare earth minerals are essential for electric vehicle batteries\n4. India has no operational lithium refining capacity currently\nWhich of the statements given above is/are correct?",
       "options": [
         "2 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4",
         "1, 2 and 4 only"
       ],
@@ -33,7 +33,7 @@
       "question": "With reference to 'Carbon Border Adjustment Mechanism' (CBAM) of the EU:\n1. It imposes a carbon levy on imports from countries without equivalent carbon pricing\n2. It could affect India's steel, aluminium, and cement exports to EU\n3. India has supported CBAM as a climate justice measure\n4. It is designed to prevent 'carbon leakage'",
       "options": [
         "1, 2 and 4 only",
-        "All are correct",
+        "2 and 3 only",
         "1, 2, 3 and 4",
         "1 and 4 only"
       ],
@@ -45,25 +45,25 @@
       "subject": "Interdisciplinary",
       "question": "Which of the following correctly describes 'Green Hydrogen'?\n1. Produced by electrolysis of water using renewable energy\n2. The only byproduct is water\n3. India targets 5 MMT annual production by 2030\n4. It can replace coking coal in steel production",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1 and 3 only",
         "1, 2 and 3 only",
         "1, 2, 3 and 4"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "All correct. Green hydrogen: renewable energy → electrolysis → H2 + O2 (only byproduct is water/oxygen). National Green Hydrogen Mission targets 5 MMT by 2030 (₹19,744 crore). Green hydrogen CAN replace coking coal in Direct Reduced Iron (DRI) process for steel making - this is key for decarbonizing hard-to-abate sectors. India aims to become global green hydrogen hub and exporter."
     },
     {
       "id": "id6",
       "subject": "Interdisciplinary",
-      "question": "Consider the following about the Digital Personal Data Protection Act, 2023:\n1. It applies to processing of digital personal data within India\n2. It creates the Data Protection Board of India as an adjudicatory body\n3. The government is exempted from the Act in the interest of national security\n4. It provides for 'Right to Erasure' of personal data",
+      "question": "Consider the following about the Digital Personal Data Protection Act, 2023:\n1. It applies to processing of digital personal data within India\n2. It creates the Data Protection Board of India as an adjudicatory body\n3. The government is exempted from the Act in the interest of national security\n4. It provides for 'Right to Erasure' of personal data\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 2 only",
         "1, 2, 3 and 4",
         "1, 2 and 3 only",
-        "All are correct"
+        "1 and 4 only"
       ],
-      "answer": 3,
+      "answer": 1,
       "explanation": "All correct. DPDP Act 2023 applies to digital personal data processed in India (and outside India if offering goods/services to India). Data Protection Board handles complaints/breaches. Section 17(2) exempts government for sovereignty, national security, public order. Right to Erasure (Section 12) allows individuals to request deletion of personal data. Also provides Right to Correction, Right to Grievance Redressal."
     },
     {
@@ -71,7 +71,7 @@
       "subject": "Interdisciplinary",
       "question": "With reference to India's Unified Payments Interface (UPI):\n1. It is developed by NPCI (National Payments Corporation of India)\n2. It has been linked with payment systems of Singapore, UAE, and France\n3. UPI transactions are subject to Merchant Discount Rate (MDR) charges\n4. UPI uses the IMPS (Immediate Payment Service) infrastructure",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1 and 2 only",
         "1, 2, 3 and 4",
         "1, 2 and 4 only"
@@ -82,10 +82,10 @@
     {
       "id": "id8",
       "subject": "Interdisciplinary",
-      "question": "Consider the following about 'Critical Minerals':\n1. India released a Critical Minerals list that includes lithium, cobalt, and rare earths\n2. India has signed critical minerals agreements with Australia and Argentina\n3. KABIL (Khanij Bidesh India Ltd) is tasked with sourcing critical minerals abroad\n4. India has abundant domestic reserves of all critical minerals",
+      "question": "Consider the following about 'Critical Minerals':\n1. India released a Critical Minerals list that includes lithium, cobalt, and rare earths\n2. India has signed critical minerals agreements with Australia and Argentina\n3. KABIL (Khanij Bidesh India Ltd) is tasked with sourcing critical minerals abroad\n4. India has abundant domestic reserves of all critical minerals\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1 and 3 only",
         "1, 2, 3 and 4"
       ],
@@ -99,7 +99,7 @@
       "options": [
         "1 and 2 only",
         "1, 2, 3 and 4",
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only"
       ],
       "answer": 3,
@@ -108,12 +108,12 @@
     {
       "id": "id10",
       "subject": "Interdisciplinary",
-      "question": "Consider the following about the Comptroller and Auditor General's reports:\n1. CAG audited GST implementation and found leakages in input tax credit\n2. CAG audit of MGNREGA found delayed wage payments and ghost workers\n3. CAG reports are discussed by the Public Accounts Committee\n4. The Government is legally bound to implement CAG recommendations",
+      "question": "Consider the following about the Comptroller and Auditor General's reports:\n1. CAG audited GST implementation and found leakages in input tax credit\n2. CAG audit of MGNREGA found delayed wage payments and ghost workers\n3. CAG reports are discussed by the Public Accounts Committee\n4. The Government is legally bound to implement CAG recommendations\nWhich of the statements given above is/are correct?",
       "options": [
         "2 and 3 only",
         "1, 2 and 3 only",
         "1, 2, 3 and 4",
-        "All are correct"
+        "1 and 4 only"
       ],
       "answer": 1,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG - Government is NOT legally bound to implement CAG recommendations. CAG reports are advisory. PAC examines them and makes recommendations, but these too are not binding (though morally/politically significant). This is unlike judicial orders which ARE binding. CAG has flagged issues in GST (fake ITC claims), MGNREGA (delayed payments in 65% cases), defence procurement, etc."
@@ -126,7 +126,7 @@
         "1, 2 and 4 only",
         "1, 2, 3 and 4",
         "1 and 4 only",
-        "All are correct"
+        "2 and 3 only"
       ],
       "answer": 0,
       "explanation": "1, 2, 4 correct. Statement 3 WRONG - rice fortification is being implemented in phases under a government initiative (targeting PDS, mid-day meals, ICDS), but it is NOT yet fully mandatory across all PDS. NFSA: 75% rural, 50% urban (total ~67%). AAY (Antyodaya Anna Yojana): 35kg/month to poorest. Priority Households: 5kg/person/month at ₹1-3/kg. ONORC allows migrants to lift rations anywhere in India."
@@ -134,7 +134,7 @@
     {
       "id": "id12",
       "subject": "Interdisciplinary",
-      "question": "Consider the following about blockchain technology applications in India:\n1. RBI has launched the Digital Rupee (e₹) based on blockchain/DLT\n2. Land records digitization using blockchain has been piloted in some states\n3. Blockchain eliminates the need for a central authority\n4. India has banned all private cryptocurrencies",
+      "question": "Consider the following about blockchain technology applications in India:\n1. RBI has launched the Digital Rupee (e₹) based on blockchain/DLT\n2. Land records digitization using blockchain has been piloted in some states\n3. Blockchain eliminates the need for a central authority\n4. India has banned all private cryptocurrencies\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 2 only",
         "1, 2 and 3 only",

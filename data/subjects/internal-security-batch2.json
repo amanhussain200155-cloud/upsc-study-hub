@@ -4,10 +4,10 @@
     {
       "id": "is9",
       "subject": "Internal Security",
-      "question": "Consider the following about India's intelligence agencies:\n1. RAW (Research and Analysis Wing) handles external intelligence\n2. IB (Intelligence Bureau) handles domestic intelligence\n3. NTRO (National Technical Research Organisation) handles technical/signals intelligence\n4. All three agencies report directly to Parliament through a standing committee",
+      "question": "Consider the following about India's intelligence agencies:\n1. RAW (Research and Analysis Wing) handles external intelligence\n2. IB (Intelligence Bureau) handles domestic intelligence\n3. NTRO (National Technical Research Organisation) handles technical/signals intelligence\n4. All three agencies report directly to Parliament through a standing committee\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 2 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4",
         "1, 2 and 3 only"
       ],
@@ -19,25 +19,25 @@
       "subject": "Internal Security",
       "question": "With reference to India's counter-terrorism legal framework:\n1. UAPA (1967) allows declaring organizations and individuals as terrorist\n2. NIA Act (2008) gives NIA jurisdiction across India without state consent\n3. TADA (1985) and POTA (2002) were repealed due to misuse concerns\n4. Bail under UAPA is virtually impossible due to Section 43D(5)",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1 and 2 only",
         "1, 2 and 3 only",
         "1, 2, 3 and 4"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "All correct. UAPA (amended 2019): can designate individuals (not just organizations) as terrorists. NIA: concurrent jurisdiction, no state permission needed. TADA (repealed 1995) and POTA (repealed 2004): both had stringent provisions exploited against minorities/opposition. UAPA Section 43D(5): court cannot grant bail if prosecution shows reasonable grounds that accusations are PRIMA FACIE true — effectively makes bail near-impossible (97% undertrials, 2-3% conviction rate). SC has criticized this but hasn't struck it down."
     },
     {
       "id": "is11",
       "subject": "Internal Security",
-      "question": "Consider the following about India's drone warfare capability:\n1. India has developed indigenous armed drones (TAPAS, Rustom-II)\n2. India acquired MQ-9B Sea Guardian/Predator drones from the US\n3. Anti-drone systems have been deployed for VIP security (Republic Day)\n4. Drone Rules 2021 liberalized drone operations for civilian use",
+      "question": "Consider the following about India's drone warfare capability:\n1. India has developed indigenous armed drones (TAPAS, Rustom-II)\n2. India acquired MQ-9B Sea Guardian/Predator drones from the US\n3. Anti-drone systems have been deployed for VIP security (Republic Day)\n4. Drone Rules 2021 liberalized drone operations for civilian use\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2, 3 and 4",
         "1, 3 and 4 only",
         "1 and 4 only",
-        "All are correct"
+        "2 and 3 only"
       ],
-      "answer": 3,
+      "answer": 0,
       "explanation": "All correct. Indigenous drones: TAPAS (Medium Altitude Long Endurance, DRDO), Rustom-II (armed variant under development). MQ-9B acquisition: India signed deal for 31 MQ-9B drones from US (16 for Navy, 8 for IAF, 8 for Army) — high altitude, long endurance, armed surveillance. Anti-drone: deployed since 2019 Republic Day (after Jammu drone attacks). Drone Rules 2021: liberalized — no pilot license for micro drones, green-yellow-red zone system, Digital Sky Platform for approvals. Counter-drone challenge: Jammu attack (2021, first drone attack on Indian military installation)."
     },
     {
@@ -46,21 +46,21 @@
       "question": "With reference to India's Smart Fencing (CIBMS - Comprehensive Integrated Border Management System):\n1. It uses sensors, cameras, radars, and fiber optic cables for border surveillance\n2. It has been deployed on India-Pakistan border (pilot on BSF sectors)\n3. It aims to reduce human deployment on the border\n4. Laser walls and underwater sensors are part of the system",
       "options": [
         "1, 2, 3 and 4",
-        "All are correct",
+        "1 and 4 only",
         "1 and 2 only",
         "1, 2 and 3 only"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanation": "All correct. CIBMS/Smart Fencing: multi-layered technology fence replacing manual patrolling in riverine/difficult terrain. Components: thermal imagers, radar, CCTV, fiber optic sensors (detect vibration), laser barriers, underground sensors, command & control centres. Deployed: pilot on India-Pakistan (Jammu sector, riverine areas where physical fencing is difficult) and India-Bangladesh (vulnerable stretches). Also includes: underwater sonar sensors for creek areas, aerostats (blimp-mounted radars). Phase-wise expansion to entire border planned."
     },
     {
       "id": "is13",
       "subject": "Internal Security",
-      "question": "Consider the following about Maoist/Naxal ideology and strategy:\n1. They follow Mao Zedong's theory of protracted people's war\n2. Their strategy involves 'base areas' in forests surrounded by 'guerrilla zones'\n3. They aim to capture state power through armed revolution (not elections)\n4. They have participated in democratic elections in some states",
+      "question": "Consider the following about Maoist/Naxal ideology and strategy:\n1. They follow Mao Zedong's theory of protracted people's war\n2. Their strategy involves 'base areas' in forests surrounded by 'guerrilla zones'\n3. They aim to capture state power through armed revolution (not elections)\n4. They have participated in democratic elections in some states\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2 and 3 only",
         "1 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4"
       ],
       "answer": 0,
@@ -73,19 +73,19 @@
       "options": [
         "1, 2, 3 and 4",
         "1, 2 and 4 only",
-        "All are correct",
+        "2 and 3 only",
         "1 and 4 only"
       ],
-      "answer": 2,
+      "answer": 0,
       "explanation": "All correct. Police/Public Order: State List (Entry 1,2). Central government can deploy CRPF/Army but investigation/prosecution is state responsibility. NHRC: can investigate human rights violations including communal violence. Prevention of Communal and Targeted Violence Bill (drafted 2011): never passed — states opposed it as encroaching on their domain. NIC (1961, PM chairs): promotes communal harmony, includes CMs, opposition leaders, educationists. Challenge: politicization of communal incidents, delayed FIRs, poor witness protection."
     },
     {
       "id": "is15",
       "subject": "Internal Security",
-      "question": "Consider the following about India's anti-piracy and maritime security:\n1. India deploys naval vessels in the Gulf of Aden for anti-piracy operations\n2. Operation Sankalp protects Indian-flagged vessels in the Strait of Hormuz\n3. Information Fusion Centre-Indian Ocean Region (IFC-IOR) is located in Gurugram\n4. India has maritime security agreements with all Indian Ocean littoral states",
+      "question": "Consider the following about India's anti-piracy and maritime security:\n1. India deploys naval vessels in the Gulf of Aden for anti-piracy operations\n2. Operation Sankalp protects Indian-flagged vessels in the Strait of Hormuz\n3. Information Fusion Centre-Indian Ocean Region (IFC-IOR) is located in Gurugram\n4. India has maritime security agreements with all Indian Ocean littoral states\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4",
         "1, 3 and 4"
       ],
@@ -99,19 +99,19 @@
       "options": [
         "1, 2, 3 and 4",
         "1, 3 and 4 only",
-        "All are correct",
+        "2 and 3 only",
         "1 and 4 only"
       ],
-      "answer": 2,
+      "answer": 0,
       "explanation": "All correct. Online radicalization: encrypted platforms (Telegram, Signal), social media algorithms creating echo chambers, dark web content. Counter-radicalization: J&K (CIVIC Action Programme by Army, Operation Sadbhavana, mainstreaming surrendered militants), Kerala (de-radicalization of ISIS recruits' families). HuT (banned 2019): pan-Islamic group seeking caliphate. ISIS (banned under UAPA): ~100+ Indians reportedly joined. India's approach: security operations + counter-narrative (engaging local clergy/youth), education/employment in vulnerable areas."
     },
     {
       "id": "is17",
       "subject": "Internal Security",
-      "question": "Consider the following about the Unlawful Activities (Prevention) Amendment Act, 2019:\n1. It allows designating INDIVIDUALS as terrorists (not just organizations)\n2. NIA can seize properties connected to terrorism\n3. The amendment requires prior judicial approval before designating someone\n4. An individual can challenge their designation before a Review Committee",
+      "question": "Consider the following about the Unlawful Activities (Prevention) Amendment Act, 2019:\n1. It allows designating INDIVIDUALS as terrorists (not just organizations)\n2. NIA can seize properties connected to terrorism\n3. The amendment requires prior judicial approval before designating someone\n4. An individual can challenge their designation before a Review Committee\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2, 3 and 4",
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 4 only",
         "1 and 2 only"
       ],

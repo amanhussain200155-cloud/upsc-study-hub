@@ -4,9 +4,9 @@
     {
       "id": "jan26-1",
       "subject": "Polity & Governance",
-      "question": "Consider the following statements about the Central Vigilance Commission (CVC):\n1. It was set up in 1964 on the Santhanam Committee recommendations\n2. It gained statutory status under the CVC Act, 2003\n3. It is composed of one Central Vigilance Commissioner and up to two Vigilance Commissioners\n4. It can directly prosecute corrupt officials without government permission",
+      "question": "Consider the following statements about the Central Vigilance Commission (CVC):\n1. It was set up in 1964 on the Santhanam Committee recommendations\n2. It gained statutory status under the CVC Act, 2003\n3. It is composed of one Central Vigilance Commissioner and up to two Vigilance Commissioners\n4. It can directly prosecute corrupt officials without government permission\nWhich of the statements given above is/are correct?",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only",
         "1 and 2 only",
         "1, 2, 3 and 4"
@@ -19,12 +19,12 @@
       "subject": "Polity & Governance",
       "question": "With reference to the MS Sahoo Committee on NPS reforms:\n1. It was constituted to review the National Pension System\n2. Its recommendations led to the Unified Pension Scheme (UPS)\n3. NPS is administered by PFRDA under the PFRDA Act\n4. UPS guarantees 50% of average basic pay as pension",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "2 and 3 only",
         "1, 3 and 4 only",
         "1, 2, 3 and 4"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "All correct. MS Sahoo Committee reviewed NPS and recommended changes leading to UPS. NPS is under PFRDA (Pension Fund Regulatory and Development Authority). UPS (announced 2024, effective April 2025) guarantees assured pension of 50% of average basic pay of last 12 months for those with 25+ years of service. This was a response to demand for reverting to Old Pension Scheme (OPS)."
     },
     {
@@ -34,7 +34,7 @@
       "options": [
         "1 and 2 only",
         "1, 2 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4"
       ],
       "answer": 1,
@@ -43,14 +43,14 @@
     {
       "id": "jan26-4",
       "subject": "Polity & Governance",
-      "question": "Consider the following about NATGRID-NPR Integration:\n1. NATGRID is a counter-terrorism data sharing network\n2. It connects databases of multiple security and intelligence agencies\n3. NPR (National Population Register) data will be linked with NATGRID\n4. NATGRID was conceptualized after the 26/11 Mumbai attacks",
+      "question": "Consider the following about NATGRID-NPR Integration:\n1. NATGRID is a counter-terrorism data sharing network\n2. It connects databases of multiple security and intelligence agencies\n3. NPR (National Population Register) data will be linked with NATGRID\n4. NATGRID was conceptualized after the 26/11 Mumbai attacks\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2, 3 and 4",
-        "All are correct",
+        "2 and 3 only",
         "1, 2 and 4 only",
         "1 and 4 only"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanation": "All correct. NATGRID (National Intelligence Grid) was conceptualized after 26/11 (2008 Mumbai attacks) to enable seamless sharing of data between security agencies (IB, RAW, CBI, ED, CBDT, CBIC etc.). It links 21 databases. NPR-NATGRID integration enables population data to be cross-referenced for security purposes. This raises privacy concerns which are debated."
     },
     {
@@ -59,19 +59,19 @@
       "question": "With reference to the Demographic Dividend and India's narrowing window:\n1. India's working-age population (15-64) currently exceeds dependents\n2. India's TFR has fallen below replacement level (2.1)\n3. Southern states will face aging problems before northern states\n4. The demographic dividend window is estimated to close by 2055-2060",
       "options": [
         "1, 2, 3 and 4",
-        "All are correct",
+        "2 and 3 only",
         "1, 2 and 3 only",
         "1 and 4 only"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanation": "All correct. India's working-age population is ~68% (demographic dividend phase). TFR is 2.0 (NFHS-5). Southern states (Kerala TFR 1.8, TN 1.8) are aging faster than northern states (Bihar 3.0, UP 2.4). The dividend window narrows as working-age population peaks and dependency ratio starts rising (estimated 2055-60). Challenge: converting demographic dividend into economic dividend requires skilling and employment."
     },
     {
       "id": "jan26-6",
       "subject": "Economics",
-      "question": "Consider the following about OMO Purchases and Dollar-Rupee Swap:\n1. OMO purchase means RBI buys government securities, injecting liquidity\n2. Dollar-Rupee swap means RBI sells dollars and buys rupees\n3. Both tools are used for liquidity management\n4. OMO purchases increase money supply in the economy",
+      "question": "Consider the following about OMO Purchases and Dollar-Rupee Swap:\n1. OMO purchase means RBI buys government securities, injecting liquidity\n2. Dollar-Rupee swap means RBI sells dollars and buys rupees\n3. Both tools are used for liquidity management\n4. OMO purchases increase money supply in the economy\nWhich of the statements given above is/are correct?",
       "options": [
-        "All are correct",
+        "2 and 3 only",
         "1, 3 and 4 only",
         "1 and 4 only",
         "1, 2, 3 and 4"
@@ -84,7 +84,7 @@
       "subject": "Economics",
       "question": "With reference to Central Bank Digital Currency (CBDC/e₹):\n1. It is issued by RBI as a legal tender\n2. It is the same as cryptocurrency like Bitcoin\n3. India has launched both wholesale (e₹-W) and retail (e₹-R) pilots\n4. CBDC reduces the cost of printing and managing physical currency",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4",
         "1, 3 and 4 only",
         "1 and 3 only"
@@ -95,10 +95,10 @@
     {
       "id": "jan26-8",
       "subject": "Economics",
-      "question": "Consider the following about Infrastructure Bonds in India:\n1. They are issued by Infrastructure Development Finance Companies (IDFCs)\n2. They have tax benefits under Section 80CCF of Income Tax Act\n3. They help finance long-term infrastructure projects\n4. RBI has relaxed norms allowing banks to issue infrastructure bonds exempt from CRR/SLR",
+      "question": "Consider the following about Infrastructure Bonds in India:\n1. They are issued by Infrastructure Development Finance Companies (IDFCs)\n2. They have tax benefits under Section 80CCF of Income Tax Act\n3. They help finance long-term infrastructure projects\n4. RBI has relaxed norms allowing banks to issue infrastructure bonds exempt from CRR/SLR\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2, 3 and 4",
-        "All are correct",
+        "1 and 4 only",
         "1 and 3 only",
         "3 and 4 only"
       ],
@@ -110,7 +110,7 @@
       "subject": "International Relations",
       "question": "With reference to India-EU Free Trade Agreement (FTA) negotiations:\n1. Negotiations were relaunched in 2022 after being stalled since 2013\n2. Key Indian concerns include EU's Carbon Border Adjustment Mechanism (CBAM)\n3. EU is India's largest trading partner\n4. Data adequacy requirements are a major non-tariff barrier",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1 and 2 only",
         "1, 2, 3 and 4",
         "1, 2 and 4 only"
@@ -121,14 +121,14 @@
     {
       "id": "jan26-10",
       "subject": "International Relations",
-      "question": "Consider the following about India-UAE relations:\n1. Bilateral trade reached approximately $100 billion in 2024-25\n2. UAE is India's 3rd largest trading partner\n3. India-UAE CEPA (Comprehensive Economic Partnership Agreement) was signed in 2022\n4. UAE investments in India stand at approximately $20-21 billion",
+      "question": "Consider the following about India-UAE relations:\n1. Bilateral trade reached approximately $100 billion in 2024-25\n2. UAE is India's 3rd largest trading partner\n3. India-UAE CEPA (Comprehensive Economic Partnership Agreement) was signed in 2022\n4. UAE investments in India stand at approximately $20-21 billion\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 3 only",
         "1, 3 and 4 only",
         "1, 2, 3 and 4",
-        "All are correct"
+        "1 and 4 only"
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "All correct. India-UAE trade surged from $180 million in 1970s to $100 billion (2024-25). UAE is 3rd largest trading partner (after US, China) and 2nd largest export destination. CEPA signed Feb 2022 (India's first FTA with a Gulf nation). UAE FDI in India: $20-21 billion. Key areas: energy, infrastructure, fintech, defence. India has largest expatriate community in UAE (~3.5 million)."
     },
     {
@@ -150,7 +150,7 @@
       "question": "With reference to the Western Ghats Ecology Expert Panel (WGEEP) headed by Madhav Gadgil:\n1. It recommended declaring the entire Western Ghats as Ecologically Sensitive Area (ESA)\n2. The Kasturirangan Committee provided a less restrictive alternative\n3. Gadgil report recommended banning mining and new thermal power plants in ESA\n4. Both reports have been fully implemented by the government",
       "options": [
         "1, 2 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1 and 2 only",
         "1, 2, 3 and 4"
       ],
@@ -160,14 +160,14 @@
     {
       "id": "jan26-13",
       "subject": "Environment & Ecology",
-      "question": "Consider the following about Climate-Resilient Agriculture in India:\n1. It involves developing drought-resistant and flood-tolerant crop varieties\n2. The National Mission for Sustainable Agriculture (NMSA) is the key policy framework\n3. Zero Budget Natural Farming (ZBNF) is promoted as a climate-resilient practice\n4. India's agriculture contributes approximately 14% of national GHG emissions",
+      "question": "Consider the following about Climate-Resilient Agriculture in India:\n1. It involves developing drought-resistant and flood-tolerant crop varieties\n2. The National Mission for Sustainable Agriculture (NMSA) is the key policy framework\n3. Zero Budget Natural Farming (ZBNF) is promoted as a climate-resilient practice\n4. India's agriculture contributes approximately 14% of national GHG emissions\nWhich of the statements given above is/are correct?",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1 and 2 only",
         "1, 2 and 3 only",
         "1, 2, 3 and 4"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "All correct. Climate-resilient agriculture includes: drought/flood-tolerant varieties (ICAR development), precision irrigation, agroforestry, soil carbon sequestration. NMSA (under NAPCC) is the policy framework. ZBNF (promoted in AP/Karnataka) reduces chemical inputs and improves soil health. Agriculture contributes ~14% of India's GHG (mainly methane from rice paddies and livestock, N2O from fertilizers)."
     },
     {
@@ -175,21 +175,21 @@
       "subject": "Science & Technology",
       "question": "With reference to PSLV failures and implications for India's space programme:\n1. PSLV is ISRO's most reliable workhorse rocket\n2. It has had very few failures in 50+ launches\n3. PSLV failures can impact India's commercial launch credibility\n4. PSLV uses solid fuel in first and third stages, liquid in second and fourth",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1 and 3 only",
         "1, 2, 3 and 4",
         "1, 2 and 3 only"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "All correct. PSLV (operational since 1993) has had 55+ launches with ~95% success rate (only 2-3 failures/partial failures). It's ISRO's commercial workhorse (launched 300+ foreign satellites). Any failure impacts credibility in competitive commercial launch market (SpaceX, Arianespace). PSLV is a 4-stage rocket: Stage 1 (solid), Stage 2 (liquid - Vikas engine), Stage 3 (solid), Stage 4 (liquid - twin engines)."
     },
     {
       "id": "jan26-15",
       "subject": "Science & Technology",
-      "question": "Consider the following about the IndiaAI Mission:\n1. It aims to build a comprehensive AI ecosystem in India\n2. It includes development of indigenous AI compute infrastructure\n3. The mission has an outlay of over ₹10,000 crore\n4. It focuses only on government use of AI, not private sector",
+      "question": "Consider the following about the IndiaAI Mission:\n1. It aims to build a comprehensive AI ecosystem in India\n2. It includes development of indigenous AI compute infrastructure\n3. The mission has an outlay of over ₹10,000 crore\n4. It focuses only on government use of AI, not private sector\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 2 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2, 3 and 4",
         "1, 2 and 3 only"
       ],

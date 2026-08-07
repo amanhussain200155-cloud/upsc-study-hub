@@ -4,12 +4,12 @@
     {
       "id": "soc13",
       "subject": "Social Issues",
-      "question": "Consider the following about India's reservation system:\n1. Total reservation in central services cannot exceed 50% (Indra Sawhney, 1992)\n2. The 103rd Amendment (2019) introduced 10% EWS reservation (over and above 50%)\n3. SC upheld EWS reservation in Janhit Abhiyan case (2022) by 3:2 majority\n4. EWS reservation applies to SCs/STs/OBCs whose income is below ₹8 lakh",
+      "question": "Consider the following about India's reservation system:\n1. Total reservation in central services cannot exceed 50% (Indra Sawhney, 1992)\n2. The 103rd Amendment (2019) introduced 10% EWS reservation (over and above 50%)\n3. SC upheld EWS reservation in Janhit Abhiyan case (2022) by 3:2 majority\n4. EWS reservation applies to SCs/STs/OBCs whose income is below ₹8 lakh\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 2 only",
         "1, 2, 3 and 4",
         "1, 2 and 3 only",
-        "All are correct"
+        "1 and 4 only"
       ],
       "answer": 2,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — EWS reservation explicitly EXCLUDES SC/ST/OBC (those already covered by existing reservation). It is ONLY for economically weaker sections among UNRESERVED categories (general category poor). Criteria: family income <₹8 lakh/year, agricultural land <5 acres, residential flat <1000 sq ft, residential plot <100/200 sq yards. The exclusion of SC/ST/OBC from EWS was a key constitutional challenge point — SC upheld it (EWS quota is not for those with existing reservation benefit)."
@@ -20,7 +20,7 @@
       "question": "With reference to India's food fortification programme:\n1. Rice fortification involves adding iron, folic acid, and Vitamin B12\n2. It targets anaemia and micronutrient deficiency among the poor\n3. Fortified rice is distributed through PDS, Mid-Day Meal, and ICDS\n4. India has achieved 100% fortified rice distribution across all states",
       "options": [
         "1 and 2 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only",
         "1, 2, 3 and 4"
       ],
@@ -30,11 +30,11 @@
     {
       "id": "soc15",
       "subject": "Social Issues",
-      "question": "Consider the following about Domestic Violence in India:\n1. Protection of Women from Domestic Violence Act (PWDVA) was enacted in 2005\n2. It covers physical, sexual, verbal, emotional, AND economic abuse\n3. It provides the right to reside in the 'shared household'\n4. Only married women can file complaints under this Act",
+      "question": "Consider the following about Domestic Violence in India:\n1. Protection of Women from Domestic Violence Act (PWDVA) was enacted in 2005\n2. It covers physical, sexual, verbal, emotional, AND economic abuse\n3. It provides the right to reside in the 'shared household'\n4. Only married women can file complaints under this Act\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2, 3 and 4",
         "1, 2 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1 and 2 only"
       ],
       "answer": 1,
@@ -46,7 +46,7 @@
       "question": "With reference to India's Scheduled Tribes and their rights:\n1. STs constitute approximately 8.6% of India's population (Census 2011)\n2. Fifth Schedule applies to tribal areas in 10 states\n3. Sixth Schedule applies to tribal areas in 4 NE states (Assam, Meghalaya, Tripura, Mizoram)\n4. PESA (1996) extends Panchayat provisions to all areas of India uniformly",
       "options": [
         "1 and 3 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only",
         "1, 2, 3 and 4"
       ],
@@ -56,14 +56,14 @@
     {
       "id": "soc17",
       "subject": "Social Issues",
-      "question": "Consider the following about India's housing crisis:\n1. India's urban housing shortage is estimated at 10-12 million units\n2. PMAY-Urban aims for 'Housing for All' with interest subsidy on home loans\n3. Affordable housing is defined as units costing less than ₹45 lakh in metros\n4. Slum population in India is approximately 65 million (Census 2011)",
+      "question": "Consider the following about India's housing crisis:\n1. India's urban housing shortage is estimated at 10-12 million units\n2. PMAY-Urban aims for 'Housing for All' with interest subsidy on home loans\n3. Affordable housing is defined as units costing less than ₹45 lakh in metros\n4. Slum population in India is approximately 65 million (Census 2011)\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2, 3 and 4",
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 4 only",
         "1 and 2 only"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanation": "All correct. Urban housing shortage: estimated 10-12 million units (mainly EWS/LIG categories). PMAY-U: 4 verticals — In-situ Slum Redevelopment, Credit Linked Subsidy (CLSS: ₹2.67 lakh subsidy for EWS/LIG home loans), Affordable Housing in Partnership, Beneficiary-led Construction. Affordable housing: ₹45 lakh cap in metros, ₹30 lakh in non-metros (for CLSS). Slum population: 65.5 million in 2,613 cities/towns (Census 2011, likely 80+ million now). Key challenge: land prices, FSI restrictions, approval delays, construction cost inflation."
     },
     {
@@ -73,7 +73,7 @@
       "options": [
         "1, 2, 3 and 4",
         "1 and 2 only",
-        "All are correct",
+        "1 and 4 only",
         "1, 2 and 3 only"
       ],
       "answer": 3,
@@ -82,9 +82,9 @@
     {
       "id": "soc19",
       "subject": "Social Issues",
-      "question": "Consider the following about bonded labour in India:\n1. Bonded Labour System (Abolition) Act was enacted in 1976\n2. Bonded labour is prohibited under Article 23 of the Constitution\n3. India has completely eradicated bonded labour\n4. Brick kilns, stone quarries, and agriculture are sectors with highest prevalence",
+      "question": "Consider the following about bonded labour in India:\n1. Bonded Labour System (Abolition) Act was enacted in 1976\n2. Bonded labour is prohibited under Article 23 of the Constitution\n3. India has completely eradicated bonded labour\n4. Brick kilns, stone quarries, and agriculture are sectors with highest prevalence\nWhich of the statements given above is/are correct?",
       "options": [
-        "All are correct",
+        "1 and 4 only",
         "1 and 2 only",
         "1, 2, 3 and 4",
         "1, 2 and 4 only"
@@ -100,9 +100,9 @@
         "1, 2 and 3 only",
         "1, 2, 3 and 4",
         "1 and 4 only",
-        "All are correct"
+        "2 and 3 only"
       ],
-      "answer": 3,
+      "answer": 1,
       "explanation": "All correct. Hindu Code Bills (Nehru era): Hindu Marriage Act 1955, Hindu Succession Act 1956, Hindu Minority and Guardianship Act, Hindu Adoptions and Maintenance Act — reformed Hindu law significantly (widow inheritance, divorce, monogamy). Muslim law: Shariat Application Act 1937 (general), but no comprehensive codification (succession, maintenance still under old Islamic jurisprudence — some reforms via courts). Triple Talaq (Shayara Bano, 2017 — SC struck down instant talaq; criminalised 2019). Goa: Portuguese Civil Code (1867) still applies — common family law for all religions (only state with UCC-like system)."
     }
   ]

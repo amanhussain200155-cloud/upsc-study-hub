@@ -48,7 +48,7 @@
         "1, 2, 3 and 4",
         "1 and 2 only",
         "1, 2 and 3 only",
-        "All are correct"
+        "1 and 4 only"
       ],
       "answer": 2,
       "explanation": "1, 2, 3 correct. Statement 4 is nuanced - DPSPs do NOT automatically override FRs. After Minerva Mills (1980), there must be a BALANCE between FRs and DPSPs. However, Article 31C provides limited protection to laws implementing certain DPSPs."
@@ -56,7 +56,7 @@
     {
       "id": "pol5",
       "subject": "Polity & Governance",
-      "question": "Consider the following about the Rajya Sabha:\n1. It is a permanent body and is not subject to dissolution\n2. One-third of its members retire every two years\n3. It has equal powers with Lok Sabha in Constitutional amendments\n4. Money Bills can be introduced in Rajya Sabha",
+      "question": "Consider the following about the Rajya Sabha:\n1. It is a permanent body and is not subject to dissolution\n2. One-third of its members retire every two years\n3. It has equal powers with Lok Sabha in Constitutional amendments\n4. Money Bills can be introduced in Rajya Sabha\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2 and 3 only",
         "1 and 2 only",
@@ -139,7 +139,7 @@
         "1, 2 and 3 only",
         "1, 2, 3 and 4",
         "1 and 3 only",
-        "All are correct"
+        "1 and 4 only"
       ],
       "answer": 1,
       "explanation": "All correct. The 42nd Amendment made sweeping changes: added FDs (Part IVA), curtailed judicial review, amended Preamble, transferred 5 subjects to Concurrent List (education, forests, weights & measures, protection of wild animals, administration of justice)."
@@ -177,7 +177,7 @@
       "options": [
         "1 and 4 only",
         "1, 2 and 3 only",
-        "All are correct",
+        "2 and 3 only",
         "1, 2, 3 and 4"
       ],
       "answer": 3,
@@ -189,7 +189,7 @@
       "question": "The concept of 'Basic Structure' includes which of the following?\n1. Supremacy of the Constitution\n2. Republican and democratic form of government\n3. Federal character\n4. Parliamentary system\nWhich is/are part of basic structure?",
       "options": [
         "1, 2, 3 and 4",
-        "All are correct",
+        "1 and 4 only",
         "1 and 2 only",
         "1, 2 and 3 only"
       ],
