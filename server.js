@@ -671,6 +671,18 @@ app.listen(PORT, () => {
     console.log(`   ├── MCQ generation: every 6 hours`);
     console.log(`   ├── Monthly compilations: auto-accumulated`);
     console.log(`   └── Revision system: spaced repetition + bookmarks\n`);
+    
+    // Keep-alive: ping self every 14 minutes to prevent Render free tier from sleeping
+    const RENDER_URL = process.env.RENDER_EXTERNAL_URL || 'https://upsc-study-hub.onrender.com';
+    setInterval(() => {
+        const http = require('http');
+        const https = require('https');
+        const lib = RENDER_URL.startsWith('https') ? https : http;
+        lib.get(`${RENDER_URL}/api/status`, (res) => {
+            // Just need to trigger a request to keep alive
+        }).on('error', () => {});
+    }, 14 * 60 * 1000); // Every 14 minutes
+    console.log(`   🔄 Keep-alive ping: every 14 minutes (prevents sleep)`);
 });
 
 // ============ USER PROFILES (MongoDB) ============
