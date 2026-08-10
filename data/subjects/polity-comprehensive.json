@@ -45,9 +45,9 @@
       "subject": "Polity & Governance",
       "question": "Which of the following bills require prior recommendation/sanction of the President before introduction?\n1. Money Bills\n2. Bills affecting taxation in which States are interested\n3. Bills for formation of new States\n4. Financial Bills (Category A)",
       "options": [
-        "1 and 4 only",
+        "2, 3 and 4 only",
         "1 and 3 only",
-        "1, 3 and 4 only",
+        "1, 2 and 4 only",
         "1, 2, 3 and 4"
       ],
       "answer": 3,
@@ -71,12 +71,12 @@
       "subject": "Polity & Governance",
       "question": "With reference to the Comptroller and Auditor General (CAG):\n1. CAG audits all expenditure from the Consolidated Fund of India and States\n2. CAG's reports are discussed by the Public Accounts Committee\n3. CAG also audits government companies under the Companies Act\n4. The CAG is the guardian of the public purse",
       "options": [
-        "1, 2 and 4 only",
         "1 and 4 only",
         "1, 2, 3 and 4",
-        "1 and 2 only"
+        "1, 2 and 3 only",
+        "2 and 3 only"
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "All correct. CAG (Art 148-151) audits Consolidated Fund expenditure of Union and States. Reports are examined by PAC (Lok Sabha) and COPU (State Assemblies). Under Section 139-143 of Companies Act 2013, CAG audits government companies. Ambedkar called CAG 'the most important officer in the Constitution' - guardian of public purse."
     },
     {
@@ -136,12 +136,12 @@
       "subject": "Polity & Governance",
       "question": "Which of the following are grounds for disqualification of a Member of Parliament under Article 102?\n1. Holding an office of profit under the Government\n2. Being of unsound mind declared by a competent court\n3. Being an undischarged insolvent\n4. Having acquired citizenship of a foreign state",
       "options": [
+        "1 and 2 only",
         "1, 2, 3 and 4",
         "1, 2 and 3 only",
-        "2 and 3 only",
-        "1 and 4 only"
+        "2, 3 and 4 only"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "All four are grounds for disqualification under Article 102. Office of profit (unless exempted by Parliament), unsound mind (declared by court), undischarged insolvent, and acquiring foreign citizenship are all disqualifying. Additionally, disqualification under 10th Schedule (anti-defection) and RPA 1951 provisions also apply."
     },
     {
@@ -149,12 +149,12 @@
       "subject": "Polity & Governance",
       "question": "Consider the following about the Rajya Sabha's special powers:\n1. It can declare a subject in State List to be of national importance (Art 249)\n2. It can create new All India Services (Art 312)\n3. It cannot amend or reject Money Bills\n4. It has equal power with Lok Sabha in impeachment of President\nWhich of the statements given above is/are correct?",
       "options": [
-        "1, 2, 3 and 4",
-        "1, 2 and 4 only",
-        "1 and 2 only",
-        "1 and 4 only"
+        "1 and 4 only",
+        "2 and 3 only",
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "All correct. Art 249: RS can pass resolution (2/3 majority) to allow Parliament to legislate on State List subjects. Art 312: RS can create new All India Services by resolution. RS can only recommend amendments to Money Bills (14 days). Both houses have equal power in impeachment (Art 61) and Constitutional amendments."
     },
     {

@@ -17,27 +17,27 @@
     {
       "id": "mar26-2",
       "subject": "Polity & Governance",
-      "question": "With reference to the demand for Statehood and 6th Schedule status for Ladakh:\n1. The 6th Schedule currently applies to tribal areas in Assam, Meghalaya, Tripura, and Mizoram\n2. Ladakh became a Union Territory after the abrogation of Article 370\n3. 6th Schedule provides for Autonomous District Councils\n4. Ladakh currently has a legislature of its own",
+      "question": "With reference to the demand for Statehood and 6th Schedule status for Ladakh:\n1. The 6th Schedule currently applies to tribal areas in Assam, Meghalaya, Tripura, and Mizoram\n2. Ladakh currently has a legislature of its own\n3. 6th Schedule provides for Autonomous District Councils\n4. Ladakh became a Union Territory after the abrogation of Article 370",
       "options": [
-        "2 and 3 only",
         "1, 2, 3 and 4",
-        "1 and 4 only",
-        "1, 2 and 3 only"
+        "1, 3 and 4 only",
+        "1 and 2 only",
+        "1 and 3 only"
       ],
-      "answer": 3,
+      "answer": 1,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — Ladakh UT does NOT have its own legislature. It's a UT without legislature (like Chandigarh), administered by LG directly. This is a key demand of Ladakh's people — either statehood or at minimum 6th Schedule protection for tribal identity and land rights. 6th Schedule creates ADCs with legislative, judicial, and executive powers over tribal areas."
     },
     {
       "id": "mar26-3",
       "subject": "Polity & Governance",
-      "question": "Consider the following about the removal of the Chief Election Commissioner (CEC):\n1. CEC can be removed in the same manner as a Supreme Court judge\n2. This requires an address by both Houses of Parliament\n3. Grounds for removal are proved misbehaviour or incapacity\n4. Other Election Commissioners can be removed by the President on CEC's recommendation\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following about the removal of the Chief Election Commissioner (CEC):\n1. Other Election Commissioners can be removed by the President on CEC's recommendation\n2. This requires an address by both Houses of Parliament\n3. Grounds for removal are proved misbehaviour or incapacity\n4. CEC can be removed in the same manner as a Supreme Court judge\nWhich of the statements given above is/are correct?",
       "options": [
-        "1 and 4 only",
-        "1, 2 and 3 only",
+        "1 and 2 only",
+        "2 and 3 only",
         "1, 2, 3 and 4",
-        "1 and 3 only"
+        "2, 3 and 4 only"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — Other ECs can be removed by the President but NOT necessarily on CEC's recommendation. The Constitution provides that other ECs cannot be removed except on CEC's recommendation, but this is to PROTECT them (CEC must agree to their removal). The 2023 SC judgment in Anoop Baranwal case reformed the appointment process but removal provisions remain as per Article 324."
     },
     {
@@ -45,38 +45,38 @@
       "subject": "Polity & Governance",
       "question": "With reference to 'Bulldozer Justice' in India:\n1. The Supreme Court has issued guidelines regulating demolition of properties\n2. The SC held that executive cannot act as judge and demolish properties as punishment\n3. Demolitions require prior notice and due process\n4. The practice has been upheld as a valid deterrent against crime",
       "options": [
+        "1, 2 and 4 only",
+        "1, 2, 3 and 4",
         "1, 2 and 3 only",
-        "1 and 4 only",
-        "1 and 2 only",
-        "1, 2, 3 and 4"
+        "1, 3 and 4 only"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — SC has NOT upheld bulldozer justice. In fact, SC (2024) condemned demolitions as punitive action without due process, calling it 'unconstitutional'. SC laid down guidelines: 15-day prior notice mandatory, no demolition as punishment for accused/convict, proper procedure under municipal laws to be followed, personal hearing to be given. Violating officials to face contempt."
     },
     {
       "id": "mar26-5",
       "subject": "Economics",
-      "question": "Consider the following about India's new GDP series with base year 2022-23:\n1. It replaces the earlier base year of 2011-12\n2. The new series uses updated methodology incorporating more data sources\n3. GDP at market prices is the primary measure\n4. The back-series data remains unchanged from the old methodology\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following about India's new GDP series with base year 2022-23:\n1. It replaces the earlier base year of 2011-12\n2. The back-series data remains unchanged from the old methodology\n3. GDP at market prices is the primary measure\n4. The new series uses updated methodology incorporating more data sources\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 3 only",
+        "1, 3 and 4 only",
         "1, 2, 3 and 4",
-        "1, 2 and 3 only",
-        "1 and 4 only"
+        "1 and 2 only"
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — when base year changes, back-series data is also REVISED (recalculated with new methodology). This often leads to revised growth rates for earlier years, which can be politically controversial. New base year incorporates: more corporate data (MCA21), GST data, new employment surveys, updated consumption patterns."
     },
     {
       "id": "mar26-6",
       "subject": "Economics",
-      "question": "With reference to Kisan Credit Card (KCC) Scheme:\n1. It provides short-term credit for crop production\n2. It also covers post-harvest expenses and allied activities\n3. Interest subvention makes effective interest rate 4% for prompt repayment\n4. PM-KISAN beneficiaries are automatically eligible for KCC",
+      "question": "With reference to Kisan Credit Card (KCC) Scheme:\n1. It provides short-term credit for crop production\n2. It also covers post-harvest expenses and allied activities\n3. PM-KISAN beneficiaries are automatically eligible for KCC\n4. Interest subvention makes effective interest rate 4% for prompt repayment",
       "options": [
         "1, 2, 3 and 4",
+        "1 and 2 only",
         "1 and 3 only",
-        "1, 2 and 3 only",
-        "1 and 4 only"
+        "1, 2 and 4 only"
       ],
-      "answer": 2,
+      "answer": 3,
       "explanation": "1, 2, 3 correct. Statement 4 is MISLEADING — while government has been trying to converge PM-KISAN and KCC (saturation drive), PM-KISAN beneficiaries are NOT 'automatically' eligible for KCC. They still need to apply through banks, meet creditworthiness criteria. KCC: 7% interest, with 3% subvention = 4% effective rate for loans up to ₹3 lakh repaid on time. Covers: crop production, animal husbandry, fisheries (since 2019)."
     },
     {
@@ -84,25 +84,25 @@
       "subject": "International Relations",
       "question": "Consider the following about Xiaokang Villages near the India-China border:\n1. These are Chinese 'moderately prosperous' villages built near the LAC\n2. They serve dual purpose: civilian settlement and border defense\n3. They are located primarily in Tibet Autonomous Region near Arunachal Pradesh\n4. India has countered with Vibrant Village Programme (VVP)\nWhich of the statements given above is/are correct?",
       "options": [
-        "2 and 3 only",
-        "1 and 4 only",
+        "1, 2 and 3 only",
         "1, 2, 3 and 4",
-        "1, 3 and 4 only"
+        "1 and 2 only",
+        "2, 3 and 4 only"
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "All correct. China built 600+ Xiaokang villages along the LAC in Tibet, near borders of Arunachal, Uttarakhand, Ladakh. They serve as 'dual-use' infrastructure: civilian development + border monitoring/defense (population as first line of presence). India's response: Vibrant Village Programme (Budget 2022-23) to develop 2,500+ border villages in Arunachal, Uttarakhand, Himachal, Sikkim, Ladakh with infrastructure, connectivity, livelihood support."
     },
     {
       "id": "mar26-8",
       "subject": "International Relations",
-      "question": "With reference to the Raisina Dialogue:\n1. It is India's flagship conference on geopolitics and geo-economics\n2. It is organized jointly by MEA and Observer Research Foundation (ORF)\n3. It is held annually in New Delhi\n4. It is equivalent to the World Economic Forum's Davos summit",
+      "question": "With reference to the Raisina Dialogue:\n1. It is equivalent to the World Economic Forum's Davos summit\n2. It is organized jointly by MEA and Observer Research Foundation (ORF)\n3. It is held annually in New Delhi\n4. It is India's flagship conference on geopolitics and geo-economics",
       "options": [
-        "1 and 2 only",
-        "1 and 4 only",
         "1, 2, 3 and 4",
-        "1, 2 and 3 only"
+        "2, 3 and 4 only",
+        "2 and 3 only",
+        "1 and 2 only"
       ],
-      "answer": 3,
+      "answer": 1,
       "explanation": "1, 2, 3 correct. Statement 4 is WRONG/DEBATABLE — while Raisina Dialogue is India's premier geo-strategic conference, equating it to Davos is inaccurate. Davos (WEF) focuses on economic/business leaders; Raisina focuses on foreign policy/security. Raisina attracts heads of state, foreign ministers, military chiefs, think tanks. Named after Raisina Hill (where Rashtrapati Bhavan is located). Started 2016."
     },
     {
@@ -121,14 +121,14 @@
     {
       "id": "mar26-10",
       "subject": "Environment & Ecology",
-      "question": "With reference to India's 7th National Report to the Convention on Biological Diversity (CBD):\n1. India submitted it as part of obligations under the CBD\n2. It assesses progress towards national biodiversity targets\n3. The Kunming-Montreal Global Biodiversity Framework (GBF) sets the new '30x30' target\n4. India has already achieved the 30x30 target (30% land and sea protected by 2030)",
+      "question": "With reference to India's 7th National Report to the Convention on Biological Diversity (CBD):\n1. India submitted it as part of obligations under the CBD\n2. It assesses progress towards national biodiversity targets\n3. India has already achieved the 30x30 target (30% land and sea protected by 2030)\n4. The Kunming-Montreal Global Biodiversity Framework (GBF) sets the new '30x30' target",
       "options": [
+        "1, 2 and 4 only",
+        "1 and 2 only",
         "1, 2, 3 and 4",
-        "1, 2 and 3 only",
-        "1 and 4 only",
         "1 and 3 only"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — India has NOT achieved the 30x30 target. India has ~27% forest cover and ~5% of its marine area under some form of protection, but much of this doesn't meet the strict '30x30' criteria (effectively conserved). The GBF (Kunming-Montreal, Dec 2022) targets: 30% of land and 30% of oceans effectively conserved by 2030. India committed to enhanced targets in its updated NBSAP."
     },
     {
@@ -136,10 +136,10 @@
       "subject": "Polity & Governance",
       "question": "Consider the following about Delimitation in India:\n1. Delimitation Commission is a quasi-judicial body whose orders cannot be challenged in court\n2. The last delimitation was based on 2001 Census (except J&K recently)\n3. The 84th Amendment froze the number of Lok Sabha seats until 2026 based on 1971 Census\n4. Southern states oppose fresh delimitation fearing loss of seats due to lower population growth\nWhich of the statements given above is/are correct?",
       "options": [
-        "1 and 4 only",
-        "2 and 3 only",
+        "2, 3 and 4 only",
+        "1, 2 and 3 only",
         "1, 2, 3 and 4",
-        "1, 3 and 4 only"
+        "1 and 4 only"
       ],
       "answer": 2,
       "explanation": "All correct. Delimitation Commission's orders have force of law and CANNOT be challenged in any court. Last general delimitation used 2001 Census for readjusting boundaries (not seat numbers). 84th Amendment (2002) froze total seats until first Census after 2026 based on 1971 population (to not penalize states doing well in population control). Southern states (TN, Kerala, AP, Karnataka) fear losing seats to UP, Bihar in post-2026 delimitation."
@@ -147,14 +147,14 @@
     {
       "id": "apr26-2",
       "subject": "Polity & Governance",
-      "question": "With reference to Political Funding Reforms in India:\n1. The Supreme Court struck down the Electoral Bond Scheme in 2024\n2. The court held it violated Right to Information under Article 19(1)(a)\n3. SBI was directed to submit all electoral bond details to ECI\n4. Currently there is no upper limit on political donations through legitimate channels",
+      "question": "With reference to Political Funding Reforms in India:\n1. The Supreme Court struck down the Electoral Bond Scheme in 2024\n2. The court held it violated Right to Information under Article 19(1)(a)\n3. Currently there is no upper limit on political donations through legitimate channels\n4. SBI was directed to submit all electoral bond details to ECI",
       "options": [
         "1, 2, 3 and 4",
-        "1, 2 and 4",
-        "1 and 4 only",
-        "1, 2 and 3 only"
+        "1 and 3 only",
+        "1, 2 and 4 only",
+        "1 and 2 only"
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — there IS a limit: individual cash donations above ₹2,000 must be disclosed. Companies cannot donate more than 7.5% of average net profits of last 3 years. However, no overall cap on total donations received by parties exists. SC struck down Electoral Bonds (Feb 2024) as unconstitutional violation of voter's right to know. Directed SBI to share all bond data with ECI, which published it."
     },
     {
@@ -162,9 +162,9 @@
       "subject": "Economics",
       "question": "Consider the following about 10 Years of Unified Payments Interface (UPI):\n1. UPI was launched in 2016 by NPCI\n2. Monthly transactions have crossed 12 billion\n3. UPI has been internationalized - linked with Singapore's PayNow\n4. Merchant Discount Rate (MDR) on UPI is currently zero\nWhich of the statements given above is/are correct?",
       "options": [
-        "1, 3 and 4 only",
-        "1 and 4 only",
-        "1 and 3 only",
+        "1, 2 and 3 only",
+        "2, 3 and 4 only",
+        "1 and 2 only",
         "1, 2, 3 and 4"
       ],
       "answer": 3,
@@ -175,9 +175,9 @@
       "subject": "Economics",
       "question": "With reference to India's Helium crisis:\n1. India imports nearly 100% of its helium requirements\n2. Helium is used in MRI machines, semiconductor manufacturing, and space research\n3. India has discovered helium reserves in Rajasthan\n4. Helium can be easily manufactured synthetically",
       "options": [
-        "1 and 2 only",
-        "1 and 4 only",
         "1, 2, 3 and 4",
+        "1, 3 and 4 only",
+        "1, 2 and 4 only",
         "1, 2 and 3 only"
       ],
       "answer": 3,
@@ -188,12 +188,12 @@
       "subject": "Polity & Governance",
       "question": "Consider the following about the Insolvency and Bankruptcy Code (Amendment) Bill, 2025:\n1. IBC was enacted in 2016 for time-bound resolution of insolvency\n2. NCLT is the adjudicating authority for corporate insolvency\n3. The amendment aims to streamline the resolution process further\n4. Under IBC, the resolution must be completed within 90 days\nWhich of the statements given above is/are correct?",
       "options": [
-        "1, 2 and 3 only",
-        "1 and 2 only",
+        "1 and 3 only",
+        "2, 3 and 4 only",
         "1, 2, 3 and 4",
-        "1 and 4 only"
+        "1, 2 and 3 only"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — the timeline is 180 days (extendable by 90 days, total maximum 330 days), NOT 90 days. 90 days is the timeline for FAST-TRACK insolvency process (for small companies). The amendment addresses issues like: group insolvency, pre-pack framework expansion, real estate project resolution, reducing delays in NCLT. Average resolution time has been ~450+ days (exceeding mandated limits)."
     }
   ]

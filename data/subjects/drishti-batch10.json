@@ -6,12 +6,12 @@
       "subject": "Economics",
       "question": "Consider the following about RBI's intervention to defend the Rupee:\n1. RBI sells dollars in spot market to arrest rupee depreciation\n2. Dollar sales reduce rupee liquidity in the banking system\n3. RBI conducts 'sterilized interventions' using short-dated government securities\n4. Forex swap auctions (Buy/Sell) are used to manage both forex and liquidity\nWhich of the statements given above is/are correct?",
       "options": [
-        "1, 3 and 4 only",
-        "1 and 2 only",
-        "1 and 4 only",
-        "1, 2, 3 and 4"
+        "1 and 3 only",
+        "1, 2 and 4 only",
+        "1, 2, 3 and 4",
+        "2, 3 and 4 only"
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "All correct. RBI's multi-pronged forex strategy: (1) Spot dollar sales — directly counters rupee fall but drains rupee liquidity. (2) Sterilization — RBI issues short-term securities to absorb excess liquidity from dollar purchases OR conducts OMOs to inject liquidity after dollar sales. (3) Buy/Sell swaps — RBI buys dollars now (gives rupees) and agrees to sell later; manages both forex reserves and domestic liquidity. (4) Can also raise interest rates to make rupee attractive. USD 5 billion swap announced in 2026."
     },
     {
@@ -20,9 +20,9 @@
       "question": "With reference to India's Female Credit Market:\n1. Women's share in bank credit has been historically low\n2. Mudra loans have significantly increased credit access for women entrepreneurs\n3. Self-Help Group (SHG) - Bank Linkage programme is the largest microfinance model globally\n4. Women-headed MSME units receive priority under Stand-Up India scheme",
       "options": [
         "1, 2, 3 and 4",
-        "1, 2 and 3 only",
+        "1 and 4 only",
         "2 and 3 only",
-        "1 and 4 only"
+        "1, 2 and 3 only"
       ],
       "answer": 0,
       "explanation": "All correct. Women's credit gap: only ~27% of bank credit goes to women-owned/run enterprises. Mudra: 70%+ of Mudra loans (Shishu category) go to women borrowers. SHG-Bank Linkage (started 1992, NABARD): covers 14+ crore women, largest microfinance programme globally. Stand-Up India (2016): at least 1 SC/ST + 1 woman entrepreneur must get loan (₹10 lakh-1 crore) per bank branch. Despite progress, gender credit gap remains — women face collateral constraints, documentation barriers."
@@ -43,14 +43,14 @@
     {
       "id": "d10-4",
       "subject": "Economics",
-      "question": "With reference to India's Food Waste Conundrum:\n1. India wastes approximately 68.8 million tonnes of food annually\n2. India ranks high on the UN Food Waste Index\n3. Food waste occurs at both production and consumption stages\n4. India has no policy or legislation addressing food waste",
+      "question": "With reference to India's Food Waste Conundrum:\n1. India has no policy or legislation addressing food waste\n2. India ranks high on the UN Food Waste Index\n3. Food waste occurs at both production and consumption stages\n4. India wastes approximately 68.8 million tonnes of food annually",
       "options": [
-        "1 and 3 only",
-        "1, 2 and 3 only",
-        "1 and 4 only",
+        "2, 3 and 4 only",
+        "1 and 2 only",
+        "2 and 3 only",
         "1, 2, 3 and 4"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — India does have initiatives: FSSAI's 'Save Food, Share Food' campaign, Food Safety Standards (Recovery and Distribution of Surplus Food) Regulation 2019, Indian Food Sharing Alliance. However, there's no comprehensive dedicated legislation like France's anti-food-waste law. UN Food Waste Index 2024: India wastes 68.8 million tonnes/year (78 kg/person). Paradox: high food waste coexists with 190 million undernourished people."
     },
     {
@@ -58,12 +58,12 @@
       "subject": "Polity & Governance",
       "question": "Consider the following about India's Localized Climate Governance:\n1. District-level climate action plans are being developed\n2. Panchayats play a role in implementing local climate adaptation\n3. NAPCC (National Action Plan on Climate Change) has 8 national missions\n4. States have formulated State Action Plans on Climate Change (SAPCCs)\nWhich of the statements given above is/are correct?",
       "options": [
-        "3 and 4 only",
+        "2, 3 and 4 only",
+        "1 and 2 only",
         "1, 2, 3 and 4",
-        "1 and 4 only",
-        "1, 3 and 4 only"
+        "1, 2 and 3 only"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanation": "All correct. Climate governance in India is multi-tiered: National (NAPCC - 8 missions: Solar, Enhanced Energy Efficiency, Sustainable Habitat, Water, Sustaining Himalayan Ecosystem, Green India, Sustainable Agriculture, Strategic Knowledge) → State (SAPCCs by all states) → District (emerging, under NITI Aayog push). Panchayats implement: watershed management, tree planting, clean energy adoption, climate-resilient agriculture. Challenge: funding, capacity, and coordination across tiers."
     },
     {
@@ -71,12 +71,12 @@
       "subject": "Polity & Governance",
       "question": "With reference to NCRB's Crime in India Report 2024:\n1. NCRB compiles crime statistics from all states/UTs annually\n2. It covers IPC/BNS crimes and Special & Local Laws (SLL) crimes\n3. NCRB functions under the Ministry of Home Affairs\n4. The report is based on FIRs registered (not actual crime levels)",
       "options": [
-        "1 and 3 only",
         "1 and 4 only",
         "1, 2 and 3 only",
-        "1, 2, 3 and 4"
+        "1, 2, 3 and 4",
+        "2, 3 and 4 only"
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "All correct. NCRB (established 1986, under MHA): publishes 'Crime in India' (annual), 'Prison Statistics India', 'Accidental Deaths and Suicides in India'. Based on FIRs (registered cases) — actual crime is likely higher due to underreporting (dark figure of crime). Covers: crimes against women, children, SC/ST, cybercrimes, economic offences. Limitation: state compliance varies, data quality issues, delay in publication. With BNS replacing IPC (July 2024), classification methodology will change."
     },
     {
@@ -84,12 +84,12 @@
       "subject": "Polity & Governance",
       "question": "Consider the following about Recalibrating Public Interest Litigation (PIL):\n1. PIL was developed by Justices PN Bhagwati and VR Krishna Iyer in the 1980s\n2. PIL relaxed the traditional 'locus standi' requirement\n3. Courts have expressed concern about misuse of PIL for personal/commercial interests\n4. PIL can only be filed in the Supreme Court, not in High Courts\nWhich of the statements given above is/are correct?",
       "options": [
-        "1 and 4 only",
-        "1 and 2 only",
+        "1, 2, 3 and 4",
         "1, 2 and 3 only",
-        "1, 2, 3 and 4"
+        "3 only",
+        "1 and 2 only"
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — PIL can be filed in BOTH Supreme Court (Article 32) and High Courts (Article 226). High Courts are actually the primary forum for PIL (majority of PILs are filed in HCs). SC has repeatedly warned against: motivated PILs (publicity seekers), PIL as industry (commercial interests), frivolous PILs wasting judicial time. SC imposed costs on frivolous PIL filers. Genuine PIL remains a powerful tool for voiceless/marginalized sections."
     },
     {
@@ -97,9 +97,9 @@
       "subject": "Polity & Governance",
       "question": "With reference to India's Right to Education (RTE) Act, 2009:\n1. It guarantees free and compulsory education for children aged 6-14\n2. It mandates 25% reservation in private schools for EWS/disadvantaged\n3. It was enacted under Article 21A (inserted by 86th Amendment, 2002)\n4. It applies uniformly to all schools including minority institutions",
       "options": [
-        "1 and 4 only",
+        "2 and 3 only",
         "1, 2, 3 and 4",
-        "1 and 3 only",
+        "1 and 2 only",
         "1, 2 and 3 only"
       ],
       "answer": 3,
@@ -126,7 +126,7 @@
         "1 and 4 only",
         "2, 3 and 4 only",
         "1, 2, 3 and 4",
-        "1 and 3 only"
+        "1, 2 and 3 only"
       ],
       "answer": 2,
       "explanation": "All correct. NCAP (2019): targets 40% reduction in particulate matter concentration by 2025-26 (from 2017 base). Covers 131 cities exceeding NAAQS (National Ambient Air Quality Standards). GRAP: staged response specific to Delhi-NCR (4 stages: Poor→Very Poor→Severe→Severe+, each triggering specific actions like construction ban, odd-even, school closures). Stubble burning: contributes 25-40% of Delhi PM2.5 in Oct-Nov. Solutions: Happy Seeder, bio-decomposer, in-situ management. Despite progress, India has 9 of world's 10 most polluted cities."

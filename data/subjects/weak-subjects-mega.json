@@ -4,24 +4,24 @@
     {
       "id": "wb1",
       "subject": "Internal Security",
-      "question": "Consider the following about India's National Security Architecture:\n1. National Security Council (NSC) is the apex body headed by the PM\n2. NSA (National Security Adviser) is the principal advisor on security matters\n3. Chief of Defence Staff (CDS) is a member of the NSC\n4. NSC was established by a Constitutional Amendment\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following about India's National Security Architecture:\n1. NSC was established by a Constitutional Amendment\n2. NSA (National Security Adviser) is the principal advisor on security matters\n3. Chief of Defence Staff (CDS) is a member of the NSC\n4. National Security Council (NSC) is the apex body headed by the PM\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 2 only",
+        "2, 3 and 4 only",
         "1, 2, 3 and 4",
-        "1, 2 and 3 only",
-        "1 and 4 only"
+        "2 and 3 only"
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — NSC was established by an EXECUTIVE ORDER (1998, Vajpayee government), NOT a Constitutional Amendment. It has no statutory/constitutional basis. Components: Strategic Policy Group (SPG, senior bureaucrats), National Security Advisory Board (NSAB, external experts), Joint Intelligence Committee (JIC). CDS (created 2020) is permanent chairman of Chiefs of Staff Committee and principal military advisor to Defence Minister."
     },
     {
       "id": "wb2",
       "subject": "Internal Security",
-      "question": "With reference to India's cryptocurrency regulation and security concerns:\n1. Crypto can be used for terror financing and money laundering\n2. India imposed 30% tax on crypto gains and 1% TDS\n3. RBI launched Digital Rupee (CBDC) as a regulated alternative\n4. India has formally banned all cryptocurrency transactions",
+      "question": "With reference to India's cryptocurrency regulation and security concerns:\n1. India has formally banned all cryptocurrency transactions\n2. India imposed 30% tax on crypto gains and 1% TDS\n3. RBI launched Digital Rupee (CBDC) as a regulated alternative\n4. Crypto can be used for terror financing and money laundering",
       "options": [
-        "1, 2 and 3 only",
-        "1, 3 and 4",
-        "1 and 4 only",
+        "2, 3 and 4 only",
+        "1 and 2 only",
+        "2 and 3 only",
         "1, 2, 3 and 4"
       ],
       "answer": 0,
@@ -32,23 +32,23 @@
       "subject": "Internal Security",
       "question": "Consider the following about insurgency in Jammu & Kashmir:\n1. Article 370 abrogation (2019) changed J&K's security framework\n2. The number of terrorist incidents declined significantly after 2019\n3. Stone-pelting incidents reduced drastically after 2019\n4. Pakistan-sponsored cross-border terrorism has completely ceased\nWhich of the statements given above is/are correct?",
       "options": [
-        "1, 2 and 3 only",
-        "1 and 3 only",
+        "1 and 2 only",
         "1, 2, 3 and 4",
-        "1 and 4 only"
+        "3 only",
+        "1, 2 and 3 only"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — cross-border terrorism has NOT completely ceased. While incidents reduced significantly (terror events dropped ~60% post-2019), infiltration attempts continue (Poonch-Rajouri encounters 2022-23, Pahalgam attack 2025). LoC ceasefire (Feb 2021) reduced cross-border firing but terror infrastructure in Pakistan (JeM, LeT) persists. India's response: Operation Sindoor (2025), enhanced fencing, intelligence-based ops. Challenges remain: radicalization, new-age terrorism (drones, IEDs), targeted killings."
     },
     {
       "id": "wb4",
       "subject": "Internal Security",
-      "question": "With reference to India's Integrated Theatre Commands:\n1. Theatre Commands aim to integrate Army, Navy, and Air Force under a unified commander\n2. CDS was created partly to facilitate theaterization\n3. India currently operates on single-service commands (unlike China/USA)\n4. All three services have unanimously agreed on the theatre command structure",
+      "question": "With reference to India's Integrated Theatre Commands:\n1. Theatre Commands aim to integrate Army, Navy, and Air Force under a unified commander\n2. CDS was created partly to facilitate theaterization\n3. All three services have unanimously agreed on the theatre command structure\n4. India currently operates on single-service commands (unlike China/USA)",
       "options": [
-        "1 and 2 only",
-        "1, 2 and 3 only",
         "1, 2, 3 and 4",
-        "1 and 4 only"
+        "1, 2 and 4 only",
+        "1 and 2 only",
+        "1 and 3 only"
       ],
       "answer": 1,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — all three services have NOT unanimously agreed. IAF has significant reservations (fears losing operational control of air assets to Army-dominated theatres). Debates: number of theatres (3-5?), air force sub-theatres, maritime theatre scope. China reorganized into 5 theatre commands (2016). USA has unified combatant commands since 1986 (Goldwater-Nichols Act). India's current 17 single-service commands → proposed 3-5 integrated theatres. Kargil Review Committee and Naresh Chandra Committee recommended integration."
@@ -56,12 +56,12 @@
     {
       "id": "wb5",
       "subject": "Internal Security",
-      "question": "Consider the following about India's Defence Procurement:\n1. Defence Acquisition Procedure (DAP) 2020 prioritizes 'Make in India'\n2. Categories include: Buy (Indian), Buy & Make (Indian), Make, Buy (Global)\n3. FDI in defence is allowed up to 74% via automatic route, 100% via government route\n4. India is the world's largest arms importer\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following about India's Defence Procurement:\n1. Defence Acquisition Procedure (DAP) 2020 prioritizes 'Make in India'\n2. Categories include: Buy (Indian), Buy & Make (Indian), Make, Buy (Global)\n3. India is the world's largest arms importer\n4. FDI in defence is allowed up to 74% via automatic route, 100% via government route\nWhich of the statements given above is/are correct?",
       "options": [
-        "1, 2 and 4",
-        "1 and 4 only",
+        "1 and 3 only",
+        "1 and 2 only",
         "1, 2, 3 and 4",
-        "1, 2 and 3 only"
+        "1, 2 and 4 only"
       ],
       "answer": 3,
       "explanation": "1, 2, 3 correct. Statement 4 — India WAS the largest arms importer for decades but has been reducing imports and is now 2nd or 3rd (SIPRI data fluctuates yearly). Saudi Arabia sometimes ranks higher. India's defence imports have declined ~33% between 2014-18 and 2019-23 periods as domestic manufacturing grows. DAP 2020: 'Buy Indian' first priority, increased indigenous content requirements. Defence corridors (UP/TN), PLI for defence, increased budgetary allocation for domestic procurement (68% earmarked for Indian industry)."
@@ -71,12 +71,12 @@
       "subject": "Government Schemes",
       "question": "Consider the following about PM Gatishakti National Master Plan:\n1. It is a digital platform integrating infrastructure planning across 16 ministries\n2. It uses GIS-based spatial planning to avoid duplication\n3. All infrastructure projects must be aligned with the Gati Shakti framework\n4. It was launched in 2021 to break infrastructure silos\nWhich of the statements given above is/are correct?",
       "options": [
+        "2, 3 and 4 only",
+        "1 and 4 only",
         "1, 2, 3 and 4",
-        "1, 2 and 4 only",
-        "2 and 3 only",
-        "1 and 4 only"
+        "1, 2 and 3 only"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "All correct. PM Gati Shakti (Oct 2021): digital platform integrating plans of 16 ministries + state plans. GIS layers show: existing infrastructure, planned projects, industrial zones, economic corridors — enabling coordination. Previously: road built but no railway connection nearby, port built but highway not connected. Now: all projects must demonstrate Gati Shakti alignment. 7 engines: roads, railways, airports, ports, mass transit, waterways, logistics infrastructure. Network Planning Group (NPG) evaluates alignment before project approval."
     },
     {
@@ -84,12 +84,12 @@
       "subject": "Government Schemes",
       "question": "Consider the following about Poshan Abhiyaan (National Nutrition Mission):\n1. It targets reduction of stunting, underweight, anaemia, and low birth weight\n2. It uses ICT-based monitoring through Poshan Tracker application\n3. Target: 2% annual reduction in stunting, underweight, and anaemia\n4. ICDS (Integrated Child Development Services) is the main delivery platform\nWhich of the statements given above is/are correct?",
       "options": [
-        "1 and 4 only",
-        "1, 2, 3 and 4",
         "2 and 3 only",
-        "1, 2 and 3 only"
+        "1, 2 and 3 only",
+        "1 and 4 only",
+        "1, 2, 3 and 4"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanation": "All correct. Poshan Abhiyaan (PM's Overarching Scheme for Holistic Nutrition, March 2018): converges nutrition programmes under one umbrella. Targets: reduce stunting/underweight by 2%/year, anaemia (among women/children) by 3%/year, low birth weight by 2%/year. Poshan Tracker: digital monitoring of 8 crore+ beneficiaries (children 0-6, pregnant/lactating women). ICDS (1975, 14 lakh Anganwadi centres): supplementary nutrition, health check-ups, immunization, nutrition education. Poshan Maah (September): nutrition awareness month."
     },
     {
@@ -97,35 +97,35 @@
       "subject": "Government Schemes",
       "question": "With reference to Digital India programme achievements:\n1. BharatNet aims to connect all 6 lakh villages with optical fiber\n2. DigiLocker provides cloud-based document storage accepted as original\n3. UMANG app integrates 1,700+ government services on mobile\n4. All 6 lakh villages have achieved high-speed internet connectivity",
       "options": [
-        "1 and 4 only",
-        "1 and 3 only",
         "1, 2 and 3 only",
-        "1, 2, 3 and 4"
+        "2, 3 and 4 only",
+        "1, 2, 3 and 4",
+        "1 and 3 only"
       ],
-      "answer": 2,
+      "answer": 0,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — NOT all 6 lakh villages have high-speed internet. BharatNet (formerly NOFN): target to connect all 6 lakh+ gram panchayats with optical fiber. Progress: ~2 lakh+ GPs connected (significant but far from universal). Last-mile connectivity (Wi-Fi from fiber point to users) remains a challenge. DigiLocker: 200+ million users, documents accepted at par with originals (IT Act, Section 4). UMANG: unified mobile app for government services. Common Service Centres (CSCs): 5.5 lakh centres providing digital services in rural areas."
     },
     {
       "id": "wb10",
       "subject": "Government Schemes",
-      "question": "Consider the following about Startup India initiative:\n1. It provides 3-year income tax holiday for DPIIT-recognized startups\n2. Fund of Funds (₹10,000 crore through SIDBI) provides equity funding\n3. Self-certification for 6 labour laws and 3 environment laws\n4. India has the world's largest startup ecosystem\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following about Startup India initiative:\n1. India has the world's largest startup ecosystem\n2. Fund of Funds (₹10,000 crore through SIDBI) provides equity funding\n3. Self-certification for 6 labour laws and 3 environment laws\n4. It provides 3-year income tax holiday for DPIIT-recognized startups\nWhich of the statements given above is/are correct?",
       "options": [
-        "1, 3 and 4",
-        "1, 2 and 3 only",
         "1, 2, 3 and 4",
-        "1 and 4 only"
+        "1 and 2 only",
+        "2 and 3 only",
+        "2, 3 and 4 only"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — India has the THIRD largest startup ecosystem (after USA and China), not the largest. 1.4 lakh+ recognized startups, 100+ unicorns. Tax holiday: Section 80-IAC (3 consecutive years within first 10 years, for profit-making startups). Fund of Funds: SIDBI invests in SEBI-registered AIFs which invest in startups (not direct government investment). Self-certification: reduces compliance burden for small startups on labour/environment laws (inspector raj elimination)."
     },
     {
       "id": "wb11",
       "subject": "Interdisciplinary",
-      "question": "Consider the following about India's energy transition:\n1. India targets 500 GW non-fossil fuel capacity by 2030\n2. India's renewable energy installed capacity crossed 200 GW (2024)\n3. Ethanol Blending Programme targets 20% blending (E20) by 2025-26\n4. India has completely eliminated coal from its energy mix\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following about India's energy transition:\n1. India targets 500 GW non-fossil fuel capacity by 2030\n2. India has completely eliminated coal from its energy mix\n3. Ethanol Blending Programme targets 20% blending (E20) by 2025-26\n4. India's renewable energy installed capacity crossed 200 GW (2024)\nWhich of the statements given above is/are correct?",
       "options": [
-        "1 and 4 only",
         "1 and 3 only",
-        "1, 2 and 3 only",
+        "1 and 2 only",
+        "1, 3 and 4 only",
         "1, 2, 3 and 4"
       ],
       "answer": 2,
@@ -134,11 +134,11 @@
     {
       "id": "wb12",
       "subject": "Interdisciplinary",
-      "question": "With reference to India's semiconductor supply chain vulnerability:\n1. Global chip shortage (2020-22) disrupted India's auto and electronics sectors\n2. Taiwan (TSMC) produces 90%+ of world's advanced chips (<7nm)\n3. Any conflict in Taiwan Strait would devastate global semiconductor supply\n4. India has a fully operational chip fabrication plant producing 14nm chips",
+      "question": "With reference to India's semiconductor supply chain vulnerability:\n1. Global chip shortage (2020-22) disrupted India's auto and electronics sectors\n2. India has a fully operational chip fabrication plant producing 14nm chips\n3. Any conflict in Taiwan Strait would devastate global semiconductor supply\n4. Taiwan (TSMC) produces 90%+ of world's advanced chips (<7nm)",
       "options": [
-        "1, 2 and 3 only",
+        "1, 3 and 4 only",
+        "1 and 3 only",
         "1 and 2 only",
-        "1 and 4 only",
         "1, 2, 3 and 4"
       ],
       "answer": 0,
@@ -149,25 +149,25 @@
       "subject": "Social Issues",
       "question": "Consider the following about India's Uniform Civil Code debate:\n1. Article 44 (DPSP) directs the State to secure a UCC\n2. Uttarakhand passed UCC legislation in 2024 (first state to do so)\n3. Law Commission (21st) suggested reforming personal laws within communities rather than imposing UCC\n4. Special Marriage Act 1954 already provides a secular civil marriage option\nWhich of the statements given above is/are correct?",
       "options": [
+        "2, 3 and 4 only",
+        "1, 2 and 3 only",
         "1, 2, 3 and 4",
-        "2 and 3 only",
-        "1 and 4 only",
-        "1, 2 and 4 only"
+        "1 and 2 only"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "All correct. Art 44: 'The State shall endeavour to secure for the citizens a UCC'. Uttarakhand UCC Act 2024: covers marriage, divorce, succession, live-in registration — first state-level UCC. Law Commission 21st (2018, Justice BS Chauhan): recommended reforming discriminatory practices WITHIN each community rather than one uniform code — 'uniformity is neither necessary nor desirable'. SMA 1954: allows inter-faith/civil marriage regardless of religion — already a 'common civil option' but rarely used (~1% of marriages)."
     },
     {
       "id": "wb14",
       "subject": "Social Issues",
-      "question": "With reference to India's Anti-Trafficking measures:\n1. Trafficking in persons is prohibited under Article 23 of the Constitution\n2. Immoral Traffic (Prevention) Act 1956 is the primary anti-trafficking law\n3. India is both a source and destination country for human trafficking\n4. Trafficking of Persons (Prevention, Protection and Rehabilitation) Bill has been passed",
+      "question": "With reference to India's Anti-Trafficking measures:\n1. Trafficking in persons is prohibited under Article 23 of the Constitution\n2. Trafficking of Persons (Prevention, Protection and Rehabilitation) Bill has been passed\n3. India is both a source and destination country for human trafficking\n4. Immoral Traffic (Prevention) Act 1956 is the primary anti-trafficking law",
       "options": [
-        "1, 2 and 3 only",
-        "1 and 2 only",
         "1, 2, 3 and 4",
-        "1 and 4 only"
+        "1, 3 and 4 only",
+        "1 and 2 only",
+        "1 and 3 only"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — the Trafficking Bill (introduced 2018) LAPSED with dissolution of 16th Lok Sabha. It has NOT been passed. ITPA 1956 (originally Suppression of Immoral Traffic in Women and Girls Act/SITA) is primary law — but criticized for being anti-sex work rather than anti-trafficking. India: source (inter-state trafficking for forced labour, sex trafficking), destination (from Nepal, Bangladesh). NCRB data: ~6,000+ cases/year (vastly underreported). Anti-Human Trafficking Units (AHTUs) in 330+ districts."
     },
     {
@@ -176,8 +176,8 @@
       "question": "Consider the following about 'Digital Divide' in India:\n1. Rural internet penetration significantly lags urban penetration\n2. Gender digital divide: women are 40% less likely to use internet than men in rural areas\n3. Affordable smartphones and data have reduced but not eliminated the divide\n4. BharatNet and PM-WANI aim to address connectivity gaps\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 4 only",
-        "2 and 3 only",
         "1, 2 and 3 only",
+        "2, 3 and 4 only",
         "1, 2, 3 and 4"
       ],
       "answer": 3,
@@ -186,14 +186,14 @@
     {
       "id": "wb7",
       "subject": "Government Schemes",
-      "question": "With reference to MGNREGA/VB-GRAMG and rural employment:\n1. It guarantees 100 days of wage employment per household per year\n2. Wages must be paid within 15 days of work, else unemployment allowance applies\n3. 60:40 ratio between labour and material cost must be maintained\n4. It was India's first legally guaranteed employment programme",
+      "question": "With reference to MGNREGA/VB-GRAMG and rural employment:\n1. It was India's first legally guaranteed employment programme\n2. Wages must be paid within 15 days of work, else unemployment allowance applies\n3. 60:40 ratio between labour and material cost must be maintained\n4. It guarantees 100 days of wage employment per household per year",
       "options": [
+        "2, 3 and 4 only",
         "1, 2, 3 and 4",
-        "1 and 4 only",
-        "1, 2 and 3 only",
-        "2 and 3 only"
+        "2 and 3 only",
+        "1 and 2 only"
       ],
-      "answer": 2,
+      "answer": 0,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — Maharashtra's Employment Guarantee Act (1977) was India's FIRST legally guaranteed employment programme (MGNREGA was inspired by it). MGNREGA (2005, now VB-GRAMG 2025): 100 days guarantee, demand-driven (worker requests → work provided within 15 days or unemployment allowance). 60:40 labour-to-material ratio ensures job intensity. Wages: notified state-wise under Rural Labour Index. Confirmed in Drishti IAS Saraansh."
     }
   ]

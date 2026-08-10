@@ -6,23 +6,23 @@
       "subject": "Polity & Governance",
       "question": "Consider the following SC judgments on criminalization of politics:\n1. ADR case (2002): Candidates must disclose criminal cases, assets, education\n2. Lily Thomas vs UOI (2013): Immediate disqualification on conviction (no 3-month grace)\n3. Public Interest Foundation (2018): Parties must publish criminal cases of candidates\n4. These judgments have completely eliminated criminals from politics\nWhich of the statements given above is/are correct?",
       "options": [
-        "1, 2 and 3 only",
+        "1, 3 and 4 only",
         "1, 2, 3 and 4",
-        "1 and 4 only",
-        "1 and 2 only"
+        "1, 2 and 3 only",
+        "1, 2 and 4 only"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — criminalization persists despite these judgments. 2024 Lok Sabha: ~40% elected MPs had criminal cases. Problems remain: Section 8 RPA only disqualifies on CONVICTION (not charge), trials take decades, money/muscle power continues. SC in Manoj Narula (2014) said persons with criminal antecedents shouldn't be made ministers — but it's advisory. Fast-track courts for MP/MLA cases recommended but poorly implemented."
     },
     {
       "id": "d8-2",
       "subject": "Polity & Governance",
-      "question": "With reference to National Emergency under Article 352:\n1. It can be proclaimed on grounds of war, external aggression, or armed rebellion\n2. The 44th Amendment (1978) replaced 'internal disturbance' with 'armed rebellion'\n3. The Minerva Mills case (1980) held that Emergency can be judicially reviewed\n4. During Emergency, all Fundamental Rights stand automatically suspended",
+      "question": "With reference to National Emergency under Article 352:\n1. It can be proclaimed on grounds of war, external aggression, or armed rebellion\n2. The 44th Amendment (1978) replaced 'internal disturbance' with 'armed rebellion'\n3. During Emergency, all Fundamental Rights stand automatically suspended\n4. The Minerva Mills case (1980) held that Emergency can be judicially reviewed",
       "options": [
-        "1 and 2 only",
         "1, 2, 3 and 4",
-        "1, 2 and 3 only",
-        "1 and 4 only"
+        "1 and 3 only",
+        "1, 2 and 4 only",
+        "1 and 2 only"
       ],
       "answer": 2,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — NOT all FRs are automatically suspended. Only Article 19 rights are AUTOMATICALLY suspended during external Emergency (war/aggression). For other FRs, President must issue a SEPARATE order under Article 359. After 44th Amendment: Articles 20 and 21 can NEVER be suspended even during Emergency. Internal Emergency (armed rebellion) doesn't auto-suspend even Article 19."
@@ -30,14 +30,14 @@
     {
       "id": "d8-3",
       "subject": "Polity & Governance",
-      "question": "Consider the following about Citizenship in India:\n1. India follows Jus Sanguinis (by descent) primarily, not Jus Soli (by birth)\n2. Citizenship Act 1955 has been amended multiple times including CAA 2019\n3. A person born in India after 2004 needs BOTH parents to be citizens for citizenship by birth\n4. Overseas Citizen of India (OCI) has voting rights in Indian elections\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following about Citizenship in India:\n1. India follows Jus Sanguinis (by descent) primarily, not Jus Soli (by birth)\n2. Citizenship Act 1955 has been amended multiple times including CAA 2019\n3. Overseas Citizen of India (OCI) has voting rights in Indian elections\n4. A person born in India after 2004 needs BOTH parents to be citizens for citizenship by birth\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2, 3 and 4",
+        "1 and 3 only",
         "1 and 2 only",
-        "1, 2 and 3 only",
-        "1 and 4 only"
+        "1, 2 and 4 only"
       ],
-      "answer": 2,
+      "answer": 3,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — OCI card holders do NOT have voting rights in India. They cannot vote, hold government office, or buy agricultural land. OCIs get: lifetime visa, no police reporting, parity with NRIs in economic activities. India shifted from Jus Soli to Jus Sanguinis progressively: pre-1987 (born in India = citizen), 1987-2004 (one parent citizen), post-2004 (both parents citizens OR one citizen + other not illegal migrant)."
     },
     {
@@ -45,12 +45,12 @@
       "subject": "Polity & Governance",
       "question": "With reference to the Governor and Lieutenant Governor appointments:\n1. Governors are appointed by the President (Article 155)\n2. There is no fixed tenure — they serve at the pleasure of the President\n3. SC in BP Singhal case held that removal need not state reasons but cannot be arbitrary\n4. The same person can be appointed Governor of two or more states",
       "options": [
+        "2, 3 and 4 only",
         "1, 2, 3 and 4",
         "1 and 4 only",
-        "1 and 2 only",
         "1, 2 and 3 only"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "All correct. Art 155: President appoints Governor. Art 156: serves at pleasure (no security of tenure). BP Singhal (2010): removal without reasons is valid BUT cannot be mala fide/arbitrary — limited judicial review exists. Art 153: same person can be Governor of multiple states (example: common Governor for NE states has occurred). Qualification: citizen, 35+ years. Convention (Sarkaria Commission): should be eminent, not from same state, not active politician — often violated in practice."
     },
     {
@@ -69,14 +69,14 @@
     {
       "id": "d8-8",
       "subject": "Economics",
-      "question": "Consider the following about India's Income Mobility:\n1. Income mobility measures the ability of individuals to move up the economic ladder\n2. India has lower intergenerational income mobility compared to Scandinavian countries\n3. Education is the strongest predictor of upward mobility in India\n4. Caste has no correlation with income mobility in modern India\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following about India's Income Mobility:\n1. Income mobility measures the ability of individuals to move up the economic ladder\n2. Caste has no correlation with income mobility in modern India\n3. Education is the strongest predictor of upward mobility in India\n4. India has lower intergenerational income mobility compared to Scandinavian countries\nWhich of the statements given above is/are correct?",
       "options": [
-        "1 and 4 only",
-        "1, 2 and 3 only",
+        "1 and 2 only",
         "1, 2, 3 and 4",
+        "1, 3 and 4 only",
         "1 and 3 only"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — caste STILL significantly correlates with income mobility in India. SC/ST/OBC households face structural barriers (lower asset base, social networks, education quality) that limit upward mobility compared to upper castes. India State of Inequality Report and various studies confirm: 'inherited disadvantage' persists across generations. While reservation has helped, income mobility remains stratified by caste, region, and rural/urban divide."
     },
     {
@@ -84,12 +84,12 @@
       "subject": "Economics",
       "question": "With reference to India's Aviation Sector growth:\n1. India is the 3rd largest domestic aviation market globally\n2. UDAN scheme has improved regional connectivity to Tier-2/3 cities\n3. Air India-Vistara merger created India's largest full-service airline\n4. India targets 400 airports by 2047 (from ~150 currently operational)",
       "options": [
-        "1, 2 and 3 only",
+        "2, 3 and 4 only",
         "1 and 2 only",
-        "1 and 4 only",
-        "1, 2, 3 and 4"
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only"
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "All correct. India: 3rd largest domestic market (after US, China), expected to become 3rd largest overall by 2030. UDAN (2017): 500+ routes to smaller cities. Air India-Vistara merger (2024, under Tata Group): largest full-service carrier. India targets: 220 airports by 2025 (from 74 in 2014), 400 by 2047. Challenges: pilot shortage, airport infrastructure bottlenecks, ATF costs (highest globally due to taxation), MRO (Maintenance, Repair, Overhaul) capability development."
     },
     {
@@ -97,25 +97,25 @@
       "subject": "Economics",
       "question": "Consider the following about IPOs for profitable Regional Rural Banks (RRBs):\n1. RRBs are jointly owned by Centre, State, and Sponsor Bank\n2. Shareholding pattern: Centre 50%, State 15%, Sponsor Bank 35%\n3. There are approximately 43 RRBs operating in India after consolidation\n4. Profitable RRBs being listed through IPOs would reduce government's equity burden\nWhich of the statements given above is/are correct?",
       "options": [
-        "1 and 2 only",
-        "1, 2, 3 and 4",
-        "1, 2 and 4 only",
-        "1 and 4 only"
+        "2 and 3 only",
+        "1 and 4 only",
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanation": "All correct. RRBs (established under RRB Act, 1976): jointly owned. After multiple rounds of consolidation (from 196 in 2006 to 43 by 2024). Shareholding: Centre 50%, State 15%, Sponsor Bank (like SBI, PNB) 35%. Government exploring IPO for profitable RRBs to: raise capital, reduce budgetary support, improve governance through market discipline. Key RRBs: Baroda UP Gramin Bank, Aryavart Bank, Karnataka Grameena Bank. RRBs serve ~30 crore rural accounts."
     },
     {
       "id": "d8-11",
       "subject": "Economics",
-      "question": "With reference to the Washington Consensus and its relevance to India:\n1. It refers to 10 policy prescriptions promoted by IMF/World Bank in the 1990s\n2. It advocates trade liberalization, privatization, and fiscal discipline\n3. India's 1991 reforms were partly influenced by Washington Consensus ideas\n4. India adopted ALL Washington Consensus recommendations without modification",
+      "question": "With reference to the Washington Consensus and its relevance to India:\n1. It refers to 10 policy prescriptions promoted by IMF/World Bank in the 1990s\n2. India adopted ALL Washington Consensus recommendations without modification\n3. India's 1991 reforms were partly influenced by Washington Consensus ideas\n4. It advocates trade liberalization, privatization, and fiscal discipline",
       "options": [
+        "1, 3 and 4 only",
         "1, 2, 3 and 4",
         "1 and 2 only",
-        "1 and 4 only",
-        "1, 2 and 3 only"
+        "1 and 3 only"
       ],
-      "answer": 3,
+      "answer": 0,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — India did NOT adopt all WC recommendations blindly. India's approach was gradualist: liberalized trade/FDI but retained public sector in strategic areas, continued subsidies (though reforming them), maintained capital account controls, didn't fully privatize banking/insurance immediately. India's 'mixed economy' approach differed from shock therapy (Russia). WC (coined by John Williamson, 1989): fiscal discipline, tax reform, market interest rates, trade liberalization, FDI liberalization, privatization, deregulation."
     },
     {
@@ -124,9 +124,9 @@
       "question": "Consider the following about India's Draft National Health Research Policy 2026:\n1. It aims to increase health research spending to 0.1% of GDP\n2. ICMR is the apex body for health research in India\n3. India's current health research spending is below 0.05% of GDP\n4. The policy promotes indigenous vaccine and drug development\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2, 3 and 4",
-        "2 and 4 only",
+        "1, 2 and 3 only",
         "1 and 4 only",
-        "1, 2 and 4 only"
+        "2, 3 and 4 only"
       ],
       "answer": 0,
       "explanation": "All correct. India's health research spending: ~0.02-0.04% of GDP (one of the lowest globally). Draft policy targets 0.1% (still below WHO recommendation of 0.15-0.2%). ICMR (Indian Council of Medical Research, established 1911 as IRFA): apex body. Policy emphasizes: clinical trials capacity, genomics/precision medicine, indigenous R&D (building on COVID vaccine success — Covaxin by Bharat Biotech/ICMR), One Health approach, digital health research infrastructure."

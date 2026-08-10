@@ -4,25 +4,25 @@
     {
       "id": "gf1",
       "subject": "Government Schemes",
-      "question": "Consider the following about PM WANI (Wi-Fi Access Network Interface):\n1. It allows anyone to set up public Wi-Fi hotspots without a license\n2. Public Data Offices (PDOs) provide last-mile Wi-Fi connectivity\n3. It aims to proliferate broadband through public Wi-Fi in rural/semi-urban areas\n4. It requires heavy investment from individuals to become a PDO\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following about PM WANI (Wi-Fi Access Network Interface):\n1. It requires heavy investment from individuals to become a PDO\n2. Public Data Offices (PDOs) provide last-mile Wi-Fi connectivity\n3. It aims to proliferate broadband through public Wi-Fi in rural/semi-urban areas\n4. It allows anyone to set up public Wi-Fi hotspots without a license\nWhich of the statements given above is/are correct?",
       "options": [
-        "1, 2 and 3 only",
-        "1 and 3 only",
         "1, 2, 3 and 4",
-        "1 and 4 only"
+        "2, 3 and 4 only",
+        "2 and 3 only",
+        "1 and 2 only"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — PM WANI requires MINIMAL investment. A small shopkeeper can become a PDO with just a basic Wi-Fi router (₹2,000-5,000 investment). No license fee, no registration charges. Business model: PDO buys internet from App Provider, sells to users via any app. Think of it as 'UPI for Wi-Fi' — open, interoperable, democratized. DoT framework (Dec 2020). Target: 10 million hotspots (vs 50,000 currently). Critical for bridging digital divide in rural India where laying fiber to every home is uneconomical."
     },
     {
       "id": "gf2",
       "subject": "Social Issues",
-      "question": "Consider the following about India's inter-caste marriage schemes:\n1. Dr. Ambedkar Scheme incentivizes inter-caste marriages involving SC partner\n2. Financial incentive of ₹2.5 lakh provided to eligible couples\n3. The scheme aims to promote social integration and reduce caste barriers\n4. Inter-caste marriages have completely eliminated caste discrimination in India\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following about India's inter-caste marriage schemes:\n1. Dr. Ambedkar Scheme incentivizes inter-caste marriages involving SC partner\n2. Inter-caste marriages have completely eliminated caste discrimination in India\n3. The scheme aims to promote social integration and reduce caste barriers\n4. Financial incentive of ₹2.5 lakh provided to eligible couples\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 3 only",
-        "1, 2, 3 and 4",
-        "1, 2 and 3 only",
-        "1 and 4 only"
+        "1 and 2 only",
+        "1, 3 and 4 only",
+        "1, 2, 3 and 4"
       ],
       "answer": 2,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — inter-caste marriages remain a small fraction of all marriages (~5-6%) and have NOT eliminated caste discrimination. Honour killings/family opposition persist in many regions. The scheme (under MoSJE): ₹2.5 lakh to couples where one is SC and other is non-SC. Family income ceiling: ₹5 lakh/year. Despite incentives: social pressure, family ostracism, khap panchayat opposition continue to deter inter-caste marriages. SC in Shakti Vahini case (2018) directed states to create safe houses for such couples."
@@ -30,27 +30,27 @@
     {
       "id": "gf3",
       "subject": "Social Issues",
-      "question": "With reference to India's migrant workers and social security:\n1. e-Shram portal registered 30+ crore unorganized workers\n2. Interstate Migrant Workmen Act, 1979 was the earlier legislation (now subsumed in OSH Code)\n3. Building and Other Construction Workers' Cess Fund has ₹60,000+ crore (largely unutilized)\n4. All migrant workers in India have comprehensive social security coverage",
+      "question": "With reference to India's migrant workers and social security:\n1. All migrant workers in India have comprehensive social security coverage\n2. Interstate Migrant Workmen Act, 1979 was the earlier legislation (now subsumed in OSH Code)\n3. Building and Other Construction Workers' Cess Fund has ₹60,000+ crore (largely unutilized)\n4. e-Shram portal registered 30+ crore unorganized workers",
       "options": [
+        "2, 3 and 4 only",
         "1, 2, 3 and 4",
-        "1 and 2 only",
-        "1 and 4 only",
-        "1, 2 and 3 only"
+        "2 and 3 only",
+        "1 and 2 only"
       ],
-      "answer": 3,
+      "answer": 0,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — migrant workers remain largely UNCOVERED by social security. Despite e-Shram registration (identity), actual benefit delivery is limited. BOCW Cess (collected 1% of construction project cost): ₹60,000+ crore accumulated but states utilised only 30-40% (bureaucratic hurdles, lack of identification of workers). COVID exposed this gap: 9+ crore migrants with no access to PDS, healthcare, or housing outside home state. ONORC helps food security portability but health, shelter, education access remains location-dependent."
     },
     {
       "id": "gf4",
       "subject": "Social Issues",
-      "question": "Consider the following about India's Scheduled Tribes and forest rights:\n1. Forest Rights Act 2006 recognizes both Individual Forest Rights (IFR) and Community Forest Resource (CFR) rights\n2. CFR gives communities rights to manage and protect forest within traditional boundaries\n3. Gram Sabha is the authority to initiate and approve forest rights claims\n4. FRA implementation is uniformly excellent across all states\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following about India's Scheduled Tribes and forest rights:\n1. Forest Rights Act 2006 recognizes both Individual Forest Rights (IFR) and Community Forest Resource (CFR) rights\n2. CFR gives communities rights to manage and protect forest within traditional boundaries\n3. FRA implementation is uniformly excellent across all states\n4. Gram Sabha is the authority to initiate and approve forest rights claims\nWhich of the statements given above is/are correct?",
       "options": [
-        "1 and 4 only",
-        "1, 2, 3 and 4",
+        "1 and 2 only",
+        "1, 2 and 4 only",
         "1 and 3 only",
-        "1, 2 and 3 only"
+        "1, 2, 3 and 4"
       ],
-      "answer": 3,
+      "answer": 1,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — FRA implementation is highly UNEVEN. Rejection rates: 40-60% across states. CFR (community rights over forests for protection/management): only ~4% of potential area titled. States like Chhattisgarh, Maharashtra have better record; others lag significantly. Challenges: forest department resistance (loss of control), lack of awareness among tribals, documentation difficulties, bureaucratic hurdles. SC's Feb 2019 order (later stayed) to evict rejected claimants showed vulnerability. Successful CFR examples: Gadchiroli (Maharashtra) — communities managing forests sustainably, reducing deforestation."
     },
     {
@@ -58,10 +58,10 @@
       "subject": "Social Issues",
       "question": "With reference to menstrual hygiene and sanitation:\n1. NFHS-5: approximately 78% of women (15-24) use hygienic menstrual products\n2. Menstrual Hygiene Scheme provides subsidized sanitary pads through Jan Aushadhi Kendras\n3. 12% GST on sanitary pads was removed in 2018 (now 0%)\n4. India has achieved 100% menstrual hygiene awareness in all communities",
       "options": [
-        "1 and 4 only",
+        "1, 2, 3 and 4",
         "1, 2 and 3 only",
-        "1 and 3 only",
-        "1, 2, 3 and 4"
+        "2 and 3 only",
+        "1 only"
       ],
       "answer": 1,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — awareness and access are NOT universal. Rural areas: still significant use of cloth/ash/other unhygienic alternatives. Stigma: menstruation considered 'impure' in many communities, girls miss school (23% girls drop out at puberty). MH Scheme: 'Stree Swabhiman' (PMBJP Jan Aushadhi pads at ₹1/pad). GST removed 2018 after campaign. Suvidha pads (PMBJP): biodegradable, oxo-degradable. Challenges remain: disposal infrastructure, awareness in tribal/remote areas, school toilet availability, cultural taboos."
@@ -71,25 +71,25 @@
       "subject": "Social Issues",
       "question": "Consider the following about 'honour killings' in India:\n1. They occur when families perceive marriage/relationship choices as dishonour\n2. SC in Shakti Vahini case (2018) directed states to create protective measures\n3. No specific legislation exists targeting honour killings in India\n4. Honour crimes are concentrated ONLY in one state of India\nWhich of the statements given above is/are correct?",
       "options": [
+        "1, 2 and 4 only",
         "1, 2, 3 and 4",
-        "1 and 4 only",
-        "1, 2 and 3 only",
-        "1 and 2 only"
+        "1, 3 and 4 only",
+        "1, 2 and 3 only"
       ],
-      "answer": 2,
+      "answer": 3,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — honour killings occur across MULTIPLE states (Haryana, UP, Rajasthan, Tamil Nadu, AP, Punjab, Bihar). Not limited to one state or one community. SC (Shakti Vahini, 2018): directed states to create safe houses, appoint nodal officers, take preventive action against khap diktats, set up 24/7 helplines. No standalone law: prosecuted under IPC/BNS murder/conspiracy provisions. Law Commission (2012): recommended separate legislation. Khap panchayats (extra-judicial village councils): major source of such diktats, especially against inter-caste/inter-gotra marriages."
     },
     {
       "id": "gf7",
       "subject": "Interdisciplinary",
-      "question": "Consider the following about India's demographic dividend window:\n1. India's working-age population (15-64) is approximately 68% of total population\n2. The dividend window is estimated to last until 2055-2060\n3. Converting demographic dividend to economic growth requires: skills, jobs, health, education\n4. All of India is experiencing the demographic dividend uniformly\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following about India's demographic dividend window:\n1. India's working-age population (15-64) is approximately 68% of total population\n2. All of India is experiencing the demographic dividend uniformly\n3. Converting demographic dividend to economic growth requires: skills, jobs, health, education\n4. The dividend window is estimated to last until 2055-2060\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 3 only",
-        "1 and 4 only",
+        "1, 3 and 4 only",
         "1, 2, 3 and 4",
-        "1, 2 and 3 only"
+        "1 and 2 only"
       ],
-      "answer": 3,
+      "answer": 1,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — India's demographic dividend is NOT uniform. Southern states (Kerala, TN, AP) are ALREADY aging (dependency ratio rising). Northern states (UP, Bihar, MP, Rajasthan) are still in early-dividend phase. This creates: mismatch (jobs in south, youth in north → migration), delimitation tension, differential policy needs. Challenge: 12 million youth enter workforce annually but formal job creation is ~3-4 million. If youth remain unskilled/unemployed, dividend becomes 'demographic disaster'. Education + skilling + health investment is critical during this finite window."
     },
     {
@@ -97,12 +97,12 @@
       "subject": "Interdisciplinary",
       "question": "With reference to India's anti-microbial resistance (AMR) crisis:\n1. India is among the highest consumers of antibiotics globally\n2. AMR can make common infections untreatable\n3. National Action Plan on AMR was launched in 2017\n4. Over-the-counter antibiotic sale is completely banned and enforced in India",
       "options": [
+        "3 only",
         "1, 2, 3 and 4",
-        "1 and 4 only",
-        "1 and 2 only",
-        "1, 2 and 3 only"
+        "1, 2 and 3 only",
+        "1 and 2 only"
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — while Schedule H1 requires prescription for certain antibiotics, over-the-counter sale of antibiotics is still WIDESPREAD in India (poor enforcement, pharmacy non-compliance). India's AMR: driven by: OTC antibiotic misuse, sub-therapeutic use in poultry/livestock (growth promoters), hospital-acquired resistant infections, inadequate WASH (infections → more antibiotic use). NAP-AMR (2017): One Health approach (human + animal + environment). Indian Council of Medical Research: AMR surveillance network. Threat: drug-resistant TB, resistant E.coli, MRSA already prevalent in Indian hospitals."
     },
     {
@@ -110,25 +110,25 @@
       "subject": "Interdisciplinary",
       "question": "Consider the following about India's 'twin transition' (digital + green):\n1. Digitization enables green transition (smart grids, precision agriculture, remote monitoring)\n2. Green transition needs digital tools (EV fleet management, carbon tracking, weather forecasting)\n3. Both transitions together can create 50+ million new jobs by 2030\n4. India has already completed both transitions fully\nWhich of the statements given above is/are correct?",
       "options": [
+        "1, 3 and 4 only",
         "1, 2, 3 and 4",
         "1, 2 and 3 only",
-        "1 and 2 only",
-        "1 and 4 only"
+        "1, 2 and 4 only"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — India has NOT completed either transition. Digital: ~60% internet penetration, significant rural gaps. Green: coal still 70%+ of electricity generation. Both are ONGOING. Synergies: digital tools optimize energy use (AI for grid balancing), enable distributed RE (solar rooftop monitoring), reduce waste (smart agriculture — 30% less water), facilitate carbon markets (blockchain-based MRV). Job creation: green economy (solar installation, EV manufacturing, circular economy) + digital economy (AI, cybersecurity, fintech) = combined 50+ million jobs estimate (ILO/McKinsey projections)."
     },
     {
       "id": "gf10",
       "subject": "Interdisciplinary",
-      "question": "With reference to India's innovation ecosystem challenges:\n1. India's R&D spending is approximately 0.7% of GDP (vs 2.5%+ in developed nations)\n2. Private sector contributes only 36% of R&D spending (vs 70%+ in USA/Korea)\n3. 'Valley of Death' — gap between research and commercialization — persists\n4. India files more patents than any other country globally",
+      "question": "With reference to India's innovation ecosystem challenges:\n1. India's R&D spending is approximately 0.7% of GDP (vs 2.5%+ in developed nations)\n2. India files more patents than any other country globally\n3. 'Valley of Death' — gap between research and commercialization — persists\n4. Private sector contributes only 36% of R&D spending (vs 70%+ in USA/Korea)",
       "options": [
-        "1 and 2 only",
-        "1 and 4 only",
         "1, 2, 3 and 4",
-        "1, 2 and 3 only"
+        "1, 3 and 4 only",
+        "1 and 2 only",
+        "1 and 3 only"
       ],
-      "answer": 3,
+      "answer": 1,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — India is NOT the top patent filer globally. China (1.5 million+), USA, Japan, Korea all file significantly more. India ranks ~6th-7th in patent filings. India's R&D challenges: low spending (0.7% GDP vs target 2%), government/PSU-dominated (CSIR, DRDO, ISRO — private sector underinvests), weak university-industry linkages, brain drain to abroad. 'Valley of Death': many IIT/research innovations don't become products (lack of VC, regulatory hurdles, risk-averse industry). STI Policy 2020 and Anusandhan NRF (₹50,000 crore) aim to address these gaps."
     },
     {
@@ -137,9 +137,9 @@
       "question": "Consider the following about India's water crisis:\n1. India has 4% of global freshwater but 18% of global population\n2. 21 major cities including Delhi, Bengaluru may face 'Day Zero' (groundwater depletion)\n3. NITI Aayog's Composite Water Management Index ranks states on water governance\n4. India has achieved universal access to safe drinking water for all citizens\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2 and 3 only",
-        "1 and 4 only",
         "1, 2, 3 and 4",
-        "1 and 3 only"
+        "1, 2 and 4 only",
+        "1, 3 and 4 only"
       ],
       "answer": 0,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — universal safe drinking water access is NOT achieved despite Jal Jeevan Mission progress (~75% rural tap connections by 2024, target was 100%). Quality issues: arsenic (West Bengal, Bihar), fluoride (Rajasthan, AP), nitrates — piped water doesn't always mean SAFE water. NITI Aayog CWMI: Rajasthan, UP, MP among lowest-performing states. Day Zero warning (2018): 21 cities may exhaust groundwater by 2030. Solutions: rainwater harvesting, aquifer recharge, demand management, water recycling. Atal Jal Yojana: community-led groundwater management in 7 states."
@@ -147,40 +147,40 @@
     {
       "id": "last1",
       "subject": "Interdisciplinary",
-      "question": "Consider the following about India's Sustainable Aviation Fuel (SAF) initiatives:\n1. SAF can reduce aviation carbon emissions by up to 80%\n2. India's BioATF (Bio Aviation Turbine Fuel) was flight-tested by IAF (2019)\n3. IOCL has developed indigenous SAF from non-edible oils\n4. All Indian airlines currently use 100% SAF for all flights\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following about India's Sustainable Aviation Fuel (SAF) initiatives:\n1. SAF can reduce aviation carbon emissions by up to 80%\n2. All Indian airlines currently use 100% SAF for all flights\n3. IOCL has developed indigenous SAF from non-edible oils\n4. India's BioATF (Bio Aviation Turbine Fuel) was flight-tested by IAF (2019)\nWhich of the statements given above is/are correct?",
       "options": [
-        "1, 2, 3 and 4",
         "1 and 3 only",
-        "1 and 4 only",
-        "1, 2 and 3 only"
+        "1, 2, 3 and 4",
+        "1, 3 and 4 only",
+        "1 and 2 only"
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — no Indian airline uses 100% SAF. It's in early adoption (1-5% blending targets). SAF: made from used cooking oil, agricultural waste, municipal waste, algae. IOCL developed SAF, IAF tested in AN-32 aircraft (2019). Challenges: cost (2-5x conventional ATF), limited feedstock, no blending mandate yet. India's aviation target: 1% SAF by 2025, 2% by 2026 (DGCA guidelines). Global: ICAO target 5% by 2030. Critical for India — fastest growing aviation market with associated emission growth."
     },
     {
       "id": "last2",
       "subject": "Interdisciplinary",
-      "question": "With reference to India's Geospatial sector liberalization:\n1. Geospatial Data Guidelines 2021 liberalized mapping/survey by Indian companies\n2. Indian companies no longer need prior approval for collecting geospatial data\n3. This supports: autonomous vehicles, drone delivery, precision agriculture\n4. Foreign companies face no restrictions whatsoever on Indian geospatial data",
+      "question": "With reference to India's Geospatial sector liberalization:\n1. Geospatial Data Guidelines 2021 liberalized mapping/survey by Indian companies\n2. Indian companies no longer need prior approval for collecting geospatial data\n3. Foreign companies face no restrictions whatsoever on Indian geospatial data\n4. This supports: autonomous vehicles, drone delivery, precision agriculture",
       "options": [
-        "1, 2, 3 and 4",
         "1 and 2 only",
-        "1 and 4 only",
-        "1, 2 and 3 only"
+        "1, 2 and 4 only",
+        "1 and 3 only",
+        "1, 2, 3 and 4"
       ],
-      "answer": 3,
+      "answer": 1,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — foreign companies DO face restrictions (government approval needed for high-accuracy mapping). Guidelines: INDIAN entities fully liberalized (no prior approval, no security clearance for most activities), but foreign companies/foreign-controlled entities need government authorization for sensitive geospatial data. Liberalization purpose: enable Indian startups (MapmyIndia, Genesys) to build mapping services, support delivery/logistics platforms, autonomous vehicles, smart city planning. Previously: archaic rules (National Map Policy 2005) restricted even Google Maps-like services by Indian companies."
     },
     {
       "id": "last3",
       "subject": "Interdisciplinary",
-      "question": "Consider the following about India's Ethanol Blending Programme:\n1. India achieved 12%+ ethanol blending in petrol (E12) ahead of schedule\n2. Target: E20 (20% blending) by 2025-26\n3. 2G (second generation) ethanol from agricultural residue is being promoted\n4. Ethanol blending has no environmental benefits\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following about India's Ethanol Blending Programme:\n1. India achieved 12%+ ethanol blending in petrol (E12) ahead of schedule\n2. Ethanol blending has no environmental benefits\n3. 2G (second generation) ethanol from agricultural residue is being promoted\n4. Target: E20 (20% blending) by 2025-26\nWhich of the statements given above is/are correct?",
       "options": [
+        "1 and 3 only",
+        "1, 3 and 4 only",
         "1, 2, 3 and 4",
-        "1 and 2 only",
-        "1 and 4 only",
-        "1, 2 and 3 only"
+        "1 and 2 only"
       ],
-      "answer": 3,
+      "answer": 1,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — ethanol blending HAS environmental benefits: reduces CO2 emissions (ethanol is biogenic carbon), reduces particulate matter, improves air quality. India achieved E12 ahead of 2025 target. E20 mandated by 2025-26. 1G ethanol: from sugarcane juice/molasses (raises food vs fuel debate). 2G ethanol: from rice straw, crop residue (addresses stubble burning problem). IOCL's Panipat 2G ethanol plant is India's first. Benefits: reduces oil import bill (~ billion/year savings at E20), supports farmers (sugar surplus management), reduces vehicular pollution."
     },
     {
@@ -188,12 +188,12 @@
       "subject": "Interdisciplinary",
       "question": "With reference to India's nuclear liability framework:\n1. Civil Liability for Nuclear Damage Act, 2010 caps operator liability\n2. Section 17(b) allows operator to seek recourse against equipment suppliers\n3. This clause discouraged foreign reactor manufacturers (GE, Westinghouse) from India\n4. India ratified the Convention on Supplementary Compensation (CSC) for Nuclear Damage",
       "options": [
-        "1 and 4 only",
         "1, 2, 3 and 4",
-        "2 and 3 only",
-        "1, 2 and 3 only"
+        "1, 2 and 3 only",
+        "1, 3 and 4 only",
+        "2 and 4 only"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanation": "All correct. CLNDA 2010: caps operator (NPCIL) liability at ₹1,500 crore per incident (~80 million). Section 17(b): operator can seek recourse against suppliers whose equipment caused accident — this was the CONTROVERSY. Foreign suppliers (US, France): argued this exposes them to unlimited liability (unlike global practice where operator bears full liability). Deterred: Westinghouse/GE projects delayed for years. India joined CSC (2016, ratified) to partially address concerns (creates international supplementary compensation pool). Still: nuclear programme expansion slower than planned partly due to this liability uncertainty."
     },
     {
@@ -201,12 +201,12 @@
       "subject": "Social Issues",
       "question": "Consider the following about India's urban informal sector:\n1. Approximately 90% of India's workforce is in the informal/unorganized sector\n2. Street Vendors Act 2014 protects rights of street vendors to vend\n3. Unorganized Workers' Social Security Act 2008 provides for welfare boards\n4. All informal workers have comprehensive pension, health insurance, and PF coverage\nWhich of the statements given above is/are correct?",
       "options": [
-        "1 and 4 only",
-        "1 and 3 only",
         "1, 2 and 3 only",
+        "1 and 2 only",
+        "2 and 3 only",
         "1, 2, 3 and 4"
       ],
-      "answer": 2,
+      "answer": 0,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — informal workers largely LACK comprehensive social security. Despite: e-Shram registration (identification only), PM-SYM (pension, voluntary), PMJJBY/PMSBY (₹2/12 per year insurance), actual coverage is low. Street Vendors Act: right to vend, Town Vending Committees, no arbitrary eviction. UWSSA 2008: mandates welfare boards but implementation patchy. Social Security Code 2020 proposes: gig/platform worker coverage, but rules not notified. The 90% figure means India's social protection system must be fundamentally redesigned from formal-sector-centric to universal."
     }
   ]

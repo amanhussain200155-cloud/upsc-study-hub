@@ -7,9 +7,9 @@
       "question": "Consider the following GI-tagged products and their states:\n1. Lakadong Turmeric - Meghalaya\n2. Darjeeling Tea - West Bengal\n3. Banarasi Sarees - Uttar Pradesh\n4. Mysore Silk - Tamil Nadu\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2 and 3 only",
-        "1 and 4 only",
         "1, 2, 3 and 4",
-        "2 and 3 only"
+        "2, 3 and 4 only",
+        "1 and 3 only"
       ],
       "answer": 0,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG - Mysore Silk is from KARNATAKA (Mysuru), not Tamil Nadu. Kanchipuram Silk is from Tamil Nadu. Lakadong Turmeric from Jaintia Hills, Meghalaya has highest curcumin content (7-12%) among all turmeric varieties globally. Darjeeling Tea was India's first GI tag (2004-05)."
@@ -17,12 +17,12 @@
     {
       "id": "gi2",
       "subject": "Art & Culture",
-      "question": "With reference to GI Tags, consider:\n1. Tirupati Laddu received a GI tag\n2. Alphonso Mango (Hapus) from Ratnagiri has a GI tag\n3. Kashmir Saffron has a GI tag\n4. A product can have GI tags from multiple states simultaneously",
+      "question": "With reference to GI Tags, consider:\n1. Tirupati Laddu received a GI tag\n2. Alphonso Mango (Hapus) from Ratnagiri has a GI tag\n3. A product can have GI tags from multiple states simultaneously\n4. Kashmir Saffron has a GI tag",
       "options": [
-        "1 and 3 only",
-        "1, 2 and 3 only",
+        "1 and 2 only",
+        "1, 2 and 4 only",
         "1, 2, 3 and 4",
-        "1 and 4 only"
+        "1 and 3 only"
       ],
       "answer": 1,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG - a GI tag is linked to a SPECIFIC geographical region. The same product cannot get GI from multiple states simultaneously (that would defeat the purpose). Tirupati Laddu (2009, AP), Alphonso Mango (Ratnagiri/Sindhudurg, Maharashtra), Kashmir Saffron (J&K, 2020 - known for longer stigma and dark color)."
@@ -34,8 +34,8 @@
       "options": [
         "1 and 4 only",
         "1, 2, 3 and 4",
-        "1, 2 and 4 only",
-        "1 and 2 only"
+        "2 and 3 only",
+        "1, 2 and 3 only"
       ],
       "answer": 1,
       "explanation": "All correct. Judima (traditional rice wine of Dimasa tribe, Assam) was NE India's first GI-tagged beverage (2021). Mithila Makhana (fox nut, Bihar - 2022). Chhena Poda (baked cheese dessert, Odisha - 2023). Tandur Red Gram (Telangana - known for distinctive taste due to black cotton soil). These recent GI tags are highly exam-relevant."
@@ -69,12 +69,12 @@
     {
       "id": "gi6",
       "subject": "Art & Culture",
-      "question": "With reference to GI tags for agricultural products:\n1. Naga Mircha (Bhut Jolokia/Ghost Pepper) - Nagaland\n2. Shahi Litchi - Bihar\n3. Banaganapalle Mangoes - Andhra Pradesh\n4. Coorg Green Cardamom - Maharashtra",
+      "question": "With reference to GI tags for agricultural products:\n1. Coorg Green Cardamom - Maharashtra\n2. Shahi Litchi - Bihar\n3. Banaganapalle Mangoes - Andhra Pradesh\n4. Naga Mircha (Bhut Jolokia/Ghost Pepper) - Nagaland",
       "options": [
-        "1 and 4 only",
-        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "2, 3 and 4 only",
         "1 and 2 only",
-        "1, 2, 3 and 4"
+        "2 and 3 only"
       ],
       "answer": 1,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG - Coorg (Kodagu) is in KARNATAKA, not Maharashtra. Coorg is famous for coffee and spices (cardamom, pepper). Naga Mircha/King Chilli (Scoville 1 million+, one of world's hottest). Shahi Litchi (Muzaffarpur, Bihar). Banaganapalle Mango (Kurnool, AP - known since Mughal era)."
@@ -84,12 +84,12 @@
       "subject": "Science & Technology",
       "question": "With reference to India's space reforms (2020 onwards):\n1. IN-SPACe (Indian National Space Promotion and Authorization Centre) was created in 2020\n2. NSIL (NewSpace India Limited) handles ISRO's commercial activities\n3. Private companies can now use ISRO facilities on a rental basis\n4. India's space economy target is $50 billion by 2030",
       "options": [
-        "1 and 2 only",
-        "1, 2, 3 and 4",
         "1, 2 and 3 only",
-        "1 and 4 only"
+        "1, 2, 3 and 4",
+        "1 and 2 only",
+        "2 and 3 only"
       ],
-      "answer": 2,
+      "answer": 0,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG - India's space economy target is around $13 billion by 2025 (currently ~$8 billion). The $50 billion figure is aspirational but not an official government target for 2030. Global space economy is ~$400 billion. IN-SPACe provides single-window clearance. NSIL (2019) commercializes PSLV/GSLV launches and transfers tech to industry. ISRO shares facilities with private players."
     },
     {
@@ -98,9 +98,9 @@
       "question": "Consider the following Indian space startups and their achievements:\n1. Skyroot Aerospace - Suborbital launch (Vikram-S)\n2. Agnikul Cosmos - 3D-printed rocket engine test from Sriharikota\n3. Pixxel - Earth observation satellite constellation\n4. Dhruva Space - India's first private satellite in orbit\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2, 3 and 4",
-        "1, 2 and 3 only",
-        "1 and 4 only",
-        "1 and 2 only"
+        "1, 3 and 4 only",
+        "2 and 4 only",
+        "1, 2 and 3 only"
       ],
       "answer": 0,
       "explanation": "All correct. Skyroot (Hyderabad): Vikram-S suborbital (Nov 2022). Agnikul (Chennai): tested Agnilet engine and launched from Sriharikota's private launchpad (India's first). Pixxel (Bengaluru): hyperspectral earth observation satellites (launched via ISRO/SpaceX). Dhruva Space (Hyderabad): Thybolt satellites (India's first private satellites in orbit, 2022 via PSLV). India has 190+ registered space startups."
@@ -110,12 +110,12 @@
       "subject": "Science & Technology",
       "question": "With reference to India's satellite navigation system NavIC (IRNSS):\n1. It provides coverage over India and 1,500 km beyond its borders\n2. It uses a constellation of 7 satellites\n3. It provides two services: Standard Positioning Service and Restricted Service\n4. Its accuracy is better than GPS over the Indian region",
       "options": [
-        "1, 3 and 4 only",
+        "2 and 3 only",
+        "1, 2, 3 and 4",
         "1 and 4 only",
-        "1, 2 and 3 only",
-        "1, 2, 3 and 4"
+        "1, 2 and 3 only"
       ],
-      "answer": 3,
+      "answer": 1,
       "explanation": "All correct. NavIC (Navigation with Indian Constellation): 7 satellites (3 in GEO + 4 in GSO orbits). Coverage: India + 1,500 km (regional, not global like GPS). Two services: SPS (civilian, 5m accuracy) and RS (military/authorized, encrypted). Over India, NavIC provides better accuracy than GPS because satellites are positioned specifically for the Indian region. Made mandatory in smartphones sold in India."
     }
   ]

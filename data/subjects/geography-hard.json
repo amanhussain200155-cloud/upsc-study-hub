@@ -19,12 +19,12 @@
       "subject": "Geography",
       "question": "With reference to India's western coast:\n1. Kayals (backwaters) of Kerala are formed by bar deposits blocking river mouths\n2. The Malabar coast has more estuaries than the Konkan coast\n3. Kaas Plateau (Maharashtra) is a biodiversity hotspot known as 'Valley of Flowers of Maharashtra'\n4. The western coastal plain is narrower than the eastern coastal plain",
       "options": [
-        "2 and 3 only",
         "1 and 4 only",
-        "1, 3 and 4 only",
-        "1, 2, 3 and 4"
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only",
+        "2, 3 and 4 only"
       ],
-      "answer": 3,
+      "answer": 1,
       "explanation": "All correct. Kayals formed by sandbars (spits) blocking lagoons/river mouths. Malabar coast (Kerala) has more estuaries due to numerous short, swift rivers. Kaas Plateau (Satara, UNESCO site) has 850+ species of flowering plants. Western coast is narrow (50-100 km) vs eastern coast (100-200 km) because Western Ghats run close to the sea."
     },
     {
@@ -32,12 +32,12 @@
       "subject": "Geography",
       "question": "Consider the following about Indian agriculture:\n1. Rabi crops are sown in winter and harvested in spring using residual moisture and irrigation\n2. India is the world's largest producer of pulses AND the largest importer of pulses\n3. Jhum cultivation is a type of shifting agriculture practiced in Northeast India\n4. The 'food bowl' of India refers to the Indo-Gangetic Plain\nWhich of the statements given above is/are correct?",
       "options": [
-        "1 and 3 only",
+        "1 and 2 only",
         "1, 2 and 3 only",
-        "1 and 4 only",
-        "1, 2, 3 and 4"
+        "1, 2, 3 and 4",
+        "2, 3 and 4 only"
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "All correct. Rabi (Oct-March): wheat, barley, mustard using winter moisture + irrigation. India produces most pulses (25% global) but also imports most (due to gap between production and demand). Jhum (slash-and-burn) is practiced by Nagas, Mizos, Garos etc. Indo-Gangetic Plain (Punjab, Haryana, UP) is India's food bowl (60%+ food grain production). Paradox of being largest producer AND importer of pulses is a UPSC favorite."
     },
     {
@@ -56,14 +56,14 @@
     {
       "id": "gh5",
       "subject": "Geography",
-      "question": "Consider the following about India's exclusive economic zone (EEZ):\n1. India's EEZ extends 200 nautical miles from the baseline\n2. India has sovereign rights over resources in EEZ but not complete sovereignty\n3. India's EEZ is approximately 2.37 million sq km\n4. Other countries' ships cannot pass through India's EEZ\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following about India's exclusive economic zone (EEZ):\n1. India's EEZ extends 200 nautical miles from the baseline\n2. Other countries' ships cannot pass through India's EEZ\n3. India's EEZ is approximately 2.37 million sq km\n4. India has sovereign rights over resources in EEZ but not complete sovereignty\nWhich of the statements given above is/are correct?",
       "options": [
+        "1, 3 and 4 only",
+        "1, 2, 3 and 4",
         "1 and 2 only",
-        "1, 2 and 3 only",
-        "1 and 4 only",
-        "1, 2, 3 and 4"
+        "1 and 3 only"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — other countries' ships CAN pass through EEZ (freedom of navigation, overflight exists in EEZ under UNCLOS). India only has sovereign RIGHTS over resources (fishing, minerals, energy), not full sovereignty over water. Full sovereignty exists only in Territorial Waters (12 NM). India's EEZ (2.37 million sq km) is rich in polymetallic nodules (Deep Ocean Mission targets these)."
     },
     {
@@ -110,12 +110,12 @@
       "subject": "Geography",
       "question": "Consider the following about India's mangrove ecosystems:\n1. Sundarbans has the largest area of mangroves in India\n2. Bhitarkanika (Odisha) has the second largest mangrove cover\n3. Mangroves fix more carbon per unit area than tropical rainforests\n4. Avicennia and Rhizophora are common mangrove genera found in India\nWhich of the statements given above is/are correct?",
       "options": [
-        "1, 2, 3 and 4",
-        "1 and 4 only",
-        "2 and 3 only",
-        "1, 3 and 4 only"
+        "2, 3 and 4 only",
+        "1 and 2 only",
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "All correct. Sundarbans (West Bengal, ~4,200 sq km) is India's largest mangrove area. Bhitarkanika (Odisha, ~650 sq km) is second. Mangroves are 'blue carbon' ecosystems — they sequester 3-5x more carbon per hectare than tropical forests (stored in waterlogged sediment). Avicennia (grey mangrove, pneumatophores) and Rhizophora (red mangrove, prop roots) are dominant Indian species."
     },
     {

@@ -6,9 +6,9 @@
       "question": "Consider the following about India's role in the Strait of Hormuz amid West Asia tensions:\n1. Strait of Hormuz connects the Persian Gulf to the Gulf of Oman\n2. Approximately 20% of global oil supply passes through it\n3. India's energy security is directly impacted by disruptions in the Strait\n4. India deployed naval forces under SAGAR initiative to ensure navigation freedom\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2, 3 and 4",
-        "1, 2 and 3 only",
-        "1 and 3 only",
-        "1 and 4 only"
+        "1 and 4 only",
+        "2, 3 and 4 only",
+        "1, 2 and 3 only"
       ],
       "answer": 0,
       "explanation": "All correct. Strait of Hormuz: critical chokepoint between Persian Gulf and Gulf of Oman/Arabian Sea. About 20-21% of global petroleum passes through it. India imports ~85% of crude oil needs, with significant portion from Gulf states. India emphasized unimpeded navigation under SAGAR maritime doctrine. Source: Drishti IAS Saraansh June 2026."
@@ -18,23 +18,23 @@
       "subject": "Polity & Governance",
       "question": "With reference to Uniform Civil Code (UCC) debate in India:\n1. Article 44 (Directive Principles) directs the State to secure a UCC for all citizens\n2. Goa is the only Indian state that already has a UCC\n3. The Supreme Court in Shah Bano case (1985) recommended UCC\n4. UCC would replace all religious personal laws immediately upon enactment",
       "options": [
-        "1, 2 and 3 only",
-        "1, 2, 3 and 4",
+        "2 and 3 only",
         "1 and 2 only",
-        "1 and 4 only"
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG - implementation would likely be PHASED. Goa has Portuguese Civil Code. Uttarakhand enacted UCC in 2024. Article 44 is non-justiciable DPSP. Shah Bano (1985): SC recommended UCC. Source: Drishti IAS Saraansh June 2026."
     },
     {
       "id": "sjun-3",
       "subject": "Polity & Governance",
-      "question": "Consider the following about empowered Panchayats under 73rd Amendment:\n1. Rural Local Bodies received 94.98% of allocation (Rs 2.82 lakh crore) under 15th Finance Commission\n2. 73rd Amendment added Part IX and Eleventh Schedule with 29 subjects\n3. Article 243G mandates devolution of powers to Panchayats\n4. All states have fully devolved all 29 subjects to Panchayats\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following about empowered Panchayats under 73rd Amendment:\n1. All states have fully devolved all 29 subjects to Panchayats\n2. 73rd Amendment added Part IX and Eleventh Schedule with 29 subjects\n3. Article 243G mandates devolution of powers to Panchayats\n4. Rural Local Bodies received 94.98% of allocation (Rs 2.82 lakh crore) under 15th Finance Commission\nWhich of the statements given above is/are correct?",
       "options": [
-        "1, 2 and 3 only",
-        "1, 2, 3 and 4",
+        "2, 3 and 4 only",
         "2 and 3 only",
-        "1 and 4 only"
+        "1, 2, 3 and 4",
+        "1 and 2 only"
       ],
       "answer": 0,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG - devolution varies significantly. Kerala, Karnataka devolved substantially; others lag. Source: Drishti IAS Saraansh June 2026."
@@ -42,14 +42,14 @@
     {
       "id": "sjun-4",
       "subject": "Economics",
-      "question": "With reference to India's PLI schemes:\n1. PLI covers 14 sectors including semiconductors, electronics, and pharmaceuticals\n2. Incentives are based on incremental sales over base year\n3. It aims to boost domestic manufacturing and reduce import dependence\n4. PLI guarantees profits to all participating companies regardless of output",
+      "question": "With reference to India's PLI schemes:\n1. PLI guarantees profits to all participating companies regardless of output\n2. Incentives are based on incremental sales over base year\n3. It aims to boost domestic manufacturing and reduce import dependence\n4. PLI covers 14 sectors including semiconductors, electronics, and pharmaceuticals",
       "options": [
-        "1, 2 and 3 only",
+        "1 and 2 only",
+        "2, 3 and 4 only",
         "1, 2, 3 and 4",
-        "1 and 3 only",
-        "1 and 4 only"
+        "2 and 3 only"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG - PLI provides incentives ONLY if incremental targets met. Companies bear all commercial risks. Source: Drishti IAS Saraansh multiple editions."
     },
     {
@@ -57,25 +57,25 @@
       "subject": "International Relations",
       "question": "Consider the following about BRICS Foreign Ministers Meeting in New Delhi (May 2027):\n1. It reaffirmed support for independent Palestinian State based on pre-1967 borders\n2. East Jerusalem endorsed as capital of future Palestinian State\n3. BRICS now has more than original 5 founding nations\n4. India hosted under its BRICS Chairship\nWhich of the statements given above is/are correct?",
       "options": [
-        "1, 2, 3 and 4",
-        "1, 2 and 3 only",
         "1 and 4 only",
-        "2 and 3 only"
+        "1, 2, 3 and 4",
+        "2 and 3 only",
+        "1, 2 and 3 only"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "All correct. BRICS expanded Jan 2024: added Egypt, Ethiopia, Iran, Saudi Arabia, UAE - now 10 members. India BRICS presidency theme: Building for Resilience, Innovation, Cooperation and Sustainability. Source: Drishti IAS Saraansh May 2027."
     },
     {
       "id": "sjun-6",
       "subject": "Environment & Ecology",
-      "question": "With reference to Green Ammonia:\n1. Produced using renewable energy-powered electrolysis + nitrogen\n2. Zero carbon emissions during production unlike grey ammonia\n3. Can be used as shipping fuel and for energy storage\n4. India has no policy framework for green ammonia",
+      "question": "With reference to Green Ammonia:\n1. Produced using renewable energy-powered electrolysis + nitrogen\n2. India has no policy framework for green ammonia\n3. Can be used as shipping fuel and for energy storage\n4. Zero carbon emissions during production unlike grey ammonia",
       "options": [
-        "1, 2 and 3 only",
+        "1 and 2 only",
+        "1, 3 and 4 only",
         "1, 2, 3 and 4",
-        "1 and 3 only",
-        "1 and 4 only"
+        "1 and 3 only"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG - National Green Hydrogen Mission covers green ammonia. SIGHT programme incentivizes production. Source: Drishti IAS Saraansh February 2026."
     },
     {
@@ -84,9 +84,9 @@
       "question": "Consider the following about Mahad Satyagraha (1927):\n1. Led by Dr. B.R. Ambedkar for Dalits' right to access public water tank\n2. Landmark event in anti-caste discrimination movement\n3. Ambedkar publicly burned copies of Manusmriti during this movement\n4. It took place before the Civil Disobedience Movement of 1930\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2, 3 and 4",
-        "1 and 2 only",
-        "1, 2 and 4 only",
-        "1 and 4 only"
+        "1, 2 and 3 only",
+        "1, 3 and 4 only",
+        "2 and 4 only"
       ],
       "answer": 0,
       "explanation": "All correct. Mahad Satyagraha (March 1927): Dalits asserted right to drink from Chavadar Tank, Mahad, Maharashtra. Dec 1927: Ambedkar burnt Manusmriti. Preceded Congress's Civil Disobedience. Source: Drishti IAS Saraansh March 2026."
@@ -94,12 +94,12 @@
     {
       "id": "sjun-8",
       "subject": "Economics",
-      "question": "Consider the following about India's forex management:\n1. RBI uses OMO purchases and Dollar-Rupee swaps to manage liquidity\n2. FPI outflow of USD 18.9 billion occurred in 2025\n3. Forex reserves serve as buffer against external shocks\n4. RBI never intervenes in the foreign exchange market\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following about India's forex management:\n1. RBI uses OMO purchases and Dollar-Rupee swaps to manage liquidity\n2. FPI outflow of USD 18.9 billion occurred in 2025\n3. RBI never intervenes in the foreign exchange market\n4. Forex reserves serve as buffer against external shocks\nWhich of the statements given above is/are correct?",
       "options": [
-        "1, 2 and 3 only",
+        "1, 2 and 4 only",
         "1, 2, 3 and 4",
-        "2 and 3 only",
-        "1 and 4 only"
+        "1 and 3 only",
+        "1 and 2 only"
       ],
       "answer": 0,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG - RBI actively intervenes via spot dollar sales, swaps, forward market. Reserves ~USD 691 billion (May 2027). Source: Drishti IAS Saraansh January 2026 & May 2027."
@@ -107,14 +107,14 @@
     {
       "id": "sjun-10",
       "subject": "Science & Technology",
-      "question": "Consider the following about sodium-ion batteries:\n1. Use sodium (far more abundant than lithium) as charge carrier\n2. Suitable for grid-scale energy storage\n3. Better low-temperature performance than lithium-ion\n4. Higher energy density than lithium-ion batteries\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following about sodium-ion batteries:\n1. Use sodium (far more abundant than lithium) as charge carrier\n2. Higher energy density than lithium-ion batteries\n3. Better low-temperature performance than lithium-ion\n4. Suitable for grid-scale energy storage\nWhich of the statements given above is/are correct?",
       "options": [
-        "1, 2 and 3 only",
         "1, 2, 3 and 4",
         "1 and 2 only",
-        "1 and 4 only"
+        "1, 3 and 4 only",
+        "1 and 3 only"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG - sodium-ion have LOWER energy density (100-160 Wh/kg vs 150-250 for Li-ion). Advantages: cost, abundance, safety. Best for grid/stationary storage. Source: Drishti IAS Saraansh February 2026."
     }
   ]

@@ -46,11 +46,11 @@
       "question": "Which of the following correctly describes 'Green Hydrogen'?\n1. Produced by electrolysis of water using renewable energy\n2. The only byproduct is water\n3. India targets 5 MMT annual production by 2030\n4. It can replace coking coal in steel production",
       "options": [
         "1 and 4 only",
-        "1 and 3 only",
-        "1, 2 and 3 only",
-        "1, 2, 3 and 4"
+        "2 and 3 only",
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only"
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "All correct. Green hydrogen: renewable energy → electrolysis → H2 + O2 (only byproduct is water/oxygen). National Green Hydrogen Mission targets 5 MMT by 2030 (₹19,744 crore). Green hydrogen CAN replace coking coal in Direct Reduced Iron (DRI) process for steel making - this is key for decarbonizing hard-to-abate sectors. India aims to become global green hydrogen hub and exporter."
     },
     {
@@ -58,10 +58,10 @@
       "subject": "Interdisciplinary",
       "question": "Consider the following about the Digital Personal Data Protection Act, 2023:\n1. It applies to processing of digital personal data within India\n2. It creates the Data Protection Board of India as an adjudicatory body\n3. The government is exempted from the Act in the interest of national security\n4. It provides for 'Right to Erasure' of personal data\nWhich of the statements given above is/are correct?",
       "options": [
-        "1 and 2 only",
-        "1, 2, 3 and 4",
         "1, 2 and 3 only",
-        "1 and 4 only"
+        "1, 2, 3 and 4",
+        "1, 3 and 4 only",
+        "2 and 4 only"
       ],
       "answer": 1,
       "explanation": "All correct. DPDP Act 2023 applies to digital personal data processed in India (and outside India if offering goods/services to India). Data Protection Board handles complaints/breaches. Section 17(2) exempts government for sovereignty, national security, public order. Right to Erasure (Section 12) allows individuals to request deletion of personal data. Also provides Right to Correction, Right to Grievance Redressal."
@@ -82,14 +82,14 @@
     {
       "id": "id8",
       "subject": "Interdisciplinary",
-      "question": "Consider the following about 'Critical Minerals':\n1. India released a Critical Minerals list that includes lithium, cobalt, and rare earths\n2. India has signed critical minerals agreements with Australia and Argentina\n3. KABIL (Khanij Bidesh India Ltd) is tasked with sourcing critical minerals abroad\n4. India has abundant domestic reserves of all critical minerals\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following about 'Critical Minerals':\n1. India has abundant domestic reserves of all critical minerals\n2. India has signed critical minerals agreements with Australia and Argentina\n3. KABIL (Khanij Bidesh India Ltd) is tasked with sourcing critical minerals abroad\n4. India released a Critical Minerals list that includes lithium, cobalt, and rare earths\nWhich of the statements given above is/are correct?",
       "options": [
-        "1, 2 and 3 only",
-        "1 and 4 only",
-        "1 and 3 only",
-        "1, 2, 3 and 4"
+        "1 and 2 only",
+        "2, 3 and 4 only",
+        "1, 2, 3 and 4",
+        "2 and 3 only"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG - India is critically DEPENDENT on imports for most critical minerals (lithium, cobalt, nickel, rare earths). India has some rare earth reserves but lacks processing capacity. KABIL (JV of NALCO, HCL, MECL) acquires overseas critical mineral assets. India-Australia Critical Minerals Investment Partnership signed 2022. The domestic J&K lithium find is significant but not yet operational."
     },
     {
@@ -97,23 +97,23 @@
       "subject": "Interdisciplinary",
       "question": "Which of the following pairs are correctly matched?\n1. Sustainable Development Goal 6 - Clean Water and Sanitation\n2. SDG 13 - Climate Action\n3. SDG 7 - Affordable and Clean Energy\n4. SDG 2 - Good Health and Well-being",
       "options": [
-        "1 and 2 only",
+        "2 and 3 only",
         "1, 2, 3 and 4",
-        "1 and 4 only",
-        "1, 2 and 3 only"
+        "1, 2 and 3 only",
+        "1 only"
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG - SDG 2 is 'Zero Hunger', NOT 'Good Health and Well-being'. SDG 3 is 'Good Health and Well-being'. UPSC frequently asks SDG numbering. Key: SDG 1 (No Poverty), SDG 2 (Zero Hunger), SDG 3 (Good Health), SDG 4 (Quality Education), SDG 5 (Gender Equality), SDG 6 (Clean Water), SDG 7 (Clean Energy), SDG 13 (Climate Action), SDG 16 (Peace, Justice, Institutions)."
     },
     {
       "id": "id10",
       "subject": "Interdisciplinary",
-      "question": "Consider the following about the Comptroller and Auditor General's reports:\n1. CAG audited GST implementation and found leakages in input tax credit\n2. CAG audit of MGNREGA found delayed wage payments and ghost workers\n3. CAG reports are discussed by the Public Accounts Committee\n4. The Government is legally bound to implement CAG recommendations\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following about the Comptroller and Auditor General's reports:\n1. The Government is legally bound to implement CAG recommendations\n2. CAG audit of MGNREGA found delayed wage payments and ghost workers\n3. CAG reports are discussed by the Public Accounts Committee\n4. CAG audited GST implementation and found leakages in input tax credit\nWhich of the statements given above is/are correct?",
       "options": [
-        "2 and 3 only",
-        "1, 2 and 3 only",
+        "1 and 2 only",
+        "2, 3 and 4 only",
         "1, 2, 3 and 4",
-        "1 and 4 only"
+        "2 and 3 only"
       ],
       "answer": 1,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG - Government is NOT legally bound to implement CAG recommendations. CAG reports are advisory. PAC examines them and makes recommendations, but these too are not binding (though morally/politically significant). This is unlike judicial orders which ARE binding. CAG has flagged issues in GST (fake ITC claims), MGNREGA (delayed payments in 65% cases), defence procurement, etc."

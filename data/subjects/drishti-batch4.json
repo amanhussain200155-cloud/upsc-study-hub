@@ -4,14 +4,14 @@
     {
       "id": "d4-1",
       "subject": "Economics",
-      "question": "Consider the following about RBI's Record Surplus Transfer (2025-26):\n1. RBI transferred ₹2.87 lakh crore surplus to the government\n2. This helps the government in fiscal consolidation by reducing borrowing needs\n3. RBI surplus comes mainly from interest on forex reserves and OMO operations\n4. Higher RBI transfers have no implications for central bank independence\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following about RBI's Record Surplus Transfer (2025-26):\n1. RBI transferred ₹2.87 lakh crore surplus to the government\n2. This helps the government in fiscal consolidation by reducing borrowing needs\n3. Higher RBI transfers have no implications for central bank independence\n4. RBI surplus comes mainly from interest on forex reserves and OMO operations\nWhich of the statements given above is/are correct?",
       "options": [
+        "1 and 3 only",
         "1 and 2 only",
-        "1, 2 and 3 only",
-        "1 and 4 only",
+        "1, 2 and 4 only",
         "1, 2, 3 and 4"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — higher RBI transfers DO raise concerns about central bank independence. Critics argue: government may become dependent on RBI dividends for fiscal management (fiscal dominance risk), pressure RBI to generate higher surpluses by taking more risk, compromise price stability mandate. The Jalan Committee recommended maintaining Contingency Risk Buffer (CRB) at 5.5-6.5% of balance sheet before transferring surplus."
     },
     {
@@ -19,23 +19,23 @@
       "subject": "Economics",
       "question": "With reference to RBI's surplus transfer, consider:\n1. RBI surplus goes entirely to the Central Government (not shared with states)\n2. This is criticized as 'asymmetry in federalism'\n3. The Contingency Risk Buffer (CRB) protects RBI against future losses\n4. Earlier RBI surplus transfers ranged between ₹30,000-50,000 crore",
       "options": [
-        "1, 2, 3 and 4",
-        "1 and 4 only",
-        "1, 3 and 4 only",
-        "1 and 3 only"
+        "1 and 3 only",
+        "1, 2 and 4 only",
+        "2, 3 and 4 only",
+        "1, 2, 3 and 4"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "All correct. RBI surplus is non-tax revenue of the Centre — NOT shared with states through Finance Commission devolution formula (unlike income tax, GST). This creates 'federal blind spot' — states get no share despite being part of the economic system. CRB (currently 6.5%) is maintained before transferring surplus. Earlier transfers were ₹30,000-50,000 crore; recent ₹2.87 lakh crore is unprecedented due to expanded RBI balance sheet and forex gains."
     },
     {
       "id": "d4-3",
       "subject": "Environment & Ecology",
-      "question": "Consider the following about India's SDG Index 2026:\n1. India ranked 94th out of 167 countries in the UN SDG Index 2026\n2. India's forest cover rose from 21.34% to 21.76%\n3. India has 96 Ramsar sites (highest in Asia)\n4. India has achieved all 17 SDGs ahead of the 2030 target\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following about India's SDG Index 2026:\n1. India has achieved all 17 SDGs ahead of the 2030 target\n2. India's forest cover rose from 21.34% to 21.76%\n3. India has 96 Ramsar sites (highest in Asia)\n4. India ranked 94th out of 167 countries in the UN SDG Index 2026\nWhich of the statements given above is/are correct?",
       "options": [
-        "1 and 4 only",
+        "1 and 2 only",
         "1, 2, 3 and 4",
-        "1, 2 and 3 only",
-        "1 and 3 only"
+        "2, 3 and 4 only",
+        "2 and 3 only"
       ],
       "answer": 2,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — India has NOT achieved all SDGs. Significant gaps remain in: SDG 2 (Zero Hunger), SDG 3 (Health), SDG 5 (Gender Equality), SDG 6 (Clean Water for all). India improved in SDG 7 (Energy), SDG 9 (Infrastructure), SDG 15 (Life on Land). 96 Ramsar sites is indeed highest in Asia. Kerala, Tamil Nadu lead among states on composite SDG score."
@@ -43,12 +43,12 @@
     {
       "id": "d4-4",
       "subject": "Environment & Ecology",
-      "question": "With reference to Invasive Alien Species (IAS) in India:\n1. Vilayati Kikar (Prosopis juliflora) is an invasive species in Rajasthan and Gujarat\n2. Water Hyacinth chokes aquatic ecosystems across India\n3. Invasive species contribute to 60% of global extinctions\n4. India has a comprehensive legislation specifically to control invasive species",
+      "question": "With reference to Invasive Alien Species (IAS) in India:\n1. Vilayati Kikar (Prosopis juliflora) is an invasive species in Rajasthan and Gujarat\n2. Water Hyacinth chokes aquatic ecosystems across India\n3. India has a comprehensive legislation specifically to control invasive species\n4. Invasive species contribute to 60% of global extinctions",
       "options": [
-        "1, 2, 3 and 4",
-        "1, 2 and 3 only",
         "1 and 2 only",
-        "1 and 4 only"
+        "1, 2 and 4 only",
+        "1, 2, 3 and 4",
+        "1 and 3 only"
       ],
       "answer": 1,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — India does NOT have a dedicated comprehensive legislation specifically for invasive species management. It's handled through fragmented provisions under Wildlife Protection Act, Environment Protection Act, Biological Diversity Act, and Plant Quarantine Order. The Kunming-Montreal GBF (2022) Target 6 specifically addresses IAS. Key Indian IAS: Lantana camara, Prosopis juliflora, Water Hyacinth, Parthenium, Fall Armyworm."
@@ -58,12 +58,12 @@
       "subject": "Science & Technology",
       "question": "Consider the following about NavIC (Navigation with Indian Constellation) satellite failure:\n1. An IRNSS satellite clock failure affected NavIC's accuracy\n2. NavIC uses a constellation of 7 satellites (3 GEO + 4 GSO)\n3. NVS series satellites are replacements with improved features\n4. NavIC provides both civilian (SPS) and military (RS) services\nWhich of the statements given above is/are correct?",
       "options": [
-        "1 and 4 only",
-        "1 and 2 only",
-        "2, 3 and 4 only",
-        "1, 2, 3 and 4"
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only",
+        "2 and 3 only",
+        "1 and 4 only"
       ],
-      "answer": 3,
+      "answer": 0,
       "explanation": "All correct. NavIC had clock anomaly issues with some older IRNSS satellites affecting signal quality. NVS (Navigation Satellite-Next Generation) series being launched as replacements with: L1 band signal (compatible with civilian GPS receivers), longer mission life, indigenous rubidium atomic clocks. NVS-01 launched 2023, NVS-02 planned. NavIC mandatory in smartphones sold in India. Accuracy: <5m in Indian region (better than GPS over India)."
     },
     {
@@ -71,12 +71,12 @@
       "subject": "Environment & Ecology",
       "question": "With reference to India's National Biodiversity targets:\n1. India has over 3,167 tigers (highest global population)\n2. Project Tiger was launched in 1973 with 9 reserves\n3. India now has 53 tiger reserves covering ~75,000 sq km\n4. India's biodiversity assessment follows the IPBES framework",
       "options": [
-        "1 and 3 only",
-        "1, 2, 3 and 4",
+        "2 and 3 only",
+        "1 and 4 only",
         "1, 2 and 3 only",
-        "1 and 4 only"
+        "1, 2, 3 and 4"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanation": "All correct. India's tiger count: 3,167+ (2022 Census, doubled since 2006). Project Tiger (April 1973, 9 initial reserves: Jim Corbett, Manas, Ranthambore, Sariska etc.) now expanded to 53 reserves. IPBES (Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services) guides India's biodiversity assessment methodology. Also: Asiatic Lions (674, only in Gir), Rhinos (3,000+, mainly Kaziranga), Snow Leopards (718, first-ever count 2024)."
     },
     {
@@ -85,24 +85,24 @@
       "question": "Consider the following about India's position on the US-Israel-Iran conflict (2026):\n1. India called for restraint and dialogue by all parties\n2. India's concerns include oil supply disruption through Strait of Hormuz\n3. India imports approximately 85% of its crude oil\n4. The conflict has no impact on India's diaspora in the Gulf region\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2, 3 and 4",
-        "1, 2 and 3 only",
-        "1 and 3 only",
-        "1 and 4 only"
+        "2 and 3 only",
+        "1 and 2 only",
+        "1, 2 and 3 only"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — the conflict DOES impact India's 9+ million diaspora in the Gulf region (UAE, Saudi, Qatar, Oman, Kuwait, Bahrain). Their safety, remittances (~$90 billion/year), and potential evacuation needs are critical concerns. India's multi-alignment approach: maintaining ties with both Israel and Iran, prioritizing energy security (Strait of Hormuz handles 20% of global oil), and protecting diaspora. India opted for independent strategic decisions rather than taking sides."
     },
     {
       "id": "d4-8",
       "subject": "International Relations",
-      "question": "With reference to India as gateway to ASEAN through the Northeast:\n1. India-Myanmar-Thailand Trilateral Highway is a key connectivity project\n2. Kaladan Multi-Modal Transit Transport connects Mizoram to Myanmar's Sittwe port\n3. Act East Policy emphasizes NE India's role in ASEAN connectivity\n4. All NE states share borders with Myanmar",
+      "question": "With reference to India as gateway to ASEAN through the Northeast:\n1. India-Myanmar-Thailand Trilateral Highway is a key connectivity project\n2. All NE states share borders with Myanmar\n3. Act East Policy emphasizes NE India's role in ASEAN connectivity\n4. Kaladan Multi-Modal Transit Transport connects Mizoram to Myanmar's Sittwe port",
       "options": [
+        "1 and 2 only",
+        "1, 2, 3 and 4",
         "1 and 3 only",
-        "1 and 4 only",
-        "1, 2 and 3 only",
-        "1, 2, 3 and 4"
+        "1, 3 and 4 only"
       ],
-      "answer": 2,
+      "answer": 3,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — only 4 NE states share border with Myanmar: Arunachal Pradesh, Nagaland, Manipur, and Mizoram. Not all 8 NE states (Assam, Meghalaya, Tripura, Sikkim don't border Myanmar). Trilateral Highway (1,400 km, Moreh-Mae Sot): key Act East connectivity project. Kaladan (India-funded): connects Kolkata → Sittwe (sea) → Paletwa (river) → Mizoram (road). Both face delays but are strategically vital."
     },
     {
@@ -123,12 +123,12 @@
       "subject": "Polity & Governance",
       "question": "With reference to Article 142 of the Constitution:\n1. It gives the Supreme Court power to pass any order for 'complete justice'\n2. The SC has used it in cases like Bhopal Gas Tragedy compensation, same-sex marriage observations\n3. It can be invoked only in cases already before the Supreme Court\n4. Article 142 powers are unlimited and cannot be restrained",
       "options": [
+        "2 and 3 only",
         "1, 2, 3 and 4",
-        "1 and 2 only",
-        "1, 2 and 3 only",
-        "1 and 4 only"
+        "1 only",
+        "1, 2 and 3 only"
       ],
-      "answer": 2,
+      "answer": 3,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — Article 142 powers are NOT unlimited. SC itself has held (Prem Chand Garg, Supreme Court Bar Association cases) that Article 142 cannot: override substantive statutory provisions, violate Fundamental Rights, or substitute legislation. It's supplementary to existing law, not a replacement. Used creatively in: pollution cases (closing industries), forest conservation, Babri Masjid title suit, coal block allocation cancellation."
     },
     {
@@ -162,12 +162,12 @@
       "subject": "Environment & Ecology",
       "question": "With reference to India's submission of its 7th National Report to the CBD:\n1. CBD (Convention on Biological Diversity) was adopted at the Rio Earth Summit, 1992\n2. India is one of the 17 megadiverse countries\n3. The report assesses progress toward Aichi Biodiversity Targets\n4. The Kunming-Montreal GBF (2022) has replaced the Aichi Targets with new 2030 targets",
       "options": [
-        "1 and 4 only",
-        "1, 2 and 3 only",
         "1, 2, 3 and 4",
-        "1, 2 and 4 only"
+        "1, 2 and 4 only",
+        "1 and 3 only",
+        "2, 3 and 4 only"
       ],
-      "answer": 2,
+      "answer": 0,
       "explanation": "All correct. CBD (1992, Rio): 196 parties. India is megadiverse (4 biodiversity hotspots, 8% of global species on 2.4% of land area). Earlier reports assessed Aichi Targets (2011-2020, largely unmet). Kunming-Montreal GBF (COP15, Dec 2022) set new targets: 30x30 (protect 30% land and ocean by 2030), reduce pesticide risk by 50%, eliminate harmful subsidies ($500 billion). India's 7th report transitions to new GBF monitoring framework."
     },
     {
@@ -186,14 +186,14 @@
     {
       "id": "d4-15",
       "subject": "Polity & Governance",
-      "question": "With reference to the Poshan Tracker:\n1. It is a digital tool to monitor nutritional outcomes of beneficiaries\n2. It tracks services under ICDS (Integrated Child Development Services)\n3. It uses Aadhaar-based identification of beneficiaries\n4. India has fully eliminated malnutrition through Poshan Abhiyaan",
+      "question": "With reference to the Poshan Tracker:\n1. India has fully eliminated malnutrition through Poshan Abhiyaan\n2. It tracks services under ICDS (Integrated Child Development Services)\n3. It uses Aadhaar-based identification of beneficiaries\n4. It is a digital tool to monitor nutritional outcomes of beneficiaries",
       "options": [
+        "2 and 3 only",
+        "2, 3 and 4 only",
         "1, 2, 3 and 4",
-        "1 and 2 only",
-        "1, 2 and 3 only",
-        "1 and 4 only"
+        "1 and 2 only"
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — India has NOT eliminated malnutrition. NFHS-5 (2021) shows: 35.5% children under-5 stunted, 19.3% wasted, 32.1% underweight. While improvements have occurred, malnutrition remains a critical challenge. Poshan Tracker (replacing earlier ICDS-CAS): real-time monitoring of 8 crore+ beneficiaries (pregnant/lactating women, children 0-6). Poshan Abhiyaan (PM's Overarching Scheme for Holistic Nourishment) targets: reduce stunting, underweight by 2%/year."
     }
   ]

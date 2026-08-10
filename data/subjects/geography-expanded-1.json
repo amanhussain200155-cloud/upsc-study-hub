@@ -4,14 +4,14 @@
     {
       "id": "ige1",
       "subject": "Geography",
-      "question": "Consider the following about the Western Ghats:\n1. They are older than the Himalayas\n2. They are a UNESCO World Heritage Site\n3. The Kasturirangan Committee recommended Ecologically Sensitive Areas (ESA) in Western Ghats\n4. They receive more rainfall on the eastern slopes\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following about the Western Ghats:\n1. They are older than the Himalayas\n2. They receive more rainfall on the eastern slopes\n3. The Kasturirangan Committee recommended Ecologically Sensitive Areas (ESA) in Western Ghats\n4. They are a UNESCO World Heritage Site\nWhich of the statements given above is/are correct?",
       "options": [
-        "1, 2, 3 and 4",
-        "1 and 4 only",
-        "2 and 3 only",
-        "1, 2 and 3 only"
+        "1 and 2 only",
+        "1 and 3 only",
+        "1, 3 and 4 only",
+        "1, 2, 3 and 4"
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG - Western Ghats receive more rainfall on WESTERN slopes (windward side facing Arabian Sea monsoon). Eastern slopes are rain shadow (leeward). Western Ghats are ~150 million years old (older than Himalayas ~50 MY). UNESCO site since 2012. Kasturirangan (2013) was a compromise after Gadgil Committee's stricter recommendations."
     },
     {
@@ -32,12 +32,12 @@
       "subject": "Geography",
       "question": "Consider the following pairs:\nIndustrial Region - Key Industry\n1. Hooghly - Jute\n2. Mumbai-Pune - Cotton textiles\n3. Chotanagpur - Iron and Steel\n4. Bengaluru - Petrochemicals\nWhich of the statements given above is/are correct?",
       "options": [
-        "2 and 3 only",
+        "1 only",
         "1, 2, 3 and 4",
-        "1 and 4 only",
-        "1, 2 and 3 only"
+        "1, 2 and 3 only",
+        "2 and 3 only"
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG - Bengaluru is famous for IT/electronics/aerospace, NOT petrochemicals. Petrochemical hubs are Jamnagar (Gujarat - world's largest refinery), Haldia (WB), Mangalore (Karnataka). Hooghly belt has ~60% of India's jute mills. Mumbai-Pune is India's oldest cotton textile region. Chotanagpur has Jamshedpur (TISCO), Bokaro, Rourkela steel plants."
     },
     {
@@ -45,12 +45,12 @@
       "subject": "Geography",
       "question": "The 'Rain Shadow' region in India includes:\n1. Western Rajasthan\n2. Eastern slopes of Western Ghats in Karnataka\n3. Leeward side of Aravalli Hills\n4. Ladakh",
       "options": [
-        "2, 3 and 4 only",
         "1, 2, 3 and 4",
+        "1 and 4 only",
         "2 and 3 only",
-        "1 and 4 only"
+        "1, 2 and 3 only"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanation": "All are rain shadow areas. Western Rajasthan: Aravallis block moisture (Thar Desert). Eastern Western Ghats: Karnataka Plateau receives less rain (Deccan leeward). Aravalli leeward: western Rajasthan gets minimal monsoon. Ladakh: behind multiple Himalayan ranges, extremely dry (<10cm rainfall). Rain shadow = area on leeward side of mountains receiving significantly less precipitation."
     },
     {
@@ -58,10 +58,10 @@
       "subject": "Geography",
       "question": "Consider the following about India's nuclear power plants and their locations:\n1. Kudankulam - Tamil Nadu (coastline)\n2. Tarapur - Maharashtra (coastline)\n3. Narora - Uttar Pradesh (inland, on Ganga)\n4. Kaiga - Karnataka (inland, in Western Ghats)\nWhich of the statements given above is/are correct?",
       "options": [
-        "1 and 4 only",
-        "1 and 2 only",
+        "1, 3 and 4 only",
+        "1, 2 and 3 only",
         "1, 2, 3 and 4",
-        "1, 2 and 3 only"
+        "2 and 4 only"
       ],
       "answer": 2,
       "explanation": "All correctly located. Kudankulam (Tamil Nadu, coast - VVER reactors). Tarapur (Maharashtra, coast - India's first nuclear plant, 1969). Narora (UP, on Ganga - PHWR). Kaiga (Karnataka, in Western Ghats forest area near Kali river - PHWR). Other plants: Rawatbhata (Rajasthan), Kakrapar (Gujarat), Kalpakkam (Tamil Nadu - PFBR)."
@@ -84,7 +84,7 @@
       "subject": "Geography",
       "question": "Consider the following about Indian islands:\n1. Andaman Islands are separated from Nicobar Islands by the Ten Degree Channel\n2. Lakshadweep islands are formed by coral deposits on submarine volcanic ridge\n3. Pamban Island is connected to mainland by a bridge\n4. Sriharikota is an island in Pulicat Lake\nWhich of the statements given above is/are correct?",
       "options": [
-        "1 and 2 only",
+        "2 and 3 only",
         "1, 2, 3 and 4",
         "1 and 4 only",
         "1, 2 and 3 only"
@@ -123,12 +123,12 @@
       "subject": "Geography",
       "question": "Which of the following statements about the Deccan Plateau is/are correct?\n1. It is triangular in shape, bordered by Western Ghats, Eastern Ghats, and Satpura range\n2. It slopes from west to east\n3. Most rivers flow eastward\n4. The Malwa Plateau is part of the Deccan Plateau",
       "options": [
-        "2 and 3 only",
-        "1 and 4 only",
         "1, 2, 3 and 4",
-        "1, 2 and 3 only"
+        "1 and 3 only",
+        "1, 2 and 4 only",
+        "2, 3 and 4 only"
       ],
-      "answer": 2,
+      "answer": 0,
       "explanation": "All correct. Deccan Plateau: triangular, bounded by Western Ghats (west), Eastern Ghats (east), Satpura/Vindhya (north). General slope west→east (hence most rivers flow east into Bay of Bengal). Narmada/Tapi are exceptions (flow west through rift valleys). Malwa Plateau (MP) is considered part of the broader Deccan/Central Highlands system."
     },
     {
@@ -136,10 +136,10 @@
       "subject": "Geography",
       "question": "Consider the following about India's natural vegetation zones:\n1. Tropical Evergreen forests are found in areas with >200cm rainfall\n2. Tropical Deciduous forests are the most widespread in India\n3. Mangrove forests are found in the Sundarbans and Andaman-Nicobar\n4. Alpine vegetation is found above 3,600m in the Himalayas\nWhich of the statements given above is/are correct?",
       "options": [
+        "2, 3 and 4 only",
         "1, 2 and 4 only",
-        "1 and 2 only",
         "1, 2, 3 and 4",
-        "1 and 4 only"
+        "1 and 3 only"
       ],
       "answer": 2,
       "explanation": "All correct. Evergreen (Western Ghats, NE India, A&N - >200cm rain, no dry season). Deciduous forests (Monsoon forests) cover largest area of India - shed leaves in dry season. Mangroves in tidal areas: Sundarbans (largest), Bhitarkanika, Pichavaram, A&N. Alpine/Tundra vegetation above 3,600m: mosses, lichens, grasslands in higher Himalayas."
@@ -149,12 +149,12 @@
       "subject": "Geography",
       "question": "With reference to India's coal reserves:\n1. Jharkhand has the largest coal reserves in India\n2. Gondwana coal accounts for about 98% of India's coal reserves\n3. Tertiary coal is found in northeastern India\n4. India is the world's largest importer of coking coal",
       "options": [
-        "2 and 3 only",
         "1 and 4 only",
-        "1, 2 and 3 only",
-        "1, 2, 3 and 4"
+        "2, 3 and 4 only",
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only"
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "All correct. Jharkhand (~26% of India's reserves, Jharia coalfield is richest). Gondwana coal (Permian age, 250 MY): 98% of reserves, found in Damodar valley, Godavari, Mahanadi, Wardha basins. Tertiary coal (younger, 15-60 MY): Assam, Meghalaya, Nagaland, Arunachal - lower quality. India imports ~85% of coking coal needs (for steel) mainly from Australia."
     }
   ]

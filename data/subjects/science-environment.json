@@ -6,12 +6,12 @@
       "subject": "Science & Technology",
       "question": "With reference to genetic engineering:\n1. GMO stands for Genetically Modified Organism\n2. Bt Cotton is the only GM crop approved for commercial cultivation in India\n3. GEAC is the apex body for approving GM crops in India\n4. Terminator technology makes seeds sterile",
       "options": [
-        "1 and 4 only",
         "1, 2 and 3 only",
         "1, 2, 3 and 4",
-        "1, 3 and 4 only"
+        "2 and 3 only",
+        "1 and 4 only"
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "All correct. GMO = Genetically Modified Organism. Only Bt Cotton is approved commercially (Bt Brinjal was shelved). GEAC (Genetic Engineering Appraisal Committee) under MoEFCC approves GMOs. Terminator (GURT) technology produces sterile seeds."
     },
     {
@@ -32,12 +32,12 @@
       "subject": "Science & Technology",
       "question": "Consider the following diseases and their causes:\n1. Malaria - Protozoa (Plasmodium)\n2. Dengue - Virus\n3. Tuberculosis - Bacteria\n4. Ringworm - Fungus\nWhich of the statements given above is/are correct?",
       "options": [
-        "1 and 4 only",
-        "1, 2, 3 and 4",
-        "1 and 3 only",
-        "1, 2 and 3 only"
+        "2, 3 and 4 only",
+        "1, 2 and 3 only",
+        "1 and 2 only",
+        "1, 2, 3 and 4"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanation": "All correctly matched. Malaria: Plasmodium (protozoa), transmitted by female Anopheles mosquito. Dengue: virus, transmitted by Aedes aegypti. TB: Mycobacterium tuberculosis (bacteria). Ringworm: dermatophyte fungi (despite the name, it's not a worm)."
     },
     {
@@ -45,12 +45,12 @@
       "subject": "Science & Technology",
       "question": "With reference to India's space programme:\n1. IRNSS provides regional navigation over India\n2. GAGAN is GPS-aided navigation for aviation\n3. INSAT series are communication satellites\n4. IRS series are remote sensing satellites",
       "options": [
+        "1, 2, 3 and 4",
+        "2, 3 and 4 only",
         "1 and 4 only",
-        "1, 2 and 3 only",
-        "2 and 3 only",
-        "1, 2, 3 and 4"
+        "1, 2 and 3 only"
       ],
-      "answer": 3,
+      "answer": 0,
       "explanation": "All correct. IRNSS/NavIC: 7-satellite regional navigation (India + 1500 km). GAGAN: GPS augmentation for civil aviation. INSAT: geostationary communication/weather satellites. IRS (Indian Remote Sensing): Earth observation in sun-synchronous/polar orbits."
     },
     {
@@ -97,12 +97,12 @@
       "subject": "Environment & Ecology",
       "question": "Which of the following species are correctly categorized as per IUCN Red List?\n1. Indian Rhinoceros - Vulnerable\n2. Snow Leopard - Vulnerable\n3. Bengal Tiger - Endangered\n4. Gangetic Dolphin - Endangered",
       "options": [
-        "1 and 4 only",
+        "1, 2, 3 and 4",
         "1, 2 and 3 only",
-        "2 and 3 only",
-        "1, 2, 3 and 4"
+        "1, 3 and 4 only",
+        "2 and 4 only"
       ],
-      "answer": 3,
+      "answer": 0,
       "explanation": "All correct as per current IUCN classifications. Indian Rhino: Vulnerable. Snow Leopard: Vulnerable (downlisted from Endangered in 2017). Bengal Tiger: Endangered. Gangetic Dolphin: Endangered. These are commonly asked in UPSC."
     },
     {
@@ -110,12 +110,12 @@
       "subject": "Environment & Ecology",
       "question": "Consider the following about carbon markets:\n1. Carbon credit = 1 tonne of CO2 equivalent\n2. India has launched Carbon Credit Trading Scheme (CCTS)\n3. Clean Development Mechanism was under Kyoto Protocol\n4. Article 6 of Paris Agreement deals with carbon markets\nWhich of the statements given above is/are correct?",
       "options": [
-        "1, 3 and 4 only",
-        "1 and 4 only",
+        "2, 3 and 4 only",
+        "1, 2, 3 and 4",
         "1 and 3 only",
-        "1, 2, 3 and 4"
+        "1, 2 and 4 only"
       ],
-      "answer": 3,
+      "answer": 1,
       "explanation": "All correct. 1 Carbon credit = 1 tonne CO2e. India launched CCTS under Energy Conservation (Amendment) Act 2022. CDM was under Kyoto Protocol allowing developed nations to earn credits from developing nation projects. Paris Agreement Article 6 creates new carbon market mechanism."
     },
     {
@@ -123,10 +123,10 @@
       "subject": "Environment & Ecology",
       "question": "With reference to Coral Reefs:\n1. They are found in shallow, warm tropical waters\n2. Gulf of Kutch has coral reefs\n3. Coral bleaching occurs due to rise in sea temperature\n4. India's coral reefs are found in 4 major regions",
       "options": [
-        "1, 2 and 3 only",
+        "2 and 4 only",
         "1, 2, 3 and 4",
-        "1 and 3 only",
-        "1 and 4 only"
+        "1, 2 and 3 only",
+        "1, 3 and 4 only"
       ],
       "answer": 1,
       "explanation": "All correct. Corals need warm (20-21°C+), shallow, clear water. 4 major coral regions in India: Andaman & Nicobar, Lakshadweep, Gulf of Mannar, Gulf of Kutch. Bleaching: stressed corals expel symbiotic algae (zooxanthellae) when water warms, turning white."
@@ -134,14 +134,14 @@
     {
       "id": "sci13",
       "subject": "Science & Technology",
-      "question": "With reference to stem cells:\n1. Embryonic stem cells are pluripotent\n2. Adult stem cells are found in bone marrow\n3. iPSCs are reprogrammed adult cells\n4. India bans all stem cell research",
+      "question": "With reference to stem cells:\n1. Embryonic stem cells are pluripotent\n2. Adult stem cells are found in bone marrow\n3. India bans all stem cell research\n4. iPSCs are reprogrammed adult cells",
       "options": [
-        "1 and 4 only",
         "1, 2, 3 and 4",
         "1 and 2 only",
-        "1, 2 and 3 only"
+        "1, 2 and 4 only",
+        "1 and 3 only"
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "1, 2, 3 correct. Statement 4 wrong - India does NOT ban stem cell research. ICMR guidelines regulate it. Embryonic stem cells (pluripotent, can become any cell type), Adult stem cells (multipotent, in bone marrow/blood), iPSCs (induced Pluripotent Stem Cells, Yamanaka 2006 Nobel)."
     },
     {
@@ -149,9 +149,9 @@
       "subject": "Science & Technology",
       "question": "Consider the following about semiconductor technology:\n1. Silicon is the most commonly used semiconductor material\n2. India's semiconductor mission aims at chip fabrication\n3. Transistors are made from semiconductor materials\n4. Chips below 7nm require EUV lithography\nWhich of the statements given above is/are correct?",
       "options": [
-        "1 and 3 only",
         "1 and 4 only",
         "1, 2 and 3 only",
+        "2, 3 and 4 only",
         "1, 2, 3 and 4"
       ],
       "answer": 3,

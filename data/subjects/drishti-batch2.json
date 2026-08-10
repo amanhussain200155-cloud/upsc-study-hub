@@ -30,40 +30,40 @@
     {
       "id": "d2-3",
       "subject": "Economics",
-      "question": "Consider the following about India's infrastructure financing:\n1. National Infrastructure Pipeline (NIP) targets ₹111 lakh crore investment\n2. National Bank for Financing Infrastructure and Development (NaBFID) was established in 2021\n3. Infrastructure Investment Trusts (InvITs) are used for asset monetization\n4. India's infrastructure spend as percentage of GDP exceeds China's\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following about India's infrastructure financing:\n1. National Infrastructure Pipeline (NIP) targets ₹111 lakh crore investment\n2. National Bank for Financing Infrastructure and Development (NaBFID) was established in 2021\n3. India's infrastructure spend as percentage of GDP exceeds China's\n4. Infrastructure Investment Trusts (InvITs) are used for asset monetization\nWhich of the statements given above is/are correct?",
       "options": [
-        "1, 2, 3 and 4",
-        "1 and 4 only",
+        "1 and 3 only",
+        "1, 2 and 4 only",
         "1 and 2 only",
-        "1, 2 and 3 only"
+        "1, 2, 3 and 4"
       ],
-      "answer": 3,
+      "answer": 1,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — India's infrastructure spend (~4-5% of GDP) is LOWER than China's (~8-10% at its peak). India needs to significantly increase infrastructure investment to match East Asian growth trajectories. NaBFID (Development Finance Institution, ₹20,000 crore initial capital) fills the gap left by IDBI's conversion to bank. InvITs enable asset recycling (NHAI, PowerGrid have listed InvITs)."
     },
     {
       "id": "d2-4",
       "subject": "Economics",
-      "question": "With reference to PSB reforms under EASE (Enhanced Access and Service Excellence):\n1. EASE is a reform framework for Public Sector Banks\n2. It focuses on digital banking, customer service, and NPA resolution\n3. EASE was launched jointly by Finance Ministry and IBA\n4. India's PSBs now have zero NPAs due to EASE reforms",
+      "question": "With reference to PSB reforms under EASE (Enhanced Access and Service Excellence):\n1. EASE is a reform framework for Public Sector Banks\n2. India's PSBs now have zero NPAs due to EASE reforms\n3. EASE was launched jointly by Finance Ministry and IBA\n4. It focuses on digital banking, customer service, and NPA resolution",
       "options": [
-        "1 and 4 only",
-        "1 and 2 only",
         "1, 2, 3 and 4",
-        "1, 2 and 3 only"
+        "1 and 2 only",
+        "1, 3 and 4 only",
+        "1 and 3 only"
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — PSBs do NOT have zero NPAs. While gross NPAs have reduced significantly (from 14.6% in 2018 to ~3-4% in 2024-25 due to IBC resolution, write-offs, and improved underwriting), they are not zero. EASE 9.0 (2026) focuses on: AI-driven credit decisions, digital loan journeys, tech-driven fraud detection, HR reforms. It's a benchmark-based improvement agenda monitored by Boston Consulting Group."
     },
     {
       "id": "d2-5",
       "subject": "International Relations",
-      "question": "Consider the following about the India-Canada Strategic Reset:\n1. Relations were strained over allegations of Indian involvement in Nijjar's killing\n2. Canada expelled Indian diplomats in 2023\n3. The 'reset' involves resuming engagement despite unresolved issues\n4. India-Canada bilateral trade exceeds $100 billion annually\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following about the India-Canada Strategic Reset:\n1. Relations were strained over allegations of Indian involvement in Nijjar's killing\n2. Canada expelled Indian diplomats in 2023\n3. India-Canada bilateral trade exceeds $100 billion annually\n4. The 'reset' involves resuming engagement despite unresolved issues\nWhich of the statements given above is/are correct?",
       "options": [
-        "1, 2 and 3 only",
-        "1 and 4 only",
+        "1 and 3 only",
         "1 and 2 only",
+        "1, 2 and 4 only",
         "1, 2, 3 and 4"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — India-Canada trade is approximately $8-9 billion (far below $100 billion). The relationship deteriorated sharply in 2023 after Canada alleged Indian involvement in the killing of Khalistani separatist Hardeep Singh Nijjar. Mutual diplomat expulsions followed. 'Strategic reset' (2025-26) involves cautious re-engagement: resuming diplomatic contacts, discussing trade issues, but underlying tensions remain. 1.8 million Indian diaspora in Canada complicates the situation."
     },
     {
@@ -72,9 +72,9 @@
       "question": "With reference to India's position on Strategic Petroleum Reserves (SPRs):\n1. India has operational SPRs at Visakhapatnam, Mangalore, and Padur\n2. India opted out of the IEA-led coordinated oil release in 2026\n3. India is not a full member of IEA but an 'Association Country'\n4. India's strategic reserves can provide approximately 9.5 days of import cover",
       "options": [
         "1, 2, 3 and 4",
-        "1 and 3 only",
-        "1 and 4 only",
-        "1, 3 and 4 only"
+        "1, 2 and 3 only",
+        "1 and 2 only",
+        "2, 3 and 4 only"
       ],
       "answer": 0,
       "explanation": "All correct. India's SPR: Phase 1 completed at Vishakhapatnam (1.33 MMT), Mangalore (1.5 MMT), Padur (2.5 MMT) = total 5.33 MMT (about 9.5 days of imports). India is IEA Association Country (not full member, as full membership requires net oil importer status + IEA stockholding obligations). India independently decides on reserve releases based on its own assessment, and opted out of IEA's coordinated release during the 2026 geopolitical crisis."
@@ -84,12 +84,12 @@
       "subject": "International Relations",
       "question": "Consider the following about the Durand Line Dispute:\n1. It is the international border between Pakistan and Afghanistan\n2. It was drawn in 1893 by Sir Mortimer Durand\n3. Afghanistan has never formally accepted it as a permanent international border\n4. It has no relevance to India's security concerns\nWhich of the statements given above is/are correct?",
       "options": [
+        "2 and 3 only",
         "1 and 2 only",
         "1, 2 and 3 only",
-        "1 and 4 only",
         "1, 2, 3 and 4"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — Durand Line IS relevant to India's security. Instability in the Af-Pak border region fuels terrorism that targets India. Taliban's control of Afghanistan and porous Durand Line enable terror groups (JeM, LeT connections). Also, any Pakistan-Afghanistan conflict destabilizes the region affecting India's energy routes and Central Asian connectivity plans."
     },
     {
@@ -97,12 +97,12 @@
       "subject": "Environment & Ecology",
       "question": "Consider the following about Nor'westers (Kal Baisakhi) in India:\n1. They are local thunderstorms occurring in April-May over eastern India\n2. They bring rainfall beneficial for tea cultivation in Assam and West Bengal\n3. They are caused by convergence of moist maritime air with dry continental air\n4. They occur in the same season as 'Mango Showers' in peninsular India\nWhich of the statements given above is/are correct?",
       "options": [
-        "1 and 2 only",
-        "1, 2 and 4 only",
         "1, 2, 3 and 4",
-        "1 and 4 only"
+        "1 and 2 only",
+        "2, 3 and 4 only",
+        "1, 2 and 3 only"
       ],
-      "answer": 2,
+      "answer": 0,
       "explanation": "All correct. Nor'westers (Kal Baisakhi in Bengali) are violent thunderstorms in April-June over West Bengal, Bihar, Assam. Caused by collision of moisture-laden southwesterlies/southerlies with dry northwesterlies. Beneficial for pre-monsoon tea crops (called 'Tea Showers' in Assam, 'Bordoisila'). Mango Showers (pre-monsoon showers in peninsular India, especially Kerala/Karnataka coast) occur same period (March-May), help in early ripening of mangoes."
     },
     {
@@ -110,12 +110,12 @@
       "subject": "Environment & Ecology",
       "question": "With reference to the State of World's Migratory Species report (CMS):\n1. It was released under the Convention on Migratory Species (Bonn Convention)\n2. Nearly half of CMS-listed species are declining in population\n3. India is a party to the CMS\n4. The report found that overexploitation and habitat loss are the biggest threats",
       "options": [
-        "1 and 4 only",
-        "1, 2, 3 and 4",
         "1, 2 and 4 only",
+        "2, 3 and 4 only",
+        "1, 2, 3 and 4",
         "1 and 3 only"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanation": "All correct. CMS (Convention on Conservation of Migratory Species/Bonn Convention, 1979): India is a party. First-ever 'State of the World's Migratory Species' report (2024) found: 44% of CMS-listed species declining, 1 in 5 threatened with extinction. Primary threats: overexploitation (hunting, fishing), habitat loss (agriculture, urbanization), climate change, pollution. Key Indian migratory species: Amur Falcon, Bar-headed Goose, Siberian Crane, whale sharks."
     },
     {
@@ -123,9 +123,9 @@
       "subject": "Science & Technology",
       "question": "Consider the following about India's Reusable Launch Vehicle (RLV) programme:\n1. ISRO is developing RLV-TD (Technology Demonstrator)\n2. RLV aims to reduce launch costs by reusing the first stage/booster\n3. India has already conducted RLV landing experiments\n4. SpaceX's Falcon 9 is the world's only operational reusable rocket\nWhich of the statements given above is/are correct?",
       "options": [
+        "2 and 3 only",
         "1, 2, 3 and 4",
-        "1 and 4 only",
-        "1 and 2 only",
+        "1 only",
         "1, 2 and 3 only"
       ],
       "answer": 3,
@@ -134,12 +134,12 @@
     {
       "id": "d2-11",
       "subject": "Polity & Governance",
-      "question": "Consider the following about India's National Counter-Terrorism Policy - PRAHAAR:\n1. It is India's first comprehensive counter-terrorism strategy document\n2. It covers prevention, preparedness, protection, and prosecution\n3. It emphasizes a whole-of-government approach to counter-terrorism\n4. It gives unlimited powers to NIA without judicial oversight\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following about India's National Counter-Terrorism Policy - PRAHAAR:\n1. It is India's first comprehensive counter-terrorism strategy document\n2. It gives unlimited powers to NIA without judicial oversight\n3. It emphasizes a whole-of-government approach to counter-terrorism\n4. It covers prevention, preparedness, protection, and prosecution\nWhich of the statements given above is/are correct?",
       "options": [
-        "1 and 4 only",
-        "1, 2 and 3 only",
+        "1 and 3 only",
+        "1, 3 and 4 only",
         "1, 2, 3 and 4",
-        "1 and 3 only"
+        "1 and 2 only"
       ],
       "answer": 1,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — no policy framework in India gives 'unlimited powers without judicial oversight'. NIA operates under NIA Act 2008, requires judicial authorization for searches/seizures, accused have right to legal representation. PRAHAAR (Proactive Response Against All Harmful Activities and Radical Threats) provides a strategic framework but operates within constitutional bounds. It emphasizes coordination between central and state agencies, intelligence sharing, and radicalization prevention."
@@ -149,9 +149,9 @@
       "subject": "Polity & Governance",
       "question": "With reference to Left Wing Extremism (LWE) in India:\n1. India has declared a target to completely eliminate LWE by 2026-27\n2. The number of LWE-affected districts has significantly reduced\n3. SAMADHAN doctrine is the government's strategy to tackle LWE\n4. LWE operates primarily in the 'Red Corridor' spanning 10+ states",
       "options": [
-        "2, 3 and 4 only",
+        "1, 2 and 4 only",
         "1, 2, 3 and 4",
-        "1 and 4 only",
+        "2, 3 and 4 only",
         "1 and 3 only"
       ],
       "answer": 1,
@@ -188,12 +188,12 @@
       "subject": "Polity & Governance",
       "question": "Consider the following about Pradhan Mantri Awaas Yojana-Gramin (PMAY-G):\n1. It aims to provide 'Housing for All' in rural areas by 2024 (extended)\n2. Unit assistance is ₹1.20 lakh in plain areas and ₹1.30 lakh in hilly/difficult areas\n3. Beneficiary selection is done through Socio-Economic and Caste Census (SECC) data\n4. PMAY-G houses must have basic amenities: toilet, LPG, electricity, water connection\nWhich of the statements given above is/are correct?",
       "options": [
-        "1 and 4 only",
-        "1, 2, 3 and 4",
         "1, 3 and 4 only",
-        "1 and 3 only"
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "2 and 4 only"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanation": "All correct. PMAY-G (launched 2016, extended to 2024 and further): targets 2.95 crore houses. Unit assistance: ₹1.20 lakh (plains), ₹1.30 lakh (hilly/NE/difficult/IAP districts). Additionally ₹12,000 for toilet under SBM. Beneficiary identification through SECC 2011 data (housing deprivation parameters). Convergence with SBM (toilet), Ujjwala (LPG), Saubhagya (electricity), JJM (tap water) ensures complete habitat. Geo-tagged photos at 3 stages for monitoring."
     }
   ]

@@ -43,27 +43,27 @@
     {
       "id": "pol4",
       "subject": "Polity & Governance",
-      "question": "With reference to Directive Principles of State Policy:\n1. They are non-justiciable\n2. They were taken from the Irish Constitution\n3. Article 39A deals with equal justice and free legal aid\n4. They override Fundamental Rights in case of conflict",
+      "question": "With reference to Directive Principles of State Policy:\n1. They are non-justiciable\n2. They override Fundamental Rights in case of conflict\n3. Article 39A deals with equal justice and free legal aid\n4. They were taken from the Irish Constitution",
       "options": [
-        "1, 2, 3 and 4",
         "1 and 2 only",
-        "1, 2 and 3 only",
-        "1 and 4 only"
+        "1, 3 and 4 only",
+        "1, 2, 3 and 4",
+        "1 and 3 only"
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "1, 2, 3 correct. Statement 4 is nuanced - DPSPs do NOT automatically override FRs. After Minerva Mills (1980), there must be a BALANCE between FRs and DPSPs. However, Article 31C provides limited protection to laws implementing certain DPSPs."
     },
     {
       "id": "pol5",
       "subject": "Polity & Governance",
-      "question": "Consider the following about the Rajya Sabha:\n1. It is a permanent body and is not subject to dissolution\n2. One-third of its members retire every two years\n3. It has equal powers with Lok Sabha in Constitutional amendments\n4. Money Bills can be introduced in Rajya Sabha\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following about the Rajya Sabha:\n1. It is a permanent body and is not subject to dissolution\n2. One-third of its members retire every two years\n3. Money Bills can be introduced in Rajya Sabha\n4. It has equal powers with Lok Sabha in Constitutional amendments\nWhich of the statements given above is/are correct?",
       "options": [
-        "1, 2 and 3 only",
-        "1 and 2 only",
         "1, 2, 3 and 4",
-        "1, 3 and 4 only"
+        "1, 2 and 4 only",
+        "1 and 2 only",
+        "1 and 3 only"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "1, 2, 3 correct. Statement 4 wrong - Money Bills can ONLY be introduced in Lok Sabha (Article 109). Rajya Sabha can only recommend amendments within 14 days. But for Constitutional amendments, both houses have equal power."
     },
     {
@@ -84,10 +84,10 @@
       "subject": "Polity & Governance",
       "question": "Which of the following require Special Majority in Parliament for amendment?\n1. Election of President\n2. Seventh Schedule\n3. Representation of States in Rajya Sabha\n4. Article 368 itself",
       "options": [
-        "1, 2 and 4 only",
         "2, 3 and 4 only",
+        "1, 2 and 4 only",
         "1, 2, 3 and 4",
-        "2 and 4 only"
+        "1 and 3 only"
       ],
       "answer": 2,
       "explanation": "All four require special majority (2/3 of members present and voting + majority of total membership). Additionally, items 1, 3 and some others also need ratification by half the states as they affect federal structure."
@@ -137,11 +137,11 @@
       "question": "The 42nd Amendment Act (1976) is known as 'Mini Constitution' because:\n1. It added Fundamental Duties\n2. It curtailed powers of judiciary\n3. It added words 'Socialist, Secular, Integrity' to Preamble\n4. It transferred subjects from State to Concurrent List\nWhich is/are correct?",
       "options": [
         "1, 2 and 3 only",
-        "1, 2, 3 and 4",
-        "1 and 3 only",
-        "1 and 4 only"
+        "2 and 3 only",
+        "1 and 4 only",
+        "1, 2, 3 and 4"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanation": "All correct. The 42nd Amendment made sweeping changes: added FDs (Part IVA), curtailed judicial review, amended Preamble, transferred 5 subjects to Concurrent List (education, forests, weights & measures, protection of wild animals, administration of justice)."
     },
     {
@@ -176,11 +176,11 @@
       "question": "With reference to CAG (Comptroller and Auditor General):\n1. CAG is appointed by the President\n2. CAG can be removed only by impeachment process similar to SC judge\n3. CAG audits both Central and State accounts\n4. CAG submits reports to Parliament",
       "options": [
         "1 and 4 only",
-        "1, 2 and 3 only",
-        "2 and 3 only",
-        "1, 2, 3 and 4"
+        "1, 2, 3 and 4",
+        "2, 3 and 4 only",
+        "1, 2 and 3 only"
       ],
-      "answer": 3,
+      "answer": 1,
       "explanation": "All correct. CAG (Article 148-151): appointed by President, removed like SC judge (proved misbehavior/incapacity, address by Parliament), audits all accounts of Union and States, submits reports which are laid before Parliament/State Legislature."
     },
     {
@@ -189,9 +189,9 @@
       "question": "The concept of 'Basic Structure' includes which of the following?\n1. Supremacy of the Constitution\n2. Republican and democratic form of government\n3. Federal character\n4. Parliamentary system\nWhich is/are part of basic structure?",
       "options": [
         "1, 2, 3 and 4",
-        "1 and 4 only",
-        "1 and 2 only",
-        "1, 2 and 3 only"
+        "1, 2 and 3 only",
+        "2 and 4 only",
+        "1, 3 and 4 only"
       ],
       "answer": 0,
       "explanation": "All four are considered part of basic structure as established through various judgments (Kesavananda Bharati 1973, Minerva Mills 1980, etc.). Parliamentary system was specifically held as basic structure in Kihoto Hollohan case."

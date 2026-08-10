@@ -6,51 +6,51 @@
       "subject": "Geography",
       "question": "Consider the following about the Mediterranean climate:\n1. It is characterized by hot dry summers and cool wet winters\n2. It is found between 30°-45° latitude on western margins of continents\n3. Central Chile, Western Australia, and California have this climate\n4. Olive, citrus fruits, and grapes are typical Mediterranean crops\nWhich of the statements given above is/are correct?",
       "options": [
+        "1 and 4 only",
         "1, 2 and 3 only",
         "1, 2, 3 and 4",
-        "2 and 3 only",
-        "1 and 4 only"
+        "2 and 3 only"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanation": "All correct. Mediterranean climate (Csa/Csb in Köppen): hot dry summers (subtropical high pressure dominance), cool wet winters (westerlies bring frontal rain). Western continental margins 30-45°: Mediterranean Basin, California, Central Chile, SW Australia, Western Cape (S. Africa). Crops: olives (drought-tolerant), grapes (vineyards), citrus, figs, cork oak. Key concept: subtropical high shifts poleward in summer (blocking rain), equatorward in winter (allowing westerlies through)."
     },
     {
       "id": "exp2",
       "subject": "Geography",
-      "question": "With reference to global ocean currents:\n1. The Great Ocean Conveyor Belt (thermohaline circulation) is driven by density differences\n2. Sinking of cold saline water occurs in the North Atlantic near Greenland\n3. El Nino involves weakening of the Walker Circulation in the Pacific\n4. The Gulf Stream is a cold current flowing southward along North America",
+      "question": "With reference to global ocean currents:\n1. The Great Ocean Conveyor Belt (thermohaline circulation) is driven by density differences\n2. Sinking of cold saline water occurs in the North Atlantic near Greenland\n3. The Gulf Stream is a cold current flowing southward along North America\n4. El Nino involves weakening of the Walker Circulation in the Pacific",
       "options": [
+        "1 and 2 only",
+        "1, 2 and 4 only",
         "1 and 3 only",
-        "1 and 4 only",
-        "1, 2, 3 and 4",
-        "1, 2 and 3 only"
+        "1, 2, 3 and 4"
       ],
-      "answer": 3,
+      "answer": 1,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — Gulf Stream is a WARM current flowing NORTHWARD along the US east coast (from Gulf of Mexico toward Europe). It then becomes the North Atlantic Drift, warming Western Europe. Cold current flowing southward along eastern North America is the LABRADOR Current. This warm-cold distinction is a classic UPSC trick. Thermohaline = thermo (heat) + haline (salt) — density drives deep ocean circulation over 1000+ years."
     },
     {
       "id": "exp3",
       "subject": "Geography",
-      "question": "Consider the following about global seismic zones:\n1. The Circum-Pacific Belt (Ring of Fire) accounts for ~75% of global earthquakes\n2. The Mid-Atlantic Ridge is a divergent plate boundary\n3. The Alpine-Himalayan Belt is the second most seismically active zone\n4. Intra-plate earthquakes never occur away from plate boundaries\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following about global seismic zones:\n1. The Circum-Pacific Belt (Ring of Fire) accounts for ~75% of global earthquakes\n2. The Mid-Atlantic Ridge is a divergent plate boundary\n3. Intra-plate earthquakes never occur away from plate boundaries\n4. The Alpine-Himalayan Belt is the second most seismically active zone\nWhich of the statements given above is/are correct?",
       "options": [
-        "1 and 4 only",
+        "1, 2, 3 and 4",
+        "1 and 3 only",
         "1 and 2 only",
-        "1, 2 and 3 only",
-        "1, 2, 3 and 4"
+        "1, 2 and 4 only"
       ],
-      "answer": 2,
+      "answer": 3,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — intra-plate earthquakes DO occur (though less common). Examples: New Madrid earthquakes (USA, 1811-12), Bhuj earthquake (India, 2001 — within Indian Plate, far from boundary). These occur due to ancient faults being reactivated under stress. The assertion that earthquakes 'never' occur away from boundaries is factually incorrect. Koyna (1967, reservoir-induced) is another Indian example of intra-plate seismicity."
     },
     {
       "id": "exp4",
       "subject": "Geography",
-      "question": "With reference to India's drainage divide:\n1. The Western Ghats form the main water divide of peninsular India\n2. Rivers east of Western Ghats flow into the Bay of Bengal\n3. Narmada and Tapi are exceptions — they flow westward through rift valleys\n4. The Aravalli Hills form the water divide between the Indus and Ganga systems",
+      "question": "With reference to India's drainage divide:\n1. The Western Ghats form the main water divide of peninsular India\n2. Rivers east of Western Ghats flow into the Bay of Bengal\n3. The Aravalli Hills form the water divide between the Indus and Ganga systems\n4. Narmada and Tapi are exceptions — they flow westward through rift valleys",
       "options": [
         "1 and 3 only",
-        "1 and 4 only",
-        "1, 2, 3 and 4",
-        "1, 2 and 3 only"
+        "1 and 2 only",
+        "1, 2 and 4 only",
+        "1, 2, 3 and 4"
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "1, 2, 3 correct. Statement 4 is WRONG — the water divide between Indus and Ganga systems is formed by the AMBALA ridge/Delhi ridge (Sutlej-Yamuna divide), NOT the Aravallis directly. Aravallis separate the Thar Desert drainage from peninsular drainage and influence climate, but the specific Indus-Ganga divide is the low ridge near Ambala (Punjab-Haryana). Western Ghats: main divide — everything east goes to Bay of Bengal; Narmada/Tapi are west-flowing exceptions via rift valleys."
     },
     {
@@ -58,23 +58,23 @@
       "subject": "Geography",
       "question": "Consider the following about India's Industrial Corridors:\n1. Delhi-Mumbai Industrial Corridor (DMIC) is the most advanced corridor\n2. NICDIT (National Industrial Corridor Development and Implementation Trust) oversees all corridors\n3. Amritsar-Kolkata Industrial Corridor (AKIC) passes through the densely populated Gangetic plain\n4. All industrial corridors have dedicated freight railway lines parallel to them\nWhich of the statements given above is/are correct?",
       "options": [
-        "1 and 2 only",
-        "1, 2, 3 and 4",
+        "2, 3 and 4 only",
         "1, 2 and 3 only",
-        "1 and 4 only"
+        "1 and 3 only",
+        "1, 2, 3 and 4"
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — not ALL corridors have dedicated freight railway lines. DMIC has the Dedicated Freight Corridor (Western DFC) along its spine. But AKIC parallels the Eastern DFC only partially. Other corridors (Chennai-Bengaluru, Vizag-Chennai, Bengaluru-Mumbai) rely on existing/upgraded rail, not necessarily new dedicated freight lines. 11 industrial corridors planned; DMIC is most advanced with smart cities like Dholera (Gujarat)."
     },
     {
       "id": "exp6",
       "subject": "Geography",
-      "question": "With reference to Coriolis Effect:\n1. It deflects moving objects to the right in the Northern Hemisphere\n2. It deflects moving objects to the left in the Southern Hemisphere\n3. It is zero at the equator and maximum at the poles\n4. It causes ocean currents to flow in straight lines",
+      "question": "With reference to Coriolis Effect:\n1. It causes ocean currents to flow in straight lines\n2. It deflects moving objects to the left in the Southern Hemisphere\n3. It is zero at the equator and maximum at the poles\n4. It deflects moving objects to the right in the Northern Hemisphere",
       "options": [
-        "1 and 4 only",
-        "1, 2 and 3 only",
+        "1 and 2 only",
+        "2, 3 and 4 only",
         "1, 2, 3 and 4",
-        "1 and 2 only"
+        "2 and 3 only"
       ],
       "answer": 1,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — Coriolis Effect causes ocean currents (and winds) to flow in CURVED paths, not straight lines. It creates circular patterns: clockwise gyres in Northern Hemisphere, counter-clockwise in Southern Hemisphere. It's caused by Earth's rotation. Ferrel's Law: freely moving objects deflect right (NH) and left (SH). Zero at equator (no angular velocity difference), maximum at poles. This affects: trade winds, westerlies, ocean gyres, cyclone rotation."
@@ -85,48 +85,48 @@
       "question": "Consider the following about the Cripps Mission (1942):\n1. It proposed Dominion Status for India after the World War\n2. It allowed provinces to opt out of the Indian Union\n3. It was rejected by both Congress and Muslim League\n4. It was sent in response to Japan's advance toward India\nWhich of the statements given above is/are correct?",
       "options": [
         "1, 2 and 3 only",
-        "2 and 3 only",
-        "1, 2, 3 and 4",
-        "1 and 4 only"
+        "1, 3 and 4 only",
+        "2 and 4 only",
+        "1, 2, 3 and 4"
       ],
-      "answer": 2,
+      "answer": 3,
       "explanation": "All correct. Stafford Cripps Mission (March 1942): context was Japan's rapid advance (fall of Singapore/Burma), needed Indian cooperation for war effort. Proposals: Dominion Status post-war, Constituent Assembly, opt-out right for provinces (alarmed Congress — feared balkanization). Congress rejected: 'a post-dated cheque on a failing bank' (Gandhi). League rejected: didn't guarantee Pakistan explicitly. Rejection led directly to Quit India Movement (August 1942)."
     },
     {
       "id": "exp9",
       "subject": "History",
-      "question": "With reference to the Swadeshi Movement (1905-1911):\n1. It was triggered by Lord Curzon's partition of Bengal\n2. National Council of Education was established for indigenous education\n3. Acharya PC Ray's Bengal Chemical promoted Swadeshi enterprise\n4. It remained confined only to Bengal and had no impact on other regions",
+      "question": "With reference to the Swadeshi Movement (1905-1911):\n1. It remained confined only to Bengal and had no impact on other regions\n2. National Council of Education was established for indigenous education\n3. Acharya PC Ray's Bengal Chemical promoted Swadeshi enterprise\n4. It was triggered by Lord Curzon's partition of Bengal",
       "options": [
-        "1 and 2 only",
-        "1, 2 and 3 only",
+        "2, 3 and 4 only",
         "1, 2, 3 and 4",
-        "1 and 4 only"
+        "1 and 2 only",
+        "2 and 3 only"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — Swadeshi Movement spread BEYOND Bengal. It influenced: Tilak's movement in Maharashtra, establishment of national schools in multiple provinces, Swadeshi mills/enterprises across India, inspired revolutionaries in Punjab (Ajit Singh) and Madras. However, it's true that its CORE intensity was in Bengal. National Council of Education (Aug 1906): alternative to British education. Bengal Chemical (est. 1901 by PC Ray): iconic Swadeshi enterprise still operational."
     },
     {
       "id": "exp10",
       "subject": "History",
-      "question": "Consider the following about the August Offer (1940):\n1. It was made by Viceroy Lord Linlithgow\n2. It promised Dominion Status as the objective for India\n3. It proposed expansion of the Viceroy's Executive Council to include more Indians\n4. Both Congress and Muslim League accepted the August Offer\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following about the August Offer (1940):\n1. It was made by Viceroy Lord Linlithgow\n2. Both Congress and Muslim League accepted the August Offer\n3. It proposed expansion of the Viceroy's Executive Council to include more Indians\n4. It promised Dominion Status as the objective for India\nWhich of the statements given above is/are correct?",
       "options": [
+        "1, 3 and 4 only",
+        "1 and 2 only",
         "1 and 3 only",
-        "1, 2 and 3 only",
-        "1 and 4 only",
         "1, 2, 3 and 4"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — Congress REJECTED the August Offer (didn't go far enough — wanted immediate self-government). Muslim League initially rejected too (didn't explicitly promise Pakistan) but later engaged constructively. August Offer (August 1940): context was WWII (fall of France), Britain needed Indian support. First official British acknowledgment that Indians should frame their own Constitution. Led to: Individual Satyagraha by Congress (Vinoba Bhave first, then Nehru)."
     },
     {
       "id": "exp11",
       "subject": "Polity & Governance",
-      "question": "Consider the following about the difference between Fundamental Rights and DPSP:\n1. FRs are justiciable while DPSPs are non-justiciable\n2. FRs are negative obligations on the State while DPSPs are positive directions\n3. FRs promote political democracy while DPSPs aim for social and economic democracy\n4. If there is a conflict, DPSPs always override Fundamental Rights\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following about the difference between Fundamental Rights and DPSP:\n1. If there is a conflict, DPSPs always override Fundamental Rights\n2. FRs are negative obligations on the State while DPSPs are positive directions\n3. FRs promote political democracy while DPSPs aim for social and economic democracy\n4. FRs are justiciable while DPSPs are non-justiciable\nWhich of the statements given above is/are correct?",
       "options": [
-        "1 and 3 only",
         "1, 2, 3 and 4",
-        "1 and 4 only",
-        "1, 2 and 3 only"
+        "2 and 3 only",
+        "1 and 2 only",
+        "2, 3 and 4 only"
       ],
       "answer": 3,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — DPSPs do NOT always override FRs. The relationship is complex: After Minerva Mills case (1980), there must be a BALANCE/HARMONY between FRs and DPSPs. Neither is superior. Article 31C provides limited protection only for laws implementing Articles 39(b) and 39(c). The correct position: Parliament can restrict FRs to implement DPSPs through Constitutional Amendment, but cannot destroy the basic structure. It's a balance, not automatic override."
@@ -134,25 +134,25 @@
     {
       "id": "exp12",
       "subject": "Polity & Governance",
-      "question": "With reference to the 42nd and 44th Amendments:\n1. 42nd Amendment (1976) curtailed judicial review and added FDs\n2. 44th Amendment (1978) restored pre-Emergency position largely\n3. 44th Amendment replaced 'internal disturbance' with 'armed rebellion' for Emergency\n4. Both amendments were passed with the same political intent",
+      "question": "With reference to the 42nd and 44th Amendments:\n1. Both amendments were passed with the same political intent\n2. 44th Amendment (1978) restored pre-Emergency position largely\n3. 44th Amendment replaced 'internal disturbance' with 'armed rebellion' for Emergency\n4. 42nd Amendment (1976) curtailed judicial review and added FDs",
       "options": [
-        "1, 2 and 3 only",
-        "1 and 3 only",
-        "1 and 4 only",
-        "1, 2, 3 and 4"
+        "1, 2, 3 and 4",
+        "2, 3 and 4 only",
+        "2 and 3 only",
+        "1 and 2 only"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — they had OPPOSITE political intents. 42nd (Indira Gandhi government, during Emergency): concentrated power in Executive, curtailed judiciary, added words to Preamble, transferred subjects to Concurrent List — expanded government control. 44th (Morarji Desai/Janata government, post-Emergency): REVERSED most 42nd Amendment damage — restored judicial review, made Emergency harder to declare, protected Article 20-21, restored press freedom provisions. They represent opposing philosophies of governance."
     },
     {
       "id": "exp13",
       "subject": "Polity & Governance",
-      "question": "Consider the following about Article 370 and its abrogation:\n1. Article 370 gave special status to Jammu & Kashmir\n2. It was abrogated in August 2019 through a Presidential Order\n3. J&K was bifurcated into two Union Territories: J&K (with legislature) and Ladakh (without)\n4. The Supreme Court unanimously upheld the abrogation in 2023\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following about Article 370 and its abrogation:\n1. Article 370 gave special status to Jammu & Kashmir\n2. The Supreme Court unanimously upheld the abrogation in 2023\n3. J&K was bifurcated into two Union Territories: J&K (with legislature) and Ladakh (without)\n4. It was abrogated in August 2019 through a Presidential Order\nWhich of the statements given above is/are correct?",
       "options": [
-        "1 and 4 only",
-        "1 and 2 only",
-        "1, 2 and 3 only",
-        "1, 2, 3 and 4"
+        "1 and 3 only",
+        "1, 2, 3 and 4",
+        "1, 3 and 4 only",
+        "1 and 2 only"
       ],
       "answer": 2,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — the SC verdict (December 2023) was NOT unanimous. It was a 5-judge bench with a 5:0 majority on the validity of abrogation, but Justice Kaul wrote a separate concurring opinion with different reasoning. More importantly, the court UPHELD abrogation but also directed: elections in J&K by Sept 2024, restoration of statehood 'at the earliest', and establishment of a Truth and Reconciliation Commission-like body. The word 'unanimously' oversimplifies the nuanced judgment."
@@ -162,12 +162,12 @@
       "subject": "Polity & Governance",
       "question": "With reference to the Uniform Civil Code (UCC) debate:\n1. Article 44 (DPSP) directs the State to secure a UCC for citizens\n2. Goa is the only Indian state that already has a form of UCC\n3. The Law Commission (2018) said UCC is 'neither necessary nor desirable at this stage'\n4. All religious communities support the implementation of UCC",
       "options": [
-        "1 and 2 only",
-        "1 and 4 only",
         "1, 2, 3 and 4",
-        "1, 2 and 3 only"
+        "1, 2 and 3 only",
+        "3 only",
+        "1 and 2 only"
       ],
-      "answer": 3,
+      "answer": 1,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — NOT all religious communities support UCC. Muslim organizations, some Christian groups, and tribal communities have opposed uniform application arguing: Article 25-26 protect religious freedom, personal laws are integral to religious identity, diversity should be respected. Goa (Portuguese Civil Code survives): common family law for all religions. Law Commission (21st, 2018, chaired by Justice BS Chauhan): recommended reforming personal laws within communities rather than imposing UCC. Uttarakhand became first state to pass UCC legislation (2024)."
     },
     {
@@ -175,12 +175,12 @@
       "subject": "Geography",
       "question": "Consider the following about India's mineral resources and strategic importance:\n1. India has the world's 4th largest reserves of iron ore\n2. India is critically dependent on imports for lithium, cobalt, and nickel\n3. Monazite sands in Kerala contain thorium (25% of world's reserves)\n4. India's coal reserves are concentrated in Gondwana formations of the Damodar valley\nWhich of the statements given above is/are correct?",
       "options": [
+        "2 and 4 only",
+        "1, 2 and 3 only",
         "1, 2, 3 and 4",
-        "1 and 3 only",
-        "2, 3 and 4 only",
-        "1 and 4 only"
+        "1, 3 and 4 only"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "All correct. India's mineral profile: Iron ore (4th largest reserves, mainly Jharkhand/Odisha/Chhattisgarh/Karnataka). Critical mineral import dependence: lithium 100% (J&K discovery not operational), cobalt 100%, nickel 90%+ (needed for EV batteries). Thorium: Monazite sands (Kerala, Tamil Nadu, Odisha coasts) — India has 25% of global thorium (Stage 3 of nuclear programme). Coal: 98% in Gondwana formations (Permian), Damodar valley (Jharia, Raniganj) is richest. Tertiary coal (2%): NE India, lower quality."
     }
   ]

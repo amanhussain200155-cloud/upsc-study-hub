@@ -4,14 +4,14 @@
     {
       "id": "jan26-1",
       "subject": "Polity & Governance",
-      "question": "Consider the following statements about the Central Vigilance Commission (CVC):\n1. It was set up in 1964 on the Santhanam Committee recommendations\n2. It gained statutory status under the CVC Act, 2003\n3. It is composed of one Central Vigilance Commissioner and up to two Vigilance Commissioners\n4. It can directly prosecute corrupt officials without government permission\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following statements about the Central Vigilance Commission (CVC):\n1. It was set up in 1964 on the Santhanam Committee recommendations\n2. It can directly prosecute corrupt officials without government permission\n3. It is composed of one Central Vigilance Commissioner and up to two Vigilance Commissioners\n4. It gained statutory status under the CVC Act, 2003\nWhich of the statements given above is/are correct?",
       "options": [
-        "1 and 4 only",
-        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
         "1 and 2 only",
-        "1, 2, 3 and 4"
+        "1 and 3 only",
+        "1, 3 and 4 only"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — CVC cannot directly prosecute. It can only recommend action, superintend investigations by CBI, and advise government departments. Prosecution requires government sanction. CVC's role is advisory and supervisory, not prosecutorial. Appointment by President on recommendation of committee (PM as Chair, Home Minister, Leader of Opposition in LS)."
     },
     {
@@ -19,25 +19,25 @@
       "subject": "Polity & Governance",
       "question": "With reference to the MS Sahoo Committee on NPS reforms:\n1. It was constituted to review the National Pension System\n2. Its recommendations led to the Unified Pension Scheme (UPS)\n3. NPS is administered by PFRDA under the PFRDA Act\n4. UPS guarantees 50% of average basic pay as pension",
       "options": [
-        "1 and 4 only",
-        "2 and 3 only",
-        "1, 3 and 4 only",
-        "1, 2, 3 and 4"
+        "1 and 2 only",
+        "1, 2, 3 and 4",
+        "2, 3 and 4 only",
+        "1, 2 and 3 only"
       ],
-      "answer": 3,
+      "answer": 1,
       "explanation": "All correct. MS Sahoo Committee reviewed NPS and recommended changes leading to UPS. NPS is under PFRDA (Pension Fund Regulatory and Development Authority). UPS (announced 2024, effective April 2025) guarantees assured pension of 50% of average basic pay of last 12 months for those with 25+ years of service. This was a response to demand for reverting to Old Pension Scheme (OPS)."
     },
     {
       "id": "jan26-3",
       "subject": "Polity & Governance",
-      "question": "The Viksit Bharat Shiksha Adhishthan Bill 2025 aims to:\n1. Replace UGC, AICTE, and NCTE with a single regulatory body\n2. Implement the National Education Policy 2020's higher education reforms\n3. Create the Higher Education Commission of India (HECI)\n4. Make all universities autonomous from government control",
+      "question": "The Viksit Bharat Shiksha Adhishthan Bill 2025 aims to:\n1. Make all universities autonomous from government control\n2. Implement the National Education Policy 2020's higher education reforms\n3. Create the Higher Education Commission of India (HECI)\n4. Replace UGC, AICTE, and NCTE with a single regulatory body",
       "options": [
-        "1 and 2 only",
-        "1, 2 and 3 only",
-        "1 and 4 only",
-        "1, 2, 3 and 4"
+        "1, 2, 3 and 4",
+        "2 and 3 only",
+        "2, 3 and 4 only",
+        "1 and 2 only"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — the Bill doesn't make universities 'autonomous from government control'. It restructures the regulatory architecture by merging UGC/AICTE/NCTE into HECI as envisaged by NEP 2020, but government retains significant control through appointments, funding, and policy direction. The Bill is about regulatory consolidation, not deregulation."
     },
     {
@@ -45,12 +45,12 @@
       "subject": "Polity & Governance",
       "question": "Consider the following about NATGRID-NPR Integration:\n1. NATGRID is a counter-terrorism data sharing network\n2. It connects databases of multiple security and intelligence agencies\n3. NPR (National Population Register) data will be linked with NATGRID\n4. NATGRID was conceptualized after the 26/11 Mumbai attacks\nWhich of the statements given above is/are correct?",
       "options": [
-        "1, 2, 3 and 4",
         "2 and 3 only",
-        "1, 2 and 4 only",
-        "1 and 4 only"
+        "1 and 4 only",
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "All correct. NATGRID (National Intelligence Grid) was conceptualized after 26/11 (2008 Mumbai attacks) to enable seamless sharing of data between security agencies (IB, RAW, CBI, ED, CBDT, CBIC etc.). It links 21 databases. NPR-NATGRID integration enables population data to be cross-referenced for security purposes. This raises privacy concerns which are debated."
     },
     {
@@ -59,9 +59,9 @@
       "question": "With reference to the Demographic Dividend and India's narrowing window:\n1. India's working-age population (15-64) currently exceeds dependents\n2. India's TFR has fallen below replacement level (2.1)\n3. Southern states will face aging problems before northern states\n4. The demographic dividend window is estimated to close by 2055-2060",
       "options": [
         "1, 2, 3 and 4",
-        "2 and 3 only",
-        "1, 2 and 3 only",
-        "1 and 4 only"
+        "1, 3 and 4 only",
+        "2 and 4 only",
+        "1, 2 and 3 only"
       ],
       "answer": 0,
       "explanation": "All correct. India's working-age population is ~68% (demographic dividend phase). TFR is 2.0 (NFHS-5). Southern states (Kerala TFR 1.8, TN 1.8) are aging faster than northern states (Bihar 3.0, UP 2.4). The dividend window narrows as working-age population peaks and dependency ratio starts rising (estimated 2055-60). Challenge: converting demographic dividend into economic dividend requires skilling and employment."
@@ -123,38 +123,38 @@
       "subject": "International Relations",
       "question": "Consider the following about India-UAE relations:\n1. Bilateral trade reached approximately $100 billion in 2024-25\n2. UAE is India's 3rd largest trading partner\n3. India-UAE CEPA (Comprehensive Economic Partnership Agreement) was signed in 2022\n4. UAE investments in India stand at approximately $20-21 billion\nWhich of the statements given above is/are correct?",
       "options": [
-        "1 and 3 only",
-        "1, 3 and 4 only",
+        "1, 2 and 3 only",
         "1, 2, 3 and 4",
-        "1 and 4 only"
+        "1 and 4 only",
+        "2 and 3 only"
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "All correct. India-UAE trade surged from $180 million in 1970s to $100 billion (2024-25). UAE is 3rd largest trading partner (after US, China) and 2nd largest export destination. CEPA signed Feb 2022 (India's first FTA with a Gulf nation). UAE FDI in India: $20-21 billion. Key areas: energy, infrastructure, fintech, defence. India has largest expatriate community in UAE (~3.5 million)."
     },
     {
       "id": "jan26-11",
       "subject": "International Relations",
-      "question": "The term 'Pax Silica' refers to:\n1. A new global order shaped by semiconductor supply chain dominance\n2. India's inclusion in global chip manufacturing alliances\n3. Peace maintained through silicon/tech superiority rather than military power\n4. A UN resolution on digital governance",
+      "question": "The term 'Pax Silica' refers to:\n1. A new global order shaped by semiconductor supply chain dominance\n2. A UN resolution on digital governance\n3. Peace maintained through silicon/tech superiority rather than military power\n4. India's inclusion in global chip manufacturing alliances",
       "options": [
+        "1, 3 and 4 only",
+        "1 and 2 only",
         "1 and 3 only",
-        "4 only",
-        "All are correct",
-        "1, 2 and 3 only"
+        "1, 2, 3 and 4"
       ],
-      "answer": 3,
+      "answer": 0,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — 'Pax Silica' is not a UN resolution. It's a geopolitical concept (analogous to Pax Americana/Pax Britannica) suggesting that control over semiconductor supply chains will determine global power dynamics. India's semiconductor mission and inclusion in Chip 4 Alliance discussions relate to India's attempt to be part of this new order. Taiwan (TSMC), South Korea (Samsung), and the US currently dominate."
     },
     {
       "id": "jan26-12",
       "subject": "Environment & Ecology",
-      "question": "With reference to the Western Ghats Ecology Expert Panel (WGEEP) headed by Madhav Gadgil:\n1. It recommended declaring the entire Western Ghats as Ecologically Sensitive Area (ESA)\n2. The Kasturirangan Committee provided a less restrictive alternative\n3. Gadgil report recommended banning mining and new thermal power plants in ESA\n4. Both reports have been fully implemented by the government",
+      "question": "With reference to the Western Ghats Ecology Expert Panel (WGEEP) headed by Madhav Gadgil:\n1. It recommended declaring the entire Western Ghats as Ecologically Sensitive Area (ESA)\n2. Both reports have been fully implemented by the government\n3. Gadgil report recommended banning mining and new thermal power plants in ESA\n4. The Kasturirangan Committee provided a less restrictive alternative",
       "options": [
-        "1, 2 and 3 only",
-        "1 and 4 only",
-        "1 and 2 only",
-        "1, 2, 3 and 4"
+        "1, 2, 3 and 4",
+        "1 and 3 only",
+        "1, 3 and 4 only",
+        "1 and 2 only"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — NEITHER report has been fully implemented. The Gadgil report (2011) was considered too restrictive by states. Kasturirangan (2013) reduced ESA to ~37% of Western Ghats (vs Gadgil's 100%). Even Kasturirangan's recommendations face resistance from states (Kerala, Karnataka, Goa) due to concerns about development restrictions. Final ESA notification still pending in many areas."
     },
     {
@@ -162,12 +162,12 @@
       "subject": "Environment & Ecology",
       "question": "Consider the following about Climate-Resilient Agriculture in India:\n1. It involves developing drought-resistant and flood-tolerant crop varieties\n2. The National Mission for Sustainable Agriculture (NMSA) is the key policy framework\n3. Zero Budget Natural Farming (ZBNF) is promoted as a climate-resilient practice\n4. India's agriculture contributes approximately 14% of national GHG emissions\nWhich of the statements given above is/are correct?",
       "options": [
-        "1 and 4 only",
         "1 and 2 only",
-        "1, 2 and 3 only",
-        "1, 2, 3 and 4"
+        "1, 2, 3 and 4",
+        "2, 3 and 4 only",
+        "1, 2 and 3 only"
       ],
-      "answer": 3,
+      "answer": 1,
       "explanation": "All correct. Climate-resilient agriculture includes: drought/flood-tolerant varieties (ICAR development), precision irrigation, agroforestry, soil carbon sequestration. NMSA (under NAPCC) is the policy framework. ZBNF (promoted in AP/Karnataka) reduces chemical inputs and improves soil health. Agriculture contributes ~14% of India's GHG (mainly methane from rice paddies and livestock, N2O from fertilizers)."
     },
     {
@@ -175,23 +175,23 @@
       "subject": "Science & Technology",
       "question": "With reference to PSLV failures and implications for India's space programme:\n1. PSLV is ISRO's most reliable workhorse rocket\n2. It has had very few failures in 50+ launches\n3. PSLV failures can impact India's commercial launch credibility\n4. PSLV uses solid fuel in first and third stages, liquid in second and fourth",
       "options": [
-        "1 and 4 only",
-        "1 and 3 only",
         "1, 2, 3 and 4",
+        "2, 3 and 4 only",
+        "1 and 2 only",
         "1, 2 and 3 only"
       ],
-      "answer": 2,
+      "answer": 0,
       "explanation": "All correct. PSLV (operational since 1993) has had 55+ launches with ~95% success rate (only 2-3 failures/partial failures). It's ISRO's commercial workhorse (launched 300+ foreign satellites). Any failure impacts credibility in competitive commercial launch market (SpaceX, Arianespace). PSLV is a 4-stage rocket: Stage 1 (solid), Stage 2 (liquid - Vikas engine), Stage 3 (solid), Stage 4 (liquid - twin engines)."
     },
     {
       "id": "jan26-15",
       "subject": "Science & Technology",
-      "question": "Consider the following about the IndiaAI Mission:\n1. It aims to build a comprehensive AI ecosystem in India\n2. It includes development of indigenous AI compute infrastructure\n3. The mission has an outlay of over ₹10,000 crore\n4. It focuses only on government use of AI, not private sector\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following about the IndiaAI Mission:\n1. It aims to build a comprehensive AI ecosystem in India\n2. It includes development of indigenous AI compute infrastructure\n3. It focuses only on government use of AI, not private sector\n4. The mission has an outlay of over ₹10,000 crore\nWhich of the statements given above is/are correct?",
       "options": [
-        "1 and 2 only",
-        "1 and 4 only",
         "1, 2, 3 and 4",
-        "1, 2 and 3 only"
+        "1 and 2 only",
+        "1 and 3 only",
+        "1, 2 and 4 only"
       ],
       "answer": 3,
       "explanation": "1, 2, 3 correct. Statement 4 WRONG — IndiaAI Mission is NOT limited to government use. It covers the entire ecosystem: compute infrastructure (10,000+ GPU capacity), foundational AI models, datasets platform, application development, skilling (FutureSkills PRIME), and startup financing. It explicitly supports private sector AI startups and research institutions. Budget: ~₹10,372 crore."

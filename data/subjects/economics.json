@@ -4,14 +4,14 @@
     {
       "id": "eco1",
       "subject": "Economics",
-      "question": "Consider the following about Fiscal Policy:\n1. It is formulated by the Finance Ministry\n2. Revenue deficit means government borrowing for consumption expenditure\n3. Primary deficit = Fiscal deficit - Interest payments\n4. Capital expenditure always creates assets\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following about Fiscal Policy:\n1. It is formulated by the Finance Ministry\n2. Capital expenditure always creates assets\n3. Primary deficit = Fiscal deficit - Interest payments\n4. Revenue deficit means government borrowing for consumption expenditure\nWhich of the statements given above is/are correct?",
       "options": [
-        "1, 2 and 3 only",
+        "1 and 2 only",
+        "1, 3 and 4 only",
         "1 and 3 only",
-        "1, 2, 3 and 4",
-        "1 and 4 only"
+        "1, 2, 3 and 4"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "1, 2, 3 correct. Statement 4 is wrong - Capital expenditure includes loans and advances to states/PSUs which may not create assets directly. It reduces liabilities OR creates assets, but not always creates physical assets."
     },
     {
@@ -32,12 +32,12 @@
       "subject": "Economics",
       "question": "Consider the following regarding inflation:\n1. WPI does not include services\n2. CPI measures retail price changes\n3. RBI targets CPI-based inflation at 4% (±2%)\n4. Core inflation excludes food and fuel\nWhich of the statements given above is/are correct?",
       "options": [
-        "1 and 4 only",
         "1, 2 and 3 only",
         "2 and 3 only",
-        "1, 2, 3 and 4"
+        "1, 2, 3 and 4",
+        "1 and 4 only"
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "All correct. WPI covers manufactured goods, primary articles, fuel (no services). CPI measures consumer prices (retail). RBI under Flexible Inflation Targeting targets CPI at 4% with 2-6% band. Core inflation strips volatile food and fuel prices."
     },
     {
@@ -45,12 +45,12 @@
       "subject": "Economics",
       "question": "With reference to the Union Budget:\n1. Article 112 deals with Annual Financial Statement\n2. No tax can be levied without authority of law (Article 265)\n3. Consolidated Fund of India includes all revenues and loans\n4. Contingency Fund is at disposal of the President",
       "options": [
-        "All except 4",
-        "1 and 2 only",
-        "1, 2 and 3 only",
-        "1, 2, 3 and 4"
+        "1, 2, 3 and 4",
+        "2, 3 and 4 only",
+        "1 and 3 only",
+        "1, 2 and 4 only"
       ],
-      "answer": 3,
+      "answer": 0,
       "explanation": "All correct. Art 112: Budget/Annual Financial Statement. Art 265: No tax without law. Consolidated Fund (Art 266(1)): all revenues, loans received, repayment. Contingency Fund (Art 267): ₹500 crore at President's disposal for unforeseen expenditure (Parliament approval later)."
     },
     {
@@ -58,8 +58,8 @@
       "subject": "Economics",
       "question": "Priority Sector Lending targets for commercial banks include:\n1. Agriculture: 18% of ANBC\n2. Weaker sections: 12% of ANBC\n3. Total PSL target: 40% of ANBC\n4. Export credit is part of PSL",
       "options": [
+        "2 and 4 only",
         "1, 2 and 3 only",
-        "1 and 3 only",
         "1, 3 and 4 only",
         "1, 2, 3 and 4"
       ],
@@ -71,12 +71,12 @@
       "subject": "Economics",
       "question": "Which of the following correctly describes a 'Current Account Deficit'?\n1. Imports of goods and services exceed exports\n2. It includes remittances received from abroad\n3. FDI inflows can finance the current account deficit\n4. It always indicates economic weakness",
       "options": [
-        "1, 2, 3 and 4",
         "1, 2 and 3 only",
-        "1 and 3 only",
-        "1 only"
+        "1 only",
+        "2 and 3 only",
+        "1, 2, 3 and 4"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanation": "1, 2, 3 correct. Current Account = Trade balance + Services + Remittances + Investment income. CAD means outflows > inflows. FDI/FPI (capital account) finances CAD. Statement 4 wrong - CAD isn't always bad; growing economies often have CAD due to investment imports."
     },
     {
@@ -84,12 +84,12 @@
       "subject": "Economics",
       "question": "Consider the following about Indian Banking:\n1. SLR is maintained in the form of gold, government securities, or cash\n2. CRR is kept with RBI in cash only\n3. CASA ratio affects a bank's cost of funds\n4. NPA is classified after 90 days of non-payment\nWhich of the statements given above is/are correct?",
       "options": [
-        "1, 2, 3 and 4",
-        "1, 3 and 4 only",
-        "1 and 4 only",
-        "2, 3 and 4 only"
+        "1 and 2 only",
+        "1, 2 and 3 only",
+        "2, 3 and 4 only",
+        "1, 2, 3 and 4"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "All correct. SLR: maintained in liquid assets (gold, govt securities, cash). CRR: only cash deposited with RBI (no interest earned). CASA (Current Account Savings Account): higher CASA = lower cost of funds (low/no interest). NPA: loan unpaid for >90 days."
     },
     {
@@ -123,12 +123,12 @@
       "subject": "Economics",
       "question": "Which of the following are part of India's Capital Account?\n1. FDI\n2. Portfolio investment\n3. External commercial borrowings\n4. NRI deposits",
       "options": [
-        "1, 2, 3 and 4",
-        "1 and 2 only",
+        "2 and 3 only",
         "1, 2 and 3 only",
+        "1, 2, 3 and 4",
         "1 and 4 only"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "All are part of Capital Account. Capital Account records: FDI (direct investment with management control), FPI/FII (portfolio investment), ECBs (foreign loans), NRI deposits, external assistance, and banking capital."
     },
     {
@@ -137,9 +137,9 @@
       "question": "With reference to disinvestment:\n1. It refers to selling government stake in PSUs\n2. Strategic disinvestment means transfer of management control\n3. DIPAM handles disinvestment policy\n4. Privatization and disinvestment are the same thing",
       "options": [
         "1, 2 and 3 only",
-        "1 and 4 only",
-        "1 and 2 only",
-        "1, 2, 3 and 4"
+        "1, 2, 3 and 4",
+        "2, 3 and 4 only",
+        "1 and 3 only"
       ],
       "answer": 0,
       "explanation": "1, 2, 3 correct. Statement 4 wrong - Disinvestment may involve selling minority stake (government retains control), while privatization means transfer of majority ownership and management to private sector. Strategic disinvestment = privatization. DIPAM = Dept of Investment and Public Asset Management."
@@ -147,11 +147,11 @@
     {
       "id": "eco12",
       "subject": "Economics",
-      "question": "Consider about India's tax structure:\n1. Income tax is a direct tax levied by the Centre\n2. GST is levied by both Centre and States simultaneously\n3. Professional tax is levied by State governments\n4. Customs duty is shared between Centre and States",
+      "question": "Consider about India's tax structure:\n1. Income tax is a direct tax levied by the Centre\n2. Customs duty is shared between Centre and States\n3. Professional tax is levied by State governments\n4. GST is levied by both Centre and States simultaneously",
       "options": [
-        "1, 2 and 3 only",
+        "1, 3 and 4 only",
         "1 and 2 only",
-        "1 and 4 only",
+        "1 and 3 only",
         "1, 2, 3 and 4"
       ],
       "answer": 0,

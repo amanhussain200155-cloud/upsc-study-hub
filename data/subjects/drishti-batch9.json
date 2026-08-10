@@ -6,12 +6,12 @@
       "subject": "International Relations",
       "question": "Consider the following about the BBNJ Agreement (High Seas Treaty):\n1. It is the first legally binding treaty to protect marine biodiversity beyond national jurisdictions\n2. It came into force in January 2026\n3. It applies to high seas and international seabed (beyond EEZs)\n4. It is under the framework of UNCLOS (UN Convention on the Law of the Sea)\nWhich of the statements given above is/are correct?",
       "options": [
-        "1, 2, 3 and 4",
         "1 and 3 only",
-        "1 and 4 only",
-        "1, 2 and 3 only"
+        "2, 3 and 4 only",
+        "1, 2, 3 and 4",
+        "1, 2 and 4 only"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "All correct. BBNJ (Biodiversity Beyond National Jurisdiction) Agreement: adopted June 2023, entered into force January 17, 2026. Under UNCLOS framework. Covers: Marine Genetic Resources (benefit sharing), Area-Based Management Tools (Marine Protected Areas on high seas), Environmental Impact Assessments, Capacity Building. High seas (64% of ocean surface) were previously ungoverned for biodiversity. Includes provisions for Indigenous Peoples and local communities."
     },
     {
@@ -45,12 +45,12 @@
       "subject": "Environment & Ecology",
       "question": "Consider the following about India's Grassland Conservation:\n1. India's grasslands cover approximately 3.5% of geographic area\n2. They are classified under 'wastelands' in many state records\n3. Great Indian Bustard is a critically endangered grassland species\n4. Semi-arid grasslands support species like Blackbuck, Chinkara, and Indian Wolf\nWhich of the statements given above is/are correct?",
       "options": [
-        "1 and 4 only",
-        "1 and 3 only",
-        "2, 3 and 4 only",
-        "1, 2, 3 and 4"
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "1 and 2 only",
+        "2, 3 and 4 only"
       ],
-      "answer": 3,
+      "answer": 1,
       "explanation": "All correct. India's grasslands: ~12 million hectares (~3.5%). Major type: tropical savanna grasslands (western Rajasthan, Gujarat, Madhya Pradesh). Critically endangered species: Great Indian Bustard (GIB, <150 individuals, mainly in Rajasthan's Desert National Park). Problem: grasslands classified as 'wasteland' leading to conversion for solar parks, farming, urbanization. Supporting wildlife: Blackbuck, Chinkara, Indian Wolf, Lesser Florican. Conservation: Species Recovery Plans, overhead power line mitigation for GIB."
     },
     {
@@ -58,10 +58,10 @@
       "subject": "Environment & Ecology",
       "question": "With reference to the White-bellied Heron:\n1. It is one of the rarest herons globally\n2. It is classified as Critically Endangered by IUCN\n3. It is found in Northeast India (Arunachal Pradesh) and Bhutan\n4. India has only around 10-15 individuals of this species",
       "options": [
-        "1 and 2 only",
         "1 and 4 only",
+        "1, 2 and 3 only",
         "1, 2, 3 and 4",
-        "1, 2 and 3 only"
+        "2, 3 and 4 only"
       ],
       "answer": 2,
       "explanation": "All correct. White-bellied Heron (Ardea insignis): one of rarest herons globally (~200 total). Critically Endangered (IUCN). Found in: Bhutan (main population), Arunachal Pradesh (Namdapha NP area, upper Brahmaputra tributaries), Myanmar. India has only 10-15 individuals (extremely rare). Threats: habitat loss (river damming, deforestation), disturbance. Protected under Schedule I of Wildlife Protection Act (highest legal protection in India). Conservation: Kalai-II hydroelectric project concern."
@@ -71,12 +71,12 @@
       "subject": "Science & Technology",
       "question": "Consider the following about Marine and Space Biotechnology:\n1. Marine biotechnology explores ocean organisms for pharmaceuticals and biofuels\n2. India has a Deep Ocean Mission targeting polymetallic nodules\n3. Space biotechnology studies biological systems in microgravity\n4. India's Gaganyaan will conduct space biology experiments\nWhich of the statements given above is/are correct?",
       "options": [
-        "1, 2, 3 and 4",
         "1, 2 and 3 only",
-        "1 and 2 only",
+        "1, 2, 3 and 4",
+        "2 and 3 only",
         "1 and 4 only"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "All correct. Marine biotech: ocean organisms (sponges, microalgae, deep-sea bacteria) for drugs, enzymes, biofuel. India's Deep Ocean Mission (₹4,077 crore): targets 6,000m depth with manned submersible 'Matsya 6000', mining polymetallic nodules (nickel, cobalt, manganese — critical minerals). Space biotech: microgravity effects on proteins, cells, organisms. Gaganyaan will carry biological experiments alongside human crew (understanding human physiology in space, growing crystals, pharmaceutical applications)."
     },
     {
@@ -97,12 +97,12 @@
       "subject": "Polity & Governance",
       "question": "Consider the following about PM CARES Fund:\n1. It is a public charitable trust created for COVID-19 and other emergencies\n2. It is NOT subject to CAG audit\n3. PM CARES donations qualify for 100% tax deduction under Section 80G\n4. RTI Act does not apply to PM CARES Fund\nWhich of the statements given above is/are correct?",
       "options": [
+        "1, 2, 3 and 4",
         "1, 3 and 4 only",
-        "1 and 4 only",
-        "1 and 3 only",
-        "1, 2, 3 and 4"
+        "2 and 4 only",
+        "1, 2 and 3 only"
       ],
-      "answer": 3,
+      "answer": 0,
       "explanation": "All correct. PM CARES Fund (March 2020): public charitable trust (PM as chair + Finance, Home, Defence Ministers). NOT audited by CAG (uses private auditors) — criticized as lack of public accountability. 100% tax deduction (unlike PM National Relief Fund which gets 50%). RTI Act does NOT apply (SC upheld — it's a trust, not 'public authority' under Section 2(h) of RTI Act). Also receives CSR contributions. Controversy: opacity of fund utilization, absence of public accountability mechanisms despite receiving public donations."
     },
     {
@@ -110,12 +110,12 @@
       "subject": "Polity & Governance",
       "question": "With reference to Mission for Aatmanirbharta in Pulses:\n1. India is the largest producer AND largest importer of pulses globally\n2. The mission aims to achieve self-sufficiency in pulse production\n3. MSP for pulses has been increased to encourage farmers\n4. India imports mainly from Canada, Myanmar, and East African countries",
       "options": [
-        "1, 2, 3 and 4",
+        "2 and 3 only",
         "1, 2 and 3 only",
-        "1 and 4 only",
-        "2 and 3 only"
+        "1, 2, 3 and 4",
+        "1 and 4 only"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "All correct. India: produces ~25-28% of global pulses (~25 million tonnes) but also imports ~3-5 million tonnes annually (largest importer too — demand exceeds supply). Mission targets: increase production through better seeds, irrigation, minimum support prices. MSP for major pulses (tur, urad, moong) increased regularly. Import sources: Canada (yellow peas, lentils), Myanmar (urad, tur), Mozambique, Tanzania. India's per capita pulse consumption declining due to price rise — food security concern."
     }
   ]

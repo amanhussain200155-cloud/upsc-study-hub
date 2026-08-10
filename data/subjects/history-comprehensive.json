@@ -45,12 +45,12 @@
       "subject": "History",
       "question": "Consider the following about the Gupta period:\n1. Land grants to Brahmins (Agrahara) became common\n2. The Vakataka alliance strengthened Gupta power in the Deccan\n3. Fa Hien visited India during Chandragupta II's reign\n4. The Huna invasions led to the decline of the Gupta Empire\nWhich is/are correct?",
       "options": [
-        "1, 2 and 3 only",
         "1, 2, 3 and 4",
         "2 and 4 only",
-        "1, 3 and 4 only"
+        "1, 3 and 4 only",
+        "1, 2 and 3 only"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanation": "All four are correct. Agrahara grants proliferated. Chandragupta II married his daughter Prabhavatigupta to Vakataka king. Fa Hien visited during Chandragupta II (Vikramaditya). Huna/Hunas invasions under Toramana and Mihirakula weakened the empire fatally."
     },
     {
@@ -69,14 +69,14 @@
     {
       "id": "hc6",
       "subject": "History",
-      "question": "Consider the following about Alauddin Khalji's economic reforms:\n1. He fixed prices of essential commodities\n2. He maintained an elaborate spy system to prevent cheating\n3. Merchants had to register with the Shahna-i-Mandi\n4. These reforms were primarily motivated by welfare of the poor\nWhich is/are correct?",
+      "question": "Consider the following about Alauddin Khalji's economic reforms:\n1. He fixed prices of essential commodities\n2. He maintained an elaborate spy system to prevent cheating\n3. These reforms were primarily motivated by welfare of the poor\n4. Merchants had to register with the Shahna-i-Mandi",
       "options": [
-        "1, 2, 3 and 4",
+        "1 and 3 only",
         "1 and 2 only",
-        "1, 2 and 3 only",
-        "1 and 4 only"
+        "1, 2, 3 and 4",
+        "1, 2 and 4 only"
       ],
-      "answer": 2,
+      "answer": 3,
       "explanation": "1, 2, 3 correct. Statement 4 wrong - Alauddin's primary motivation was NOT welfare but maintaining a large army cheaply. By controlling prices, he could pay soldiers low wages while they could still afford goods. It was a military-economic strategy, not a welfare measure."
     },
     {
@@ -95,12 +95,12 @@
     {
       "id": "hc8",
       "subject": "History",
-      "question": "Consider the following Mughal buildings and their builders:\n1. Buland Darwaza - Akbar\n2. Moti Masjid (Red Fort) - Aurangzeb\n3. Taj Mahal - Shah Jahan\n4. Shalimar Bagh - Jahangir\nWhich pairs are correctly matched?",
+      "question": "Consider the following Mughal buildings and their builders:\n1. Buland Darwaza - Akbar\n2. Moti Masjid (Red Fort) - Aurangzeb\n3. Shalimar Bagh - Jahangir\n4. Taj Mahal - Shah Jahan",
       "options": [
-        "1, 2 and 3 only",
-        "1, 2, 3 and 4",
-        "1 and 4 only",
-        "1 and 3 only"
+        "1, 2 and 4 only",
+        "1 and 3 only",
+        "1 and 2 only",
+        "1, 2, 3 and 4"
       ],
       "answer": 0,
       "explanation": "1, 2, 3 correct. Statement 4 wrong - Shalimar Bagh (Srinagar) was built by Jahangir, BUT Shalimar Bagh (Lahore) was built by Shah Jahan. The famous one in Kashmir was indeed Jahangir's. However, Moti Masjid in Red Fort was by Aurangzeb, and Buland Darwaza at Fatehpur Sikri by Akbar (celebrating Gujarat conquest)."
@@ -110,12 +110,12 @@
       "subject": "History",
       "question": "Consider the following about the Revolt of 1857:\n1. It was primarily confined to the Gangetic plain\n2. The educated middle class largely did not support it\n3. South India remained almost entirely unaffected\n4. The revolt had no central leadership or unified plan\nWhich is/are correct?",
       "options": [
-        "1 and 4 only",
         "1, 2, 3 and 4",
-        "1, 2 and 4 only",
-        "2 and 3 only"
+        "2 and 3 only",
+        "1 and 4 only",
+        "1, 2 and 3 only"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanation": "All correct. The revolt was concentrated in UP, Bihar, Central India, Delhi. Educated Indians (trained in Western education) mostly stayed away. Madras, Bombay, Bengal saw minimal activity. There was no coordinated plan - each leader fought independently (Rani Lakshmibai, Nana Sahib, Tantia Tope, Kunwar Singh in different areas)."
     },
     {
@@ -149,12 +149,12 @@
       "subject": "History",
       "question": "Consider the following about the Non-Cooperation Movement (1920-22):\n1. Students left government schools and joined national institutions\n2. Lawyers like Motilal Nehru and C.R. Das gave up practice\n3. The movement was withdrawn after the Chauri Chaura incident\n4. The Congress session at Nagpur approved the movement\nWhich of the statements given above is/are correct?",
       "options": [
-        "2 and 3 only",
-        "1, 2, 3 and 4",
-        "1 and 4 only",
-        "1, 2 and 3 only"
+        "1, 2 and 3 only",
+        "2, 3 and 4 only",
+        "1 and 2 only",
+        "1, 2, 3 and 4"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanation": "All correct. Thousands of students joined Jamia Millia Islamia, Kashi Vidyapeeth, Gujarat Vidyapeeth. Prominent lawyers left lucrative practices. After Chauri Chaura (Feb 1922) where a mob killed 22 policemen, Gandhi withdrew the movement. The Nagpur session (Dec 1920) formally approved the NCM program."
     },
     {
@@ -173,14 +173,14 @@
     {
       "id": "hc14",
       "subject": "History",
-      "question": "Consider the following about the Government of India Act, 1935:\n1. It provided for an All-India Federation (never implemented)\n2. It abolished dyarchy in provinces\n3. It established the Federal Court\n4. It introduced bicameral legislatures in all provinces\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following about the Government of India Act, 1935:\n1. It introduced bicameral legislatures in all provinces\n2. It abolished dyarchy in provinces\n3. It established the Federal Court\n4. It provided for an All-India Federation (never implemented)\nWhich of the statements given above is/are correct?",
       "options": [
-        "1, 2 and 3 only",
-        "1 and 3 only",
-        "1 and 4 only",
-        "1, 2, 3 and 4"
+        "2 and 3 only",
+        "1, 2, 3 and 4",
+        "1 and 2 only",
+        "2, 3 and 4 only"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "1, 2, 3 correct. Statement 4 wrong - bicameral legislatures were introduced only in 6 provinces (Bengal, Madras, Bombay, Bihar, UP, Assam), not ALL provinces. The federal part was never implemented due to non-cooperation of princely states. Dyarchy was abolished in provinces (introduced at Centre instead). Federal Court established in Delhi (1937)."
     },
     {
@@ -188,12 +188,12 @@
       "subject": "History",
       "question": "The Quit India Movement (1942) differed from earlier movements in that:\n1. Gandhi gave the 'Do or Die' call\n2. After leaders were arrested, it became a leaderless mass uprising\n3. Underground radio stations like Congress Radio operated\n4. Violence was more widespread than in earlier Gandhian movements",
       "options": [
-        "1 and 2 only",
         "1, 2, 3 and 4",
         "1, 2 and 4 only",
-        "1 and 4 only"
+        "1 and 3 only",
+        "2, 3 and 4 only"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanation": "All correct. 'Do or Die' (Karo ya Maro) was Gandhi's call on August 8, 1942. All top leaders arrested on August 9 - movement continued leaderlessly. Usha Mehta ran Congress Radio from Bombay. There was significant violence - railway lines cut, telegraph wires snapped, government buildings attacked - unlike NCM/CDM."
     },
     {
@@ -201,12 +201,12 @@
       "subject": "History",
       "question": "Consider the following pairs:\nCommission/Committee - Purpose\n1. Hunter Commission - Education reform\n2. Simon Commission - Constitutional reform\n3. Linlithgow Commission - Famine inquiry\n4. Butler Committee - Relations with princely states\nWhich are correctly matched?",
       "options": [
-        "1, 2 and 4 only",
-        "2 and 4 only",
+        "2, 3 and 4 only",
         "1, 2, 3 and 4",
-        "2, 3 and 4 only"
+        "1 and 4 only",
+        "1, 2 and 3 only"
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "All correctly matched. Hunter Commission (1882): Education reform under Lord Ripon. Simon Commission (1927): Review of constitutional reforms. Linlithgow Commission (1901): Investigate Indian famines. Butler Committee (1927): Relations between Crown and Indian states. Note: There's also a Hunter Committee (1919) on Jallianwala Bagh - different from the 1882 one."
     },
     {
@@ -214,12 +214,12 @@
       "subject": "History",
       "question": "With reference to the Indian National Army (INA):\n1. It was originally formed by Mohan Singh\n2. Subhas Chandra Bose reorganized it in 1943\n3. The Rani of Jhansi Regiment was the women's unit\n4. After the war, INA trials were held at the Red Fort",
       "options": [
-        "2, 3 and 4 only",
-        "1, 2, 3 and 4",
-        "1 and 4 only",
-        "1, 2 and 3 only"
+        "1, 2 and 3 only",
+        "1, 3 and 4 only",
+        "2 and 4 only",
+        "1, 2, 3 and 4"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanation": "All correct. Captain Mohan Singh first formed INA from Indian POWs in Malaya (1942). Bose took over and reorganized it (1943) with 'Delhi Chalo' slogan. Captain Lakshmi Sahgal led the Rani of Jhansi Regiment (women's wing). After war, INA trials at Red Fort (1945) of Shah Nawaz, Dhillon, Sahgal sparked nationwide protests."
     },
     {
@@ -228,9 +228,9 @@
       "question": "The Mountbatten Plan (June 3, 1947) included:\n1. Partition of India into India and Pakistan\n2. Bengal and Punjab to be divided\n3. A referendum in NWFP and Sylhet\n4. Princely states free to join either dominion or remain independent",
       "options": [
         "1, 2, 3 and 4",
-        "1 and 4 only",
-        "1 and 2 only",
-        "1, 2 and 3 only"
+        "2 and 4 only",
+        "1, 2 and 3 only",
+        "1, 3 and 4 only"
       ],
       "answer": 0,
       "explanation": "All correct. The plan provided for: partition into two dominions, division of Bengal (East to Pakistan) and Punjab (West to Pakistan), referendum in NWFP (chose Pakistan) and Sylhet district of Assam (chose Pakistan), and princely states given three options (though Sardar Patel's integration efforts ensured most joined India)."
@@ -240,25 +240,25 @@
       "subject": "History",
       "question": "Consider the following statements about the Mauryan economy:\n1. State-owned land was called 'Sita' land\n2. The main source of revenue was Bhaga (land tax = 1/6th of produce)\n3. Punch-marked coins were the primary currency\n4. Megasthenes mentions the absence of slavery in India\nWhich of the statements given above is/are correct?",
       "options": [
-        "1, 2 and 3 only",
+        "2 and 4 only",
+        "1, 3 and 4 only",
         "1, 2, 3 and 4",
-        "1 and 4 only",
-        "1 and 3 only"
+        "1, 2 and 3 only"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanation": "All correct. Sita land was crown land cultivated by slaves/workers. Bhaga was 1/6th of agricultural produce (could go up to 1/4th). Punch-marked silver coins (Karshapanas) were primary currency. Megasthenes in Indica mentions Indians didn't practice slavery (though this is debated - he may have misunderstood bonded labor)."
     },
     {
       "id": "hc20",
       "subject": "History",
-      "question": "Consider the following Sufi orders and their founders in India:\n1. Chishti - Moinuddin Chishti\n2. Suhrawardi - Bahauddin Zakariya\n3. Naqshbandi - Khwaja Baqi Billah\n4. Qadiri - Shah Niamatullah\nWhich are correctly matched?",
+      "question": "Consider the following Sufi orders and their founders in India:\n1. Chishti - Moinuddin Chishti\n2. Suhrawardi - Bahauddin Zakariya\n3. Qadiri - Shah Niamatullah\n4. Naqshbandi - Khwaja Baqi Billah",
       "options": [
+        "1, 2, 3 and 4",
+        "1 and 3 only",
         "1 and 2 only",
-        "1, 2 and 3 only",
-        "1, 3 and 4 only",
-        "1, 2, 3 and 4"
+        "1, 2 and 4 only"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanation": "1, 2, 3 correct. Statement 4 wrong - the Qadiri order in India was established by Syed Muhammad Gilani/Mian Mir (who laid foundation stone of Golden Temple), not Shah Niamatullah. Chishti (Ajmer, most popular), Suhrawardi (Multan), Naqshbandi (Delhi, orthodox), Qadiri (Punjab)."
     }
   ]
