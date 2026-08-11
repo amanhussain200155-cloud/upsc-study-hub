@@ -339,6 +339,8 @@ function MonthlyMode() {
     const { data } = useData('/api/monthly');
     const [selectedMonth, setSelectedMonth] = useState(null);
     const [monthData, setMonthData] = useState(null);
+    const [dateFilter, setDateFilter] = useState('all');
+    const [viewMode, setViewMode] = useState('date'); // 'date' or 'subject'
 
     useEffect(() => {
         if (selectedMonth) {
@@ -349,20 +351,60 @@ function MonthlyMode() {
     if (!data?.months?.length) return <p className="empty-msg">Monthly compilations will appear after the first fetch cycle.</p>;
 
     if (selectedMonth && monthData) {
-        const grouped = {};
-        monthData.articles?.forEach(a => { if(!grouped[a.subject]) grouped[a.subject]=[]; grouped[a.subject].push(a); });
+        // Sort all articles by date descending (newest first)
+        const allArticles = (monthData.articles || []).sort((a, b) => new Date(b.date) - new Date(a.date));
+        
+        // Get unique dates for filter
+        const uniqueDates = [...new Set(allArticles.map(a => a.date ? new Date(a.date).toLocaleDateString() : 'Unknown'))];
+        
+        // Filter by selected date
+        const filtered = dateFilter === 'all' ? allArticles : allArticles.filter(a => new Date(a.date).toLocaleDateString() === dateFilter);
+
+        if (viewMode === 'subject') {
+            const grouped = {};
+            filtered.forEach(a => { if(!grouped[a.subject]) grouped[a.subject]=[]; grouped[a.subject].push(a); });
+            return (
+                <div>
+                    <button className="btn btn-secondary" onClick={() => {setSelectedMonth(null);setMonthData(null);setDateFilter('all');}}>← Back to months</button>
+                    <h3 style={{color:'#eab308',margin:'16px 0',textAlign:'center'}}>📅 {selectedMonth} ({filtered.length} articles)</h3>
+                    <div style={{display:'flex',gap:'8px',justifyContent:'center',marginBottom:'12px'}}>
+                        <button className={`btn ${viewMode==='date'?'btn-primary':'btn-secondary'}`} onClick={()=>setViewMode('date')} style={{fontSize:'0.8rem'}}>📅 By Date</button>
+                        <button className={`btn ${viewMode==='subject'?'btn-primary':'btn-secondary'}`} onClick={()=>setViewMode('subject')} style={{fontSize:'0.8rem'}}>📂 By Subject</button>
+                    </div>
+                    {Object.entries(grouped).map(([subj, arts]) => (
+                        <div key={subj}>
+                            <h4 style={{color:'#f97316',margin:'16px 0 8px',fontSize:'0.9rem'}}>{subj} ({arts.length})</h4>
+                            {arts.map((a,i) => (<MonthlyArticleCard key={i} article={a} />))}
+                        </div>
+                    ))}
+                </div>
+            );
+        }
+
         return (
             <div>
-                <button className="btn btn-secondary" onClick={() => {setSelectedMonth(null);setMonthData(null);}}>← Back to months</button>
-                <h3 style={{color:'#eab308',margin:'16px 0',textAlign:'center'}}>📅 {selectedMonth} ({monthData.totalArticles} articles)</h3>
-                {Object.entries(grouped).map(([subj, arts]) => (
-                    <div key={subj}>
-                        <h4 style={{color:'#f97316',margin:'16px 0 8px',fontSize:'0.9rem'}}>{subj} ({arts.length})</h4>
-                        {arts.map((a,i) => (
-                            <MonthlyArticleCard key={i} article={a} />
-                        ))}
-                    </div>
-                ))}
+                <button className="btn btn-secondary" onClick={() => {setSelectedMonth(null);setMonthData(null);setDateFilter('all');}}>← Back to months</button>
+                <h3 style={{color:'#eab308',margin:'16px 0',textAlign:'center'}}>📅 {selectedMonth} ({filtered.length} articles)</h3>
+                
+                {/* View mode toggle */}
+                <div style={{display:'flex',gap:'8px',justifyContent:'center',marginBottom:'12px'}}>
+                    <button className={`btn ${viewMode==='date'?'btn-primary':'btn-secondary'}`} onClick={()=>setViewMode('date')} style={{fontSize:'0.8rem'}}>📅 By Date</button>
+                    <button className={`btn ${viewMode==='subject'?'btn-primary':'btn-secondary'}`} onClick={()=>setViewMode('subject')} style={{fontSize:'0.8rem'}}>📂 By Subject</button>
+                </div>
+                
+                {/* Date filter */}
+                <div className="subject-filter">
+                    <div className={`subject-btn ${dateFilter==='all'?'active':''}`} onClick={()=>setDateFilter('all')}>All Dates</div>
+                    {uniqueDates.slice(0, 15).map(d => (
+                        <div key={d} className={`subject-btn ${dateFilter===d?'active':''}`} onClick={()=>setDateFilter(d)}>{d}</div>
+                    ))}
+                </div>
+                
+                {/* Articles sorted by date (newest first) */}
+                {filtered.map((a,i) => (<MonthlyArticleCard key={i} article={a} />))}
+            </div>
+        );
+    }
             </div>
         );
     }
