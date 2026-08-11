@@ -405,9 +405,6 @@ function MonthlyMode() {
             </div>
         );
     }
-            </div>
-        );
-    }
 
     return (
         <div>
