@@ -598,53 +598,64 @@ async function generateEssayOutlinesBatch() {
 
 // ============ CRON JOBS ============
 
-// Fetch current affairs every 4 hours
-cron.schedule('0 */4 * * *', async () => {
-    console.log('[CRON] Fetching current affairs...');
-    try { await fetchCurrentAffairs(); } catch(e) { console.error('[CRON] Fetch error:', e.message); }
+// === PRIORITY-BASED GENERATION SCHEDULE ===
+// Priority 1: Prelims MCQs (most important for exam prep)
+// Priority 2: Model Essays
+// Priority 3: Current Affairs
+// Priority 4: Flashcards
+// Priority 5: Mains + Interview
+// Priority 6: Weekly essay topics
+
+// Priority 1: Prelims MCQs - EVERY HOUR at :10 and :40 (2x per hour = more questions)
+cron.schedule('10 * * * *', async () => {
+    console.log('[CRON] Priority 1: Generating syllabus MCQs...');
+    try { await generateSyllabusQuestions(); } catch(e) { console.error('[CRON] MCQ gen error:', e.message); }
+});
+cron.schedule('40 * * * *', async () => {
+    console.log('[CRON] Priority 1: Generating syllabus MCQs (2nd batch)...');
+    try { await generateSyllabusQuestions(); } catch(e) { console.error('[CRON] MCQ gen error:', e.message); }
 });
 
-// Generate MCQs from current affairs every 6 hours
+// Priority 2: Model Essays - EVERY 2 HOURS at :25
+cron.schedule('25 */2 * * *', async () => {
+    console.log('[CRON] Priority 2: Generating model essay...');
+    try { await generateEssayOutlinesBatch(); } catch(e) { console.error('[CRON] Essay gen error:', e.message); }
+});
+
+// Priority 3: Current Affairs - every 4 hours at :00, CA MCQs at :30 every 6h
+cron.schedule('0 */4 * * *', async () => {
+    console.log('[CRON] Priority 3: Fetching current affairs...');
+    try { await fetchCurrentAffairs(); } catch(e) { console.error('[CRON] Fetch error:', e.message); }
+});
 cron.schedule('30 */6 * * *', async () => {
-    console.log('[CRON] Generating CA MCQs...');
+    console.log('[CRON] Priority 3: Generating CA MCQs...');
     try { await generateAndSaveMCQs(); } catch(e) { console.error('[CRON] MCQ gen error:', e.message); }
 });
 
-// Generate syllabus-based questions EVERY HOUR (if LLM configured)
-cron.schedule('15 * * * *', async () => {
-    console.log('[CRON] Generating syllabus questions...');
-    try {
-        await generateSyllabusQuestions();
-        await generateSyllabusFlashcards();
-        // Also generate essay outlines for uncovered topics
-        await generateEssayOutlinesBatch();
-    } catch(e) { console.error('[CRON] Syllabus gen error:', e.message); }
+// Priority 4: Flashcards - EVERY 3 HOURS at :50
+cron.schedule('50 */3 * * *', async () => {
+    console.log('[CRON] Priority 4: Generating flashcards...');
+    try { await generateSyllabusFlashcards(); } catch(e) { console.error('[CRON] Flashcard gen error:', e.message); }
 });
 
-// Generate questions from Wikipedia EVERY HOUR (FREE, no API key needed!)
-// DISABLED - using AI-only generation for better quality
-// cron.schedule('45 * * * *', async () => { ... });
-
-// DAILY: Grow static question bank at 11:30 PM UTC (5 AM IST)
-cron.schedule('30 23 * * *', async () => {
-    console.log('[CRON] Daily static bank growth...');
-    try {
-        await dailyStaticBankGrowth();
-    } catch(e) { console.error('[CRON] Daily static error:', e.message); }
-});
-
-// DAILY: Generate new Mains + Interview questions at 10:00 PM UTC (3:30 AM IST)
+// Priority 5: Mains + Interview - DAILY at 10 PM UTC
 cron.schedule('0 22 * * *', async () => {
-    console.log('[CRON] Daily mains + interview generation...');
+    console.log('[CRON] Priority 5: Daily mains + interview generation...');
     try {
         await generateMainsQuestions();
         await generateInterviewQuestions();
     } catch(e) { console.error('[CRON] Mains/Interview gen error:', e.message); }
 });
 
-// WEEKLY: Generate new essay topics every Sunday at 8 PM UTC
+// DAILY: Grow static question bank at 11:30 PM UTC
+cron.schedule('30 23 * * *', async () => {
+    console.log('[CRON] Daily static bank growth...');
+    try { await dailyStaticBankGrowth(); } catch(e) { console.error('[CRON] Daily static error:', e.message); }
+});
+
+// Priority 6: Weekly essay topics - Sunday at 8 PM UTC
 cron.schedule('0 20 * * 0', async () => {
-    console.log('[CRON] Weekly essay topic generation...');
+    console.log('[CRON] Priority 6: Weekly essay topic generation...');
     try {
         await generateEssayTopics();
     } catch(e) { console.error('[CRON] Essay gen error:', e.message); }
