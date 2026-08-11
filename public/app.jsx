@@ -665,11 +665,11 @@ function StatsBadge() {
                     )}
                     <div style={{marginTop:'10px',borderTop:'1px solid #334155',paddingTop:'8px',fontSize:'0.75rem',color:'#64748b'}}>
                         <div style={{color:'#94a3b8',fontWeight:'bold',marginBottom:'4px'}}>⏰ Auto-Generation Schedule (AI-powered, free):</div>
-                        <div>• Every hour: ~5 Prelims MCQs (static subjects) + ~5 Flashcards</div>
-                        <div>• Every hour: 1 Model Essay (~1200 words)</div>
-                        <div>• Every 4 hours: Current Affairs articles (AI-classified)</div>
-                        <div>• Every 6 hours: ~3-5 Current Affairs MCQs</div>
-                        <div>• Daily: ~3 Mains questions + ~3 Interview questions</div>
+                        <div>• Prelims MCQs: ~7-10/day (syllabus + current affairs)</div>
+                        <div>• Flashcards: ~40-50/day</div>
+                        <div>• Model Essays: ~4-5/day (~1200 words each)</div>
+                        <div>• Current Affairs: ~20-30 articles/day (AI-classified)</div>
+                        <div>• Mains + Interview: as AI capacity allows</div>
                         <div>• Weekly (Sunday): New essay topics added</div>
                         <div style={{marginTop:'6px',color:'#94a3b8'}}>Sources: Drishti IAS Saraansh • The Hindu • Indian Express • PIB • Down to Earth • LiveMint</div>
                     </div>
