@@ -836,6 +836,9 @@ function EssayMode() {
                                         </div>
                                     </details>
                                 )}
+                                {!data.modelEssays?.[topic] && !data.outlines?.[topic] && (
+                                    <span style={{fontSize:'0.75rem',color:'#64748b',marginTop:'4px',display:'block'}}>⏳ Model essay queued — generating automatically</span>
+                                )}
                             </li>
                         ))}
                     </ol>
