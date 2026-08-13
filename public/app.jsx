@@ -858,7 +858,7 @@ function App() {
     const { data: mainsData } = useData('/api/questions/mains');
     const { data: interviewData } = useData('/api/questions/interview');
     const { data: flashcardsData } = useData('/api/flashcards');
-    const { data: statusData } = useData('/api/status');
+    // Stats removed - was causing confusion with incorrect values
 
     const subjects = useMemo(() => {
         if (section === 'prelims' && prelimsData) return ['All', ...new Set(prelimsData.questions.map(q => q.subject))];
@@ -921,10 +921,6 @@ function App() {
             <div className="header">
                 <h1><span style={{WebkitTextFillColor:'initial',background:'none'}}>🏛️</span> <span style={{background:'linear-gradient(135deg, #f97316, #eab308)',WebkitBackgroundClip:'text',WebkitTextFillColor:'transparent'}}>UPSC Study Hub</span></h1>
                 <p>Unlimited Practice • Auto-Updating • Spaced Repetition</p>
-                {statusData && <p style={{color:'#64748b',fontSize:'0.75rem',marginTop:'6px'}}>
-                    {statusData.totalQuestions} questions • {statusData.currentAffairs?.articles || 0} current affairs • {statusData.llmEnabled ? '🤖 AI active' : '📋 Template MCQs'}
-                </p>}
-                <StatsBadge />
             </div>
 
             <div className="section-tabs">
