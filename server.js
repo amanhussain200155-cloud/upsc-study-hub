@@ -584,8 +584,8 @@ async function generateEssayOutlinesBatch() {
     const allTopics = Object.entries(data.categories).flatMap(([cat, topics]) => topics.map(t => ({cat, topic: t})));
     const need = allTopics.filter(t => !data.modelEssays[t.topic]);
     if (need.length === 0) return;
-    // Generate 1 full model essay per hour (free tier friendly)
-    const pick = need[0];
+    // Pick a RANDOM topic (not sequential) to ensure coverage across all categories
+    const pick = need[Math.floor(Math.random() * need.length)];
     const prompt = `Write a complete UPSC Mains model essay (1000-1200 words) on: "${pick.topic}"\n\nStructure: Introduction (~100 words with hook + thesis), Body (~800 words covering social, economic, political, philosophical dimensions with Indian examples, quotes, data), Conclusion (~100 words with balanced forward-looking view).\n\nStyle: Analytical, balanced, optimistic. Use Indian examples, relevant quotes from thinkers. Write the essay directly.`;
     try {
         const response = await callLLM(prompt, 6000);
