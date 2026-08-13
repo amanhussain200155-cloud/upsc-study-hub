@@ -562,6 +562,17 @@ app.post('/api/config/llm', async (req, res) => {
 
 // ============ SCHEDULING ============
 
+// Keep-alive: ping self every 14 minutes to prevent Render free tier from sleeping
+const https = require('https');
+const http = require('http');
+setInterval(() => {
+    const url = process.env.RENDER_EXTERNAL_URL || process.env.RAILWAY_PUBLIC_DOMAIN;
+    if (url) {
+        const pingUrl = url.startsWith('http') ? url : `https://${url}`;
+        (pingUrl.startsWith('https') ? https : http).get(`${pingUrl}/api/status`, () => {}).on('error', () => {});
+    }
+}, 14 * 60 * 1000); // Every 14 minutes
+
 // Helper: generate model essays in batches
 async function generateEssayOutlinesBatch() {
     const { callLLM, isLLMAvailable } = require('./src/mcq-generator');
