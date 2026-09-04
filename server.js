@@ -265,13 +265,23 @@ app.get('/api/essays', async (req, res) => {
     }
     // Merge model essays from MongoDB
     try {
-        const { GeneratedEssay } = require('./src/db-storage');
+        const { GeneratedEssay, getEssayTopics } = require('./src/db-storage');
         if (require('mongoose').connection.readyState === 1) {
             const dbEssays = await GeneratedEssay.find({}).lean();
             if (!data.modelEssays) data.modelEssays = {};
             for (const e of dbEssays) {
                 if (e.modelEssay && !data.modelEssays[e.topic]) {
                     data.modelEssays[e.topic] = e.modelEssay;
+                }
+            }
+            // Merge essay TOPICS from MongoDB (weekly generated ones)
+            const dbTopics = await getEssayTopics();
+            if (!data.categories) data.categories = {};
+            for (const t of dbTopics) {
+                const cat = t.category || 'philosophical';
+                if (!data.categories[cat]) data.categories[cat] = [];
+                if (!data.categories[cat].includes(t.topic)) {
+                    data.categories[cat].push(t.topic);
                 }
             }
         }

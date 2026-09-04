@@ -115,6 +115,8 @@ Return ONLY a valid JSON object:
         }
 
         fs.writeFileSync(ESSAYS_PATH, JSON.stringify(existing, null, 2));
+        // Also save to MongoDB for persistence
+        try { const { saveEssayTopics } = require('./db-storage'); await saveEssayTopics(result.topics); } catch(e) {}
         const total = Object.values(existing.categories).flat().length;
         console.log(`[WEEKLY-ESSAY] Added ${added} essay topics. Total: ${total}`);
         return { generated: added, total };

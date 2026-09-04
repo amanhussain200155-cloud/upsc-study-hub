@@ -235,9 +235,43 @@ async function getAllMonths() {
     } catch(e) { return []; }
 }
 
+// ========== ESSAY TOPICS (separate from written model essays) ==========
+const essayTopicSchema = new mongoose.Schema({
+    topic: { type: String, unique: true, index: true },
+    category: String,
+    addedAt: { type: Date, default: Date.now }
+}, { timestamps: true });
+
+let EssayTopic;
+try { EssayTopic = mongoose.model('EssayTopic', essayTopicSchema); } catch(e) { EssayTopic = mongoose.model('EssayTopic'); }
+
+async function saveEssayTopics(topics) {
+    if (!isMongoConnected() || !topics.length) return 0;
+    let added = 0;
+    for (const t of topics) {
+        try {
+            await EssayTopic.findOneAndUpdate(
+                { topic: t.topic },
+                { $setOnInsert: { topic: t.topic, category: t.category, addedAt: new Date() } },
+                { upsert: true }
+            );
+            added++;
+        } catch(e) {}
+    }
+    return added;
+}
+
+async function getEssayTopics() {
+    if (!isMongoConnected()) return [];
+    try {
+        return await EssayTopic.find({}).lean();
+    } catch(e) { return []; }
+}
+
 module.exports = {
     saveGeneratedQuestions, saveGeneratedFlashcards, saveGeneratedMains, saveGeneratedInterview,
     getGeneratedQuestions, getGeneratedFlashcards, getGeneratedMains, getGeneratedInterview,
     GeneratedQuestion, GeneratedFlashcard, GeneratedMains, GeneratedInterview, GeneratedEssay,
-    saveArticles, getArticles, getAllMonths, Article
+    saveArticles, getArticles, getAllMonths, Article,
+    saveEssayTopics, getEssayTopics, EssayTopic
 };
