@@ -18,6 +18,113 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 // ============ API ROUTES ============
 
+// API: Storage breakdown - shows counts from file, DB, and total (for realtime dashboard)
+app.get('/api/stats/storage', async (req, res) => {
+    try {
+        const breakdown = { file: {}, database: {}, total: {}, lastUpdated: new Date().toISOString() };
+        
+        // === FILE COUNTS ===
+        // Static prelims questions
+        let fileQuestions = 0;
+        const subjectsDir = path.join(__dirname, 'data', 'subjects');
+        if (fs.existsSync(subjectsDir)) {
+            fs.readdirSync(subjectsDir).filter(f => f.endsWith('.json')).forEach(f => {
+                const d = JSON.parse(fs.readFileSync(path.join(subjectsDir, f), 'utf8'));
+                fileQuestions += (d.questions || []).length;
+            });
+        }
+        ['prelims.json','prelims-part2.json','maps.json','generated-mcqs.json'].forEach(f => {
+            const fp = path.join(__dirname, 'data', f);
+            if (fs.existsSync(fp)) fileQuestions += (JSON.parse(fs.readFileSync(fp,'utf8')).questions || []).length;
+        });
+        
+        const fcFile = fs.existsSync(path.join(__dirname,'data','flashcards.json')) ? JSON.parse(fs.readFileSync(path.join(__dirname,'data','flashcards.json'),'utf8')) : {};
+        const fileFlashcards = (fcFile.prelims?.length||0) + (fcFile.mains?.length||0) + (fcFile.interview?.length||0);
+        const fileMains = fs.existsSync(path.join(__dirname,'data','mains.json')) ? (JSON.parse(fs.readFileSync(path.join(__dirname,'data','mains.json'),'utf8')).questions||[]).length : 0;
+        const fileInterview = fs.existsSync(path.join(__dirname,'data','interview.json')) ? (JSON.parse(fs.readFileSync(path.join(__dirname,'data','interview.json'),'utf8')).questions||[]).length : 0;
+        const essaysFile = fs.existsSync(path.join(__dirname,'data','essays.json')) ? JSON.parse(fs.readFileSync(path.join(__dirname,'data','essays.json'),'utf8')) : {};
+        const fileEssayTopics = Object.values(essaysFile.categories||{}).flat().length;
+        const fileModelEssays = Object.keys(essaysFile.modelEssays||{}).length;
+        
+        breakdown.file = {
+            prelimsMCQs: fileQuestions,
+            flashcards: fileFlashcards,
+            mains: fileMains,
+            interview: fileInterview,
+            essayTopics: fileEssayTopics,
+            modelEssays: fileModelEssays
+        };
+        
+        // === DATABASE COUNTS ===
+        let dbQuestions = 0, dbFlashcards = 0, dbMains = 0, dbInterview = 0, dbEssays = 0, dbTopics = 0, dbArticles = 0;
+        try {
+            const mongoose = require('mongoose');
+            if (mongoose.connection.readyState === 1) {
+                const db = require('./src/db-storage');
+                dbQuestions = await db.GeneratedQuestion.countDocuments();
+                dbFlashcards = await db.GeneratedFlashcard.countDocuments();
+                dbMains = await db.GeneratedMains.countDocuments();
+                dbInterview = await db.GeneratedInterview.countDocuments();
+                dbEssays = await db.GeneratedEssay.countDocuments();
+                dbTopics = await db.EssayTopic.countDocuments();
+                dbArticles = await db.Article.countDocuments();
+            }
+        } catch(e) {}
+        
+        breakdown.database = {
+            prelimsMCQs: dbQuestions,
+            flashcards: dbFlashcards,
+            mains: dbMains,
+            interview: dbInterview,
+            modelEssays: dbEssays,
+            essayTopics: dbTopics,
+            articles: dbArticles
+        };
+        breakdown.databaseConnected = require('mongoose').connection.readyState === 1;
+        
+        // === TOTALS (file + unique DB, deduped) - matches what's actually served ===
+        const totals = {};
+        // Prelims: need dedup
+        try {
+            const mongoose = require('mongoose');
+            if (mongoose.connection.readyState === 1) {
+                const { getGeneratedQuestions, getGeneratedFlashcards } = require('./src/db-storage');
+                const dbQs = await getGeneratedQuestions();
+                // Build file IDs set
+                const fileIds = new Set();
+                if (fs.existsSync(subjectsDir)) {
+                    fs.readdirSync(subjectsDir).filter(f=>f.endsWith('.json')).forEach(f=>{
+                        (JSON.parse(fs.readFileSync(path.join(subjectsDir,f),'utf8')).questions||[]).forEach(q=>fileIds.add(q.id));
+                    });
+                }
+                const uniqueDBQ = dbQs.filter(q => !fileIds.has(q.qid)).length;
+                totals.prelimsMCQs = fileQuestions + uniqueDBQ;
+                
+                const dbCards = await getGeneratedFlashcards();
+                const fileFronts = new Set((fcFile.prelims||[]).map(c=>c.front?.substring(0,40)));
+                const uniqueDBF = dbCards.filter(c => !fileFronts.has(c.front?.substring(0,40))).length;
+                totals.flashcards = fileFlashcards + uniqueDBF;
+            } else {
+                totals.prelimsMCQs = fileQuestions;
+                totals.flashcards = fileFlashcards;
+            }
+        } catch(e) {
+            totals.prelimsMCQs = fileQuestions;
+            totals.flashcards = fileFlashcards;
+        }
+        totals.mains = fileMains + dbMains;
+        totals.interview = fileInterview + dbInterview;
+        totals.modelEssays = Math.max(fileModelEssays, dbEssays);
+        totals.essayTopics = Math.max(fileEssayTopics, dbTopics);
+        totals.articles = dbArticles;
+        breakdown.total = totals;
+        
+        res.json(breakdown);
+    } catch(e) {
+        res.status(500).json({ error: e.message });
+    }
+});
+
 // API: Get detailed stats with daily additions
 app.get('/api/stats/detailed', async (req, res) => {
     try {

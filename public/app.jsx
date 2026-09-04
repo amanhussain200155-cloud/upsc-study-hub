@@ -718,6 +718,76 @@ function StatsBadge() {
     );
 }
 
+// ========== STORAGE STATS (realtime) ==========
+function StorageStats() {
+    const [data, setData] = useState(null);
+    const [refreshing, setRefreshing] = useState(false);
+
+    const load = () => {
+        setRefreshing(true);
+        fetch('/api/stats/storage').then(r => r.json()).then(d => { setData(d); setRefreshing(false); }).catch(() => setRefreshing(false));
+    };
+
+    useEffect(() => {
+        load();
+        // Auto-refresh every 30 seconds
+        const interval = setInterval(load, 30000);
+        return () => clearInterval(interval);
+    }, []);
+
+    if (!data) return <p className="empty-msg">Loading storage statistics...</p>;
+
+    const Row = ({ label, file, db, total, highlight }) => (
+        <div style={{display:'grid',gridTemplateColumns:'2fr 1fr 1fr 1fr',padding:'10px 8px',borderBottom:'1px solid #334155',fontSize:'0.85rem',background:highlight?'#0f172a':'transparent'}}>
+            <span style={{color:'#e2e8f0'}}>{label}</span>
+            <span style={{color:'#94a3b8',textAlign:'center'}}>{file ?? '—'}</span>
+            <span style={{color:'#60a5fa',textAlign:'center'}}>{db ?? '—'}</span>
+            <span style={{color:'#f97316',textAlign:'center',fontWeight:'bold'}}>{total ?? '—'}</span>
+        </div>
+    );
+
+    return (
+        <div>
+            <div className="current-affairs-banner" style={{borderColor:'#60a5fa'}}>
+                <h3>💾 Storage Statistics</h3>
+                <p>Realtime counts across File (git) and Database (MongoDB) • Auto-refreshes every 30s</p>
+            </div>
+
+            <div style={{display:'flex',justifyContent:'space-between',alignItems:'center',marginBottom:'12px'}}>
+                <span style={{color: data.databaseConnected ? '#22c55e' : '#ef4444', fontSize:'0.85rem'}}>
+                    {data.databaseConnected ? '🟢 Database Connected' : '🔴 Database Disconnected'}
+                </span>
+                <button className="btn btn-secondary" onClick={load} style={{fontSize:'0.8rem'}}>{refreshing ? '🔄 Refreshing...' : '🔄 Refresh Now'}</button>
+            </div>
+
+            <div className="quiz-card" style={{padding:'12px'}}>
+                {/* Header */}
+                <div style={{display:'grid',gridTemplateColumns:'2fr 1fr 1fr 1fr',padding:'8px',borderBottom:'2px solid #f97316',fontSize:'0.8rem',fontWeight:'bold'}}>
+                    <span style={{color:'#eab308'}}>Content Type</span>
+                    <span style={{color:'#94a3b8',textAlign:'center'}}>File</span>
+                    <span style={{color:'#60a5fa',textAlign:'center'}}>Database</span>
+                    <span style={{color:'#f97316',textAlign:'center'}}>Total</span>
+                </div>
+
+                <Row label="📋 Prelims MCQs" file={data.file.prelimsMCQs} db={data.database.prelimsMCQs} total={data.total.prelimsMCQs} highlight={true} />
+                <Row label="🗂️ Flashcards" file={data.file.flashcards} db={data.database.flashcards} total={data.total.flashcards} />
+                <Row label="✍️ Mains Questions" file={data.file.mains} db={data.database.mains} total={data.total.mains} highlight={true} />
+                <Row label="🎤 Interview Questions" file={data.file.interview} db={data.database.interview} total={data.total.interview} />
+                <Row label="📄 Model Essays" file={data.file.modelEssays} db={data.database.modelEssays} total={data.total.modelEssays} highlight={true} />
+                <Row label="📝 Essay Topics" file={data.file.essayTopics} db={data.database.essayTopics} total={data.total.essayTopics} />
+                <Row label="📰 Current Affairs Articles" file="—" db={data.database.articles} total={data.total.articles} highlight={true} />
+            </div>
+
+            <div style={{marginTop:'12px',padding:'12px',background:'#1e293b',borderRadius:'8px',fontSize:'0.75rem',color:'#94a3b8'}}>
+                <div><span style={{color:'#94a3b8'}}>■ File</span> = static content committed in code (git)</div>
+                <div><span style={{color:'#60a5fa'}}>■ Database</span> = AI-generated content stored in MongoDB (permanent)</div>
+                <div><span style={{color:'#f97316'}}>■ Total</span> = what's actually available in the app (deduplicated)</div>
+                <div style={{marginTop:'6px',color:'#64748b'}}>Last updated: {new Date(data.lastUpdated).toLocaleTimeString()}</div>
+            </div>
+        </div>
+    );
+}
+
 // ========== PREVIOUS YEAR QUESTIONS ==========
 function PYQMode() {
     const { data, loading } = useData('/api/questions/pyqs');
@@ -902,9 +972,11 @@ function App() {
         else if (section === 'mains') setMode('mains-writing');
         else if (section === 'interview') setMode('interview-practice');
         else if (section === 'revision') setMode('revision');
+        else if (section === 'storage') setMode('storage');
     }, [section]);
 
     const renderContent = () => {
+        if (section === 'storage') return <StorageStats />;
         if (mode === 'quiz') return <QuizMode questions={filteredPrelims} />;
         if (mode === 'flashcards') return <FlashcardMode cards={filteredFlashcards} />;
         if (mode === 'mains-writing') return <MainsMode questions={filteredMains} />;
@@ -924,18 +996,18 @@ function App() {
             </div>
 
             <div className="section-tabs">
-                {[['prelims','📋 Prelims'],['mains','✍️ Mains'],['interview','🎤 Interview'],['revision','📊 Revision']].map(([key,label]) => (
+                {[['prelims','📋 Prelims'],['mains','✍️ Mains'],['interview','🎤 Interview'],['revision','📊 Revision'],['storage','💾 Storage']].map(([key,label]) => (
                     <div key={key} className={`section-tab ${section===key?'active':''}`} onClick={() => setSection(key)}>{label}</div>
                 ))}
             </div>
 
-            {section !== 'revision' && (
+            {!['revision','storage'].includes(section) && (
                 <div className="mode-toggle">
                     {getModes().map(m => <div key={m.key} className={`mode-btn ${mode===m.key?'active':''}`} onClick={() => setMode(m.key)}>{m.label}</div>)}
                 </div>
             )}
 
-            {!['current-affairs','monthly','revision'].includes(mode) && (
+            {!['current-affairs','monthly','revision','storage'].includes(mode) && section !== 'storage' && (
                 <div className="subject-filter">
                     {subjects.map(sub => <div key={sub} className={`subject-btn ${subjectFilter===sub?'active':''}`} onClick={() => setSubjectFilter(sub)}>{sub}</div>)}
                 </div>
