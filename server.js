@@ -591,8 +591,29 @@ async function generateEssayOutlinesBatch() {
     if (!fs.existsSync(essayPath)) return;
     const data = JSON.parse(fs.readFileSync(essayPath, 'utf8'));
     if (!data.modelEssays) data.modelEssays = {};
-    const allTopics = Object.entries(data.categories).flatMap(([cat, topics]) => topics.map(t => ({cat, topic: t})));
-    const need = allTopics.filter(t => !data.modelEssays[t.topic]);
+    
+    // Build complete topic list from file + MongoDB topics
+    let allTopics = Object.entries(data.categories).flatMap(([cat, topics]) => topics.map(t => ({cat, topic: t})));
+    // Track which topics already have model essays (file + MongoDB)
+    const essaysWritten = new Set(Object.keys(data.modelEssays));
+    try {
+        const { getEssayTopics, GeneratedEssay } = require('./src/db-storage');
+        const mongoose = require('mongoose');
+        if (mongoose.connection.readyState === 1) {
+            // Add MongoDB topics
+            const dbTopics = await getEssayTopics();
+            for (const t of dbTopics) {
+                if (!allTopics.find(x => x.topic === t.topic)) {
+                    allTopics.push({ cat: t.category || 'philosophical', topic: t.topic });
+                }
+            }
+            // Mark topics that already have model essays in MongoDB
+            const dbEssays = await GeneratedEssay.find({}, 'topic').lean();
+            dbEssays.forEach(e => essaysWritten.add(e.topic));
+        }
+    } catch(e) {}
+    
+    const need = allTopics.filter(t => !essaysWritten.has(t.topic));
     if (need.length === 0) return;
     // Pick a RANDOM topic (not sequential) to ensure coverage across all categories
     const pick = need[Math.floor(Math.random() * need.length)];
