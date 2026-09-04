@@ -1,6 +1,78 @@
 // MongoDB storage for AI-generated content (persists across deploys)
 const mongoose = require('mongoose');
 
+// Normalize subject names to standard categories
+const SUBJECT_MAP = {
+    'economy': 'Economics',
+    'indian economy': 'Economics',
+    'economics': 'Economics',
+    'environment': 'Environment & Ecology',
+    'environment & ecology': 'Environment & Ecology',
+    'ecology': 'Environment & Ecology',
+    'science': 'Science & Technology',
+    'science & technology': 'Science & Technology',
+    'science and technology': 'Science & Technology',
+    'polity': 'Polity & Governance',
+    'indian polity': 'Polity & Governance',
+    'polity & governance': 'Polity & Governance',
+    'governance': 'Polity & Governance',
+    'medieval history': 'History',
+    'modern history': 'History',
+    'ancient history': 'History',
+    'history': 'History',
+    'art & culture': 'Art & Culture',
+    'art and culture': 'Art & Culture',
+    'culture': 'Art & Culture',
+    'geography': 'Geography',
+    'geography - physical': 'Geography',
+    'physical geography': 'Geography',
+    'international relations': 'International Relations',
+    'ir': 'International Relations',
+    'social issues': 'Social Issues',
+    'society': 'Social Issues',
+    'internal security': 'Internal Security',
+    'security & defense': 'Internal Security',
+    'security & defence': 'Internal Security',
+    'security': 'Internal Security',
+    'government schemes': 'Government Schemes',
+    'schemes': 'Government Schemes',
+    'interdisciplinary': 'Interdisciplinary',
+    'current affairs': 'Current Affairs',
+};
+
+function normalizeSubject(subject) {
+    if (!subject) return 'Interdisciplinary';
+    let key = subject.toLowerCase().trim();
+    
+    // Direct match
+    if (SUBJECT_MAP[key]) return SUBJECT_MAP[key];
+    
+    // Cross-topic / compound subjects: mark as Interdisciplinary
+    if (key.includes('cross-topic') || key.includes('/') || (key.includes(' and ') && key.includes('('))) {
+        return 'Interdisciplinary';
+    }
+    
+    // Extract primary subject before delimiters (-, (, /)
+    const primary = key.split(/[-(\/]/)[0].trim();
+    if (SUBJECT_MAP[primary]) return SUBJECT_MAP[primary];
+    
+    // Keyword-based fallback
+    if (key.includes('econom') || key.includes('agricultur') || key.includes('bank') || key.includes('fiscal')) return 'Economics';
+    if (key.includes('environ') || key.includes('ecolog') || key.includes('pollution') || key.includes('climate')) return 'Environment & Ecology';
+    if (key.includes('scheme')) return 'Government Schemes';
+    if (key.includes('polit') || key.includes('governance') || key.includes('constitution')) return 'Polity & Governance';
+    if (key.includes('scienc') || key.includes('technolog') || key.includes('space')) return 'Science & Technology';
+    if (key.includes('histor')) return 'History';
+    if (key.includes('geograph')) return 'Geography';
+    if (key.includes('cultur') || key.includes('art')) return 'Art & Culture';
+    if (key.includes('internat') || key.includes('foreign') || key.includes('diploma')) return 'International Relations';
+    if (key.includes('secur') || key.includes('defence') || key.includes('defense')) return 'Internal Security';
+    if (key.includes('social') || key.includes('societ')) return 'Social Issues';
+    if (key === 'subject name' || key.length < 3) return 'Interdisciplinary';
+    
+    return subject; // keep as-is if truly unknown
+}
+
 const generatedQuestionSchema = new mongoose.Schema({
     qid: { type: String, unique: true, index: true },
     subject: String,
@@ -83,7 +155,7 @@ async function saveGeneratedQuestions(questions) {
     try {
         const docs = questions.map(q => ({
             qid: q.id,
-            subject: q.subject,
+            subject: normalizeSubject(q.subject),
             question: q.question,
             options: q.options,
             answer: q.answer,
@@ -105,7 +177,7 @@ async function saveGeneratedFlashcards(cards) {
     try {
         const docs = cards.map(c => ({
             fid: c.id || ('flash-' + Date.now() + Math.random().toString(36).substr(2,4)),
-            subject: c.subject,
+            subject: normalizeSubject(c.subject),
             front: c.front,
             back: c.back,
             source: c.source || 'AI Syllabus',
@@ -120,7 +192,7 @@ async function saveGeneratedMains(questions) {
     try {
         const docs = questions.map(q => ({
             mid: q.id || ('mains-' + Date.now() + Math.random().toString(36).substr(2,4)),
-            subject: q.subject,
+            subject: normalizeSubject(q.subject),
             question: q.question,
             keyPoints: q.keyPoints || [],
             model_answer: q.model_answer || '',
@@ -204,7 +276,7 @@ async function saveArticles(articles) {
             title: a.title,
             content: a.content,
             source: a.source,
-            subject: a.subject,
+            subject: normalizeSubject(a.subject),
             secondarySubject: a.secondarySubject,
             link: a.link,
             date: a.date ? new Date(a.date) : new Date(),
@@ -273,5 +345,6 @@ module.exports = {
     getGeneratedQuestions, getGeneratedFlashcards, getGeneratedMains, getGeneratedInterview,
     GeneratedQuestion, GeneratedFlashcard, GeneratedMains, GeneratedInterview, GeneratedEssay,
     saveArticles, getArticles, getAllMonths, Article,
-    saveEssayTopics, getEssayTopics, EssayTopic
+    saveEssayTopics, getEssayTopics, EssayTopic,
+    normalizeSubject
 };
