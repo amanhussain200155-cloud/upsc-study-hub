@@ -43,20 +43,21 @@ app.get('/api/stats/storage', async (req, res) => {
         const fileMains = fs.existsSync(path.join(__dirname,'data','mains.json')) ? (JSON.parse(fs.readFileSync(path.join(__dirname,'data','mains.json'),'utf8')).questions||[]).length : 0;
         const fileInterview = fs.existsSync(path.join(__dirname,'data','interview.json')) ? (JSON.parse(fs.readFileSync(path.join(__dirname,'data','interview.json'),'utf8')).questions||[]).length : 0;
         const essaysFile = fs.existsSync(path.join(__dirname,'data','essays.json')) ? JSON.parse(fs.readFileSync(path.join(__dirname,'data','essays.json'),'utf8')) : {};
-        const fileEssayTopics = Object.values(essaysFile.categories||{}).flat().length;
-        const fileModelEssays = Object.keys(essaysFile.modelEssays||{}).length;
+        const fileEssayTopicsList = Object.values(essaysFile.categories||{}).flat();
+        const fileModelEssaysList = Object.keys(essaysFile.modelEssays||{});
         
         breakdown.file = {
             prelimsMCQs: fileQuestions,
             flashcards: fileFlashcards,
             mains: fileMains,
             interview: fileInterview,
-            essayTopics: fileEssayTopics,
-            modelEssays: fileModelEssays
+            essayTopics: fileEssayTopicsList.length,
+            modelEssays: fileModelEssaysList.length
         };
         
         // === DATABASE COUNTS ===
         let dbQuestions = 0, dbFlashcards = 0, dbMains = 0, dbInterview = 0, dbEssays = 0, dbTopics = 0, dbArticles = 0;
+        let dbEssayTopicSet = new Set(), dbModelEssaySet = new Set();
         try {
             const mongoose = require('mongoose');
             if (mongoose.connection.readyState === 1) {
@@ -68,8 +69,17 @@ app.get('/api/stats/storage', async (req, res) => {
                 dbEssays = await db.GeneratedEssay.countDocuments();
                 dbTopics = await db.EssayTopic.countDocuments();
                 dbArticles = await db.Article.countDocuments();
+                // Build sets to compute file-unique essays/topics
+                (await db.GeneratedEssay.find({}, 'topic').lean()).forEach(e => dbModelEssaySet.add(e.topic));
+                (await db.EssayTopic.find({}, 'topic').lean()).forEach(t => dbEssayTopicSet.add(t.topic));
             }
         } catch(e) {}
+        
+        // Recompute file essays as unique-to-file (not already in DB) for clean additive math
+        const fileUniqueModelEssays = fileModelEssaysList.filter(t => !dbModelEssaySet.has(t)).length;
+        const fileUniqueTopics = fileEssayTopicsList.filter(t => !dbEssayTopicSet.has(t)).length;
+        breakdown.file.modelEssays = fileUniqueModelEssays;
+        breakdown.file.essayTopics = fileUniqueTopics;
         
         breakdown.database = {
             prelimsMCQs: dbQuestions,
@@ -114,8 +124,8 @@ app.get('/api/stats/storage', async (req, res) => {
         }
         totals.mains = fileMains + dbMains;
         totals.interview = fileInterview + dbInterview;
-        totals.modelEssays = Math.max(fileModelEssays, dbEssays);
-        totals.essayTopics = Math.max(fileEssayTopics, dbTopics);
+        totals.modelEssays = fileUniqueModelEssays + dbEssays;
+        totals.essayTopics = fileUniqueTopics + dbTopics;
         totals.articles = dbArticles;
         breakdown.total = totals;
         
